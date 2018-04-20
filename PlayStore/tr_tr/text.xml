@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+text.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+
+If you added/modified the following file add your name here to give credit:
+Yusuf Emen
+
+
+ -->
+<parameters>
+<title max_chars="50">WhatsApp'ta Aç (Tıkla Sohbet Et)</title>
+<description_short max_chars="80">Herhangi bir numarayla bir WhatsApp sohbeti başlatın.</description_short>
+<description_long max_chars="4000">Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
+------------------------------------------------------------------------------------------
+
+Bu uygulama, girdiğiniz herhangi bir numara ile sohbet başlatmak için (Siz ve girdiğiniz numara arasında, diğer sohbetleri görmek mümkün DEĞİLDİR.) WhatsApp'ın herkese açık 'tıkla sohbet et' (Daha fazla bilgi için: https://faq.whatsapp.com/tr/android/26000030/) özelliğini kullanır.
+Rehberinizde kişi oluşturulmaz. Sohbet başlatmak için numarayı rehbere kaydetmekle uğraşmazsınız. Yalnızca uygulamayı açın, numarayı girin, butona basın ve sohbet açılsın. (Numara mevcutsa, aksi takdirde WhatsApp bunu belirtecektir.) 
+
+Özellikle şu gibi durumlarda işe yarar:
+- Bilinmeyen bir numara sizi aradı ve siz de bu numaranın WhatsApp'ı olup olmadığını mı merak ediyorsunuz?
+- Birine mesaj göndermek istiyorsunuz ama numarasını rehbere kaydetmek istemiyor musunuz?
+- Kendinizle nr sohbet başlatmak mı istiyorsunuz?
+Sadece uygulamayı açın ve numarayı girin. (Ülke konuyla birlikte.)
+
+
+Ülke kodu:
+Numara kendi ülkenizden olsa bile ülke kodunu belirtmelisiniz. Ülke kodunu kendiniz girebilirsiniz veya hatırlamıyorsanız + butonuna dokunarak seçim yapabileceğiniz listeyi görebilirsiniz. Uygulamayı tekrar açtığınızda ülke kodu hatırlanacaktır.
+Gizli bir kısayol: Ülke adları yerine ülke kodlarına göre sıralanmış listeyi görmek için + butonuna uzun basın.
+
+
+Bağlantı oluşturmak: 
+Tıkladığınız zaman, belirttiğiniz numarayı WhatsApp'ta açacak bir html bağlantısı oluşturabilirsiniz. Bu, WhatsApp'ın kendi özelliğidir. Bu sebeple bağlantıyı açmak için bu uygulamaya ihtiyaç duymazsınız. Uygulama, bağlantıyı oluşturmanızı sağlar. 
+Ayrıca mesaj kutucuğunda görünecek bir mesaj da ekleyebilirsiniz. Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir. Göndermek için gönderme butonuna tıklamanız gerekecektir. 
+Bir mesaj belirler ama numara belirtmezseniz WhatsApp mesajı nereye göndermek istediğinizi soracaktır. (Yeniden belirtmek gerekirse; mesaj gönderilMEyecektir, sadece mesaj kutucuğu doldurulacaktır.) 
+Bağlantıyı bir hızlı kısayol olarak kaydedebilir, insanların sizle iletişim kurabilmesi için paylaşabilirsiniz. (Numara, bağlantıda görünecektir, dikkatli olun.) Bir sitede 'WhatsApp'ta paylaş.' özelliğini kullanmak için bir mesaj tanımlayabilirsiniz vb. Unutmayın, bağlantıyı açmak için bu uygulamaya ihtiyaç duymayacaksınız, bağlantı otomatik olarak WhatsApp tarafından açılacaktır. 
+Gizli bir kısayol: Bağlantıyı hızlıca panoya kopyalamak için 'Paylaş' butonuna uzun basın. 
+
+
+Son kullanılanlar listesi:
+Bir numara açıldığında, hatırlamadığınız bir numarayı tekrar açmak amacıyla, son kullanılanlar listesine kaybedilir. Eğer bir numarayı sık sık kullanıyorsanız, direkt olarak WhatsApp'tan, ana ekranınıza bir kısayol oluşturabileceğinizi unutmayın. (Sohbet ekranından: Menü, Diğer, Kısayol ekle.)
+Gizli bir kısayol: Listeyi silmek için son kullanılanlar butonuna uzun basın.
+
+
+------------------------------------------
+
+
+Bu bir araç uygulamasıdır: Basit ve yer kaplamaz. Fazladan özellikler yok, fazladan boyut yok, hiçbir izin yok, hiçbir reklam yok... Sadece WhatsApp'ta Aç özelliği. (Her güncellemeyle birlikte küçük özellikler ekliyorum ama uygulamayı mümkün mertebe basit ve yer kaplamaz tutmak istiyorum.)
+
+
+Çeviri:
+Rusça (ru) çeviri için Timofey Lisunov'a teşekkürler!
+Portekizce (pt) çeviri için Matheus Damacs'a teşekkürler!
+Türkçe (tr) çevirisi için Yusuf Emen'e teşekkürler!
+
+
+Kullanılan izinler:
+-Hiçbir şey- (gerekli değil)
+
+
+APK boyutu:
+95.8 KB (0,09MB)</description_long>
+</parameters>

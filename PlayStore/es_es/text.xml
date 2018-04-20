@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+text.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number (max_chars).
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+
+If you added/modified the following file add your name here to give credit:
+TrianguloY
+
+ -->
+<parameters>
+<title max_chars="50">Abrir en Whatsapp (click para chatear)</title>
+<description_short max_chars="80">Abre un chat en Whatsapp de cualquier número (tu y ese número).</description_short>
+<description_long max_chars="4000">Disclaimer: Esta aplicación no está asociada con Whatsapp Inc.
+------------------------------------------------------------------------------------------
+
+Esta aplicación utiliza la característica 'click para chatear' pública de Whatsapp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones). 
+Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso Whatsapp lo notificará).
+
+Especialmente útil en situaciones como:
+- ¿Te ha llamado un número desconocido y quieres saber si tiene whatsapp?
+- ¿Necesitas enviar un mensaje a alguien pero no quieres guardarlo como contacto?
+- ¿Quieres abrir un chat contigo mismo?
+Tan solo abre la aplicación e introduce el número (con prefijo).
+
+
+Prefijo:
+Necesitas introducir el prefijo del número, incluso si es de tu mismo país. Puedes introducirlo manualmente o, si no recuerdas el de un país concreto, puedes pulsar el botón + para mostrar un listado del que elegirlo.
+Atajo oculto: mantén pulsado el botón + para mostrar la lista ordenada por prefijo en lugar de por país.
+
+
+Crear enlaces:
+Puedes generar un enlace html que, al ser pulsado, abrirá whatsapp en el número especificado. Esta es una característica de whatsapp, así que no necesitas esta aplicación para abrir el enlace.
+También puedes añadir un mensaje que será colocado en la caja de texto. NO será, repito, NO será enviado. El usuario debe pulsar el botón de enviar manualmente.
+Si especificas un mensaje pero no un número whatsapp te preguntará donde lo quieres enviar (al igual que antes, NO será enviado, solo autocompletado).
+Puedes guardar el enlace como un atajo rápido, compartirlo para que otros puedan contactarte (el número es visible en el enlace, ten cuidado), añadir un mensaje predefinido en una página para 'compartir en whatsapp', etc. Recuerda, no necesitas esta aplicación para abrir el enlace, es abierto automáticamente por Whastapp.
+Atajo oculto: mantén pulsado el botón de 'compartir' para copiar el enlace rápidamente en el portapapeles.
+
+
+Lista de recientes:
+Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). Si abres un número muchas veces recuerda que puedes crear un atajo en el escritorio directamente desde whatsapp (desde el chat: menú, más, crear acceso directo).
+Atajo oculto: mantén pulsado el botón de recientes para borrar la lista.
+
+
+-----------------------------------------------------------
+
+
+Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos, sin anuncios...tan solo la funcionalidad de abrir-en-whatsapp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
+
+
+Traducción:
+¡Gracias a Timofey Lisunov por la traducción al idioma ru (Ruso)!
+¡Gracias a Matheus Damacs por la traducción al idioma pt (Portuguese)!
+¡Gracias a Yusuf Emen por la traducción al idioma tr (Turco)!
+
+
+Permisos usados:
+-Ninguno- (no eran necesarios)
+
+
+Tamaño del apk:
+95.8 KB (0,09MB)</description_long>
+</parameters>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+strings.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Yusuf Emen
+
+
+ -->
+<resources>
+    <string name="app_name">WhatsApp\'ta Aç</string>
+
+    <string name="about_description">Uygulama TrianguloY tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n><a href="https://sites.google.com/view/triangular-apps/open-in-whatsapp">Sayfa bilgisi</a>\n\nTeşekkür:\nRusça (ru) çeviri için Timofey Lisunov\'a teşekkürler!\nPortekizce (pt) çeviri için Matheus Damacs\'a teşekkürler!\nTürkçe (tr) çevirisi için Yusuf Emen\'e teşekkürler!\n\nAşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
+
+    <string name="txt_description">Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp\'ın herkese açık API\'sini kullanır. Rehberde kişi oluşturulmaz. \nDaha fazla bilgi için <a href="https://www.whatsapp.com/faq/tr/general/26000030">tıklayınız</a>.\n\nNumarayı ve <a href="https://www.tanitma.gov.tr/TR,22861/ulke-telefon-kodlari.html">ülke kodunu</a> başka bir karakter kullanmadan, 0-9 arasındaki rakamları kullanarak yazınız. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.\nÖrnek: +90 (TR) 123 456 7890 için 90 1234567890 yazın.</string>
+    <string name="txt_extra_description">\nTıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için burayı kullanın. Mesaj kutucuğunda yer alacak bir numara ve/veya bir mesaj belirleyebilirsiniz. (Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir.)</string>
+
+    <string name="hint_editText">Numara</string>
+    <string name="hint_editPrefix">Ülke kodu</string>
+    <string name="hint_message">Mesaj kutucuğunda yazacak ama gönderilMEyecek mesaj.</string>
+
+    <string name="btn_openInWhatsapp">Aç</string>
+    <string name="btn_shareLink">Paylaş</string>
+
+    <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
+    <string name="error_nowhatsapp">WhatsApp açılamadı. Uygulama kurulu mu?</string>
+
+    <string name="toast_autoParser">Otomatik ayrıştırıcı.\nÜlke kodunu kontrol edin.</string>
+    <string name="toast_copied">Panoya kopyalandı.</string>
+    <string name="toast_error_openLink">Bağlantı yüklenemedi.</string>
+
+    <string name="title_sendTo">Bağlantıyı şuraya gönderin:</string>
+    <string name="title_chooseCountry">Ülkeye göre ülke kodları:</string>
+
+</resources>

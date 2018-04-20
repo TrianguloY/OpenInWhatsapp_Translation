@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+countries.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation: 
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Yusuf Emen
+
+
+ -->
+<resources>
+    <string-array name="countries_code">
+        <item>ABD Virjin Adaları: +1 340</item>
+        <item>Abhazya: +7 840</item>
+        <item>Afganistan: +93</item>
+        <item>Almanya: +49</item>
+        <item>Amerika Birleşik Devletleri: +1</item>
+        <item>Amerikan Samoası: +1 684</item>
+        <item>Andorra: +376</item>
+        <item>Angola: +244</item>
+        <item>Anguilla: +1 264</item>
+        <item>Antigua ve Barbuda: +1 268</item>
+        <item>Arjantin: +54</item>
+        <item>Arnavutluk: +355</item>
+        <item>Aruba: +297</item>
+        <item>Ascension: +247</item>
+        <item>Avustralya Uzak Bölgeleri: +672</item>
+        <item>Avustralya: +61</item>
+        <item>Avusturya: +43</item>
+        <item>Azerbaycan: +994</item>
+        <item>Bahamalar: +1 242</item>
+        <item>Bahreyn: +973</item>
+        <item>Bangladeş: +880</item>
+        <item>Barbados: +1 246</item>
+        <item>Barbuda: +1 268</item>
+        <item>Belarus: +375</item>
+        <item>Belize: +501</item>
+        <item>Belçika: +32</item>
+        <item>Benin: +229</item>
+        <item>Bermuda: +1 441</item>
+        <item>Bhutan: +975</item>
+        <item>Birleşik Arap Emirlikleri: +971</item>
+        <item>Birleşik Krallık: +44</item>
+        <item>Bolivya: +591</item>
+        <item>Bosna-Hersek: +387</item>
+        <item>Botsvana: +267</item>
+        <item>Brezilya: +55</item>
+        <item>Britanya Hint Okyanusu Toprakları: +246</item>
+        <item>Britanya Virjin Adaları: +1 284</item>
+        <item>Brunei: +673</item>
+        <item>Bulgaristan: +359</item>
+        <item>Burkina Faso: +226</item>
+        <item>Burundi: +257</item>
+        <item>Cayman Adaları: +345</item>
+        <item>Cezayir: +213</item>
+        <item>Christmas Adası: +61</item>
+        <item>Cibuti: +253</item>
+        <item>Cocos Adaları: +61</item>
+        <item>Cook Adaları: +682</item>
+        <item>Curaçao: +599</item>
+        <item>Danimarka: +45</item>
+        <item>Demokratik Kongo Cumhuriyeti (Zaire): +243</item>
+        <item>Diego Garcia: +246</item>
+        <item>Dominik Cumhuriyeti: +1 809</item>
+        <item>Dominika: +1 767</item>
+        <item>Doğu Timor: +670</item>
+        <item>Doğu Timor: +670</item>
+        <item>Ekvador: +593</item>
+        <item>Ekvator Ginesi: +240</item>
+        <item>El Salvador: +503</item>
+        <item>Endonezya: +62</item>
+        <item>Eritre: +291</item>
+        <item>Ermenistan: +374</item>
+        <item>Estonya: +372</item>
+        <item>Etiyopya: +251</item>
+        <item>Falkland Islands: +500</item>
+        <item>Faroe Adaları: +298</item>
+        <item>Fas: +212</item>
+        <item>Fiji: +679</item>
+        <item>Fildişi Sahili: +225</item>
+        <item>Filipinler: +63</item>
+        <item>Filistin: +970</item>
+        <item>Finlandiya: +358</item>
+        <item>Fransa: +33</item>
+        <item>Fransız Antilleri: +596</item>
+        <item>Fransız Guyaası: +594</item>
+        <item>Fransız Polinezyazı: +689</item>
+        <item>Gabon: +241</item>
+        <item>Gambiya: +220</item>
+        <item>Gana: +233</item>
+        <item>Gibraltar: +350</item>
+        <item>Gine-Bissau: +245</item>
+        <item>Gine: +224</item>
+        <item>Grenada: +1 473</item>
+        <item>Grönland: +299</item>
+        <item>Guadeloupe: +590</item>
+        <item>Guam: +1 671</item>
+        <item>Guatemala: +502</item>
+        <item>Guyana: +595</item>
+        <item>Güney Afrika: +27</item>
+        <item>Güney Georgia ve Güney Sandwich Adaları: +500</item>
+        <item>Güney Kore: +82</item>
+        <item>Gürcistan: +995</item>
+        <item>Haiti: +509</item>
+        <item>Hindistan: +91</item>
+        <item>Hollanda Antilleri: +599</item>
+        <item>Hollanda: +31</item>
+        <item>Honduras: +504</item>
+        <item>Hong Kong: +852</item>
+        <item>Hırvatistan: +385</item>
+        <item>Irak: +964</item>
+        <item>Jamaika: +1 876</item>
+        <item>Japonya: +81</item>
+        <item>Kamboçya: +855</item>
+        <item>Kamerun: +237</item>
+        <item>Kanada: +1</item>
+        <item>Karadağ: +382</item>
+        <item>Katar: +974</item>
+        <item>Kazakistan: +7 7</item>
+        <item>Kenya: +254</item>
+        <item>Kiribati: +686</item>
+        <item>Kolombiya: +57</item>
+        <item>Komorlar: +269</item>
+        <item>Kongo: +242</item>
+        <item>Kosta Rika: +506</item>
+        <item>Kuveyt: +965</item>
+        <item>Kuzey Kore: +850</item>
+        <item>Kuzey Mariana Adaları: +1 670</item>
+        <item>Küba: +53</item>
+        <item>Kıbrıs Cumhuriyeti: +537</item>
+        <item>Kırgızistan: +996</item>
+        <item>Laos: +856</item>
+        <item>Lesotho: +266</item>
+        <item>Letonya: +371</item>
+        <item>Liberya: +231</item>
+        <item>Libya: +218</item>
+        <item>Lihtenştayn: +423</item>
+        <item>Litvanya: +370</item>
+        <item>Lübnan: +961</item>
+        <item>Lüksemburg: +352</item>
+        <item>Macaristan: +36</item>
+        <item>Madagaskar: +261</item>
+        <item>Makao: +853</item>
+        <item>Makedonya: +389</item>
+        <item>Malavi: +265</item>
+        <item>Maldivler: +960</item>
+        <item>Malezya: +60</item>
+        <item>Mali: +223</item>
+        <item>Malta: +356</item>
+        <item>Marshall Adaları: +692</item>
+        <item>Martinique: +596</item>
+        <item>Mauritius: +230</item>
+        <item>Mayotte: +262</item>
+        <item>Meksika: +52</item>
+        <item>Midway Adası: +1 808</item>
+        <item>Mikronezya Federal Devletleri: +691</item>
+        <item>Moldova: +373</item>
+        <item>Monako: +377</item>
+        <item>Montserrat: +1664</item>
+        <item>Moritanya: +222</item>
+        <item>Moğolistan: +976</item>
+        <item>Myanmar: +95</item>
+        <item>Mısır: +20</item>
+        <item>Namibya: +264</item>
+        <item>Nauru: +674</item>
+        <item>Nepal: +977</item>
+        <item>Nevis: +1 869</item>
+        <item>Nijer: +227</item>
+        <item>Nijerya: +234</item>
+        <item>Nikaragua: +505</item>
+        <item>Niue: +683</item>
+        <item>Norfolk Adası: +672</item>
+        <item>Norveç: +47</item>
+        <item>Orta Afrika Cumhuriyeti: +236</item>
+        <item>Pakistan: +92</item>
+        <item>Palau: +680</item>
+        <item>Panama: +507</item>
+        <item>Papua Yeni Gine: +675</item>
+        <item>Paraguay: +595</item>
+        <item>Paskalya Adası: +56</item>
+        <item>Peru: +51</item>
+        <item>Polonya: +48</item>
+        <item>Portekiz: +351</item>
+        <item>Porto Riko: +1 787</item>
+        <item>Romanya: +40</item>
+        <item>Ruanda: +250</item>
+        <item>Rusya: +7</item>
+        <item>Réunion: +262</item>
+        <item>Samoa: +685</item>
+        <item>San Marino: +378</item>
+        <item>Senegal: +221</item>
+        <item>Seyşeller: +248</item>
+        <item>Sierra Leone: +232</item>
+        <item>Singapur: +65</item>
+        <item>Slovakya: +421</item>
+        <item>Slovenya: +386</item>
+        <item>Solomon Adaları: +677</item>
+        <item>Sri Lanka: +94</item>
+        <item>Sudan: +249</item>
+        <item>Surinam: +597</item>
+        <item>Suriye: +963</item>
+        <item>Suudi Arabistan: +966</item>
+        <item>Svaziland: +268</item>
+        <item>Sırbistan: +381</item>
+        <item>Tacikistan: +992</item>
+        <item>Tanzanya: +255</item>
+        <item>Tanzanya: +255</item>
+        <item>Tayland: +66</item>
+        <item>Tayvan: +886</item>
+        <item>Togo: +228</item>
+        <item>Tokelau: +690</item>
+        <item>Tonga: +676</item>
+        <item>Trinidad ve Tobago: +1 868</item>
+        <item>Tunus: +216</item>
+        <item>Turks ve Caicos Adaları: +1 649</item>
+        <item>Tuvalu: +688</item>
+        <item>Türkiye: +90</item>
+        <item>Türkmenistan: +993</item>
+        <item>Uganda: +256</item>
+        <item>Ukrayna: +380</item>
+        <item>Umman: +968</item>
+        <item>Uruguay: +598</item>
+        <item>Vanuatu: +678</item>
+        <item>Venezuela: +58</item>
+        <item>Vietnam: +84</item>
+        <item>Wake Adası: +1 808</item>
+        <item>Wallis ve Futuna: +681</item>
+        <item>Yemen: +967</item>
+        <item>Yeni Kaledonya: +687</item>
+        <item>Yeni Zelanda: +64</item>
+        <item>Yeşil Burun Adaları: +238</item>
+        <item>Yunanistan: +30</item>
+        <item>Zambiya: +260</item>
+        <item>Zimbabve: +263</item>
+        <item>Çad: +235</item>
+        <item>Çek Cumhuriyeti: +420</item>
+        <item>Çin: +86</item>
+        <item>Özbekistan: +998</item>
+        <item>Ürdün: +962</item>
+        <item>İran: +98</item>
+        <item>İrlanda: +353</item>
+        <item>İspanya: +34</item>
+        <item>İsrail: +972</item>
+        <item>İsveç: +46</item>
+        <item>İsviçre: +41</item>
+        <item>İtalya: +39</item>
+        <item>İzlanda: +354</item>
+        <item>Şili: +56</item>
+    </string-array>
+</resources>

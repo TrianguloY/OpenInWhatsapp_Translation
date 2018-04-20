@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+countries.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation: 
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Don't translate text with the translatable="false" parameter (<string name="..." translatable="false"> ... </string>)
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Timofey Lisunov
+
+ -->
+<resources>
+    <string-array name="countries_code">
+        <item>Абхазия: +7 840</item>
+        <item>Афганистан: +93</item>
+        <item>Албания: +355</item>
+        <item>Алжир: +213</item>
+        <item>Американское Самоа: +1 684</item>
+        <item>Андорра: +376</item>
+        <item>Ангола: +244</item>
+        <item>Ангилья: +1 264</item>
+        <item>Антигуа и Барбуда: +1 268</item>
+        <item>Аргентина: +54</item>
+        <item>Армения: +374</item>
+        <item>Аруба: +297</item>
+        <item>Остров Вознесения: +247</item>
+        <item>Австралия: +61</item>
+        <item>Внешние территории Австралии: +672</item>
+        <item>Австрия: +43</item>
+        <item>Азербайджан: +994</item>
+        <item>Багамские острова: +1 242</item>
+        <item>Бахрейн: +973</item>
+        <item>Бангладеш: +880</item>
+        <item>Барбадос: +1 246</item>
+        <item>Барбуда: +1 268</item>
+        <item>Беларусь: +375</item>
+        <item>Бельгия: +32</item>
+        <item>Белиз: +501</item>
+        <item>Бенин: +229</item>
+        <item>Бермудские острова: +1 441</item>
+        <item>Бутан: +975</item>
+        <item>Боливия: +591</item>
+        <item>Босния и Герцеговина: +387</item>
+        <item>Ботсвана: +267</item>
+        <item>Бразилия: +55</item>
+        <item>Британская территория в Индийском океане: +246</item>
+        <item>Британские Виргинские острова: +1 284</item>
+        <item>Бруней: +673</item>
+        <item>Болгария: +359</item>
+        <item>Буркина-Фасо: +226</item>
+        <item>Бурунди: +257</item>
+        <item>Камбоджа: +855</item>
+        <item>Камерун: +237</item>
+        <item>Канада: +1</item>
+        <item>Кабо-Верде: +238</item>
+        <item>Каймановы острова: + 345</item>
+        <item>Центральноафриканская Республика: +236</item>
+        <item>Чад: +235</item>
+        <item>Чили: +56</item>
+        <item>Китай: +86</item>
+        <item>Остров Рождества: +61</item>
+        <item>Острова Кокос-Килинг: +61</item>
+        <item>Колумбия: +57</item>
+        <item>Коморские острова: +269</item>
+        <item>Конго: +242</item>
+        <item>Конго (Заир): +243</item>
+        <item>Острова Кука: +682</item>
+        <item>Коста-Рика: +506</item>
+        <item>Хорватия: +385</item>
+        <item>Куба: +53</item>
+        <item>Кюрасао: +599</item>
+        <item>Кипр: +537</item>
+        <item>Чешская Республика: +420</item>
+        <item>Дания: +45</item>
+        <item>Диего Гарсия: +246</item>
+        <item>Джибути: +253</item>
+        <item>Доминика: +1 767</item>
+        <item>Доминиканская Республика: +1 809</item>
+        <item>Восточный Тимор: +670</item>
+        <item>Остров Пасхи: +56</item>
+        <item>Эквадор: +593</item>
+        <item>Египет: +20</item>
+        <item>Сальвадор: +503</item>
+        <item>Экваториальная Гвинея: +240</item>
+        <item>Эритрея: +291</item>
+        <item>Эстония: +372</item>
+        <item>Эфиопия: +251</item>
+        <item>Фолклендские острова: +500</item>
+        <item>Фарерские острова: +298</item>
+        <item>Фиджи: +679</item>
+        <item>Финляндия: +358</item>
+        <item>Франция: +33</item>
+        <item>Французские Антильские острова: +596</item>
+        <item>Французская Гвиана: +594</item>
+        <item>Французская Полинезия: +689</item>
+        <item>Габон: +241</item>
+        <item>Гамбия: +220</item>
+        <item>Грузия: +995</item>
+        <item>Германия: +49</item>
+        <item>Гана: +233</item>
+        <item>Гибралтар: +350</item>
+        <item>Греция: +30</item>
+        <item>Гренландия: +299</item>
+        <item>Гренада: +1 473</item>
+        <item>Гваделупа: +590</item>
+        <item>Гуам: +1 671</item>
+        <item>Гватемала: +502</item>
+        <item>Гвинея: +224</item>
+        <item>Гвинея-Бисау: +245</item>
+        <item>Гайана: +595</item>
+        <item>Гаити: +509</item>
+        <item>Гондурас: +504</item>
+        <item>Гонконг (САЦ Китая): +852</item>
+        <item>Венгрия: +36</item>
+        <item>Исландия: +354</item>
+        <item>Индия: +91</item>
+        <item>Индонезия: +62</item>
+        <item>Иран: +98</item>
+        <item>Ирак: +964</item>
+        <item>Ирландия: +353</item>
+        <item>Израиль: +972</item>
+        <item>Италия: +39</item>
+        <item>"Кот-д'Ивуар: +225"</item>
+        <item>Ямайка: +1 876</item>
+        <item>Япония: +81</item>
+        <item>Иордания: +962</item>
+        <item>Казахстан: +7 7</item>
+        <item>Кения: +254</item>
+        <item>Кирибати: +686</item>
+        <item>Кувейт: +965</item>
+        <item>Кыргызстан: +996</item>
+        <item>Лаос: +856</item>
+        <item>Латвия: +371</item>
+        <item>Ливан: +961</item>
+        <item>Лесото: +266</item>
+        <item>Либерия: +231</item>
+        <item>Ливия: +218</item>
+        <item>Лихтенштейн: +423</item>
+        <item>Литва: +370</item>
+        <item>Люксембург: +352</item>
+        <item>Макао (САЦ Китая): +853</item>
+        <item>Македония: +389</item>
+        <item>Мадагаскар: +261</item>
+        <item>Малави: +265</item>
+        <item>Малайзия: +60</item>
+        <item>Мальдивы: +960</item>
+        <item>Мали: +223</item>
+        <item>Мальта: +356</item>
+        <item>Маршалловы острова: +692</item>
+        <item>Мартиника: +596</item>
+        <item>Мавритания: +222</item>
+        <item>Маврикий: +230</item>
+        <item>Майотта: +262</item>
+        <item>Мексика: +52</item>
+        <item>Микронезия: +691</item>
+        <item>Остров Мидуэй: +1 808</item>
+        <item>Молдова: +373</item>
+        <item>Монако: +377</item>
+        <item>Монголия: +976</item>
+        <item>Черногория: +382</item>
+        <item>Монтсеррат: +1664</item>
+        <item>Марокко: +212</item>
+        <item>Мьянма: +95</item>
+        <item>Намибия: +264</item>
+        <item>Науру: +674</item>
+        <item>Непал: +977</item>
+        <item>Нидерланды: +31</item>
+        <item>Нидерландские Антильские острова: +599</item>
+        <item>Невис: +1 869</item>
+        <item>Новая Каледония: +687</item>
+        <item>Новая Зеландия: +64</item>
+        <item>Никарагуа: +505</item>
+        <item>Нигер: +227</item>
+        <item>Нигерия: +234</item>
+        <item>Ниуэ: +683</item>
+        <item>Остров Норфолк: +672</item>
+        <item>Северная Корея: +850</item>
+        <item>Северные Марианские острова: +1 670</item>
+        <item>Норвегия: +47</item>
+        <item>Оман: +968</item>
+        <item>Пакистан: +92</item>
+        <item>Палау: +680</item>
+        <item>Палестинская территория: +970</item>
+        <item>Панама: +507</item>
+        <item>Папуа - Новая Гвинея: +675</item>
+        <item>Парагвай: +595</item>
+        <item>Перу: +51</item>
+        <item>Филиппины: +63</item>
+        <item>Польша: +48</item>
+        <item>Португалия: +351</item>
+        <item>Пуэрто-Рико: +1 787</item>
+        <item>Катар: +974</item>
+        <item>Реюньон: +262</item>
+        <item>Румыния: +40</item>
+        <item>Россия: +7</item>
+        <item>Руанда: +250</item>
+        <item>Самоа: +685</item>
+        <item>Сан-Марино: +378</item>
+        <item>Саудовская Аравия: +966</item>
+        <item>Сенегал: +221</item>
+        <item>Сербия: +381</item>
+        <item>Сейшельские острова: +248</item>
+        <item>Сьерра-Леоне: +232</item>
+        <item>Сингапур: +65</item>
+        <item>Словакия: +421</item>
+        <item>Словения: +386</item>
+        <item>Соломоновы Острова: +677</item>
+        <item>Южная Африка: +27</item>
+        <item>Южная Георгия и Южные Сандвичевы острова: +500</item>
+        <item>Южная Корея: +82</item>
+        <item>Испания: +34</item>
+        <item>Шри-Ланка: +94</item>
+        <item>Судан: +249</item>
+        <item>Суринам: +597</item>
+        <item>Свазиленд: +268</item>
+        <item>Швеция: +46</item>
+        <item>Швейцария: +41</item>
+        <item>Сирия: +963</item>
+        <item>Тайвань: +886</item>
+        <item>Таджикистан: +992</item>
+        <item>Танзания: +255</item>
+        <item>Таиланд: +66</item>
+        <item>Тимор-Лешти: +670</item>
+        <item>Того: +228</item>
+        <item>Токелау: +690</item>
+        <item>Тонга: +676</item>
+        <item>Тринидад и Тобаго: +1 868</item>
+        <item>Тунис: +216</item>
+        <item>Турция: +90</item>
+        <item>Туркменистан: +993</item>
+        <item>Острова Теркс и Кайкос: +1 649</item>
+        <item>Тувалу: +688</item>
+        <item>Виргинские острова США: +1 340</item>
+        <item>Уганда: +256</item>
+        <item>Украина: +380</item>
+        <item>Объединённые Арабские Эмираты: +971</item>
+        <item>Соединённое Королевство: +44</item>
+        <item>Соединённые Штаты Америки: +1</item>
+        <item>Уругвай: +598</item>
+        <item>Узбекистан: +998</item>
+        <item>Вануату: +678</item>
+        <item>Венесуэла: +58</item>
+        <item>Вьетнам: +84</item>
+        <item>Остров Уэйк: +1 808</item>
+        <item>Уоллис и Футуна: +681</item>
+        <item>Йемен: +967</item>
+        <item>Замбия: +260</item>
+        <item>Занзибар: +255</item>
+        <item>Зимбабве: +263</item>
+    </string-array>
+</resources>

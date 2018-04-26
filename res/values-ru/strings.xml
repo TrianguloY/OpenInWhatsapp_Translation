@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-strings.xml file from Open In Whatsapp app by TrianguloY.
+strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation: 
@@ -14,11 +14,23 @@ Timofey Lisunov
 
  -->
 <resources>
+    <string name="about_description">"Приложение создано TrianguloY. Оно не аффилировано с WhatsApp Inc.
+
+>"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Магазин Google Play</a>"
+
+>"<a href="https://sites.google.com/view/triangular-apps/open-in-whatsapp">Страница приложения</a>"
+
+Выражается благодарность:
+Timofey Lisunov за предоставление перевода на русский язык!
+Matheus Damacs за предоставление перевода на португальский язык!
+Yusuf Emen за предоставление перевода на турецкий язык!
+
+Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено)."</string>
     <string name="app_name">Открыть в WhatsApp</string>
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть Whatsapp. Он вообще установлен?</string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. Он вообще установлен?</string>
     <string name="hint_editPrefix">Код</string>
     <string name="hint_editText">Номер</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
@@ -27,6 +39,7 @@ Timofey Lisunov
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>
+    <string name="toast_error_openLink">Не удаётся открыть ссылку</string>
     <string name="txt_description">"Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.
 Подробнее "<a href="https://www.whatsapp.com/faq/ru/general/26000030">здесь</a>".
 

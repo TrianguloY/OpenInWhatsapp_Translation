@@ -21,7 +21,7 @@ Esta aplicación utiliza la característica 'click para chatear' pública de Wha
 Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso Whatsapp lo notificará).
 
 Especialmente útil en situaciones como:
-- ¿Te ha llamado un número desconocido y quieres saber si tiene whatsapp?
+- ¿Te ha llamado un número desconocido y quieres saber si tiene WhatsApp?
 - ¿Necesitas enviar un mensaje a alguien pero no quieres guardarlo como contacto?
 - ¿Quieres abrir un chat contigo mismo?
 Tan solo abre la aplicación e introduce el número (con prefijo).
@@ -33,10 +33,10 @@ Atajo oculto: mantén pulsado el botón + para mostrar la lista ordenada por pre
 
 
 Crear enlaces:
-Puedes generar un enlace html que, al ser pulsado, abrirá whatsapp en el número especificado. Esta es una característica de whatsapp, así que no necesitas esta aplicación para abrir el enlace.
+Puedes generar un enlace html que, al ser pulsado, abrirá WhatsApp en el número especificado. Esta es una característica de WhatsApp, así que no necesitas esta aplicación para abrir el enlace.
 También puedes añadir un mensaje que será colocado en la caja de texto. NO será, repito, NO será enviado. El usuario debe pulsar el botón de enviar manualmente.
-Si especificas un mensaje pero no un número whatsapp te preguntará donde lo quieres enviar (al igual que antes, NO será enviado, solo autocompletado).
-Puedes guardar el enlace como un atajo rápido, compartirlo para que otros puedan contactarte (el número es visible en el enlace, ten cuidado), añadir un mensaje predefinido en una página para 'compartir en whatsapp', etc. Recuerda, no necesitas esta aplicación para abrir el enlace, es abierto automáticamente por Whastapp.
+Si especificas un mensaje pero no un número WhatsApp te preguntará donde lo quieres enviar (al igual que antes, NO será enviado, solo autocompletado).
+Puedes guardar el enlace como un atajo rápido, compartirlo para que otros puedan contactarte (el número es visible en el enlace, ten cuidado), añadir un mensaje predefinido en una página para 'compartir en WhatsApp', etc. Recuerda, no necesitas esta aplicación para abrir el enlace, es abierto automáticamente por Whastapp.
 Atajo oculto: mantén pulsado el botón de 'compartir' para copiar el enlace rápidamente en el portapapeles.
 
 

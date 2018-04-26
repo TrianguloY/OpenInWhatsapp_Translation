@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 
-strings.xml file from Open In Whatsapp app by TrianguloY.
+strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation: 
@@ -16,7 +16,7 @@ Matheus Damacs
 <resources>
     <string name="app_name">Abrir no WhatsApp</string>
     <string name="txt_description">Este aplicativo usa a API pública do WhatsApp para abrir um bate-papo com qualquer número que você inserir. Nenhum contato é criado no dispositivo. \nMais informações <a href="https://www.whatsapp.com/faq/en/general/26000030">aqui</a>.\n\nInsira o número e o <a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefixo</a> sem caracteres extras, apenas números de 0-9. Você pode clicar no \'+\' item para escolher de uma lista.\nExemplo: para +351 (Portugal) 123 456 7890 escreva 351 1234567890</string>
-    <string name="txt_extra_description">\nUse isso para criar um link que abrirá o whatsapp quando clicado. Você pode especificar um número e/ou uma mensagem que será colocada na caixa de entrada (NÃO, repito, NÃO enviarei a mensagem).</string>
+    <string name="txt_extra_description">\nUse isso para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será colocada na caixa de entrada (NÃO, repito, NÃO enviarei a mensagem).</string>
     <string name="hint_editText">Número</string>
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
     <string name="btn_openInWhatsapp">Abrir</string>

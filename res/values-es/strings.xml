@@ -30,4 +30,5 @@ TrianguloY
     <string name="toast_copied">Copiado al portapapeles</string>
     <string name="about_description">Aplicación creada por TrianguloY. Esta aplicación no está asociada con WhatsApp Inc.\n\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n\n><a href="https://sites.google.com/view/triangular-apps/open-in-whatsapp">Página de la aplicación</a>\n\nAgradecimientos:\n¡Gracias a Timofey Lisunov por la traducción al idioma ru (Ruso)!\n¡Gracias a Matheus Damacs por la traducción al idioma pt (Portuguese)!\n¡Gracias a Yusuf Emen por la traducción al idioma tr (Turco)!\n\nPuedes cambiar el idioma de la aplicación pulsando los botones de debajo (la aplicación se reiniciará).</string>
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>
+    <string name="title_chooseApp">Elige aplicación:</string>
 </resources>

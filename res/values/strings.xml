@@ -19,12 +19,13 @@ If you added/modified the following file add your name here to give credit:
     <string name="txt_description">This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. \nMore info <a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>.\n\nInsert the number and the <a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefix</a> with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.\nExample: for +44 (UK) 123 456 7890 write 44 1234567890</string>
     <string name="txt_extra_description">\nUse this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message).</string>
 
-    <string name="hint_editText">Number</string>
+    <string name="hint_editNumber">Number</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
 
     <string name="btn_openInWhatsapp">Open</string>
     <string name="btn_shareLink">Share</string>
+    <string name="chk_mergeInputs">Merge prefix and number inputs</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
     <string name="error_nowhatsapp">Couldn\'t open WhatsApp. Is it installed?</string>

@@ -32,7 +32,7 @@ Yusuf Emen за предоставление перевода на турецк�
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
     <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. Он вообще установлен?</string>
     <string name="hint_editPrefix">Код</string>
-    <string name="hint_editText">Номер</string>
+    <string name="hint_editNumber">Номер</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
     <string name="title_chooseCountry">Коды стран:</string>
     <string name="title_sendTo">Открыть ссылку в:</string>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+strings.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Benjamin Yılmaz Çetiner
+
+ -->
+<resources>
+    <string name="app_name">Open in Whatsapp</string>
+
+    <string name="about_description">Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc. \n\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n\n><a href="https://sites.google.com/view/triangular-apps/open-in-whatsapp">App-Seite</a>\n\nDanksagungen:\n Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!\n Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugisische!\n Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische! \n Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch! \n\n Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
+
+    <string name="txt_description">Diese App nutzt die offizielle Whatsapp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt. \nWeitere Informationen erhalten Sie direkt in der <a href="https://www.whatsapp.com/faq/en/general/26000030">Whatsapp FAQ</a>.\n\nNummer und  <a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>  ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.\nBeispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 44 1234567890</string>
+    <string name="txt_extra_description">\nHier können Sie einen Link erstellen, der direkt in Whatsapp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet).</string>
+
+    <string name="hint_editNumber">Nummer</string>
+    <string name="hint_editPrefix">Vorwahl</string>
+    <string name="hint_message">Nachricht, die automatisch vervollständigt wird (NICHT autom. gesendet).</string>
+
+    <string name="btn_openInWhatsapp">Öffnen</string>
+    <string name="btn_shareLink">Teilen</string>
+
+    <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
+    <string name="error_nowhatsapp">Kann nicht in Whatsapp geöffnet werden. Ist Whatsapp auch (korrekt) installiert?</string>
+
+    <string name="toast_autoParser">Automatischer Parser.\n Vorwahl korrekt?!</string>
+    <string name="toast_copied">In die Zwischenablage kopiert</string>
+    <string name="toast_error_openLink">Link kann nicht geladen werden</string>
+
+    <string name="title_sendTo">Link senden an:</string>
+    <string name="title_chooseCountry">Länderkürzel:</string>
+
+</resources>

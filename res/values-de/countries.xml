@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+countries.xml file from Open In Whatsapp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation: 
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Benjamin Yılmaz Çetiner
+
+ -->
+<resources>
+    <string-array name="countries_code">
+        <item> Abchasien: +7 840</item>
+        <item> Afghanistan: +93</item>
+        <item> Albanien: +355</item>
+        <item> Algerien: +213</item>
+        <item> Amerikanisch-Samoa: +1 684</item>
+        <item> Andorra: +376</item>
+        <item> Angola: +244</item>
+        <item> Anguilla: +1 264</item>
+        <item> Antigua u.Barbuda: +1 268</item>
+        <item> Argentinien: +54</item>
+        <item> Armenien: +374</item>
+        <item> Aruba: +297</item>
+        <item> Aufstieg: +247 </item>
+        <item> Australien: +61</item>
+        <item> Austr. Außengebiete: +672</item>
+        <item> Österreich: +43</item>
+        <item> Aserbaidschan: +994</item>
+        <item> Bahamas: +1 242</item>
+        <item> Bahrain: +973</item>
+        <item> Bangladesch: +880</item>
+        <item> Barbados: +1 246</item>
+        <item> Barbuda: +1 268</item>
+        <item> Weißrussland: +375</item>
+        <item> Belgien: +32</item>
+        <item> Belize: +501</item>
+        <item> Benin: +229</item>
+        <item> Bermuda: +1 441</item>
+        <item> Bhutan: +975</item>
+        <item> Bolivien: +591</item>
+        <item> Bosnien und Herzegowina: +387</item>
+        <item> Botswana: +267</item>
+        <item> Brasilien: +55</item>
+        <item> Brit. Territ. Ind. Ozean: +246</item>
+        <item> Brit. Jungferninseln: +1 284</item>
+        <item> Brunei: +673</item>
+        <item> Bulgarien: +359</item>
+        <item> Burkina Faso: +226</item>
+        <item> Burundi: +257</item>
+        <item> Kambodscha: +855</item>
+        <item> Kamerun: +237</item>
+        <item> Kanada: +1</item>
+        <item> Kapverdische Inseln: +238</item>
+        <item> Kaimaninseln: +345</item>
+        <item> Zentralafrik. Republik: +236</item>
+        <item> Tschad: +235 </item>
+        <item> Chile: +56</item>
+        <item> China: +86</item>
+        <item> Weihnachtsinsel: +61</item>
+        <item> Cocos-Keeling Islands: +61</item>
+        <item> Kolumbien: +57</item>
+        <item> Komoren: +269</item>
+        <item> Kongo: +242</item>
+        <item> Kongo. Dem. Rep.(Zaire): +243</item>
+        <item> Cook-Inseln: +682</item>
+        <item> Costa Rica: +506</item>
+        <item> Kroatien: +385</item>
+        <item> Kuba: +53</item>
+        <item> Curacao: +599</item>
+        <item> Zypern: +537</item>
+        <item> Tschechische Republik: +420</item>
+        <item> Dänemark: +45</item>
+        <item> Diego Garcia: +246</item>
+        <item> Dschibuti: +253</item>
+        <item> Dominica: +1 767</item>
+        <item> Domin. Republik: +1 809</item>
+        <item> Osttimor: +670</item>
+        <item> Osterinsel: +56</item>
+        <item> Ecuador: +593</item>
+        <item> Ägypten: +20</item>
+        <item> El Salvador: +503</item>
+        <item> Äquatorialguinea: +240</item>
+        <item> Eritrea: +291</item>
+        <item> Estland: +372</item>
+        <item> Äthiopien: +251</item>
+        <item> Falklandinseln: +500</item>
+        <item> Färöer: +298</item>
+        <item> Fidschi: +679</item>
+        <item> Finnland: +358</item>
+        <item> Frankreich: +33</item>
+        <item> Franz. Antillen: +596</item>
+        <item> Franz.-Guayana: +594</item>
+        <item> Franz.-Polynesien: +689</item>
+        <item> Gabun: +241</item>
+        <item> Gambia: +220</item>
+        <item> Georgien: +995</item>
+        <item> Deutschland: +49</item>
+        <item> Ghana: +233</item>
+        <item> Gibraltar: +350</item>
+        <item> Griechenland: +30</item>
+        <item> Grönland: +299</item>
+        <item> Grenada: +1 473</item>
+        <item> Guadeloupe: +590</item>
+        <item> Guam: +1 671</item>
+        <item> Guatemala: +502</item>
+        <item> Guinea: +224</item>
+        <item> Guinea-Bissau: +245</item>
+        <item> Guyana: +595</item>
+        <item> Haiti: +509</item>
+        <item> Honduras: +504</item>
+        <item> Hongkong: +852</item>
+        <item> Ungarn: +36</item>
+        <item> Island: +354</item>
+        <item> Indien: +91</item>
+        <item> Indonesien: +62</item>
+        <item> Iran: +98</item>
+        <item> Irak: +964</item>
+        <item> Irland: +353</item>
+        <item> Israel: +972</item>
+        <item> Italien: +39</item>
+        <item> Elfenbeinküste: +225</item>
+        <item> Jamaika: +1 876</item>
+        <item> Japan: +81</item>
+        <item> Jordanien: +962</item>
+        <item> Kasachstan: +7 7</item>
+        <item> Kenia: +254</item>
+        <item> Kiribati: +686</item>
+        <item> Kuwait: +965</item>
+        <item> Kirgisistan: +996</item>
+        <item> Laos: +856</item>
+        <item> Lettland: +371</item>
+        <item> Libanon: +961</item>
+        <item> Lesotho: +266</item>
+        <item> Liberia: +231</item>
+        <item> Libyen: +218</item>
+        <item> Liechtenstein: +423</item>
+        <item> Litauen: +370</item>
+        <item> Luxemburg: +352</item>
+        <item> Macau SAR China: +853</item>
+        <item> Mazedonien: +389</item>
+        <item> Madagaskar: +261</item>
+        <item> Malawi: +265</item>
+        <item> Malaysia: +60</item>
+        <item> Malediven: +960</item>
+        <item> Mali: +223 </item>
+        <item> Malta: +356 </item>
+        <item> Marshallinseln: +692</item>
+        <item> Martinique: +596</item>
+        <item> Mauretanien: +222</item>
+        <item> Mauritius: +230</item>
+        <item> Mayotte: +262 </item>
+        <item> Mexiko: +52</item>
+        <item> Mikronesien: +691</item>
+        <item> Midway Island: +1 808</item>
+        <item> Moldawien: +373</item>
+        <item> Monaco: +377</item>
+        <item> Mongolei: +976</item>
+        <item> Montenegro: +382</item>
+        <item> Montserrat: +1664</item>
+        <item> Marokko: +212</item>
+        <item> Myanmar: +95</item>
+        <item> Namibia: +264</item>
+        <item> Nauru: +674</item>
+        <item> Nepal: +977</item>
+        <item> Niederlande: +31</item>
+        <item> Niederländische Antillen: +599</item>
+        <item> Nevis: +1 869</item>
+        <item> Neukaledonien: +687</item>
+        <item> Neuseeland: +64</item>
+        <item> Nicaragua: +505</item>
+        <item> Niger: +227</item>
+        <item> Nigeria: +234</item>
+        <item> Niue: +683</item>
+        <item> Norfolkinsel: +672</item>
+        <item> Nordkorea: +850</item>
+        <item> Nördliche Marianen: +1 670</item>
+        <item> Norwegen: +47</item>
+        <item> Oman: +968</item>
+        <item> Pakistan: +92</item>
+        <item> Palau: +680</item>
+        <item> Palästinensisches Gebiet: +970</item>
+        <item> Panama: +507</item>
+        <item> Papua-Neuguinea: +675</item>
+        <item> Paraguay: +595</item>
+        <item> Peru: +51</item>
+        <item> Philippinen: +63</item>
+        <item> Polen: +48</item>
+        <item> Portugal: +351</item>
+        <item> Puerto Rico: +1 787</item>
+        <item> Katar: +974</item>
+        <item> Wiedersehen: +262</item>
+        <item> Rumänien: +40</item>
+        <item> Russland: +7</item>
+        <item> Ruanda: +250</item>
+        <item> Samoa: +685</item>
+        <item> San Marino: +378</item>
+        <item> Saudi-Arabien: +966</item>
+        <item> Senegal: +221</item>
+        <item> Serbien: +381</item>
+        <item> Seychellen: +248</item>
+        <item> Sierra Leone: +232</item>
+        <item> Singapur: +65</item>
+        <item> Slowakei: +421</item>
+        <item> Slowenien: +386</item>
+        <item> Salomonen: +677</item>
+        <item> Südafrika: +27</item>
+        <item> Südgeorgien/Sandwichins.: +500</item>
+        <item> Südkorea: +82</item>
+        <item> Spanien: +34</item>
+        <item> Sri Lanka: +94</item>
+        <item> Sudan: +249</item>
+        <item> Surinam: +597</item>
+        <item> Swasiland: +268</item>
+        <item> Schweden: +46</item>
+        <item> Schweiz: +41</item>
+        <item> Syrien: +963</item>
+        <item> Taiwan: +886</item>
+        <item> Tadschikistan: +992</item>
+        <item> Tansania: +255</item>
+        <item> Thailand: +66</item>
+        <item> Timor Leste: +670</item>
+        <item> Togo: +228</item>
+        <item> Tokelau: +690 </item>
+        <item> Tonga: +676</item>
+        <item> Trinidad und Tobago: +1 868</item>
+        <item> Tunesien: +216</item>
+        <item> Türkei: +90</item>
+        <item> Turkmenistan: +993</item>
+        <item> Turks- und Caicosinseln: +1 649</item>
+        <item> Tuvalu: +688</item>
+        <item> U.S. Jungferninseln: +1 340</item>
+        <item> Uganda: +256</item>
+        <item> Ukraine: +380</item>
+        <item> Ver. Arabische Emirate: +971</item>
+        <item> Vereinigtes Königreich (England): +44</item>
+        <item> Vereinigte Staaten: +1</item>
+        <item> Uruguay: +598</item>
+        <item> Usbekistan: +998</item>
+        <item> Vanuatu: +678</item>
+        <item> Venezuela: +58</item>
+        <item> Vietnam: +84</item>
+        <item> Wake Island: +1 808</item>
+        <item> Wallis und Futuna: +681</item>
+        <item> Jemen: +967</item>
+        <item> Sambia: +260</item>
+        <item> Sansibar: +255</item>
+        <item> Simbabwe: +263</item>
+    </string-array>
+</resources>

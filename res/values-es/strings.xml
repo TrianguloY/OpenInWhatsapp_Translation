@@ -19,7 +19,7 @@ TrianguloY
     <string name="hint_editNumber">Número</string>
     <string name="error_badData">Error al abrir. Datos incorrectos</string>
     <string name="btn_openInWhatsapp">Abrir</string>
-    <string name="error_nowhatsapp">No se ha podido abrir WhatsApp. ¿Está instalado?</string>
+    <string name="error_nowhatsapp">No se ha podido abrir WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">¿Está instalado?</a></string>
     <string name="hint_editPrefix">Pref</string>
     <string name="toast_autoParser">Extracción automática.\n¡Comprueba el prefijo!</string>
     <string name="btn_shareLink">Compartir</string>

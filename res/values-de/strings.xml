@@ -28,7 +28,7 @@ Benjamin Yılmaz Çetiner
     <string name="btn_shareLink">Teilen</string>
 
     <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
-    <string name="error_nowhatsapp">Kann nicht in Whatsapp geöffnet werden. Ist Whatsapp auch (korrekt) installiert?</string>
+    <string name="error_nowhatsapp">Kann nicht in Whatsapp geöffnet werden. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ist Whatsapp auch (korrekt) installiert?</a></string>
 
     <string name="toast_autoParser">Automatischer Parser.\n Vorwahl korrekt?!</string>
     <string name="toast_copied">In die Zwischenablage kopiert</string>

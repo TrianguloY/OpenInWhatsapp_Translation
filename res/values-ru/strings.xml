@@ -31,7 +31,7 @@ Benjamin Yılmaz Çetiner за предоставление перевода н�
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. Он вообще установлен?</string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он вообще установлен?</a></string>
     <string name="hint_editPrefix">Код</string>
     <string name="hint_editNumber">Номер</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>

@@ -28,7 +28,7 @@ If you added/modified the following file add your name here to give credit:
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
-    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. Is it installed?</string>
+    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>
 
     <string name="toast_autoParser">Automatic parser.\nCheck the prefix!</string>
     <string name="toast_copied">Copied to clipboard</string>

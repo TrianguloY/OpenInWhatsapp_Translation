@@ -20,7 +20,6 @@ Matheus Damacs
     <string name="hint_editNumber">Número</string>
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
     <string name="btn_openInWhatsapp">Abrir</string>
-    <string name="error_nowhatsapp">"Abrir "</string>
     <string name="hint_editPrefix">Prefixo</string>
     <string name="toast_autoParser">Analisador automático.\nVerifique o prefixo!</string>
     <string name="btn_shareLink">Compartilhar</string>

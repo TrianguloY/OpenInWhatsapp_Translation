@@ -29,7 +29,7 @@ Yusuf Emen
     <string name="btn_shareLink">Paylaş</string>
 
     <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
-    <string name="error_nowhatsapp">WhatsApp açılamadı. Uygulama kurulu mu?</string>
+    <string name="error_nowhatsapp">WhatsApp açılamadı. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Uygulama kurulu mu?</a></string>
 
     <string name="toast_autoParser">Otomatik ayrıştırıcı.\nÜlke kodunu kontrol edin.</string>
     <string name="toast_copied">Panoya kopyalandı.</string>

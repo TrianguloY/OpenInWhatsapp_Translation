@@ -24,6 +24,7 @@ Yusuf Emen
     <string name="hint_editNumber">Numara</string>
     <string name="hint_editPrefix">Ülke kodu</string>
     <string name="hint_message">Mesaj kutucuğunda yazacak ama gönderilMEyecek mesaj.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Ülke kodu & Numara]]></string>
 
     <string name="btn_openInWhatsapp">Aç</string>
     <string name="btn_shareLink">Paylaş</string>

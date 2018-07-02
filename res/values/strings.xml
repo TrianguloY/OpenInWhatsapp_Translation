@@ -22,6 +22,7 @@ If you added/modified the following file add your name here to give credit:
     <string name="hint_editNumber">Number</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
 
     <string name="btn_openInWhatsapp">Open</string>
     <string name="btn_shareLink">Share</string>

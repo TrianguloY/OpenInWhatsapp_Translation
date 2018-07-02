@@ -23,6 +23,7 @@ Benjamin Yılmaz Çetiner
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
     <string name="hint_message">Nachricht, die automatisch vervollständigt wird (NICHT autom. gesendet).</string>
+    <string name="hint_prefAndNumber"><![CDATA[Vorwahl & Nummer]]></string>
 
     <string name="btn_openInWhatsapp">Öffnen</string>
     <string name="btn_shareLink">Teilen</string>

@@ -24,6 +24,7 @@ TrianguloY
     <string name="toast_autoParser">Extracción automática.\n¡Comprueba el prefijo!</string>
     <string name="btn_shareLink">Compartir</string>
     <string name="hint_message">Mensaje que será autocompletado, NO se enviará.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Pref & Número]]></string>
     <string name="txt_extra_description">\nUse esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar un número y/o añadir un mensaje que será incluido en el cuadro de texto (NO, repito, NO será enviado).</string>
     <string name="title_chooseCountry">Prefijo por país:</string>
     <string name="title_sendTo">Enviar enlace a:</string>

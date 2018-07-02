@@ -24,17 +24,20 @@ Timofey Lisunov
 Timofey Lisunov за предоставление перевода на русский язык!
 Matheus Damacs за предоставление перевода на португальский язык!
 Yusuf Emen за предоставление перевода на турецкий язык!
-Benjamin Yılmaz Çetiner за предоставление перевода на Неме́цкий язык!
+Benjamin Yılmaz Çetiner за предоставление перевода на немецкий язык!
 
 Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено)."</string>
     <string name="app_name">Открыть в WhatsApp</string>
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
+    <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он вообще установлен?</a></string>
-    <string name="hint_editPrefix">Код</string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. Он вообще установлен?</string>
     <string name="hint_editNumber">Номер</string>
+    <string name="hint_editPrefix">Код</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
+    <string name="title_chooseApp">Выбор приложения:</string>
     <string name="title_chooseCountry">Коды стран:</string>
     <string name="title_sendTo">Открыть ссылку в:</string>
     <string name="toast_autoParser">"Автоматическое распознавание.

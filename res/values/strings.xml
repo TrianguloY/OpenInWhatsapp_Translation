@@ -38,5 +38,8 @@ If you added/modified the following file add your name here to give credit:
     <string name="title_sendTo">Send link to:</string>
     <string name="title_chooseCountry">Prefix by country:</string>
     <string name="title_chooseApp">Choose app:</string>
+    <string name="title_clearRecents">Clear recents:</string>
+
+    <string name="message_clearRecents">Do you want to remove all recents?</string>
 
 </resources>

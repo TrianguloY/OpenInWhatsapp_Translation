@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-text.xml file from Open In Whatsapp app by TrianguloY.
+text.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -12,13 +12,13 @@ TrianguloY
 
  -->
 <parameters>
-<title max_chars="50">Abrir en Whatsapp (click para chatear)</title>
-<description_short max_chars="80">Abre un chat en Whatsapp de cualquier número (tu y ese número).</description_short>
-<description_long max_chars="4000">Disclaimer: Esta aplicación no está asociada con Whatsapp Inc.
+<title max_chars="50">Abrir en WhatsApp (click para chatear)</title>
+<description_short max_chars="80">Abre un chat en WhatsApp de cualquier número (tu y ese número).</description_short>
+<description_long max_chars="4000">Disclaimer: Esta aplicación no está asociada con WhatsApp Inc.
 ------------------------------------------------------------------------------------------
 
-Esta aplicación utiliza la característica 'click para chatear' pública de Whatsapp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones). 
-Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso Whatsapp lo notificará).
+Esta aplicación utiliza la característica 'click para chatear' pública de WhatsApp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones). 
+Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso WhatsApp lo notificará).
 
 Especialmente útil en situaciones como:
 - ¿Te ha llamado un número desconocido y quieres saber si tiene WhatsApp?
@@ -41,14 +41,14 @@ Atajo oculto: mantén pulsado el botón de 'compartir' para copiar el enlace rá
 
 
 Lista de recientes:
-Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). Si abres un número muchas veces recuerda que puedes crear un atajo en el escritorio directamente desde whatsapp (desde el chat: menú, más, crear acceso directo).
+Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). Si abres un número muchas veces recuerda que puedes crear un atajo en el escritorio directamente desde WhatsApp (desde el chat: menú, más, crear acceso directo).
 Atajo oculto: mantén pulsado el botón de recientes para borrar la lista.
 
 
 -----------------------------------------------------------
 
 
-Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos, sin anuncios...tan solo la funcionalidad de abrir-en-whatsapp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
+Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
 
 
 Traducción:

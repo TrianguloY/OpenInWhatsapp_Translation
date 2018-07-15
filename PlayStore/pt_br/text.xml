@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-text.xml file from Open In Whatsapp app by TrianguloY.
+text.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -13,12 +13,12 @@ Matheus Damacs
  -->
 <parameters>
 <title max_chars="50">Abrir no WhatsApp (conversa em um clique)</title>
-<description_short max_chars="80"></description_short>
+<description_short max_chars="80">?</description_short>
 <description_long max_chars="4000">Disclaimer: This app is not affiliated with WhatsApp Inc.
 ------------------------------------------------------------------------------------------
 
 Este aplicativo usa a 'Conversa em um clique' pública do WhatsApp (https://faq.whatsapp.com/en/android/26000030/), para abrir uma conversa com qualquer número inserido (a conversa entre você e esse número, não é possível espiar outras conversas).
-Nenhum contato é criado no dispositivo, assim você não precisa salvar o número em sua lista de contatos, a fim de abrir o chat. Basta abrir o aplicativo, digite o número, clique no botão e o bate-papo será aberta (se o número existe, caso contrário, Whatsapp irá notificá-lo).
+Nenhum contato é criado no dispositivo, assim você não precisa salvar o número em sua lista de contatos, a fim de abrir o chat. Basta abrir o aplicativo, digite o número, clique no botão e o bate-papo será aberta (se o número existe, caso contrário, WhatsApp irá notificá-lo).
 
 Especialmente útil em situações como:
 - Um número desconhecido(a) chamou você, e você quer saber se ele(as) têm WhatsApp?

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<?xml version="1.0" encoding="utf-8"?><!--
 strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
@@ -33,4 +32,6 @@ TrianguloY
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>
     <string name="title_chooseApp">Elige aplicación:</string>
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>
+    <string name="title_clearRecents">Borrar recientes:</string>
+    <string name="message_clearRecents">¿Desea borrar todos los recientes?</string>
 </resources>

@@ -1,0 +1,221 @@
+United States
+Bahamas
+Barbados
+Anguilla
+Barbuda
+British Virgin Islands
+U.S. Virgin Islands
+Bermuda
+Grenada
+Turks and Caicos Islands
+Northern Mariana Islands
+Guam
+American Samoa
+Dominica
+Puerto Rico
+Wake Island
+Dominican Republic
+Trinidad and Tobago
+Nevis
+Jamaica
+Montserrat
+Egypt
+Morocco
+Algeria
+Tunisia
+Libya
+Gambia
+Senegal
+Mauritania
+Mali
+Guinea
+Ivory Coast
+Burkina Faso
+Niger
+Togo
+Benin
+Mauritius
+Liberia
+Sierra Leone
+Ghana
+Nigeria
+Chad
+Central African Republic
+Cameroon
+Cape Verde
+Equatorial Guinea
+Gabon
+Congo
+Congo, Dem. Rep. of (Zaire)
+Angola
+Guinea-Bissau
+Diego Garcia
+Ascension
+Seychelles
+Sudan
+Rwanda
+Ethiopia
+Djibouti
+Kenya
+Zanzibar
+Uganda
+Burundi
+Zambia
+Madagascar
+Reunion
+Zimbabwe
+Namibia
+Malawi
+Lesotho
+Botswana
+Swaziland
+Comoros
+South Africa
+Eritrea
+Aruba
+Faroe Islands
+Greenland
+Greece
+Netherlands
+Belgium
+France
+Spain
+Cayman Islands
+Gibraltar
+Portugal
+Luxembourg
+Ireland
+Iceland
+Albania
+Malta
+Finland
+Bulgaria
+Hungary
+Lithuania
+Latvia
+Estonia
+Moldova
+Armenia
+Belarus
+Andorra
+Monaco
+San Marino
+Ukraine
+Serbia
+Montenegro
+Croatia
+Slovenia
+Bosnia and Herzegovina
+Macedonia
+Italy
+Romania
+Switzerland
+Czech Republic
+Slovakia
+Liechtenstein
+Austria
+United Kingdom
+Denmark
+Sweden
+Norway
+Poland
+Germany
+South Georgia and the South Sandwich Islands
+Belize
+Guatemala
+El Salvador
+Honduras
+Nicaragua
+Costa Rica
+Panama
+Haiti
+Peru
+Mexico
+Cuba
+Cyprus
+Argentina
+Brazil
+Easter Island
+Colombia
+Venezuela
+Guadeloupe
+Bolivia
+Ecuador
+French Guiana
+Paraguay
+Martinique
+Suriname
+Uruguay
+Netherlands Antilles
+Malaysia
+Cocos-Keeling Islands
+Indonesia
+Philippines
+New Zealand
+Singapore
+Thailand
+Timor Leste
+Norfolk Island
+Brunei
+Nauru
+Papua New Guinea
+Tonga
+Solomon Islands
+Vanuatu
+Fiji
+Palau
+Wallis and Futuna
+Cook Islands
+Niue
+Samoa
+Kiribati
+New Caledonia
+Tuvalu
+French Polynesia
+Tokelau
+Micronesia
+Marshall Islands
+Russia
+Kazakhstan
+Abkhazia
+Japan
+South Korea
+Vietnam
+North Korea
+Hong Kong SAR China
+Macau SAR China
+Cambodia
+Laos
+China
+Bangladesh
+Taiwan
+Turkey
+India
+Pakistan
+Afghanistan
+Sri Lanka
+Myanmar
+Maldives
+Lebanon
+Jordan
+Syria
+Iraq
+Kuwait
+Saudi Arabia
+Yemen
+Oman
+Palestinian Territory
+United Arab Emirates
+Israel
+Bahrain
+Qatar
+Bhutan
+Mongolia
+Nepal
+Iran
+Tajikistan
+Turkmenistan
+Azerbaijan
+Georgia
+Kyrgyzstan
+Uzbekistan

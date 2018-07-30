@@ -23,7 +23,7 @@ Benjamin Yılmaz Çetiner
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
     <string name="hint_message">Nachricht, die automatisch vervollständigt wird (NICHT autom. gesendet).</string>
-    <string name="hint_prefAndNumber"><![CDATA[Vorwahl & Nummer]]></string>
+    <string name="hint_prefAndNumber"><![CDATA[Präfix & Nummer]]></string>
 
     <string name="btn_openInWhatsapp">Öffnen</string>
     <string name="btn_shareLink">Teilen</string>
@@ -37,5 +37,8 @@ Benjamin Yılmaz Çetiner
 
     <string name="title_sendTo">Link senden an:</string>
     <string name="title_chooseCountry">Länderkürzel:</string>
+    <string name="title_clearRecents">Verlauf leeren:</string>
+
+    <string name="message_clearRecents">Alle kürzlich verwendeten Einträge entfernen?</string>
 
 </resources>

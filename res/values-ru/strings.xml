@@ -32,13 +32,15 @@ Benjamin Yılmaz Çetiner за предоставление перевода н�
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он вообще установлен?</a></string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp"> Он вообще установлен?</a></string>
     <string name="hint_editNumber">Номер</string>
     <string name="hint_editPrefix">Код</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
+    <string name="hint_prefAndNumber">Код и номер телефона</string>
+    <string name="message_clearRecents">Вы хотите очистить историю?</string>
     <string name="title_chooseApp">Выбор приложения:</string>
     <string name="title_chooseCountry">Коды стран:</string>
+    <string name="title_clearRecents">Очистка истории</string>
     <string name="title_sendTo">Открыть ссылку в:</string>
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>

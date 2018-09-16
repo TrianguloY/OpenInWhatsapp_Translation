@@ -136,6 +136,7 @@ Cyprus
 Argentina
 Brazil
 Easter Island
+Chile
 Colombia
 Venezuela
 Guadeloupe

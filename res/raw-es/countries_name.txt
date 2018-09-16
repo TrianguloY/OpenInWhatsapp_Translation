@@ -136,6 +136,7 @@ Chipre
 Argentina
 Brasil
 Isla de Pascua
+Chile
 Colombia
 Venezuela
 Guadalupe

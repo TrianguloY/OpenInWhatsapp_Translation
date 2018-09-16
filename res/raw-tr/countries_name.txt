@@ -1,7 +1,9 @@
+Amerika Birleşik Devletleri
 Kanada
 Bahamalar
 Barbados
 Anguilla
+Antigua ve Barbuda
 Barbuda
 Britanya Virjin Adaları
 ABD Virjin Adaları
@@ -13,6 +15,7 @@ Guam
 Amerikan Samoası
 Dominika
 Porto Riko
+Midway Adası
 Wake Adası
 Dominik Cumhuriyeti
 Trinidad ve Tobago
@@ -49,6 +52,7 @@ Kongo
 Demokratik Kongo Cumhuriyeti (Zaire)
 Angola
 Gine-Bissau
+Britanya Hint Okyanusu Toprakları
 Diego Garcia
 Ascension
 Seyşeller
@@ -58,10 +62,12 @@ Etiyopya
 Cibuti
 Kenya
 Tanzanya
+Tanzanya
 Uganda
 Burundi
 Zambiya
 Madagaskar
+Mayotte
 Réunion
 Zimbabve
 Namibya
@@ -120,6 +126,7 @@ Danimarka
 Norveç
 Polonya
 Almanya
+Falkland Islands
 Güney Georgia ve Güney Sandwich Adaları
 Belize
 Guatemala
@@ -135,7 +142,7 @@ Küba
 Kıbrıs Cumhuriyeti
 Arjantin
 Brezilya
-Paskalya adası
+Paskalya Adası
 Şili
 Kolombiya
 Venezuela
@@ -143,12 +150,17 @@ Guadeloupe
 Bolivya
 Ekvador
 Fransız Guyaası
+Guyana
 Paraguay
+Fransız Antilleri
 Martinique
 Surinam
 Uruguay
+Curaçao
 Hollanda Antilleri
 Malezya
+Avustralya
+Christmas Adası
 Cocos Adaları
 Endonezya
 Filipinler
@@ -156,6 +168,8 @@ Yeni Zelanda
 Singapur
 Tayland
 Doğu Timor
+Doğu Timor
+Avustralya Uzak Bölgeleri
 Norfolk Adası
 Brunei
 Nauru

@@ -1,7 +1,9 @@
+Canada
 United States
 Bahamas
 Barbados
 Anguilla
+Antigua and Barbuda
 Barbuda
 British Virgin Islands
 U.S. Virgin Islands
@@ -13,6 +15,7 @@ Guam
 American Samoa
 Dominica
 Puerto Rico
+Midway Island
 Wake Island
 Dominican Republic
 Trinidad and Tobago
@@ -49,6 +52,7 @@ Congo
 Congo, Dem. Rep. of (Zaire)
 Angola
 Guinea-Bissau
+British Indian Ocean Territory
 Diego Garcia
 Ascension
 Seychelles
@@ -57,11 +61,13 @@ Rwanda
 Ethiopia
 Djibouti
 Kenya
+Tanzania
 Zanzibar
 Uganda
 Burundi
 Zambia
 Madagascar
+Mayotte
 Reunion
 Zimbabwe
 Namibia
@@ -120,6 +126,7 @@ Sweden
 Norway
 Poland
 Germany
+Falkland Islands
 South Georgia and the South Sandwich Islands
 Belize
 Guatemala
@@ -135,27 +142,34 @@ Cuba
 Cyprus
 Argentina
 Brazil
-Easter Island
 Chile
+Easter Island
 Colombia
 Venezuela
 Guadeloupe
 Bolivia
 Ecuador
 French Guiana
+Guyana
 Paraguay
+French Antilles
 Martinique
 Suriname
 Uruguay
+Curacao
 Netherlands Antilles
 Malaysia
+Australia
+Christmas Island
 Cocos-Keeling Islands
 Indonesia
 Philippines
 New Zealand
 Singapore
 Thailand
+East Timor
 Timor Leste
+Australian External Territories
 Norfolk Island
 Brunei
 Nauru

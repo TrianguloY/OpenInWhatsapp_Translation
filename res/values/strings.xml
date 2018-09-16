@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
@@ -42,5 +41,16 @@ If you added/modified the following file add your name here to give credit:
     <string name="title_clearRecents">Clear recents:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
+    <string name="message_openFAQ">Do you want to open the FAQ (Frecuently asked questions) page? External browser will be opened.</string>
+
+
+    <string name="cntDesc_appInfo">App information</string>
+    <string name="cntDesc_prefixSelector">Prefix selector</string>
+    <string name="cntDesc_pasteClipboard">Paste from clipboard</string>
+    <string name="cntDesc_recentNumbers">Recent numbers</string>
+    <string name="cntDesc_recentMessages">Recent messages</string>
+    <string name="cntDesc_toggleAdv">Toggle advanced</string>
+    <string name="cntDesc_appFaq">Open \'frequently asked questions\' page</string>
+    <string name="cntDesc_appLogo">Application logo</string>
 
 </resources>

@@ -34,4 +34,12 @@ TrianguloY
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>
     <string name="title_clearRecents">Borrar recientes:</string>
     <string name="message_clearRecents">¿Desea borrar todos los recientes?</string>
+    <string name="message_openFAQ">Quieres abrir la página FAQ (preguntas frecuentes)? Se abrirá en un navegador externo.</string>
+    <string name="cntDesc_appInfo">Información de la aplicación</string>
+    <string name="cntDesc_prefixSelector">Seletor de prefijo</string>
+    <string name="cntDesc_pasteClipboard">Pegar del portapapeles</string>
+    <string name="cntDesc_recentNumbers">Números recientes</string>
+    <string name="cntDesc_recentMessages">Mensajes recientes</string>
+    <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
+    <string name="cntDesc_appFaq">Abrir página de preguntas frecuentes</string>
 </resources>

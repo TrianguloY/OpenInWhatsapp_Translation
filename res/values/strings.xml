@@ -14,7 +14,7 @@ If you added/modified the following file add your name here to give credit:
 <resources>
     <string name="app_name">Open in WhatsApp</string>
 
-    <string name="about_description">App created by TrianguloY. This app is not affiliated with WhatsApp Inc. \n\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n\n><a href="https://sites.google.com/view/triangular-apps/open-in-whatsapp">App page</a>\n\nAcknowledgements:\nThanks to Timofey Lisunov for providing the ru (Russian) locale translation!\nThanks to Matheus Damacs for providing the pt (Portuguese) locale translation!\nThanks to Yusuf Emen for providing the tr (Turkish) locale translation!\nThanks to Benjamin Yılmaz Çetiner for providing the de (German) locale translation!\n\nYou can change the app language by clicking the buttons below (the app will be restarted).</string>
+    <string name="about_description">App created by TrianguloY. This app is not affiliated with WhatsApp Inc. \n\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n\n><a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a>\n\nAcknowledgements:\nThanks to Timofey Lisunov for providing the ru (Russian) locale translation!\nThanks to Matheus Damacs for providing the pt (Portuguese) locale translation!\nThanks to Yusuf Emen for providing the tr (Turkish) locale translation!\nThanks to Benjamin Yılmaz Çetiner for providing the de (German) locale translation!\n\nYou can change the app language by clicking the buttons below (the app will be restarted).</string>
 
     <string name="txt_description">This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. \nMore info <a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>.\n\nInsert the number and the <a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefix</a> with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.\nExample: for +44 (UK) 123 456 7890 write 44 1234567890</string>
     <string name="txt_extra_description">\nUse this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message).</string>
@@ -41,5 +41,16 @@ If you added/modified the following file add your name here to give credit:
     <string name="title_clearRecents">Clear recents:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
+    <string name="message_openFAQ">Do you want to open the FAQ (Frecuently asked questions) page? External browser will be opened.</string>
+
+
+    <string name="cntDesc_appInfo">App information</string>
+    <string name="cntDesc_prefixSelector">Prefix selector</string>
+    <string name="cntDesc_pasteClipboard">Paste from clipboard</string>
+    <string name="cntDesc_recentNumbers">Recent numbers</string>
+    <string name="cntDesc_recentMessages">Recent messages</string>
+    <string name="cntDesc_toggleAdv">Toggle advanced</string>
+    <string name="cntDesc_appFaq">Open \'frequently asked questions\' page</string>
+    <string name="cntDesc_appLogo">Application logo</string>
 
 </resources>

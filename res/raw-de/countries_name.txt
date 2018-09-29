@@ -1,7 +1,9 @@
+Kanada
 Vereinigte Staaten
 Bahamas
 Barbados
 Anguilla
+Antigua u.Barbuda
 Barbuda
 Brit. Jungferninseln
 U.S. Jungferninseln
@@ -13,6 +15,7 @@ Guam
 Amerikanisch-Samoa
 Dominica
 Puerto Rico
+Midway Island
 Wake Island
 Domin. Republik
 Trinidad und Tobago
@@ -49,6 +52,7 @@ Kongo
 Kongo. Dem. Rep.(Zaire)
 Angola
 Guinea-Bissau
+Brit. Territ. Ind. Ozean
 Diego Garcia
 Aufstieg
 Seychellen
@@ -57,11 +61,13 @@ Ruanda
 Äthiopien
 Dschibuti
 Kenia
+Tansania
 Sansibar
 Uganda
 Burundi
 Sambia
 Madagaskar
+Mayotte
 Wiedersehen
 Simbabwe
 Namibia
@@ -120,6 +126,7 @@ Schweden
 Norwegen
 Polen
 Deutschland
+Falklandinseln
 Südgeorgien/Sandwichins.
 Belize
 Guatemala
@@ -135,6 +142,7 @@ Kuba
 Zypern
 Argentinien
 Brasilien
+Chile
 Osterinsel
 Kolumbien
 Venezuela
@@ -142,19 +150,26 @@ Guadeloupe
 Bolivien
 Ecuador
 Franz.-Guayana
+Guyana
 Paraguay
+Franz. Antillen
 Martinique
 Surinam
 Uruguay
+Curacao
 Niederländische Antillen
 Malaysia
+Australien
+Weihnachtsinsel
 Cocos-Keeling Islands
 Indonesien
 Philippinen
 Neuseeland
 Singapur
 Thailand
+Osttimor
 Timor Leste
+Austr. Außengebiete
 Norfolkinsel
 Brunei
 Nauru

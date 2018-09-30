@@ -4,7 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '
+' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
 
 
 If you added/modified the following file add your name here to give credit:
@@ -14,10 +15,28 @@ Benjamin Yılmaz Çetiner
 <resources>
     <string name="app_name">Open in WhatsApp</string>
 
-    <string name="about_description">Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc. \n\n><a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>\n\n><a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App-Seite</a>\n\nDanksagungen:\n Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!\n Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugisische!\n Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische! \n Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch! \n\n Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
+    <string name="about_description">"Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc.
 
-    <string name="txt_description">Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt. \nWeitere Informationen erhalten Sie direkt in der <a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>.\n\nNummer und  <a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>  ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.\nBeispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890</string>
-    <string name="txt_extra_description">\nHier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet).</string>
+>"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App-Seite</a>"
+
+Danksagungen:
+Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!
+Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugiesische (Portugal)!
+Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische!
+Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch!
+Vielen Dank an Richard Anderson (Hirai RCD) für die Übersetzung in´s Portugiesische (Brasilien)!
+
+Sie können die gewünschte Landessprache ändern (App startet sich neu)."</string>
+
+    <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
+Weitere Informationen erhalten Sie direkt in der "<a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>".
+
+Nummer und  "<a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>"  ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
+Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890"</string>
+    <string name="txt_extra_description">"
+Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
 
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
@@ -30,7 +49,8 @@ Benjamin Yılmaz Çetiner
     <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
     <string name="error_nowhatsapp">Kann nicht in WhatsApp geöffnet werden. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ist WhatsApp auch (korrekt) installiert?</a></string>
 
-    <string name="toast_autoParser">Automatischer Parser.\n Vorwahl korrekt?!</string>
+    <string name="toast_autoParser">"Automatischer Parser.
+ Vorwahl korrekt?!"</string>
     <string name="toast_copied">In die Zwischenablage kopiert</string>
     <string name="toast_error_openLink">Link kann nicht geladen werden</string>
 

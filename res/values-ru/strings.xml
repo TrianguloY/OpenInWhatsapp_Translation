@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
@@ -22,9 +21,10 @@ Timofey Lisunov
 
 Выражается благодарность:
 Timofey Lisunov за предоставление перевода на русский язык!
-Matheus Damacs за предоставление перевода на португальский язык!
+Matheus Damacs за предоставление перевода на португальский (Португалия) язык!
 Yusuf Emen за предоставление перевода на турецкий язык!
 Benjamin Yılmaz Çetiner за предоставление перевода на немецкий язык!
+Richard Anderson (Hirai RCD) за предоставление перевода на немецкий (Бразилия) язык!
 
 Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено)."</string>
     <string name="app_name">Открыть в WhatsApp</string>

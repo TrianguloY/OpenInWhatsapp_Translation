@@ -8,58 +8,54 @@ Instructions for manual translation:
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
 
 If you added/modified the following file add your name here to give credit:
-Matheus Damacs
+Richard Anderson (Hirai RCD)
 
  -->
 <parameters>
-<title max_chars="50">Abrir no WhatsApp (conversa em um clique)</title>
-<description_short max_chars="80">?</description_short>
-<description_long max_chars="4000">Disclaimer: This app is not affiliated with WhatsApp Inc.
-------------------------------------------------------------------------------------------
+<title max_chars="50">Abrir no WhatsApp (Conversa em um Clique)</title>
+<description_short max_chars="80">Esse app abre uma conversa entre você e qualquer número existente.</description_short>
+<description_long max_chars="4000">Aviso: Esse aplicativo não é afiliado com a WhatsApp Inc.
+-----------------------------
 
-Este aplicativo usa a 'Conversa em um clique' pública do WhatsApp (https://faq.whatsapp.com/en/android/26000030/), para abrir uma conversa com qualquer número inserido (a conversa entre você e esse número, não é possível espiar outras conversas).
-Nenhum contato é criado no dispositivo, assim você não precisa salvar o número em sua lista de contatos, a fim de abrir o chat. Basta abrir o aplicativo, digite o número, clique no botão e o bate-papo será aberta (se o número existe, caso contrário, WhatsApp irá notificá-lo).
+'Para quê esse aplicativo é usado?' A resposta é mal interpretada as vezes: você pode conversar com outro usuário no WhatsApp se você tem o número dele salvo. Esse app permite você abrir essas conversas com outro usuário sem salvar seu número. Isso não permitirá você 'espiar outras conversas', 'contatar números sem WhatsApp', 'esconder seu número' ou qualquer outra coisa idiota. Isso é o mesmo de clicar em algum número desconhecido em um grupo, criar um link manualmente or salvar o contato.
 
-Especialmente útil em situações como:
-- Um número desconhecido(a) chamou você, e você quer saber se ele(as) têm WhatsApp?
-- Você precisa enviar uma mensagem para alguém, mas você não quer guardá-lo como um contato?
-- Você quer começar um bate-papo com você mesmo?
-Basta abrir o aplicativo e digitar o número (com prefixo).
+'Porque eu escolheria esse app ao invés de outros?' Você é livre para escolher, claro! Esse app pode não ter outros recursos, apenas o 'Abrir no WhatsApp', mas por esse mótivo o app é extremamente simples e eu o fiz sem anúncions, o menor possível e GŔATIS; apenas ajudar outros usar esse recurso do WhatsApp (reforço que não sou afiliado com a WhatsApp Inc). Desde que o publiquei, ele vem crescendo bastante (Obrigado!) e outros apps com a mesma função (algumas cópias descaradas sem minha permissão) se popularizaram na Play Store. Você pode usar o que preferir, mas esse é (até a última vez que chequei) é o menor de todos, o único sem propagandas, e o único que não precisa de permissões (nem internet, nem armazenamento, nada. Pode conferir!).
 
+-----------------------------
+
+Esse app usa o recurso Conversa em um Clique do WhatsApp (https://faq.whatsapp.com/en/android/26000030?lang=pt_br) para abrir uma conversa entre você e qualquer número existente.
+Nenhum contato é criado no dispositivo, você não precisa o salvar na sua lista de contatos. Apenas abra o app, insira o número, aperte no botão e o chat irá abrir (se o número não possuir cadastro, o WhatsApp irá te avisar: 'O número de telefone não está no WhatsApp).
+
+Útil em situações como:
+- Alguém te ligou ou te mandou mensagem e você quer saber se o número possui WhatsApp?
+- Você precisa mandar mensagem para alguém sem ter que salvar o número da pessoa?
+- Você quer conversar consigo mesmo? (Para salvar textos e links, por exemplo)
 
 Prefixo:
-Você precisa especificar o prefixo do número, mesmo que seja de seu próprio país. Você pode inserir o prefixo manualmente ou, se você não se lembra o prefixo de um país específico, você pode tocar no botão + para mostrar uma lista para escolher. O prefixo serão mantidas quando reabrir o aplicativo.
-Atalho oculto: longo toque no botão + para mostrar a lista ordenada por prefixo em vez de país.
-
+Você precisa especificar o prefixo do número, até se for do seu próprio país (será salvo para a pŕoxima vez que você abrir o app). Você pode o especificar manualmente, ou usar o botão + para escolher um da lista.
+Atalho oculto: dê um longo clique no botão + para organizar a lista por Prefixo.
 
 Criar links:
-Você pode criar um link HTML que, quando clicado, abrirá o WhatsApp no ​​número especificado. Esta é uma característica do WhatsApp, assim você não precisa deste aplicativo para abrir o link, apenas para criá-lo.
-Você também pode adicionar uma mensagem que será colocada na caixa de entrada. Não vai, repito, não serão enviados. O usuário deve pressionar o botão de enviar manualmente.
-Se você especificar uma mensagem, mas não um número, o WhatsApp vai perguntar onde enviá-lo (novamente, não será enviado. Apenas completada automaticamente).
-Você pode salvar o destino como um atalho rápido, compartilhá-lo para que as pessoas podem contatá-lo (o número é visível no link, tenha cuidado), definir uma mensagem predefinida em um site para 'compartilhá-la no WhatsApp', etc. Lembre-se, você não precisa deste aplicativo para abrir o link, ele é automaticamente tratado por WhatsApp.
-Atalho oculto: longo toque no botão 'Compartilhar' para copiar rapidamente o link para a área de transferência.
+Você pode criar um link que irá abrir o WhatsApp no número especificado. Esse é um recurso do WhatsApp, você não precisa desse app para abrir o link, apenas para criá-lo.
+Você também pode adicionar uma mensagem que será inserida automaticamente (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM, você deve pressionar o botão de Enviar manualmente).
+Se você adicionar uma mensagem, mas não especificar um número, o WhatsApp irá te perguntar para qual contato você deseja enviar a mensagem (NOVAMENTE, EU NÃO IREI MANDAR A MENSAGEM, APENAS ADICIONÁ-LA).
+Você pode salvar o link como um atalho, enviar para outras pessoas para que te contatem (o número é visível no link, tenha cuidado), predefinir uma mensagem em um site para que seja 'Compartilhada no WhatsApp', etc. Lembre-se, você não precisa desse app para abrir o link, o WhatsApp que cuida disso, o app apenas cria o link para você.
+Atalho oculto: dê um longo clique no botão 'Compartilhar' para rapidamente copiar o link para a área de transferência.
 
-
-Lista Recentes:
-Quando um número é aberto ele é salvo em uma "Lista Recentes", no caso de você deseja abrir um número de novo e você não se lembra do número. Se você abrir ativamente um número recorde que você pode criar um atalho no seu lançador diretamente do WhatsApp (a partir do bate-papo: Menu, mais, criar atalho).
-Atalho oculto: longo toque no botão Recentes para apagar a lista.
-
+Lista de Recentes:
+Quando um número é aberto, ele é salvo na Lista de Recentes, para caso você deseje o abrir novamente, e não lembre do número. Se você abre uma conversa com um número frequentemente, você pode criar um atalho para ele diretamente no WhatsApp (dentro da conversa: Menu, Mais, Adicionar atalho).
+Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
 
 ------------------------------------------
 
+Este app é um utilitário: simples e leve. Sem recursos adicionais, sem tamanho adicional, sem permissões, sem propagandas...apenas o recurso Abrir no WhatsApp (com o passar do tempo, irei tentar adicionar pequenas novas funcionalidades relacionadas ao recurso, mas eu planejo manter o app o mais simples e leve possível).
 
-Este é um aplicativo de ferramenta: simples e leve. Não há recursos extras, sem tamanho extra, sem permissões, sem anúncios. Apenas o recurso "Abrir no WhatsApp" (a cada atualização eu adiciono um pouco de recurso relacionado, mas eu quero mantê-lo tão simples e leve quanto possível).
-
-
-Tradução:
-Agradeço a Timofey Lisunov por fornecer-me a tradução RU (Russo) idioma local.
-Agradeço a Matheus Damacs por fornecer-me a tradução PT (Português) idioma local.
-Agradeço a Yusuf Emen por fornecer-me a tradução TR (Turco) idioma local.
+Traduções:
+Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner e Richard Anderson (Hirai RCD) pelas traduções!
 
 Permissões usadas:
-- Nenhuma permissão. (Não são necessárias)
-
+-Nenhuma- (não são necessárias)
 
 Tamanho do aplicativo:
-95.8 KB (0,09MB)</description_long>
+~100 KB (0,1MB)</description_long>
 </parameters>

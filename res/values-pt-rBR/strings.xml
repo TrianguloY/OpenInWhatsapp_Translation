@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Open In WhatsApp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '
+' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Richard Anderson (Hirai RCD)
+
+ -->
+<resources>
+    <string name="app_name">Abrir no WhatsApp (Conversa em um Clique)</string>
+
+    <string name="about_description">"Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc. 
+
+>"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página do App</a>"
+
+Acknowledgements:
+Obrigado à Timofey Lisunov por me fornecer a tradução em Russo!
+Obrigado à Matheus Damacs por me fornecer a tradução em Português de Portugal!
+Obrigado à Yusuf Emen por me fornecer a tradução em Turco!
+Obrigado à Benjamin Yılmaz Çetiner por me fornecer a tradução em Alemão!
+Obrigado à Richard Anderson (Hirai RCD) por me fornecer a tradução em Português de Brasil!
+
+Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado)."</string>
+
+    <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
+Mais informações "<a href="https://faq.whatsapp.com/en/android/26000030?lang=pt_br">aqui</a>".
+
+Insira o número e o "<a href="https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses">prefixo</a>" sem caracteres extras, apenas números de 0 a 9. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
+Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
+    <string name="txt_extra_description">"
+Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que irá ser PREENCHIDA no campo de texto (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM)."</string>
+
+    <string name="hint_editNumber">Número</string>
+    <string name="hint_editPrefix">Prefixo</string>
+    <string name="hint_message">Mensagem que será inserida, MAS NÃO ENVIADA.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Prefixo e Número]]></string>
+
+    <string name="btn_openInWhatsapp">Abrir</string>
+    <string name="btn_shareLink">Compartilhar</string>
+    <string name="chk_mergeInputs">Mesclar prefixo e número</string>
+
+    <string name="error_badData">Erro ao abrir. Dados incorretos</string>
+    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ele está instalado?</a></string>
+
+    <string name="toast_autoParser">"Analisando automaticamente.
+Verifique o prefixo!"</string>
+    <string name="toast_copied">Copiado para a área de transferência</string>
+    <string name="toast_error_openLink">Não foi possível abrir o link</string>
+
+    <string name="title_sendTo">Enviar link para:</string>
+    <string name="title_chooseCountry">Prefixos por país:</string>
+    <string name="title_chooseApp">Escolher app:</string>
+    <string name="title_clearRecents">Limpar recentes:</string>
+
+    <string name="message_clearRecents">Desejar limpar todos os recentes?</string>
+    <string name="message_openFAQ">Você deseja abrir o FAQ (Perguntas Frequentes do WhatsApp)? Um navegador externo será aberto.</string>
+
+
+    <string name="cntDesc_appInfo">Informações do App</string>
+    <string name="cntDesc_prefixSelector">Selecionar prefixo</string>
+    <string name="cntDesc_pasteClipboard">Colar da área de transferência</string>
+    <string name="cntDesc_recentNumbers">Números recentes</string>
+    <string name="cntDesc_recentMessages">Mensagens recentes</string>
+    <string name="cntDesc_toggleAdv">Abrir Opções Avançadas</string>
+    <string name="cntDesc_appFaq">Abrir \'FAQ\'</string>
+    <string name="cntDesc_appLogo">Logo do Aplicativo</string>
+
+</resources>

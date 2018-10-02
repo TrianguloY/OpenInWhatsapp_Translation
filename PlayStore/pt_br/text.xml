@@ -15,13 +15,7 @@ Richard Anderson (Hirai RCD)
 <title max_chars="50">Abrir no WhatsApp (Conversa em um Clique)</title>
 <description_short max_chars="80">Esse app abre uma conversa entre você e qualquer número existente.</description_short>
 <description_long max_chars="4000">Aviso: Esse aplicativo não é afiliado com a WhatsApp Inc.
------------------------------
-
-'Para quê esse aplicativo é usado?' A resposta é mal interpretada as vezes: você pode conversar com outro usuário no WhatsApp se você tem o número dele salvo. Esse app permite você abrir essas conversas com outro usuário sem salvar seu número. Isso não permitirá você 'espiar outras conversas', 'contatar números sem WhatsApp', 'esconder seu número' ou qualquer outra coisa idiota. Isso é o mesmo de clicar em algum número desconhecido em um grupo, criar um link manualmente or salvar o contato.
-
-'Porque eu escolheria esse app ao invés de outros?' Você é livre para escolher, claro! Esse app pode não ter outros recursos, apenas o 'Abrir no WhatsApp', mas por esse mótivo o app é extremamente simples e eu o fiz sem anúncions, o menor possível e GŔATIS; apenas ajudar outros usar esse recurso do WhatsApp (reforço que não sou afiliado com a WhatsApp Inc). Desde que o publiquei, ele vem crescendo bastante (Obrigado!) e outros apps com a mesma função (algumas cópias descaradas sem minha permissão) se popularizaram na Play Store. Você pode usar o que preferir, mas esse é (até a última vez que chequei) é o menor de todos, o único sem propagandas, e o único que não precisa de permissões (nem internet, nem armazenamento, nada. Pode conferir!).
-
------------------------------
+------------------------------------------------------------------------------------------
 
 Esse app usa o recurso Conversa em um Clique do WhatsApp (https://faq.whatsapp.com/en/android/26000030?lang=pt_br) para abrir uma conversa entre você e qualquer número existente.
 Nenhum contato é criado no dispositivo, você não precisa o salvar na sua lista de contatos. Apenas abra o app, insira o número, aperte no botão e o chat irá abrir (se o número não possuir cadastro, o WhatsApp irá te avisar: 'O número de telefone não está no WhatsApp).

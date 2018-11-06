@@ -48,7 +48,7 @@ Agradecimientos:
 ¡Gracias a Benjamin Yılmaz Çetiner por la traducción al Alemán!
 ¡Gracias a Richard Anderson (Hirai RCD) por la traducción al Portugués (Brasil)!
 
-Puedes cambiar el idioma de la aplicación pulsando los botones de debajo (la aplicación se reiniciará)."</string>
+Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará)."</string>
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>
     <string name="title_chooseApp">Elige aplicación:</string>
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>
@@ -62,4 +62,5 @@ Puedes cambiar el idioma de la aplicación pulsando los botones de debajo (la ap
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
     <string name="cntDesc_appFaq">Abrir página de preguntas frecuentes</string>
+    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">aquí</a> (~1€)</string>
 </resources>

@@ -28,7 +28,7 @@ Thanks to Yusuf Emen for providing the tr (Turkish) locale translation!
 Thanks to Benjamin Yılmaz Çetiner for providing the de (German) locale translation!
 Thanks to Richard Anderson (Hirai RCD) for providing the pt-br (Portuguese - Brazil) locale translation!
 
-You can change the app language by clicking the buttons below (the app will be restarted)."</string>
+You can change the app language by clicking the button below (the app will be restarted)."</string>
 
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. 
 More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
@@ -37,6 +37,7 @@ Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_countr
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
+    <string name="txt_donation" comment="This string will only be visible on english and spanish translations">For those who asked: you can give me a small donation <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">here</a> (~1€)</string>
 
     <string name="hint_editNumber">Number</string>
     <string name="hint_editPrefix">Pref</string>
@@ -69,8 +70,10 @@ Check the prefix!"</string>
     <string name="cntDesc_pasteClipboard">Paste from clipboard</string>
     <string name="cntDesc_recentNumbers">Recent numbers</string>
     <string name="cntDesc_recentMessages">Recent messages</string>
+    <string name="cntDesc_calls">Unknown calls</string>
     <string name="cntDesc_toggleAdv">Toggle advanced</string>
     <string name="cntDesc_appFaq">Open \'frequently asked questions\' page</string>
     <string name="cntDesc_appLogo">Application logo</string>
+
 
 </resources>

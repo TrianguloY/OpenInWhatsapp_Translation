@@ -63,4 +63,14 @@ Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la apli
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
     <string name="cntDesc_appFaq">Abrir página de preguntas frecuentes</string>
     <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">aquí</a> (~1€)</string>
+    <string name="cntDesc_appLogo">Logo de la aplicación</string>
+    <string name="txt_addonDescr">[BETA] Con este complemento le darás acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
+    <string name="btn_addonLink">Complemento</string>
+    <string name="cntDesc_calls">Llamadas desconocidas</string>
+    <string name="cntDesc_addons">Abrir la página del complemento</string>
+    <string name="util_cancel">Cancelado</string>
+    <string name="addon_message_loadingCalls">Cargando lista de llamadas desconocidas…</string>
+    <string name="addon_toast_noCalls">No hay números desconocidos o no han podido ser leidos</string>
+    <string name="addon_message_requestpermisions">Esto mostrará un listado de llamadas recientes desconocidas. Permisos para ver las llamadas recientes y los contactos (para quitar números conocidos) son necesarios.</string>
+    <string name="addon_btn_grant">Dar acceso</string>
 </resources>

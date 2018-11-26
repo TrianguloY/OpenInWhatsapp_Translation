@@ -13,7 +13,7 @@ Richard Anderson (Hirai RCD)
 
  -->
 <resources>
-    <string name="app_name">Abrir no WhatsApp (Conversa em um Clique)</string>
+    <string name="app_name">Conversa em um Clique</string>
 
     <string name="about_description">"Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc. 
 
@@ -31,7 +31,7 @@ Obrigado à Richard Anderson (Hirai RCD) por me fornecer a tradução em Portugu
 Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado)."</string>
 
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
-Mais informações "<a href="https://faq.whatsapp.com/en/android/26000030?lang=pt_br">aqui</a>".
+Mais informações "<a href="https://faq.whatsapp.com/pt_br/general/26000030">aqui</a>".
 
 Insira o número e o "<a href="https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses">prefixo</a>" sem caracteres extras, apenas números de 0 a 9. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
 Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>

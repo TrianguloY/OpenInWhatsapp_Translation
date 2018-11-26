@@ -12,9 +12,10 @@ Richard Anderson (Hirai RCD)
 
  -->
 <parameters>
-<title max_chars="50">Abrir no WhatsApp (Conversa em um Clique)</title>
+<title max_chars="50">Conversa em um Clique</title>
 <description_short max_chars="80">Esse app abre uma conversa entre você e qualquer número existente.</description_short>
 <description_long max_chars="4000">Aviso: Esse aplicativo não é afiliado com a WhatsApp Inc.
+Previous name: "Abrir no WhatsApp (conversa em um clique)", changed to comply with WhatsApp guidelines.
 ------------------------------------------------------------------------------------------
 
 Esse app usa o recurso Conversa em um Clique do WhatsApp (https://faq.whatsapp.com/en/android/26000030?lang=pt_br) para abrir uma conversa entre você e qualquer número existente.

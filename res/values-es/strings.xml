@@ -14,7 +14,7 @@ TrianguloY
 
  -->
 <resources>
-    <string name="app_name">Abrir en WhatsApp</string>
+    <string name="app_name">Click para chatear</string>
     <string name="txt_description">"Esta aplicación utiliza la api pública de WhatsApp para abrir un chat con cualquier número que introduzcas. Ningún contacto se crea en el teléfono.
 Más información "<a href="https://www.whatsapp.com/faq/es/general/26000030">aquí</a>".
 

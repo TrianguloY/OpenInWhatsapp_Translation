@@ -12,9 +12,10 @@ TrianguloY
 
  -->
 <parameters>
-<title max_chars="50">Abrir en WhatsApp (click para chatear)</title>
+<title max_chars="50">Click para chatear</title>
 <description_short max_chars="80">Abre un chat en WhatsApp de cualquier número (tu y ese número).</description_short>
 <description_long max_chars="4000">Disclaimer: Esta aplicación no está asociada con WhatsApp Inc.
+Nombre anterior: "Abrir en Whatsapp (click para chatear)", cambiado para cumplir con las pautas de WhatsApp.
 ------------------------------------------------------------------------------------------
 
 Esta aplicación utiliza la característica 'click para chatear' pública de WhatsApp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones). 
@@ -52,9 +53,11 @@ Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin
 
 
 Traducción:
-¡Gracias a Timofey Lisunov por la traducción al idioma ru (Ruso)!
-¡Gracias a Matheus Damacs por la traducción al idioma pt (Portuguese)!
-¡Gracias a Yusuf Emen por la traducción al idioma tr (Turco)!
+¡Gracias a Timofey Lisunov por la traducción al Ruso!
+¡Gracias a Matheus Damacs por la traducción al Portugués (Portugal)!
+¡Gracias a Yusuf Emen por la traducción al Turco!
+¡Gracias a Benjamin Yılmaz Çetiner por la traducción al Alemán!
+¡Gracias a Richard Anderson (Hirai RCD) por la traducción al Portugués (Brasil)!
 
 
 Permisos usados:
@@ -62,5 +65,5 @@ Permisos usados:
 
 
 Tamaño del apk:
-95.8 KB (0,09MB)</description_long>
+~100 KB (0,1MB)</description_long>
 </parameters>

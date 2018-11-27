@@ -2,34 +2,34 @@ Canadá
 Estados Unidos
 Bahamas
 Barbados
-Anguila
+Anguilla
 Antígua e Barbuda
 Barbuda
 Ilhas Virgens Britânicas
-Ilhas Virgens dos EUA
-Bermuda
-Grenada
-Turcos e Caicos Islands
-Ilhas Marianas do Norte
+Ilhas Virgens Americanas
+Bermudas
+Granada
+Ilhas Turcas e Caicos
+Marianas Setentrionais
 Guam
 Samoa Americana
 Dominica
 Porto Rico
-Ilha Midway
+Atol Midway
 Ilha Wake
 República Dominicana
-Trinidad e Tobago
+Trindade e Tobago
 Nevis
 Jamaica
 Montserrat
-Egipo
+Egito
 Marrocos
-Algéria
+Argélia
 Tunísia
 Líbia
 Gâmbia
 Senegal
-Mauritânia
+Mauritania
 Mali
 Guiné
 Costa do Marfim
@@ -37,7 +37,7 @@ Burkina Faso
 Níger
 Togo
 Benin
-Maurícia
+Maurício
 Libéria
 Serra Leoa
 Gana
@@ -49,16 +49,17 @@ Cabo Verde
 Guiné Equatorial
 Gabão
 Congo
-Congo, Dem. Rep. De (Zaire)
+Congo, Rep. Dem. do (Zaire)
 Angola
 Guiné-Bissau
-Território britânico do Oceano Índico
+British Indian Ocean Territory
 Diego Garcia
 Ascensão
 Seychelles
 Sudão
 Ruanda
 Etiópia
+Somália
 Djibouti
 Quênia
 Tanzânia
@@ -66,25 +67,25 @@ Zanzibar
 Uganda
 Burundi
 Zâmbia
-Madagáscar
+Madagascar
 Mayotte
-Reunion
+Reunião
 Zimbábue
 Namíbia
-Malawi
+Malaui
 Lesoto
-Botswana
+Botsuana
 Suazilândia
 Comores
 África do Sul
 Eritréia
 Aruba
-ilhas Faroe
-Gronelândia
+Ilhas Faroe
+Groenlândia
 Grécia
 Países Baixos
 Bélgica
-Francesa
+França
 Espanha
 Ilhas Cayman
 Gibraltar
@@ -102,10 +103,10 @@ Letônia
 Estônia
 Moldávia
 Armênia
-Bielorrússia
+Belarus
 Andorra
 Mônaco
-São Marinho
+San Marino
 Ucrânia
 Sérvia
 Montenegro
@@ -114,7 +115,7 @@ Eslovênia
 Bósnia e Herzegovina
 Macedônia
 Itália
-România
+Romênia
 Suíça
 República Checa
 Eslováquia
@@ -143,7 +144,7 @@ Chipre
 Argentina
 Brasil
 Chile
-ilha da Páscoa
+Ilha da Páscoa
 Colômbia
 Venezuela
 Guadalupe
@@ -152,7 +153,7 @@ Equador
 Guiana Francesa
 Guiana
 Paraguai
-Antilhas francesas
+Antilhas Francesas
 Martinica
 Suriname
 Uruguai
@@ -169,8 +170,8 @@ Cingapura
 Tailândia
 Timor Leste
 Timor Leste
-Territórios externos australianos
-Ilha de Norfolk
+Territórios Externos da Austrália
+Ilha Norfolk
 Brunei
 Nauru
 Papua Nova Guiné
@@ -191,20 +192,20 @@ Tokelau
 Micronésia
 Ilhas Marshall
 Rússia
-Casaquistão
-Abkhazia
+Cazaquistão
+Abecásia
 Japão
 Coreia do Sul
 Vietnã
 Coreia do Norte
-Hong Kong SAR China
-RAE de Macau China
+Hong Kong, SAR, China
+Macau SAR China
 Camboja
 Laos
 China
-Bangla
+Bangladesh
 Taiwan
-Turquia
+Peru
 Índia
 Paquistão
 Afeganistão
@@ -212,7 +213,7 @@ Sri Lanka
 Myanmar
 Maldivas
 Líbano
-Jordana
+Jordânia
 Síria
 Iraque
 Kuwait
@@ -222,14 +223,14 @@ Omã
 Território Palestino
 Emirados Árabes Unidos
 Israel
-Bahrein
+Bahrain
 Catar
 Butão
 Mongólia
 Nepal
 Irã
 Tajiquistão
-Turquemenistão
+Turcomenistão
 Azerbaijão
 Geórgia
 Quirguistão

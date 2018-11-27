@@ -13,9 +13,10 @@ Yusuf Emen
 
  -->
 <parameters>
-<title max_chars="50">WhatsApp'ta Aç (Tıkla Sohbet Et)</title>
+<title max_chars="50">Tıkla Sohbet Et</title>
 <description_short max_chars="80">Herhangi bir numarayla bir WhatsApp sohbeti başlatın.</description_short>
 <description_long max_chars="4000">Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
+Previous name: "WhatsApp'ta Aç (tıkla Sohbet Et)", changed to comply with WhatsApp guidelines.
 ------------------------------------------------------------------------------------------
 
 Bu uygulama, girdiğiniz herhangi bir numara ile sohbet başlatmak için (Siz ve girdiğiniz numara arasında, diğer sohbetleri görmek mümkün DEĞİLDİR.) WhatsApp'ın herkese açık 'tıkla sohbet et' (Daha fazla bilgi için: https://faq.whatsapp.com/tr/android/26000030/) özelliğini kullanır.
@@ -53,9 +54,11 @@ Bu bir araç uygulamasıdır: Basit ve yer kaplamaz. Fazladan özellikler yok, f
 
 
 Çeviri:
-Rusça (ru) çeviri için Timofey Lisunov'a teşekkürler!
-Portekizce (pt) çeviri için Matheus Damacs'a teşekkürler!
-Türkçe (tr) çevirisi için Yusuf Emen'e teşekkürler!
+Rusça çeviri için Timofey Lisunov'a teşekkürler!
+Portekizce (Portekiz) çeviri için Matheus Damacs'a teşekkürler!
+Türkçe çevirisi için Yusuf Emen'e teşekkürler!
+Almanca çevirisi için Benjamin Yılmaz Çetiner'e teşekkürler!
+Portekizce (Brezilya) çevirisi için Richard Anderson (Hirai RCD)'e teşekkürler!
 
 
 Kullanılan izinler:
@@ -63,5 +66,5 @@ Kullanılan izinler:
 
 
 APK boyutu:
-95.8 KB (0,09MB)</description_long>
+~100 KB (0,1MB)</description_long>
 </parameters>

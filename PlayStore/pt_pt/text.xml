@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+text.xml file from Open In WhatsApp app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+
+If you added/modified the following file add your name here to give credit:
+Matheus Damacs
+
+ -->
+<parameters>
+<title max_chars="50">Conversa em um clique</title>
+<description_short max_chars="80">Abra o bate-papo do WhatsApp a partir de qualquer número (você e esse número).</description_short>
+<description_long max_chars="4000">Disclaimer: This app is not affiliated with WhatsApp Inc.
+Previous name: "Abrir no WhatsApp (conversa em um clique)", changed to comply with WhatsApp guidelines.
+------------------------------------------------------------------------------------------
+
+Este aplicativo usa a 'Conversa em um clique' pública do WhatsApp (https://faq.whatsapp.com/en/android/26000030/), para abrir uma conversa com qualquer número inserido (a conversa entre você e esse número, não é possível espiar outras conversas).
+Nenhum contato é criado no dispositivo, assim você não precisa salvar o número em sua lista de contatos, a fim de abrir o chat. Basta abrir o aplicativo, digite o número, clique no botão e o bate-papo será aberta (se o número existe, caso contrário, WhatsApp irá notificá-lo).
+
+Especialmente útil em situações como:
+- Um número desconhecido(a) chamou você, e você quer saber se ele(as) têm WhatsApp?
+- Você precisa enviar uma mensagem para alguém, mas você não quer guardá-lo como um contato?
+- Você quer começar um bate-papo com você mesmo?
+Basta abrir o aplicativo e digitar o número (com prefixo).
+
+
+Prefixo:
+Você precisa especificar o prefixo do número, mesmo que seja de seu próprio país. Você pode inserir o prefixo manualmente ou, se você não se lembra o prefixo de um país específico, você pode tocar no botão + para mostrar uma lista para escolher. O prefixo serão mantidas quando reabrir o aplicativo.
+Atalho oculto: longo toque no botão + para mostrar a lista ordenada por prefixo em vez de país.
+
+
+Criar links:
+Você pode criar um link HTML que, quando clicado, abrirá o WhatsApp no ​​número especificado. Esta é uma característica do WhatsApp, assim você não precisa deste aplicativo para abrir o link, apenas para criá-lo.
+Você também pode adicionar uma mensagem que será colocada na caixa de entrada. Não vai, repito, não serão enviados. O usuário deve pressionar o botão de enviar manualmente.
+Se você especificar uma mensagem, mas não um número, o WhatsApp vai perguntar onde enviá-lo (novamente, não será enviado. Apenas completada automaticamente).
+Você pode salvar o destino como um atalho rápido, compartilhá-lo para que as pessoas podem contatá-lo (o número é visível no link, tenha cuidado), definir uma mensagem predefinida em um site para 'compartilhá-la no WhatsApp', etc. Lembre-se, você não precisa deste aplicativo para abrir o link, ele é automaticamente tratado por WhatsApp.
+Atalho oculto: longo toque no botão 'Compartilhar' para copiar rapidamente o link para a área de transferência.
+
+
+Lista Recentes:
+Quando um número é aberto ele é salvo em uma "Lista Recentes", no caso de você deseja abrir um número de novo e você não se lembra do número. Se você abrir ativamente um número recorde que você pode criar um atalho no seu lançador diretamente do WhatsApp (a partir do bate-papo: Menu, mais, criar atalho).
+Atalho oculto: longo toque no botão Recentes para apagar a lista.
+
+
+------------------------------------------
+
+
+Este é um aplicativo de ferramenta: simples e leve. Não há recursos extras, sem tamanho extra, sem permissões, sem anúncios. Apenas o recurso "Abrir no WhatsApp" (a cada atualização eu adiciono um pouco de recurso relacionado, mas eu quero mantê-lo tão simples e leve quanto possível).
+
+
+Tradução:
+Agradeço a Timofey Lisunov por fornecer-me a tradução RU (Russo) idioma local.
+Agradeço a Matheus Damacs por fornecer-me a tradução PT-PT (Português - Portugal) idioma local.
+Agradeço a Yusuf Emen por fornecer-me a tradução TR (Turco) idioma local.
+Agradeço a Benjamin Yılmaz Çetiner por fornecer-me a tradução DE (Alemão) idioma local.
+Agradeço a Richard Anderson (Hirai RCD) por fornecer-me a tradução PT-BR (Português - Brasil) idioma local.
+
+Permissões usadas:
+- Nenhuma permissão. (Não são necessárias)
+
+
+Tamanho do aplicativo:
+~100 KB (0,1MB)</description_long>
+</parameters>

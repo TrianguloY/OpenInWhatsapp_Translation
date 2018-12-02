@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-strings.xml file from Open In WhatsApp app by TrianguloY.
+strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
-Instructions for manual translation: 
+Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Don't translate text with the translatable="false" parameter (<string name="..." translatable="false"> ... </string>)
 -Line breaks are specified with '
 ' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
 

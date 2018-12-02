@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-text.xml file from Open In WhatsApp app by TrianguloY.
+text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -20,7 +20,7 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 
 'What is this app used for?' The answer is often misunderstood: you can open a chat on the official WhatsApp app (or Business) with another user if you know their number. This app replaces the method of saving the number into contacts. This will NOT allow you to 'spy other conversations', 'contact with numbers without WhatsApp', 'hide your number' or other crazy things. This is the same as clicking an unknown number on a group, creating manually the url link or saving the contact.
 
-'Why should I use this instead of others?' You are free to choose of course! This app may not have other features, only the 'open in WhatsApp' and improvements, but for this reason the app is extremely simple and so I made it without ads, as small a possible, and free; just to help others use this feature that WhatsApp have (note that I'm not affiliated with WhatsApp Inc). Since I published it the popularity increased as unexpected (thanks!) and other apps with the same functionality (some even blatant copies without my permission) have populated the store. You can use whichever you prefer, but this one is (last time I checked at least) the smallest of all, the only one add-free, and the only one without permissions (not internet, not storage, nothing. Check it! ).
+'Why should I use this instead of others?' You are free to choose of course! This app only has the 'open in WhatsApp' feature and improvements, but for this reason the app is extremely simple and so I made it without ads, as small a possible, and free; just to help others use this feature that WhatsApp have (note that I'm not affiliated with WhatsApp Inc). Since I published it the popularity increased as unexpected (thanks!) and other apps with the same functionality (some even blatant copies without my permission) have populated the store. You can use whichever you prefer, but this one is (last time I checked at least) the smallest of all, the only one add-free, and the only one without permissions (not internet, not storage, nothing. Check it! ).
 
 -------------------
 
@@ -52,7 +52,7 @@ Hidden shortcut: long tap the recents button to delete the list.
 This is a tool app: simple and lightweight. No extra features, no extra size, no permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related feature, but I want to keep it as simple and lightweight as possible).
 
 Translation:
-Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner and Richard Anderson (Hirai RCD) for the locale translations!
+Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD) and Aditya for the locale translations!
 
 Permissions used:
 -Nothing- (they aren't necessary)

@@ -1,5 +1,5 @@
 # OpenInWhatsapp_Translation
-Translation files for Android app 'Open in Whatsapp' https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Translation files for Android app 'Click to chat' https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
 
 You can provide your own translations or improve current ones, either by a pull request or sending me the files by email. Also please agree with the following points:
 - You are doing this for free. I can't pay you anything.

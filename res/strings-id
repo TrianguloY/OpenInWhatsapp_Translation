@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '
+' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+If you added/modified the following file add your name here to give credit:
+ -->
+<resources>
+    <string name="app_name">Klik untuk mengobrol</string>
+
+    <string name="about_description">"Aplikasi yang dibuat oleh TrianguloY. Aplikasi ini tidak berafiliasi dengan WhatsApp Inc. 
+
+>"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Halaman aplikasi</a>"
+
+Ucapan Terima Kasih:
+Terima kasih kepada Dipta Haryono karena menyediakan terjemahan lokal id (Indoneian)!
+Terima kasih kepada Timofey Lisunov karena menyediakan terjemahan lokal ru (Rusia)!
+Terima kasih kepada Matheus Damacs karena menyediakan terjemahan lokal pt-pt (Portugis - Portugal)!
+Terima kasih kepada Yusuf Emen karena menyediakan terjemahan lokal tr (Turki)!
+Terima kasih kepada Benjamin Yılmaz Çetiner karena menyediakan terjemahan lokal de (Jerman)!
+Terima kasih kepada Richard Anderson (Hirai RCD) karena menyediakan terjemahan lokal pt-br (Portugis - Brasil)!
+
+Anda dapat mengubah bahasa aplikasi dengan mengklik tombol di bawah ini (aplikasi akan dimulai ulang)."</string>
+
+    <string name="txt_description">"Aplikasi ini menggunakan api publik WhatsApp untuk membuka obrolan dengan nomor apa pun yang Anda masukkan. Tidak ada kontak yang dibuat pada perangkat. 
+Info lebih lanjut "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
+
+Masukkan nomor dan "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">awalan</a>" tanpa karakter tambahan, hanya angka 0–9. Anda dapat mengklik item \'+\' untuk memilih dari daftar.
+Contoh: for +62 (IN) 123 456 7890 menulis 62 1234567890"</string>
+    <string name="txt_extra_description">"
+Gunakan ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Anda dapat menentukan nomor dan / atau pesan yang akan ditempatkan pada kotak input (TIDAK akan, saya ulangi, TIDAK akan mengirim pesan)."</string>
+    <string name="txt_donation" comment="This string will only be visible on english and spanish translations">Bagi mereka yang bertanya: Anda bisa memberi saya sumbangan kecil <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">here</a> (~1€)</string>
+    <string name="txt_addonDescr">[BETA] Dengan addon ini Anda dapat mengizinkan aplikasi ini menampilkan daftar panggilan terakhir yang tidak dikenal untuk diklik. Jangan khawatir: gratis, lebih kecil dari gambar, dan tidak ada iklan.</string>
+
+    <string name="hint_editNumber">Nomor</string>
+    <string name="hint_editPrefix">Sebelumnya</string>
+    <string name="hint_message">Pesan yang akan dilengkapi secara otomatis, TIDAK dikirim.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+
+    <string name="btn_openInWhatsapp">Buka</string>
+    <string name="btn_shareLink">Bagikan</string>
+    <string name="chk_mergeInputs">Gabungkan awalan dan angka masukan</string>
+    <string name="btn_addonLink">Addon</string>
+
+    <string name="error_badData">Kesalahan saat membuka. Data salah</string>
+    <string name="error_nowhatsapp">Tidak dapat membuka WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>
+
+    <string name="toast_autoParser">"Pengurai otomatis.
+Periksa awalan!"</string>
+    <string name="toast_copied">Disalin ke clipboard</string>
+    <string name="toast_error_openLink">Tidak dapat membuka tautan</string>
+
+    <string name="title_sendTo">Kirim tautan ke:</string>
+    <string name="title_chooseCountry">Awalan menurut negara:</string>
+    <string name="title_chooseApp">Pilih aplikasi:</string>
+    <string name="title_clearRecents">Bersihkan yang terbaru:</string>
+
+    <string name="message_clearRecents">Apakah Anda ingin menghapus semua yang terbaru?</string>
+    <string name="message_openFAQ">Apakah Anda ingin membuka halaman FAQ (Pertanyaan yang sering diajukan)? Browser eksternal akan dibuka.</string>
+
+
+    <string name="cntDesc_appInfo">Informasi aplikasi</string>
+    <string name="cntDesc_prefixSelector">Pemilih awalan</string>
+    <string name="cntDesc_pasteClipboard">Tempel dari clipboard</string>
+    <string name="cntDesc_recentNumbers">Angka terbaru</string>
+    <string name="cntDesc_recentMessages">Pesan terbaru</string>
+    <string name="cntDesc_calls">Panggilan tidak dikenal</string>
+    <string name="cntDesc_toggleAdv">Beralih muka/maju</string>
+    <string name="cntDesc_appFaq">Buka halaman \'pertanyaan umum\'</string>
+    <string name="cntDesc_appLogo">Logo aplikasi</string>
+    <string name="cntDesc_addons">Buka halaman Addon</string>
+
+    <string name="util_cancel">Batal</string>
+
+    <string name="addon_message_loadingCalls">Memuat daftar panggilan yang tidak dikenal…</string>
+    <string name="addon_toast_noCalls">Tidak ada nomor tak dikenal yang ditemukan atau tidak bisa dibaca</string>
+    <string name="addon_message_requestpermisions">Ini akan menampilkan daftar panggilan terakhir yang tidak diketahui. Diperlukan izin untuk melihat panggilan dan mengakses kontak (untuk menghapus nomor yang diketahui).</string>
+    <string name="addon_btn_grant">Berikan akses</string>
+
+
+</resources>

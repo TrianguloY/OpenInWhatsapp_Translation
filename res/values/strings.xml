@@ -48,6 +48,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="btn_openInWhatsapp">Open</string>
     <string name="btn_shareLink">Share</string>
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
+    <string name="chk_enableRecents">Save recent numbers/messages.</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>

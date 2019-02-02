@@ -72,5 +72,5 @@ Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la apli
     <string name="addon_toast_noCalls">No hay números desconocidos o no han podido ser leidos</string>
     <string name="addon_message_requestpermisions">Esto mostrará un listado de llamadas recientes desconocidas. Permisos para ver las llamadas recientes y los contactos (para quitar números conocidos) son necesarios.</string>
     <string name="addon_btn_grant">Dar acceso</string>
-    <string name="chk_enableRecents">Guardar números/mensajes recientes.</string>
+    <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
 </resources>

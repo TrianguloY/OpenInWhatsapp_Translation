@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-strings.xml file from Open In WhatsApp app by TrianguloY.
+strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -37,7 +37,7 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
 Пример: для +7 (РФ) 123-456-78-90 введите 7 1234567890"</string>
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
-    <string name="txt_addonDescr">[БЕТА] С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов. Он бесплатный, маленький и без рекламы.</string>
+    <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов. Он бесплатный, маленький и без рекламы.</string>
 
     <string name="hint_editNumber">Номер</string>
     <string name="hint_editPrefix">Код</string>
@@ -47,10 +47,11 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
+    <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="btn_addonLink">Модуль</string>
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp"> Он установлен?</a></string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он установлен?</a></string>
 
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>

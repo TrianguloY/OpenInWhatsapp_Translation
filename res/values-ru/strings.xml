@@ -47,10 +47,11 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
+    <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="btn_addonLink">Модуль</string>
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp"> Он установлен?</a></string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он установлен?</a></string>
 
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>

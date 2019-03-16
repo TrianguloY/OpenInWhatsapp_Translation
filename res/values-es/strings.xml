@@ -38,16 +38,12 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página de la aplicación</a>"
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página de la aplicación</a></string>
 
-Agradecimientos:
-¡Gracias a Timofey Lisunov por la traducción al Ruso!
-¡Gracias a Matheus Damacs por la traducción al Portugués (Portugal)!
-¡Gracias a Yusuf Emen por la traducción al Turco!
-¡Gracias a Benjamin Yılmaz Çetiner por la traducción al Alemán!
-¡Gracias a Richard Anderson (Hirai RCD) por la traducción al Portugués (Brasil)!
+    <string name="about_acknowledgements">"Agradecimientos:
+¡Gracias a %n por la traducción al %l!"</string>
 
-Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará)."</string>
+    <string name="about_language">Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará).</string>
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>
     <string name="title_chooseApp">Elige aplicación:</string>
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>

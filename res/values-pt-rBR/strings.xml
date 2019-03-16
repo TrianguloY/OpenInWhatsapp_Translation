@@ -19,16 +19,12 @@ Richard Anderson (Hirai RCD)
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página do App</a>"
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página do App</a></string>
 
-Acknowledgements:
-Obrigado à Timofey Lisunov por me fornecer a tradução em Russo!
-Obrigado à Matheus Damacs por me fornecer a tradução em Português de Portugal!
-Obrigado à Yusuf Emen por me fornecer a tradução em Turco!
-Obrigado à Benjamin Yılmaz Çetiner por me fornecer a tradução em Alemão!
-Obrigado à Richard Anderson (Hirai RCD) por me fornecer a tradução em Português de Brasil!
+    <string name="about_acknowledgements">"Acknowledgements:
+Obrigado à %n por me fornecer a tradução em %l!"</string>
 
-Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado)."</string>
+    <string name="about_language">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
 
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
 Mais informações "<a href="https://faq.whatsapp.com/pt_br/general/26000030">aqui</a>".

@@ -19,16 +19,12 @@ If you added/modified the following file add your name here to give credit:
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a>"
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a></string>
 
-Acknowledgements:
-Thanks to Timofey Lisunov for providing the ru (Russian) locale translation!
-Thanks to Matheus Damacs for providing the pt-pt (Portuguese - Portugal) locale translation!
-Thanks to Yusuf Emen for providing the tr (Turkish) locale translation!
-Thanks to Benjamin Yılmaz Çetiner for providing the de (German) locale translation!
-Thanks to Richard Anderson (Hirai RCD) for providing the pt-br (Portuguese - Brazil) locale translation!
+    <string name="about_acknowledgements">"Acknowledgements:
+Thanks to %n for providing the %l locale translation!"</string>
 
-You can change the app language by clicking the button below (the app will be restarted)."</string>
+    <string name="about_language">You can change the app language by clicking the button below (the app will be restarted).</string>
 
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. 
 More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
@@ -37,7 +33,7 @@ Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_countr
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
-    <string name="txt_donation" comment="This string will only be visible on english and spanish translations">For those who asked: you can give me a small donation <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">here</a> (~1€)</string>
+    <string name="txt_donation">For those who asked: you can give me a small donation <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">here</a> (~1€)</string><!-- Note to translators: This string will only be visible on english and spanish translations, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 
     <string name="hint_editNumber">Number</string>

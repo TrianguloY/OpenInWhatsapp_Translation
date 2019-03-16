@@ -19,16 +19,12 @@ Timofey Lisunov
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Магазин Google Play</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Страница приложения</a>"
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Страница приложения</a></string>
 
-Выражается благодарность:
-Timofey Lisunov за предоставление перевода на русский язык!
-Matheus Damacs за предоставление перевода на португальский (Португалия) язык!
-Yusuf Emen за предоставление перевода на турецкий язык!
-Benjamin Yılmaz Çetiner за предоставление перевода на немецкий язык!
-Richard Anderson (Hirai RCD) за предоставление перевода на португальский (Бразилия) язык!
+    <string name="about_acknowledgements">"Выражается благодарность:
+%n за предоставление перевода на %l язык!"</string>
 
-Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено)."</string>
+    <string name="about_language">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
 
     <string name="txt_description">"Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.
 Подробнее "<a href="https://www.whatsapp.com/faq/ru/general/26000030">здесь</a>".

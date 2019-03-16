@@ -19,16 +19,12 @@ Benjamin Yılmaz Çetiner
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App-Seite</a>"
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App-Seite</a></string>
 
-Danksagungen:
-Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!
-Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugiesische (Portugal)!
-Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische!
-Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch!
-Vielen Dank an Richard Anderson (Hirai RCD) für die Übersetzung in´s Portugiesische (Brasilien)!
+    <string name="about_acknowledgements">"Danksagungen:
+Vielen Dank an %n für die Übersetzung in´s %l!"</string>
 
-Sie können die gewünschte Landessprache ändern (App startet sich neu)."</string>
+    <string name="about_language">Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
 
     <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
 Weitere Informationen erhalten Sie direkt in der "<a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>".

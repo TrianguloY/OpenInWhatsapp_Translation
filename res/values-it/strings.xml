@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Armand Secco
+
+
+ -->
+<resources>
+    <string name="app_name">Clicca per chattare</string>
+
+    <string name="about_description">"App creata da TrianguloY. Quest\'App non è legata a WhatsApp Inc. 
+
+>"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Visita il sito web</a></string>
+
+    <string name="about_acknowledgements">"Remerciements:
+Grazie a %n per la traduzione in %l!"</string>
+
+    <string name="about_language">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>
+
+    <string name="txt_description">"Quest\'app utilizza l\'api WhatsApp publica per aprire una chat con qualsiasi numero da lei composto. Nessun contatto verrà creato sul telefono cellulare. 
+Ulteriori informazioni "<a href="https://www.whatsapp.com/faq/it/general/26000030">qui</a>".
+
+Inserite il numero e il "<a href="https://it.wikipedia.org/wiki/Prefissi_telefonici_internazionali">prefisso</a>" senza alcun carattere aggiuntivo, solo numeri 0 – 9. È possibile fare clic su \'+\' per selezionare un prefisso dall\'elenco.
+Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
+    <string name="txt_extra_description">"
+Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio)."</string>
+    <string name="txt_donation">Per coloro che desiderano: potete fare una piccola donazione <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">qui</a> (~1€)</string>
+    <string name="txt_addonDescr">Con questo addon, si può consentire di visualizzare un elenco di chiamate recenti sconosciute e quindi selezionarle. Non preoccuparti: è gratuito, più piccolo di una foto, e nessun annuncio.</string>
+
+    <string name="hint_editNumber">Numero</string>
+    <string name="hint_editPrefix">Pref</string>
+    <string name="hint_message">Messaggio che verrà completato automaticamente, ma NON inviato.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Prefisso & Numero]]></string>
+
+    <string name="btn_openInWhatsapp">Aprire</string>
+    <string name="btn_shareLink">Condividere</string>
+    <string name="chk_mergeInputs">Unire il prefisso e il numero</string>
+    <string name="chk_enableRecents">Salvare i numeri/messaggi recenti. (se disabilitato, cancella tutti i record)</string>
+    <string name="btn_addonLink">Addon</string>
+
+    <string name="error_badData">Errore durante l\'invio. Dati errati</string>
+    <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">È installato?</a></string>
+
+    <string name="toast_autoParser">"Analizzatore automatico.
+Controlla il prefisso!"</string>
+    <string name="toast_copied">Copiato negli appunti</string>
+    <string name="toast_error_openLink">Impossibile collegare</string>
+
+    <string name="title_sendTo">Inviare collegamento a:</string>
+    <string name="title_chooseCountry">Prefisso per paese:</string>
+    <string name="title_chooseApp">Scegliere l\'app:</string>
+    <string name="title_clearRecents">Cancella i dati recenti:</string>
+
+    <string name="message_clearRecents">Volete davvero cancellare tutti i dati recenti?</string>
+    <string name="message_openFAQ">Volete aprire la pagina dei FAQ (Frequently asked questions)? Sarà aperta dal vostro browser.</string>
+
+
+    <string name="cntDesc_appInfo">A proposito</string>
+    <string name="cntDesc_prefixSelector">Selettore di prefisso</string>
+    <string name="cntDesc_pasteClipboard">Incollare il contenuto degli appunti</string>
+    <string name="cntDesc_recentNumbers">Numeri recenti</string>
+    <string name="cntDesc_recentMessages">Messaggi recenti</string>
+    <string name="cntDesc_calls">Chiamate sconosciute</string>
+    <string name="cntDesc_toggleAdv">Passare alle opzioni avanzate</string>
+    <string name="cntDesc_appFaq">Aprire la pagina \'frequently asked questions\'</string>
+    <string name="cntDesc_appLogo">Logo</string>
+    <string name="cntDesc_addons">Aprire la pagina Addon</string>
+
+    <string name="util_cancel">Annulla</string>
+
+    <string name="addon_message_loadingCalls">Elenco delle chiamate sconosciute…</string>
+    <string name="addon_toast_noCalls">Nessun numero sconosciuto trovato o leggibile</string>
+    <string name="addon_message_requestpermisions">Visualizza l\'elenco dei numeri sconosciuti recenti. Autorizzazione necessaria per visualizzare le chiamate o accedere ai contatti (per rimuovere i numeri conosciuti).</string>
+    <string name="addon_btn_grant">Concedere l\'accesso</string>
+
+
+</resources>

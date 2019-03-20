@@ -1,7 +1,9 @@
 # OpenInWhatsapp_Translation
 Translation files for Android app 'Click to chat' https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
 
-You can provide your own translations or improve current ones, either by a pull request or sending me the files by email. Also please agree with the following points:
+You can provide your own translations or improve current ones, either by a Github pull request or by sending me the translated files by email (you can download the files here: https://github.com/TrianguloY/OpenInWhatsapp_Translation/raw/master/translation_files.zip ). 
+
+Also please agree with the following points:
 - You are doing this for free. I can't pay you anything.
 - You will be credited in the acknowledgements section (both on the app and in the play store) with the name provided in the files (header section). However if you prefer a different name or you prefer not to be credited at all just say so.
 - If I update the app and change strings, I'll consider removing the translation (if it is very different) or keep the translated with the untranslated strings mixed, until a translation update is provided (by the same or different person).

@@ -70,4 +70,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="addon_btn_grant">Dar acceso</string>
     <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
     <string name="cntDesc_settings">Ajustes</string>
+    <string name="chk_hideInfo">Oculta el texto de ayuda de la pantalla principal</string>
 </resources>

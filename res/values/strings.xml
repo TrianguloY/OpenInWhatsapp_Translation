@@ -18,7 +18,10 @@ If you added/modified the following file add your name here to give credit:
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a></string>
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a>"
+
+>"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a>
+</string>
 
     <string name="about_acknowledgements">"Acknowledgements:
 Thanks to %n for providing the %l locale translation!"</string>
@@ -60,7 +63,6 @@ Check the prefix!"</string>
     <string name="title_clearRecents">Clear recents:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
-    <string name="message_openFAQ">Do you want to open the FAQ (Frequently asked questions) page? External browser will be opened.</string>
 
 
     <string name="cntDesc_appInfo">App information</string>
@@ -70,9 +72,9 @@ Check the prefix!"</string>
     <string name="cntDesc_recentMessages">Recent messages</string>
     <string name="cntDesc_calls">Unknown calls</string>
     <string name="cntDesc_toggleAdv">Toggle advanced</string>
-    <string name="cntDesc_appFaq">Open \'frequently asked questions\' page</string>
     <string name="cntDesc_appLogo">Application logo</string>
     <string name="cntDesc_addons">Open Addon page</string>
+    <string name="cntDesc_settings">Settings</string>
 
     <string name="util_cancel">Cancel</string>
 

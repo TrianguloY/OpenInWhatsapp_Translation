@@ -38,7 +38,9 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página de la aplicación</a></string>
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página de la aplicación</a>"
+
+>"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
 
     <string name="about_acknowledgements">"Agradecimientos:
 ¡Gracias a %n por la traducción al %l!"</string>
@@ -49,14 +51,12 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>
     <string name="title_clearRecents">Borrar recientes:</string>
     <string name="message_clearRecents">¿Desea borrar todos los recientes?</string>
-    <string name="message_openFAQ">¿Quieres abrir la página de preguntas frecuentes? (FAQ, disponible únicamente en inglés). Se abrirá en un navegador externo.</string>
     <string name="cntDesc_appInfo">Información de la aplicación</string>
     <string name="cntDesc_prefixSelector">Selector de prefijo</string>
     <string name="cntDesc_pasteClipboard">Pegar del portapapeles</string>
     <string name="cntDesc_recentNumbers">Números recientes</string>
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
-    <string name="cntDesc_appFaq">Abrir página de preguntas frecuentes</string>
     <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">aquí</a> (~1€)</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
     <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
@@ -69,4 +69,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="addon_message_requestpermisions">Esto mostrará un listado de llamadas recientes desconocidas. Permisos para ver las llamadas recientes y los contactos (para quitar números conocidos) son necesarios.</string>
     <string name="addon_btn_grant">Dar acceso</string>
     <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
+    <string name="cntDesc_settings">Ajustes</string>
 </resources>

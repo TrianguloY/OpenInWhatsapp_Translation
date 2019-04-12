@@ -19,7 +19,9 @@ Armand Secco
 
 >"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Visita il sito web</a></string>
+>"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Visita il sito web</a>"
+
+>"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
 
     <string name="about_acknowledgements">"Remerciements:
 Grazie a %n per la traduzione in %l!"</string>
@@ -61,7 +63,6 @@ Controlla il prefisso!"</string>
     <string name="title_clearRecents">Cancella i dati recenti:</string>
 
     <string name="message_clearRecents">Volete davvero cancellare tutti i dati recenti?</string>
-    <string name="message_openFAQ">Volete aprire la pagina dei FAQ (Frequently asked questions)? Sarà aperta dal vostro browser.</string>
 
 
     <string name="cntDesc_appInfo">A proposito</string>
@@ -71,7 +72,6 @@ Controlla il prefisso!"</string>
     <string name="cntDesc_recentMessages">Messaggi recenti</string>
     <string name="cntDesc_calls">Chiamate sconosciute</string>
     <string name="cntDesc_toggleAdv">Passare alle opzioni avanzate</string>
-    <string name="cntDesc_appFaq">Aprire la pagina \'frequently asked questions\'</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Aprire la pagina Addon</string>
 

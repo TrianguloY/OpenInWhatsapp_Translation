@@ -16,18 +16,12 @@ Yusuf Emen
 <resources>
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="about_description">"Uygulama TrianguloY tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
+    <string name="txt_about">Uygulama TrianguloY tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
-
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Sayfa bilgisi</a>"
-
->"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
-
-    <string name="about_acknowledgements">"Teşekkür:
+    <string name="txt_acknowledgements">"Teşekkür:
 Rusça çeviri için %n\'a %l!"</string>
 
-    <string name="about_language">Aşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
+    <string name="txt_changelanguage">Aşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
 
     <string name="txt_description">"Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp\'ın herkese açık API\'sini kullanır. Rehberde kişi oluşturulmaz. 
 Daha fazla bilgi için "<a href="https://www.whatsapp.com/faq/tr/general/26000030">tıklayınız</a>".
@@ -44,6 +38,10 @@ Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için buray�
 
     <string name="btn_openInWhatsapp">Aç</string>
     <string name="btn_shareLink">Paylaş</string>
+
+    <string name="btn_link_playstore_open">Play Store (aç)</string>
+    <string name="btn_link_playstore_share">Play Store (paylaş)</string>
+    <string name="btn_link_apppage">Sayfa bilgisi</string>
 
     <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
     <string name="error_nowhatsapp">WhatsApp açılamadı. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Uygulama kurulu mu?</a></string>

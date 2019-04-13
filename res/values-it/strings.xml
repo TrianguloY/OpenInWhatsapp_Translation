@@ -15,18 +15,12 @@ Armand Secco
 <resources>
     <string name="app_name">Clicca per chattare</string>
 
-    <string name="about_description">"App creata da TrianguloY. Quest\'App non è legata a WhatsApp Inc. 
+    <string name="txt_about">App creata da TrianguloY. Quest\'App non è legata a WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
-
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Visita il sito web</a>"
-
->"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
-
-    <string name="about_acknowledgements">"Remerciements:
+    <string name="txt_acknowledgements">"Remerciements:
 Grazie a %n per la traduzione in %l!"</string>
 
-    <string name="about_language">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>
+    <string name="txt_changelanguage">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>
 
     <string name="txt_description">"Quest\'app utilizza l\'api WhatsApp publica per aprire una chat con qualsiasi numero da lei composto. Nessun contatto verrà creato sul telefono cellulare. 
 Ulteriori informazioni "<a href="https://www.whatsapp.com/faq/it/general/26000030">qui</a>".
@@ -35,7 +29,7 @@ Inserite il numero e il "<a href="https://it.wikipedia.org/wiki/Prefissi_telefon
 Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="txt_extra_description">"
 Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio)."</string>
-    <string name="txt_donation">Per coloro che desiderano: potete fare una piccola donazione <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">qui</a> (~1€)</string>
+    <string name="txt_donation">Per coloro che desiderano: potete fare una piccola donazione qui(~1€)</string>
     <string name="txt_addonDescr">Con questo addon, si può consentire di visualizzare un elenco di chiamate recenti sconosciute e quindi selezionarle. Non preoccuparti: è gratuito, più piccolo di una foto, e nessun annuncio.</string>
 
     <string name="hint_editNumber">Numero</string>
@@ -48,6 +42,10 @@ Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsA
     <string name="chk_mergeInputs">Unire il prefisso e il numero</string>
     <string name="chk_enableRecents">Salvare i numeri/messaggi recenti. (se disabilitato, cancella tutti i record)</string>
     <string name="btn_addonLink">Addon</string>
+
+    <string name="btn_link_playstore_open">Play Store (aprire)</string>
+    <string name="btn_link_playstore_share">Play Store (condividere)</string>
+    <string name="btn_link_apppage">Visita il sito web</string>
 
     <string name="error_badData">Errore durante l\'invio. Dati errati</string>
     <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">È installato?</a></string>

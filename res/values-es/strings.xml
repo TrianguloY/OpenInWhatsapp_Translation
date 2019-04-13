@@ -34,18 +34,12 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_chooseCountry">Prefijo por país:</string>
     <string name="title_sendTo">Enviar enlace a:</string>
     <string name="toast_copied">Copiado al portapapeles</string>
-    <string name="about_description">"Aplicación creada por TrianguloY. Esta aplicación no está asociada con WhatsApp Inc.
+    <string name="txt_about">Aplicación creada por TrianguloY. Esta aplicación no está asociada con WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
-
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página de la aplicación</a>"
-
->"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
-
-    <string name="about_acknowledgements">"Agradecimientos:
+    <string name="txt_acknowledgements">"Agradecimientos:
 ¡Gracias a %n por la traducción al %l!"</string>
 
-    <string name="about_language">Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará).</string>
+    <string name="txt_changelanguage">Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará).</string>
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>
     <string name="title_chooseApp">Elige aplicación:</string>
     <string name="chk_mergeInputs">Combinar cuadros de entrada de prefijo y número</string>
@@ -57,7 +51,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_recentNumbers">Números recientes</string>
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
-    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">aquí</a> (~1€)</string>
+    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación aquí (~1€)</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
     <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
     <string name="btn_addonLink">Complemento</string>
@@ -71,4 +65,13 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
     <string name="cntDesc_settings">Ajustes</string>
     <string name="chk_hideInfo">Oculta el texto de ayuda de la pantalla principal</string>
+
+    <string name="txt_about_helptranslations">Quieres ayudar con las traducciones? Puedes encontrar más información aquí:</string>
+
+    <string name="btn_link_playstore_open">Play Store (abrir)</string>
+    <string name="btn_link_playstore_share">Play Store (compartir)</string>
+    <string name="btn_link_apppage">Página de la aplicación</string>
+    <string name="btn_link_faq">Preguntas frecuentes\n(FAQ) [Sólo en inglés]</string>
+    <string name="btn_link_helptranslations">Ayudar con las traducciones</string>
+    <string name="btn_link_donate">Donar</string>
 </resources>

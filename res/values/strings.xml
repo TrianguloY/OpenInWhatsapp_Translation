@@ -14,19 +14,13 @@ If you added/modified the following file add your name here to give credit:
 <resources>
     <string name="app_name">Click to chat</string>
 
-    <string name="about_description">"App created by TrianguloY. This app is not affiliated with WhatsApp Inc. 
+    <string name="txt_about">App created by TrianguloY. This app is not affiliated with WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
-
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App page</a>"
-
->"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a>
-</string>
-
-    <string name="about_acknowledgements">"Acknowledgements:
+    <string name="txt_acknowledgements">"Acknowledgements:
 Thanks to %n for providing the %l locale translation!"</string>
+    <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
-    <string name="about_language">You can change the app language by clicking the button below (the app will be restarted).</string>
+    <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
 
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. 
 More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
@@ -35,7 +29,11 @@ Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_countr
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
-    <string name="txt_donation">For those who asked: you can give me a small donation <a href="https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation">here</a> (~1€)</string><!-- Note to translators: This string will only be visible on english and spanish translations, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
+
+    <!-- Note to translators: Those strings will only be visible on translations where I had permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
+    <string name="txt_donation">For those who asked: you can give me a small donation here (~1€)</string>
+    <string name="btn_link_donate">Donate</string>
+
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 
     <string name="hint_editNumber">Number</string>
@@ -49,6 +47,12 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
     <string name="btn_addonLink">Addon</string>
+
+    <string name="btn_link_playstore_open">Play Store (open)</string>
+    <string name="btn_link_playstore_share">Play Store (share)</string>
+    <string name="btn_link_apppage">App page</string>
+    <string name="btn_link_faq">Frecuently asked questions\n(FAQ) [English only]</string>
+    <string name="btn_link_helptranslations">Help translations</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
     <string name="error_nowhatsapp">Couldn\'t open WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>

@@ -15,18 +15,12 @@ Richard Anderson (Hirai RCD)
 <resources>
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="about_description">"Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc. 
+    <string name="txt_about">Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
-
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página do App</a>"
-
->"<a href="http://triangularapps.blogspot.com/p/open-in-whatsapp-faq.html">Frequently asked questions (FAQ) [English only]</a></string>
-
-    <string name="about_acknowledgements">"Acknowledgements:
+    <string name="txt_acknowledgements">"Acknowledgements:
 Obrigado à %n por me fornecer a tradução em %l!"</string>
 
-    <string name="about_language">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
+    <string name="txt_changelanguage">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
 
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
 Mais informações "<a href="https://faq.whatsapp.com/pt_br/general/26000030">aqui</a>".
@@ -44,6 +38,10 @@ Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode
     <string name="btn_openInWhatsapp">Abrir</string>
     <string name="btn_shareLink">Compartilhar</string>
     <string name="chk_mergeInputs">Mesclar prefixo e número</string>
+
+    <string name="btn_link_playstore_open">Play Store (abrir)</string>
+    <string name="btn_link_playstore_share">Play Store (compartilhar)</string>
+    <string name="btn_link_apppage">Página do App</string>
 
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ele está instalado?</a></string>

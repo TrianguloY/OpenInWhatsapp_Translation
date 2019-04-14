@@ -52,7 +52,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="btn_link_playstore_share">Play Store (share)</string>
     <string name="btn_link_apppage">App page</string>
     <string name="btn_link_faq">Frecuently asked questions\n(FAQ) [English only]</string>
-    <string name="btn_link_helptranslations">Help translations</string>
+    <string name="btn_link_helptranslations">Translate</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
     <string name="error_nowhatsapp">Couldn\'t open WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>

@@ -19,6 +19,7 @@ Armand Secco
 
     <string name="txt_acknowledgements">"Remerciements:
 Merci à %n pour la traduction en %l!"</string>
+    <string name="txt_about_helptranslations">Voulez-vous contribuer à la traduction? Vous trouverez davantage d\'informations ici:</string>
 
     <string name="txt_changelanguage">Vous pouvez modifier la langue en cliquant sur le bouton ci-dessous (l\'application va redémarrer).</string>
 
@@ -30,6 +31,8 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="txt_extra_description">"
 Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message)."</string>
     <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici (~1€)</string>
+    <string name="btn_link_donate">Don</string>
+
     <string name="txt_addonDescr">Avec cet addon, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>
 
     <string name="hint_editNumber">Numéro</string>
@@ -41,11 +44,14 @@ Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant de
     <string name="btn_shareLink">Partager</string>
     <string name="chk_mergeInputs">Fusionner le préfixe et le numéro</string>
     <string name="chk_enableRecents">Enregistrer les numéros/messages récents. (si désactivé, effacera tous les enregistrements)</string>
+    <string name="chk_hideInfo">Masquer le descriptif d\'aide de l\'écran principal</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (ouvrir)</string>
     <string name="btn_link_playstore_share">Play Store (partager)</string>
     <string name="btn_link_apppage">Site de l\'auteur</string>
+    <string name="btn_link_faq">Questions fréquentes\n(FAQ) [English only]</string>
+    <string name="btn_link_helptranslations">Traduire</string>
 
     <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
     <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Est-il installé?</a></string>
@@ -72,6 +78,7 @@ Contrôlez le préfixe!"</string>
     <string name="cntDesc_toggleAdv">Basculer vers les options avancées</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Ouvrir la page Addon</string>
+    <string name="cntDesc_settings">Paramètres</string>
 
     <string name="util_cancel">Annuler</string>
 

@@ -17,8 +17,9 @@ Armand Secco
 
     <string name="txt_about">App creata da TrianguloY. Quest\'App non è legata a WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Remerciements:
+    <string name="txt_acknowledgements">"Grazie:
 Grazie a %n per la traduzione in %l!"</string>
+    <string name="txt_about_helptranslations">Volete contribuire alla traduzione? Troverete più informazioni qui:</string>
 
     <string name="txt_changelanguage">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>
 
@@ -30,6 +31,8 @@ Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="txt_extra_description">"
 Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio)."</string>
     <string name="txt_donation">Per coloro che desiderano: potete fare una piccola donazione qui(~1€)</string>
+    <string name="btn_link_donate">Donazione</string>
+
     <string name="txt_addonDescr">Con questo addon, si può consentire di visualizzare un elenco di chiamate recenti sconosciute e quindi selezionarle. Non preoccuparti: è gratuito, più piccolo di una foto, e nessun annuncio.</string>
 
     <string name="hint_editNumber">Numero</string>
@@ -41,11 +44,14 @@ Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsA
     <string name="btn_shareLink">Condividere</string>
     <string name="chk_mergeInputs">Unire il prefisso e il numero</string>
     <string name="chk_enableRecents">Salvare i numeri/messaggi recenti. (se disabilitato, cancella tutti i record)</string>
+    <string name="chk_hideInfo">Nascondere la descrizione di guida dello schermo principale</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (aprire)</string>
     <string name="btn_link_playstore_share">Play Store (condividere)</string>
     <string name="btn_link_apppage">Visita il sito web</string>
+    <string name="btn_link_faq">Domande frequenti\n(FAQ) [English only]</string>
+    <string name="btn_link_helptranslations">Tradurre</string>
 
     <string name="error_badData">Errore durante l\'invio. Dati errati</string>
     <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">È installato?</a></string>
@@ -72,6 +78,7 @@ Controlla il prefisso!"</string>
     <string name="cntDesc_toggleAdv">Passare alle opzioni avanzate</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Aprire la pagina Addon</string>
+    <string name="cntDesc_settings">Impostazioni</string>
 
     <string name="util_cancel">Annulla</string>
 

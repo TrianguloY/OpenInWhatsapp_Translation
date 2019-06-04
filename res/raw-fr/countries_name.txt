@@ -1,0 +1,237 @@
+Canada
+États-Unis
+Bahamas
+Barbade
+Anguilla
+Antigua-et-Barbuda
+Barbuda
+Îles Vierges britanniques
+Îles Vierges américaines
+Bermudes
+Grenade
+Îles Turques et Caïques
+Îles Mariannes du Nord
+Guam
+Samoa américaines
+Dominique
+Porto Rico
+Île Midway
+Île de Wake
+République dominicaine
+Trinité-et-Tobago
+Nevis
+Jamaïque
+Montserrat
+Égypte
+Maroc
+Algérie
+Tunisie
+Libye
+Gambie
+Sénégal
+Mauritanie
+Mali
+Guinée
+Côte d'Ivoire
+Burkina Faso
+Niger
+Togo
+Bénin
+Maurice
+Libéria
+Sierra Leone
+Ghana
+Nigeria
+Tchad
+République centrafricaine
+Cameroun
+Cap-Vert
+Guinée équatoriale
+Gabon
+Congo
+Congo, Rep. dém. du (Zaïre)
+Angola
+Guinée-Bissau
+Territoire britannique de l'océan Indien
+Diego Garcia
+Ascension
+Seychelles
+Soudan
+Rwanda
+Ethiopie
+Somalie
+Djibouti
+Kenya
+Tanzanie
+Zanzibar
+Ouganda
+Burundi
+Zambie
+Madagascar
+Mayotte
+Réunion
+Zimbabwe
+Namibie
+Malawi
+Lesotho
+Botswana
+Swaziland
+Comores
+Afrique du Sud
+Érythrée
+Aruba
+Féroé (îles)
+Groenland
+Grèce
+Pays-Bas
+Belgique
+France
+Espagne
+Iles Caïmans
+Gibraltar
+Portugal
+Luxembourg
+Irlande
+Islande
+Albanie
+Malte
+Finlande
+Bulgarie
+Hongrie
+Lituanie
+Lettonie
+Estonie
+Moldavie
+Arménie
+Biélorussie
+Andorre
+Monaco
+Saint-Marin
+Ukraine
+Serbie
+Monténégro
+Croatie (Hrvatska)
+Slovénie
+Bosnie-Herzégovine
+Macédoine
+Italie
+Roumanie
+Suisse
+République tchèque
+Slovaquie
+Liechtenstein
+Autriche
+Royaume-Uni
+Danemark
+Suède
+Norvège
+Pologne
+Allemagne
+Îles Falkland
+Géorgie du Sud et îles Sandwich du Sud
+Belize
+Guatemala
+Salvador
+Honduras
+Nicaragua
+Costa Rica
+Panama
+Haïti
+Pérou
+Mexique
+Cuba
+Chypre
+Argentine
+Brésil
+Chili
+Île de Pâques
+Colombie
+Venezuela
+Guadeloupe
+Bolivie
+Équateur
+Guyane
+Guyana
+Paraguay
+Antilles Français
+Martinique
+Suriname
+Uruguay
+Curaçao
+Antilles néerlandaises
+Malaisie
+Australie
+Île de Noël
+Îles Cocos-Keeling
+Indonésie
+Philippines
+Nouvelle-Zélande
+Singapour
+Thaïlande
+Timor oriental
+Timor oriental
+Territoires extérieurs australiens
+Île Norfolk
+Brunei
+Nauru
+Papouasie-Nouvelle-Guinée
+Tonga
+Salomon
+Vanuatu
+Fidji
+Palau
+Wallis et Futuna
+Îles Cook
+Niue
+Samoa
+Kiribati
+Nouvelle-Calédonie
+Tuvalu
+Polynésie Française
+Tokelau
+Micronésie
+Îles Marshall
+Russie
+Kazakhstan
+Abkhazie
+Japon
+Corée du Sud
+Vietnam
+Corée du Nord
+Hong Kong SAR Chine
+Macao SAR Chine
+Cambodge
+Laos
+Chine
+Bangladesh
+Taiwan
+Turquie
+Inde
+Pakistan
+Afghanistan
+Sri Lanka
+Myanmar
+Maldives
+Liban
+Jordanie
+Syrie
+Irak
+Koweït
+Arabie Saoudite
+Yémen
+Oman
+Territoire palestinien
+Émirats Arabes Unis
+Israël
+Bahreïn
+Qatar
+Bhoutan
+Mongolie
+Népal
+Iran
+Tadjikistan
+Turkménistan
+Azerbaïdjan
+Géorgie
+Kirghizistan
+Ouzbékistan

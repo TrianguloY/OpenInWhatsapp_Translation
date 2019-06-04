@@ -15,20 +15,12 @@ Timofey Lisunov
 <resources>
     <string name="app_name">Прямая связь</string>
 
-    <string name="about_description">"Приложение создано TrianguloY. Оно не аффилировано с WhatsApp Inc.
+    <string name="txt_about">Приложение создано TrianguloY. Оно не аффилировано с WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Магазин Google Play</a>"
+    <string name="txt_acknowledgements">"Выражается благодарность:
+%n за предоставление перевода на %l язык!"</string>
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Страница приложения</a>"
-
-Выражается благодарность:
-Timofey Lisunov за предоставление перевода на русский язык!
-Matheus Damacs за предоставление перевода на португальский (Португалия) язык!
-Yusuf Emen за предоставление перевода на турецкий язык!
-Benjamin Yılmaz Çetiner за предоставление перевода на немецкий язык!
-Richard Anderson (Hirai RCD) за предоставление перевода на португальский (Бразилия) язык!
-
-Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено)."</string>
+    <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
 
     <string name="txt_description">"Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.
 Подробнее "<a href="https://www.whatsapp.com/faq/ru/general/26000030">здесь</a>".
@@ -50,6 +42,10 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="btn_addonLink">Модуль</string>
 
+    <string name="btn_link_playstore_open">Магазин Google Play (Открыть)</string>
+    <string name="btn_link_playstore_share">Магазин Google Play (Создать ссылку)</string>
+    <string name="btn_link_apppage">Страница приложения</string>
+
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
     <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он установлен?</a></string>
 
@@ -64,7 +60,6 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
     <string name="title_clearRecents">Очистка истории</string>
 
     <string name="message_clearRecents">Вы хотите очистить историю?</string>
-    <string name="message_openFAQ">Открыть страницу FAQ (часто задаваемых вопросов) в браузере?</string>
 
 
     <string name="cntDesc_appInfo">Информация о приложении</string>
@@ -74,7 +69,6 @@ Richard Anderson (Hirai RCD) за предоставление перевода 
     <string name="cntDesc_recentMessages">Недавние сообщения</string>
     <string name="cntDesc_calls">Неизвестные вызовы</string>
     <string name="cntDesc_toggleAdv">Дополнительно</string>
-    <string name="cntDesc_appFaq">Открыть страницу с часто задаваемыми вопросами</string>
     <string name="cntDesc_appLogo">Логотип приложения</string>
     <string name="cntDesc_addons">Страница модуля</string>
 

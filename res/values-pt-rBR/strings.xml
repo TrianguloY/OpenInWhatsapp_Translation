@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-strings.xml file from Open In WhatsApp app by TrianguloY.
+strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -15,20 +15,12 @@ Richard Anderson (Hirai RCD)
 <resources>
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="about_description">"Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc. 
+    <string name="txt_about">Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+    <string name="txt_acknowledgements">"Acknowledgements:
+Obrigado à %n por me fornecer a tradução em %l!"</string>
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">Página do App</a>"
-
-Acknowledgements:
-Obrigado à Timofey Lisunov por me fornecer a tradução em Russo!
-Obrigado à Matheus Damacs por me fornecer a tradução em Português de Portugal!
-Obrigado à Yusuf Emen por me fornecer a tradução em Turco!
-Obrigado à Benjamin Yılmaz Çetiner por me fornecer a tradução em Alemão!
-Obrigado à Richard Anderson (Hirai RCD) por me fornecer a tradução em Português de Brasil!
-
-Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado)."</string>
+    <string name="txt_changelanguage">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
 
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
 Mais informações "<a href="https://faq.whatsapp.com/pt_br/general/26000030">aqui</a>".
@@ -47,6 +39,10 @@ Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode
     <string name="btn_shareLink">Compartilhar</string>
     <string name="chk_mergeInputs">Mesclar prefixo e número</string>
 
+    <string name="btn_link_playstore_open">Play Store (abrir)</string>
+    <string name="btn_link_playstore_share">Play Store (compartilhar)</string>
+    <string name="btn_link_apppage">Página do App</string>
+
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ele está instalado?</a></string>
 
@@ -61,7 +57,6 @@ Verifique o prefixo!"</string>
     <string name="title_clearRecents">Limpar recentes:</string>
 
     <string name="message_clearRecents">Desejar limpar todos os recentes?</string>
-    <string name="message_openFAQ">Você deseja abrir o FAQ (Perguntas Frequentes do WhatsApp)? Um navegador externo será aberto.</string>
 
 
     <string name="cntDesc_appInfo">Informações do App</string>
@@ -70,7 +65,6 @@ Verifique o prefixo!"</string>
     <string name="cntDesc_recentNumbers">Números recentes</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
     <string name="cntDesc_toggleAdv">Abrir Opções Avançadas</string>
-    <string name="cntDesc_appFaq">Abrir \'FAQ\'</string>
     <string name="cntDesc_appLogo">Logo do Aplicativo</string>
 
 </resources>

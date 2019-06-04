@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-strings.xml file from Open In WhatsApp app by TrianguloY.
+strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
@@ -15,20 +15,12 @@ Benjamin Yılmaz Çetiner
 <resources>
     <string name="app_name">Click to chat</string>
 
-    <string name="about_description">"Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc.
+    <string name="txt_about">Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc.</string>
 
->"<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">Play Store</a>"
+    <string name="txt_acknowledgements">"Danksagungen:
+Vielen Dank an %n für die Übersetzung in´s %l!"</string>
 
->"<a href="https://triangularapps.blogspot.com/p/open-in-whatsapp.html">App-Seite</a>"
-
-Danksagungen:
-Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!
-Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugiesische (Portugal)!
-Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische!
-Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch!
-Vielen Dank an Richard Anderson (Hirai RCD) für die Übersetzung in´s Portugiesische (Brasilien)!
-
-Sie können die gewünschte Landessprache ändern (App startet sich neu)."</string>
+    <string name="txt_changelanguage">Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
 
     <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
 Weitere Informationen erhalten Sie direkt in der "<a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>".
@@ -45,6 +37,10 @@ Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie 
 
     <string name="btn_openInWhatsapp">Öffnen</string>
     <string name="btn_shareLink">Teilen</string>
+
+    <string name="btn_link_playstore_open">Play Store (öffnen)</string>
+    <string name="btn_link_playstore_share">Play Store (teilen)</string>
+    <string name="btn_link_apppage">App-Seite</string>
 
     <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
     <string name="error_nowhatsapp">Kann nicht in WhatsApp geöffnet werden. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ist WhatsApp auch (korrekt) installiert?</a></string>

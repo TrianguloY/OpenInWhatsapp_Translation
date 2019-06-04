@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+
+
+If you added/modified the following file add your name here to give credit:
+Armand Secco
+
+
+ -->
+<resources>
+    <string name="app_name">Cliquer pour Discuter</string>
+
+    <string name="txt_about">Application créée par TrianguloY. Cette application n\'est pas rattachée à WhatsApp Inc.</string>
+
+    <string name="txt_acknowledgements">"Remerciements:
+Merci à %n pour la traduction en %l!"</string>
+    <string name="txt_about_helptranslations">Voulez-vous contribuer à la traduction? Vous trouverez davantage d\'informations ici:</string>
+
+    <string name="txt_changelanguage">Vous pouvez modifier la langue en cliquant sur le bouton ci-dessous (l\'application va redémarrer).</string>
+
+    <string name="txt_description">"Cette application utilise l\'api WhatsApp publique pour ouvrir un chat avec un quelconque numéro que vous entrerez. Aucun contact ne sera créé sur votre portable.
+Davantage d\'infos "<a href="https://www.whatsapp.com/faq/fr/general/26000030">ici</a>".
+
+Insérez le numéro et le "<a href="https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone">préfixe</a>" sans aucun caractère supplémentaire, uniquement des nombres 0–9. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
+Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
+    <string name="txt_extra_description">"
+Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message)."</string>
+    <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici (~1€)</string>
+    <string name="btn_link_donate">Don</string>
+
+    <string name="txt_addonDescr">Avec cet addon, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>
+
+    <string name="hint_editNumber">Numéro</string>
+    <string name="hint_editPrefix">Préf</string>
+    <string name="hint_message">Message qui sera complété automatiquement, mais PAS envoyé.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Préfixe & Numéro]]></string>
+
+    <string name="btn_openInWhatsapp">Ouvrir</string>
+    <string name="btn_shareLink">Partager</string>
+    <string name="chk_mergeInputs">Fusionner le préfixe et le numéro</string>
+    <string name="chk_enableRecents">Enregistrer les numéros/messages récents. (si désactivé, effacera tous les enregistrements)</string>
+    <string name="chk_hideInfo">Masquer le descriptif d\'aide de l\'écran principal</string>
+    <string name="btn_addonLink">Addon</string>
+
+    <string name="btn_link_playstore_open">Play Store (ouvrir)</string>
+    <string name="btn_link_playstore_share">Play Store (partager)</string>
+    <string name="btn_link_apppage">Site de l\'auteur</string>
+    <string name="btn_link_faq">Questions fréquentes\n(FAQ) [English only]</string>
+    <string name="btn_link_helptranslations">Traduire</string>
+
+    <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
+    <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Est-il installé?</a></string>
+
+    <string name="toast_autoParser">"Analyseur automatique.
+Contrôlez le préfixe!"</string>
+    <string name="toast_copied">Copié dans le presse-papiers</string>
+    <string name="toast_error_openLink">Impossible d\'ouvrir le lien</string>
+
+    <string name="title_sendTo">Envoyer le lien à:</string>
+    <string name="title_chooseCountry">Préfixes par pays:</string>
+    <string name="title_chooseApp">Choisir l\'app:</string>
+    <string name="title_clearRecents">Effacer les données récentes:</string>
+
+    <string name="message_clearRecents">Voulez-vous effacer toutes les données récentes?</string>
+
+
+    <string name="cntDesc_appInfo">A propos</string>
+    <string name="cntDesc_prefixSelector">Sélecteur de préfixe</string>
+    <string name="cntDesc_pasteClipboard">Coller le contenu du presse-papiers</string>
+    <string name="cntDesc_recentNumbers">Numéros récents</string>
+    <string name="cntDesc_recentMessages">Messages récents</string>
+    <string name="cntDesc_calls">Appels inconnus</string>
+    <string name="cntDesc_toggleAdv">Basculer vers les options avancées</string>
+    <string name="cntDesc_appLogo">Logo</string>
+    <string name="cntDesc_addons">Ouvrir la page Addon</string>
+    <string name="cntDesc_settings">Paramètres</string>
+
+    <string name="util_cancel">Annuler</string>
+
+    <string name="addon_message_loadingCalls">Liste des appels inconnus…</string>
+    <string name="addon_toast_noCalls">Aucun numéro inconnu trouvé ou lisible</string>
+    <string name="addon_message_requestpermisions">Ceci affiche la liste des numéros inconnus récents. Autorisation nécessaire pour voir les appels ou accéder aux contacts (pour supprimer les numéros connus).</string>
+    <string name="addon_btn_grant">Accorder l\'accès</string>
+
+
+</resources>

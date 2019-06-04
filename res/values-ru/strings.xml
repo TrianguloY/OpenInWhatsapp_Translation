@@ -4,8 +4,7 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '
-' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -19,6 +18,7 @@ Timofey Lisunov
 
     <string name="txt_acknowledgements">"Выражается благодарность:
 %n за предоставление перевода на %l язык!"</string>
+    <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь :</string>
 
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
 
@@ -29,7 +29,7 @@ Timofey Lisunov
 Пример: для +7 (РФ) 123-456-78-90 введите 7 1234567890"</string>
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
-    <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов. Он бесплатный, маленький и без рекламы.</string>
+    <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
 
     <string name="hint_editNumber">Номер</string>
     <string name="hint_editPrefix">Код</string>
@@ -40,11 +40,14 @@ Timofey Lisunov
     <string name="btn_shareLink">Создать ссылку</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
+    <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
     <string name="btn_addonLink">Модуль</string>
 
-    <string name="btn_link_playstore_open">Магазин Google Play (Открыть)</string>
-    <string name="btn_link_playstore_share">Магазин Google Play (Создать ссылку)</string>
+    <string name="btn_link_playstore_open">Магазин Google Play (открыть)</string>
+    <string name="btn_link_playstore_share">Магазин Google Play (создать ссылку)</string>
     <string name="btn_link_apppage">Страница приложения</string>
+    <string name="btn_link_faq">Ответы на частые вопросы\n(FAQ) [на английском языке]</string>
+    <string name="btn_link_helptranslations">Перевод</string>
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
     <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он установлен?</a></string>
@@ -71,6 +74,7 @@ Timofey Lisunov
     <string name="cntDesc_toggleAdv">Дополнительно</string>
     <string name="cntDesc_appLogo">Логотип приложения</string>
     <string name="cntDesc_addons">Страница модуля</string>
+    <string name="cntDesc_settings">Настройки</string>
 
     <string name="util_cancel">Отмена</string>
 

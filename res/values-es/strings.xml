@@ -74,4 +74,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="btn_link_faq">Preguntas frecuentes\n(FAQ) [Sólo en inglés]</string>
     <string name="btn_link_helptranslations">Traducir</string>
     <string name="btn_link_donate">Donar</string>
+    <string name="header_code">Prefijo %1$s</string>
+    <string name="header_country">País %1$s</string>
 </resources>

@@ -68,6 +68,8 @@ Controlla il prefisso!"</string>
 
     <string name="message_clearRecents">Volete davvero cancellare tutti i dati recenti?</string>
 
+    <string name="header_code">Prefisso %1$s</string>
+    <string name="header_country">Paese %1$s</string>
 
     <string name="cntDesc_appInfo">A proposito</string>
     <string name="cntDesc_prefixSelector">Selettore di prefisso</string>

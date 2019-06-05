@@ -64,6 +64,8 @@ Timofey Lisunov
 
     <string name="message_clearRecents">Вы хотите очистить историю?</string>
 
+    <string name="header_country">Страна %1$s</string>
+    <string name="header_code">Код %1$s</string>
 
     <string name="cntDesc_appInfo">Информация о приложении</string>
     <string name="cntDesc_prefixSelector">Выбор кода страны</string>

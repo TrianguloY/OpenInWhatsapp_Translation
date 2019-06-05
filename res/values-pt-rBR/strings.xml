@@ -58,6 +58,8 @@ Verifique o prefixo!"</string>
 
     <string name="message_clearRecents">Desejar limpar todos os recentes?</string>
 
+    <string name="header_code">Prefixo %1$s</string>
+    <string name="header_country">País %1$s</string>
 
     <string name="cntDesc_appInfo">Informações do App</string>
     <string name="cntDesc_prefixSelector">Selecionar prefixo</string>

@@ -69,6 +69,8 @@ Check the prefix!"</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
 
+    <string name="header_code">Prefix %1$s</string>
+    <string name="header_country">Country %1$s</string>
 
     <string name="cntDesc_appInfo">App information</string>
     <string name="cntDesc_prefixSelector">Prefix selector</string>

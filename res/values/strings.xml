@@ -97,5 +97,6 @@ Check the prefix!"</string>
     <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
     <string name="addon_btn_grant">Grant access</string>
 
+    <string name="lbl_shortcut">Open a chat with %s</string>
 
 </resources>

@@ -64,7 +64,7 @@ Verifique o prefixo!"</string>
     <string name="cntDesc_appInfo">Informações do App</string>
     <string name="cntDesc_prefixSelector">Selecionar prefixo</string>
     <string name="cntDesc_pasteClipboard">Colar da área de transferência</string>
-    <string name="cntDesc_recentNumbers">Números recentes</string>
+    <string name="cntDesc_agenda">Números recentes</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
     <string name="cntDesc_toggleAdv">Abrir Opções Avançadas</string>
     <string name="cntDesc_appLogo">Logo do Aplicativo</string>

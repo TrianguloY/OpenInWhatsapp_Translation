@@ -70,7 +70,7 @@ Timofey Lisunov
     <string name="cntDesc_appInfo">Информация о приложении</string>
     <string name="cntDesc_prefixSelector">Выбор кода страны</string>
     <string name="cntDesc_pasteClipboard">Вставить из буфера обмена</string>
-    <string name="cntDesc_recentNumbers">Недавние номера</string>
+    <string name="cntDesc_agenda">Недавние номера</string>
     <string name="cntDesc_recentMessages">Недавние сообщения</string>
     <string name="cntDesc_calls">Неизвестные вызовы</string>
     <string name="cntDesc_toggleAdv">Дополнительно</string>

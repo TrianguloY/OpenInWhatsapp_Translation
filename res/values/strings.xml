@@ -22,7 +22,7 @@ Thanks to %n for providing the %l locale translation!"</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
 
-    <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device. 
+    <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
 More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
 
 Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefix</a>" with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.
@@ -40,7 +40,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
     <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
-    <string name="hint_pinned">name</string>
+    <string name="hint_itemName">name</string>
 
     <string name="btn_openInWhatsapp">Open</string>
     <string name="btn_shareLink">Share</string>
@@ -68,6 +68,8 @@ Check the prefix!"</string>
     <string name="title_chooseCountry">Prefix by country:</string>
     <string name="title_chooseApp">Choose app:</string>
     <string name="title_clearRecents">Clear recents:</string>
+    <string name="title_pinned">Pinned:</string>
+    <string name="title_recents">Recents:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
 
@@ -77,13 +79,16 @@ Check the prefix!"</string>
     <string name="cntDesc_appInfo">App information</string>
     <string name="cntDesc_prefixSelector">Prefix selector</string>
     <string name="cntDesc_pasteClipboard">Paste from clipboard</string>
-    <string name="cntDesc_recentNumbers">Recent numbers</string>
+    <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Recent messages</string>
     <string name="cntDesc_calls">Unknown calls</string>
     <string name="cntDesc_toggleAdv">Toggle advanced</string>
     <string name="cntDesc_appLogo">Application logo</string>
     <string name="cntDesc_addons">Open Addon page</string>
     <string name="cntDesc_settings">Settings</string>
+    <string name="cntDesc_delete">Delete</string>
+    <string name="cntDesc_togglepin">Pin/unpin</string>
+    <string name="cntDesc_filter">Filter</string>
 
     <string name="util_cancel">Cancel</string>
 

@@ -54,4 +54,7 @@ Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için buray�
     <string name="title_sendTo">Bağlantıyı şuraya gönderin:</string>
     <string name="title_chooseCountry">Ülkeye göre ülke kodları:</string>
 
+    <string name="header_country">Ülke %1$s</string>
+    <string name="header_code">Kodu %1$s</string>
+
 </resources>

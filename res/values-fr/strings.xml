@@ -68,11 +68,13 @@ Contrôlez le préfixe!"</string>
 
     <string name="message_clearRecents">Voulez-vous effacer toutes les données récentes?</string>
 
+    <string name="header_code">Préfixe %1$s</string>
+    <string name="header_country">Pays %1$s</string>
 
     <string name="cntDesc_appInfo">A propos</string>
     <string name="cntDesc_prefixSelector">Sélecteur de préfixe</string>
     <string name="cntDesc_pasteClipboard">Coller le contenu du presse-papiers</string>
-    <string name="cntDesc_recentNumbers">Numéros récents</string>
+    <string name="cntDesc_agenda">Numéros récents</string>
     <string name="cntDesc_recentMessages">Messages récents</string>
     <string name="cntDesc_calls">Appels inconnus</string>
     <string name="cntDesc_toggleAdv">Basculer vers les options avancées</string>

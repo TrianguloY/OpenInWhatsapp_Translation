@@ -33,4 +33,7 @@ Verifique o prefixo!"</string>
     <string name="title_sendTo">Enviar link para:</string>
     <string name="title_chooseCountry">Prefixo por país:</string>
     <string name="toast_copied">Copiado para a área de transferência</string>
+
+    <string name="header_code">Prefixo %1$s</string>
+    <string name="header_country">País %1$s</string>
 </resources>

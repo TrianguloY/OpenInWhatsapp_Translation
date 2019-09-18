@@ -56,4 +56,7 @@ Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie 
 
     <string name="message_clearRecents">Alle kürzlich verwendeten Einträge entfernen?</string>
 
+    <string name="header_code">Präfix %1$s</string>
+    <string name="header_country">Land %1$s</string>
+
 </resources>

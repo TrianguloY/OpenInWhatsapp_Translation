@@ -48,7 +48,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_appInfo">Información de la aplicación</string>
     <string name="cntDesc_prefixSelector">Selector de prefijo</string>
     <string name="cntDesc_pasteClipboard">Pegar del portapapeles</string>
-    <string name="cntDesc_recentNumbers">Números recientes</string>
+    <string name="cntDesc_agenda">Números recientes</string>
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
     <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación aquí (~1€)</string>
@@ -74,4 +74,14 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="btn_link_faq">Preguntas frecuentes\n(FAQ) [Sólo en inglés]</string>
     <string name="btn_link_helptranslations">Traducir</string>
     <string name="btn_link_donate">Donar</string>
+    <string name="header_code">Prefijo %1$s</string>
+    <string name="header_country">País %1$s</string>
+    <string name="btn_shortcut">Acceso directo</string>
+    <string name="cntDesc_delete">Eliminar</string>
+    <string name="cntDesc_filter">Filtrar</string>
+    <string name="cntDesc_togglepin">Fijar/soltar</string>
+    <string name="hint_itemName">nombre</string>
+    <string name="title_pinned">Fijos:</string>
+    <string name="title_recents">Recientes:</string>
+    <string name="lbl_shortcut">Abre un chat con %s</string>
 </resources>

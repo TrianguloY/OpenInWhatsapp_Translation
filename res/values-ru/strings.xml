@@ -17,8 +17,8 @@ Timofey Lisunov
     <string name="txt_about">Приложение создано TrianguloY. Оно не аффилировано с WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Выражается благодарность:
-%n за предоставление перевода на %l язык!"</string>
-    <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь :</string>
+%n за перевод на %l язык!"</string>
+    <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь:</string>
 
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
 
@@ -29,15 +29,20 @@ Timofey Lisunov
 Пример: для +7 (РФ) 123-456-78-90 введите 7 1234567890"</string>
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
+    <string name="txt_donation">Для тех, кто спрашивал: вы можете сделать небольшое пожертвование здесь (~1€)</string>
+    <string name="btn_link_donate">Пожертвовать</string>
+
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
 
     <string name="hint_editNumber">Номер</string>
     <string name="hint_editPrefix">Код</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
     <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
+    <string name="hint_itemName">имя</string>
 
     <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
     <string name="btn_shareLink">Создать ссылку</string>
+    <string name="btn_shortcut">Создать ярлык</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
@@ -61,11 +66,13 @@ Timofey Lisunov
     <string name="title_chooseCountry">Коды стран:</string>
     <string name="title_chooseApp">Выбор приложения:</string>
     <string name="title_clearRecents">Очистка истории</string>
+    <string name="title_pinned">Закреплённые:</string>
+    <string name="title_recents">Недавние:</string>
 
     <string name="message_clearRecents">Вы хотите очистить историю?</string>
 
-    <string name="header_country">Страна %1$s</string>
     <string name="header_code">Код %1$s</string>
+    <string name="header_country">Страна %1$s</string>
 
     <string name="cntDesc_appInfo">Информация о приложении</string>
     <string name="cntDesc_prefixSelector">Выбор кода страны</string>
@@ -77,6 +84,9 @@ Timofey Lisunov
     <string name="cntDesc_appLogo">Логотип приложения</string>
     <string name="cntDesc_addons">Страница модуля</string>
     <string name="cntDesc_settings">Настройки</string>
+    <string name="cntDesc_delete">Удалить</string>
+    <string name="cntDesc_togglepin">Закрепить/открепить</string>
+    <string name="cntDesc_filter">Фильтр</string>
 
     <string name="util_cancel">Отмена</string>
 
@@ -85,5 +95,6 @@ Timofey Lisunov
     <string name="addon_message_requestpermisions">Будет отображаться список вызовов с неизвестных номеров. Требуется разрешение на просмотр журнала вызовов и доступ к контактам (для отсева известных номеров).</string>
     <string name="addon_btn_grant">Предоставить доступ</string>
 
+    <string name="lbl_shortcut">Открыть чат с %s</string>
 
 </resources>

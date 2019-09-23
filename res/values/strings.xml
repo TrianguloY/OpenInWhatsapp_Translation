@@ -70,6 +70,7 @@ Check the prefix!"</string>
     <string name="title_clearRecents">Clear recents:</string>
     <string name="title_pinned">Pinned:</string>
     <string name="title_recents">Recents:</string>
+    <string name="title_agenda">Agenda:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
 

@@ -68,6 +68,7 @@ Timofey Lisunov
     <string name="title_clearRecents">Очистка истории</string>
     <string name="title_pinned">Закреплённые:</string>
     <string name="title_recents">Недавние:</string>
+    <string name="title_agenda">Недавние номера:</string>
 
     <string name="message_clearRecents">Вы хотите очистить историю?</string>
 

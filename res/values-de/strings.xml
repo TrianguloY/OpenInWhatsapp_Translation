@@ -30,6 +30,7 @@ Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 12
     <string name="txt_extra_description">"
 Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
 
+    <string name="txt_donation" />
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
     <string name="hint_message">Nachricht, die automatisch vervollständigt wird (NICHT autom. gesendet).</string>

@@ -29,6 +29,7 @@ Insira o número e o "<a href="https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3dig
 Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="txt_extra_description">"
 Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que irá ser PREENCHIDA no campo de texto (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM)."</string>
+    <string name="txt_donation" />
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>

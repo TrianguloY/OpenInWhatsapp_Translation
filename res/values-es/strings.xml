@@ -84,4 +84,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_pinned">Fijos:</string>
     <string name="title_recents">Recientes:</string>
     <string name="lbl_shortcut">Abre un chat con %s</string>
+    <string name="title_agenda">Agenda:</string>
 </resources>

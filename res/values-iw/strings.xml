@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+
+
+If you added/modified the following file add your name here to give credit:
+	My name is 'Yoni Cohen jonbir3'
+
+ -->
+<resources>
+    <string name="app_name">הקש כדי לשוחח</string>
+
+    <string name="txt_about">האפליקצייה נוצרה ע"י TrianguloY. האפליקצייה לא קשורה לחברת וואטסאפ.</string>
+
+    <string name="txt_acknowledgements">"תודות:
+תודה ל %n על תרגום לשפה ה%l!"</string>
+    <string name="txt_about_helptranslations">אתה רוצה לעזור עם תרגום? תוכל למצוא מידע נוסף כאן: </string>
+
+    <string name="txt_changelanguage">תוכל לשנות את שפת האפליקצייה על ידי לחיצה על הכפתור למטה (האפליקצייה תיפתח מחדש).</string>
+
+    <string name="txt_description">"האפליקצייה משתמשת בממשק שפורסם על ידי וואטסאפ כדי לפתוח צ'אט עם כל מספר שתזין. לא יווצר איש קשר חדש על המכשיר.
+מידע נוסף "<a href="https://www.whatsapp.com/faq/en/general/26000030">כאן</a>".
+
+הכנס את המספר ואת ה "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">קידומת</a>" בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
+לדוגמה: למספר +972 (ישראל) 123 456 7890 תכתוב 972 1234567890"</string>
+    <string name="txt_extra_description">"
+השתמש בזה כדי ליצור לינק שיפתח בוואטסאפ כשילחצו עליו. תוכל לציין מספר ו/או הודעה שתוצב בתיבת הקלט בוואטסאפ (היא לא, אני חוזר, היא לא תישלח באופן אוטמטי)."</string>
+
+    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
+    <string name="txt_donation">למי שביקש, תוכל לתת תרומה קטנה כאן (~1€)</string>
+    <string name="btn_link_donate">לתרומה</string>
+
+    <string name="txt_addonDescr">בעזרת תוסף זה תוכל לאפשר לאפליקצייה להציג רשימה של שיחות אחרונות לא מזוהות כדי לשוחח איתם בוואטסאפ. אל תדאג: זה בחינם, שוקל פחות מתמונה וללא פרסומות.</string>
+
+    <string name="hint_editNumber">מספר</string>
+    <string name="hint_editPrefix">קידומת</string>
+    <string name="hint_message">הודעה שתושלם אוטומטית, לא תישלח לבד.</string>
+    <string name="hint_prefAndNumber"><![CDATA[קידומת & מספר]]></string>
+    <string name="hint_itemName">שם</string>
+
+    <string name="btn_openInWhatsapp">פתיחה</string>
+    <string name="btn_shareLink">שיתוף</string>
+    <string name="btn_shortcut">קיצור דרך</string>
+    <string name="chk_mergeInputs">אחד בין הקידומת למספר</string>
+    <string name="chk_enableRecents">שמור מספרים או הודעות אחרונות. (ביטול האפשרות ימחק את הרשימה השמורה)</string>
+    <string name="chk_hideInfo">הסתר את טקסט העזרה מהמסך הראשי</string>
+    <string name="btn_addonLink">תוסף</string>
+
+    <string name="btn_link_playstore_open">חנות Play (פתיחה)</string>
+    <string name="btn_link_playstore_share">חנות Play (שיתוף)</string>
+    <string name="btn_link_apppage">עמוד האפליקצייה</string>
+    <string name="btn_link_faq">שאלות נפוצות\n(FAQ) [אנגלית בלבד]</string>
+    <string name="btn_link_helptranslations">תרגום</string>
+
+    <string name="error_badData">שגיאה בעת פתיחת המספר. קלט שגוי.</string>
+    <string name="error_nowhatsapp">לא יכול לפתוח את הוואטסאפ. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">האם הוא מותקן?</a></string>
+
+    <string name="toast_autoParser">"מנתח אוטומטי.
+בדוק את הקידומת!"</string>
+    <string name="toast_copied">הועתק ללוח</string>
+    <string name="toast_error_openLink">לא יכול לפתוח את הלינק</string>
+
+    <string name="title_sendTo">שלח לינק ל:</string>
+    <string name="title_chooseCountry">קידומת לפי מדינה:</string>
+    <string name="title_chooseApp">בחר אפליקצייה:</string>
+    <string name="title_clearRecents">נקה רשימת שימושים אחרונים:</string>
+    <string name="title_pinned">נעוצים:</string>
+    <string name="title_recents">שימושים אחרונים:</string>
+    <string name="title_agenda">Agenda:</string>
+
+    <string name="message_clearRecents">האם אתה בטוח שברצונך למחוק את הרשימה?</string>
+
+    <string name="header_code">קידומת %1$s</string>
+    <string name="header_country">מדינה %1$s</string>
+
+    <string name="cntDesc_appInfo">מידע על האפליקצייה</string>
+    <string name="cntDesc_prefixSelector">בוחר קידומות</string>
+    <string name="cntDesc_pasteClipboard">הדבק מהלוח</string>
+    <string name="cntDesc_agenda">Agenda</string>
+    <string name="cntDesc_recentMessages">הודעות אחרונות</string>
+    <string name="cntDesc_calls">שיחות לא מזוהות</string>
+    <string name="cntDesc_toggleAdv">מתקדם</string>
+    <string name="cntDesc_appLogo">לוגו האפליקצייה</string>
+    <string name="cntDesc_addons">פתח את דף התוסף</string>
+    <string name="cntDesc_settings">הגדרות</string>
+    <string name="cntDesc_delete">מחק</string>
+    <string name="cntDesc_togglepin">נעץ/בטל נעיצה</string>
+    <string name="cntDesc_filter">סנן</string>
+
+    <string name="util_cancel">בטל</string>
+
+    <string name="addon_message_loadingCalls">טוען רשימת שיחות לא מזוהות…</string>
+    <string name="addon_toast_noCalls">לא נמצאו מספרים לא מזוהים או שלא ניתן לטעון אותם</string>
+    <string name="addon_message_requestpermisions">התוסף יציג רשימת שיחות לא מזוהות אחרונות. נדרשות הרשאות להצגת שיחות אחרונות ולגשת לאנשי קשר (כדי להסיר את השיחות הידועות).</string>
+    <string name="addon_btn_grant">תן הרשאה</string>
+
+    <string name="lbl_shortcut">פתח צ'אט עם %s</string>
+
+</resources>

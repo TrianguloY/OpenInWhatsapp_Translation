@@ -12,7 +12,7 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <parameters dir="rtl">
-<title max_chars="50">Click to chat</title>
+<title max_chars="50">הקלקה לצ'אט</title>
 <description_short max_chars="80">שוחח בוואטסאפ עם כל מספר אפילו אם אינו באנשי הקשר שלך.</description_short>
 <description_long max_chars="4000">הסתייגות: האפליקצייה לא קשורה או מאושרת ע"י חברת WhatsApp.
 שם קודם: "Open in WhatsApp (click to chat)", השם שונה כדי לעמוד בהנחיות של חברת וואטסאפ.
@@ -24,7 +24,7 @@ If you added/modified the following file add your name here to give credit:
 
 -------------------
 
-האפליקצייה משתמשת בפיצ'ר 'הקש כדי לשוחח' של וואטסאפ (https://faq.whatsapp.com/en/android/26000030/) כדי לפתוח צ'אט עם כל מספר (צ'אט בינך לבין אותו מספר).
+האפליקצייה משתמשת בפיצ'ר 'הקש כדי לשוחח' של וואטסאפ (https://faq.whatsapp.com/iw/android/26000030/) כדי לפתוח צ'אט עם כל מספר (צ'אט בינך לבין אותו מספר).
 לא נוצר שום איש קשר במכשיר, אתה לא צריך לשמור את המספר ברשימת אנשי הקשר. אתה צריך בסך הכל לפתוח את האפליקצייה, להכניס את המספר, ללחוץ על הכפתור והצ'אט יפתח. (אם למספר אין חשבון וואטסאפ - וואטסאפ תודיע לך על כך).
 
 שימושי במצבים כגון:

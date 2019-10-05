@@ -20,7 +20,7 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 
 'What is this app used for?' The answer is often misunderstood: you can open a chat on the official WhatsApp app (or Business) with another user if you know their number. This app replaces the method of saving the number into contacts. This will NOT allow you to 'spy other conversations', 'contact with numbers without WhatsApp', 'hide your number' or other crazy things. This is the same as clicking an unknown number on a group, creating manually the url link or saving the contact.
 
-'Why should I use this instead of others?' You are free to choose of course! This app only has the 'open in WhatsApp' feature and improvements, but for this reason the app is extremely simple and so I made it without ads, as small a possible, and free; just to help others use this feature that WhatsApp have (note that I'm not affiliated with WhatsApp Inc). Since I published it the popularity increased as unexpected (thanks!) and other apps with the same functionality (some even blatant copies without my permission) have populated the store. You can use whichever you prefer, but this one is (last time I checked at least) the smallest of all, the only one add-free, and the only one without permissions (not internet, not storage, nothing. Check it! ).
+'Why should I use this instead of others?' You are free to choose of course! This app only has the 'open in WhatsApp' feature and improvements, but for this reason the app is extremely simple and so I made it without ads, as small a possible, and free; just to help others use this feature that WhatsApp have (note that I'm not affiliated with WhatsApp Inc). Since I published it the popularity increased as unexpected (thanks!) and other apps with the same functionality (some even blatant copies without my permission) have populated the store. You can use whichever you prefer, but this one is (last time I checked at least) the smallest of all, the only one add-free, and the only one without 'dangerous' permissions (not internet, not storage, nothing. Check it! ).
 
 -------------------
 
@@ -34,7 +34,6 @@ Useful on situations like:
 
 Prefix:
 You need to specify the prefix of the number, even if from your own country (will be kept when reopening the app). You can enter it manually or tap the + button to choose from a list.
-Hidden shortcut: long tap the + button to sort the list by prefix.
 
 Create links:
 You can create an url link that will open WhatsApp on the specified number. This is a WhatsApp feature, you don't need this app to open the link, only to create it.
@@ -44,18 +43,18 @@ You can save the link as a quick shortcut, share it so people can contact you (t
 Hidden shortcut: long tap the 'share' button to quickly copy the link to the clipboard.
 
 Recents list:
-When a number is opened it is saved on a recents list, in case you want to open a number again and you don't remember the number. If you actively open a number remember you can create a shortcut on your launcher directly from WhatsApp (from the chat: menu, more, create shortcut).
-Hidden shortcut: long tap the recents button to delete the list.
+When a number is opened it is saved on a recents list, in case you want to open a number again and you don't remember the number. You can also pin numbers and name them, or even create shortcuts.
 
 ---------------------------
 
-This is a tool app: simple and lightweight. No extra features, no extra size, no permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related feature, but I want to keep it as simple and lightweight as possible).
+This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related feature, but I want to keep it as simple and lightweight as possible).
 
 Translation:
-Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya and Armand Secco for the translations!
+Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco and Yoni Cohen jonbir3 for the translations!
 
 Permissions used:
--Nothing- (they aren't necessary)
+SHORTCUT: To create shortcuts in the launcher.
+-Nothing else- (they aren't necessary)
 
 Apk size:
 ~100 KB (0,1MB)</description_long>

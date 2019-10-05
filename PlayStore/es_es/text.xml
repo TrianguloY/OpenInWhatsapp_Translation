@@ -30,7 +30,6 @@ Tan solo abre la aplicación e introduce el número (con prefijo).
 
 Prefijo:
 Necesitas introducir el prefijo del número, incluso si es de tu mismo país. Puedes introducirlo manualmente o, si no recuerdas el de un país concreto, puedes pulsar el botón + para mostrar un listado del que elegirlo.
-Atajo oculto: mantén pulsado el botón + para mostrar la lista ordenada por prefijo en lugar de por país.
 
 
 Crear enlaces:
@@ -42,22 +41,22 @@ Atajo oculto: mantén pulsado el botón de 'compartir' para copiar el enlace rá
 
 
 Lista de recientes:
-Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). Si abres un número muchas veces recuerda que puedes crear un atajo en el escritorio directamente desde WhatsApp (desde el chat: menú, más, crear acceso directo).
-Atajo oculto: mantén pulsado el botón de recientes para borrar la lista.
+Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). También puedes fijarlo y darle un nombre. O incluso crear un atajo en el escritorio.
 
 
 -----------------------------------------------------------
 
 
-Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
+Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos peligrosos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
 
 
 Traducción:
-¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya y Armand Secco por las traducciones!
+¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco y Yoni Cohen jonbir3 por las traduciones!
 
 
 Permisos usados:
--Ninguno- (no eran necesarios)
+SHORTCUTS: permite crear atajos en el escritorio.
+-Ninguno más- (no eran necesarios)
 
 
 Tamaño del apk:

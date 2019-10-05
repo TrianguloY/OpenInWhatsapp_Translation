@@ -23,9 +23,9 @@ If you added/modified the following file add your name here to give credit:
     <string name="txt_changelanguage">תוכל לשנות את שפת האפליקצייה על ידי לחיצה על הכפתור למטה (האפליקצייה תיפתח מחדש).</string>
 
     <string name="txt_description">"האפליקצייה משתמשת בממשק שפורסם על ידי וואטסאפ כדי לפתוח צ'אט עם כל מספר שתזין. לא יווצר איש קשר חדש על המכשיר.
-מידע נוסף "<a href="https://www.whatsapp.com/faq/en/general/26000030">כאן</a>".
+מידע נוסף "<a href="https://www.whatsapp.com/faq/iw/general/26000030">כאן</a>".
 
-הכנס את המספר ואת ה "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">קידומת</a>" בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
+הכנס את המספר ואת ה "<a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%93%D7%95%D7%9E%D7%AA_%D7%98%D7%9C%D7%A4%D7%95%D7%9F_%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA">קידומת</a>" בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
 לדוגמה: למספר +972 (ישראל) 123 456 7890 תכתוב 972 1234567890"</string>
     <string name="txt_extra_description">"
 השתמש בזה כדי ליצור לינק שיפתח בוואטסאפ כשילחצו עליו. תוכל לציין מספר ו/או הודעה שתוצב בתיבת הקלט בוואטסאפ (היא לא, אני חוזר, היא לא תישלח באופן אוטמטי)."</string>
@@ -98,6 +98,6 @@ If you added/modified the following file add your name here to give credit:
     <string name="addon_message_requestpermisions">התוסף יציג רשימת שיחות לא מזוהות אחרונות. נדרשות הרשאות להצגת שיחות אחרונות ולגשת לאנשי קשר (כדי להסיר את השיחות הידועות).</string>
     <string name="addon_btn_grant">תן הרשאה</string>
 
-    <string name="lbl_shortcut">פתח צ'אט עם %s</string>
+    <string name="lbl_shortcut">פתח צ\'אט עם %s</string>
 
 </resources>

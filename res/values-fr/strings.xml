@@ -30,7 +30,7 @@ Insérez le numéro et le "<a href="https://fr.wikipedia.org/wiki/Liste_des_indi
 Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="txt_extra_description">"
 Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message)."</string>
-    <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici (~1€)</string>
+    <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
     <string name="btn_link_donate">Don</string>
 
     <string name="txt_addonDescr">Avec cet addon, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>

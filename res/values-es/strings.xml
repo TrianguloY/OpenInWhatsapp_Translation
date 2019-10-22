@@ -51,7 +51,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_agenda">Números recientes</string>
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
-    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación aquí (~1€)</string>
+    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación aquí</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
     <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
     <string name="btn_addonLink">Complemento</string>

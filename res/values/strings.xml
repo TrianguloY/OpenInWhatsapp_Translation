@@ -31,7 +31,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
 
     <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">For those who asked: you can give me a small donation here (~1€)</string>
+    <string name="txt_donation">For those who asked: you can give me a small donation here</string>
     <string name="btn_link_donate">Donate</string>
 
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>

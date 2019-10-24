@@ -51,7 +51,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_agenda">Números recientes</string>
     <string name="cntDesc_recentMessages">Mensajes recientes</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
-    <string name="txt_donation">Para aquellos que han preguntado: puedes darme una pequeña donación aquí</string>
+    <string name="txt_donation">Quieres apoyarme? Gracias! Puedes encontrar como hacerlo aquí</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
     <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
     <string name="btn_addonLink">Complemento</string>
@@ -73,7 +73,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="btn_link_apppage">Página de la aplicación</string>
     <string name="btn_link_faq">Preguntas frecuentes\n(FAQ) [Sólo en inglés]</string>
     <string name="btn_link_helptranslations">Traducir</string>
-    <string name="btn_link_donate">Donar</string>
+    <string name="btn_link_donate">Apoyar</string>
     <string name="header_code">Prefijo %1$s</string>
     <string name="header_country">País %1$s</string>
     <string name="btn_shortcut">Acceso directo</string>
@@ -85,4 +85,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_recents">Recientes:</string>
     <string name="lbl_shortcut">Abre un chat con %s</string>
     <string name="title_agenda">Agenda:</string>
+    <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere addon V1.2+). Poner a 0 para mostrar todos:</string>
 </resources>

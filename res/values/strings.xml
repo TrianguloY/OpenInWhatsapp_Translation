@@ -31,8 +31,8 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
 
     <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">For those who asked: you can give me a small donation here</string>
-    <string name="btn_link_donate">Donate</string>
+    <string name="txt_donation">Do you want to support me? Thanks! Find how here:</string>
+    <string name="btn_link_donate">Support</string>
 
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 
@@ -97,6 +97,7 @@ Check the prefix!"</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
     <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
     <string name="addon_btn_grant">Grant access</string>
+    <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
 

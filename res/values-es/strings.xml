@@ -85,5 +85,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_recents">Recientes:</string>
     <string name="lbl_shortcut">Abre un chat con %s</string>
     <string name="title_agenda">Agenda:</string>
-    <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere addon V1.2+). Poner a 0 para mostrar todos:</string>
+    <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere complemento V1.2+). Poner a 0 para mostrar todos:</string>
 </resources>

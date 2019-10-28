@@ -101,4 +101,8 @@ Check the prefix!"</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
 
+    <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">full app</a> (note: not all versions are supported).</string>
+    <string name="title_instantApp">Instant app</string>
+    <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
+
 </resources>

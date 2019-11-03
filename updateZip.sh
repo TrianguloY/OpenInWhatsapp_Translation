@@ -5,3 +5,7 @@ zip translation_files.zip \
 	res/README.md \
 	res/values/strings.xml \
 	res/raw/countries_name.txt
+	
+echo "updated translation_files.zip"
+
+git add translation_files.zip

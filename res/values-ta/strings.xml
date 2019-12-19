@@ -9,7 +9,7 @@ Instructions for manual translation:
 
 If you added/modified the following file add your name here to give credit:
 
-mageshBabu (mage1k99)
+MageshBabu (mage1k99)
  -->
 <resources>
     <string name="app_name">"அரட்டை தொடக்க கிளிக் செய்க"</string>
@@ -91,18 +91,18 @@ mageshBabu (mage1k99)
     <string name="cntDesc_togglepin">முள் / பின் நீக்குவது</string>
     <string name="cntDesc_filter">வடிகட்டி</string>
 
-    <string name="util_cancel">Cancel</string>
+    <string name="util_cancel">ரத்து</string>
 
-    <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
-    <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
-    <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
-    <string name="addon_btn_grant">Grant access</string>
-    <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
+    <string name="addon_message_loadingCalls">அறியப்படாத அழைப்புகள் பட்டியலை ஏற்றுகிறது…</string>
+    <string name="addon_toast_noCalls">அறியப்படாத எண்கள் எதுவும் கிடைக்கவில்லை அல்லது படிக்க முடியவில்லை</string>
+    <string name="addon_message_requestpermisions">இது அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காண்பிக்கும். அழைப்புகளைக் காணவும் தொடர்புகளை அணுகவும் (அறியப்பட்ட எண்களை அகற்ற) அனுமதி தேவை.</string>
+    <string name="addon_btn_grant">அனுமதி வழங்கு</string>
+    <string name="addon_txt_loading">ஏற்றுதல் நேரத்தைக் குறைக்க சமீபத்திய அறியப்படாத அழைப்புகளைக் கட்டுப்படுத்தவும் (addon V1.2 + தேவைப்படுகிறது). அனைத்தையும் காட்ட 0 என அமைக்கவும்:</string>
 
-    <string name="lbl_shortcut">Open a chat with %s</string>
+    <string name="lbl_shortcut"> %s உடன் அரட்டையைத் திறக்கவும்</string>
 
-    <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">full app</a> (note: not all versions are supported).</string>
-    <string name="title_instantApp">Instant app</string>
-    <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
+    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp"> முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும் </ a > (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
+    <string name="title_instantApp">உடனடி பயன்பாடுகளால்</string>
+    <string name="message_instantApp"> \'%s\' அம்சம் உடனடி பயன்பாட்டில் கிடைக்கவில்லை. நீங்கள் அதைப் பயன்படுத்த விரும்பினால், ப்ளே ஸ்டோரிலிருந்து பயன்பாட்டை நிறுவவும்.</string>
 
 </resources>

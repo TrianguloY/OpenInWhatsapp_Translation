@@ -31,7 +31,7 @@ MageshBabu (mage1k99)
 கிளிக் செய்யும் போது வாட்ஸ்அப்பைத் திறக்கும் இணைப்பை உருவாக்க இதைப் பயன்படுத்தவும்.  உள்ளீட்டு பெட்டியில் வைக்கப்படும் ஒரு எண் மற்றும் / அல்லது ஒரு செய்தியை நீங்கள் குறிப்பிடலாம் (நான் மீண்டும் சொல்ல மாட்டேன், செய்தியை அனுப்ப மாட்டேன்)."</string>
 
     <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம் (~1€)</string>
+    <string name="txt_donation">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
     <string name="btn_link_donate">நன்கொடை</string>
 
     <string name="txt_addonDescr">இந்த addon மூலம் கிளிக் செய்ய அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காட்ட இந்த பயன்பாட்டை நீங்கள் அனுமதிக்கலாம்.  கவலைப்பட வேண்டாம்: இது இலவசம், படத்தை விட சிறியது, விளம்பரங்கள் இல்லை..</string>
@@ -101,7 +101,7 @@ MageshBabu (mage1k99)
 
     <string name="lbl_shortcut"> %s உடன் அரட்டையைத் திறக்கவும்</string>
 
-    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp"> முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும் </ a > (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
+    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp"> முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும் </a> (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
     <string name="title_instantApp">உடனடி பயன்பாடுகளால்</string>
     <string name="message_instantApp"> \'%s\' அம்சம் உடனடி பயன்பாட்டில் கிடைக்கவில்லை. நீங்கள் அதைப் பயன்படுத்த விரும்பினால், ப்ளே ஸ்டோரிலிருந்து பயன்பாட்டை நிறுவவும்.</string>
 

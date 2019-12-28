@@ -30,7 +30,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
+    <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a donation/page link I'm fine showing it here too) -->
     <string name="txt_donation">Do you want to support me? Thanks! Find how here:</string>
     <string name="btn_link_donate">Support</string>
 

@@ -22,6 +22,7 @@ Thanks to %n for providing the %l locale translation!"</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
 
+    <!-- in the text from below change the WhatsApp link to your locale (change 'en' by the locale code) and the wikipedia link to your locale too (go to wikipedia, change the locale and copy/paste the link). If There is a public and better place than wikipedia for the locale list in your language, use that one instead -->
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
 More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
 

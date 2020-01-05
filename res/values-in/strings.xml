@@ -13,7 +13,7 @@ artmann (Dwi Legowo)
 
  -->
 <resources>
-    <string name="app_name">Click to chat</string>
+    <string name="app_name">Klik untuk Chat</string>
 
     <string name="txt_about">Aplikasi dibuat oleh TrianguloY. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>
 
@@ -24,10 +24,10 @@ Terimakasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
     <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol dibawah (aplikasi akan dimuat ulang).</string>
 
     <string name="txt_description">"Aplikasi menggunakan public api  WhatsApp untuk memulai percakapan dengan nomor yang kamu masukan. Tidak ada kontak yang akan tersimpan.
-Info lanjut "<a href="https://www.whatsapp.com/faq/en/general/26000030">disini</a>".
+Info lanjut "<a href="https://www.whatsapp.com/faq/id/general/26000030">disini</a>".
 
-Masukan nomor dan prefix"<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region"></a>" tanpa tambahan karakter, hanya angka 0–9. Kamu bisa klik \'+\' untuk memilih dari daftar.
-Contoh: untuk +44 (UK) 123 456 7890 tulis 44 1234567890"</string>
+Masukan nomor dan "<a href="https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia">prefix</a>" tanpa tambahan karakter, hanya angka 0–9. Kamu bisa klik \'+\' untuk memilih dari daftar.
+Contoh: untuk +62 (Indonesia) 123 456 7890 tulis 62 1234567890"</string>
     <string name="txt_extra_description">"
 Pakai ini untuk membuat link yang akan membuka WA ketika di klik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada input box (TIDAK AKAN, saya ulang, pesan TIDAK AKAN dikirim)."</string>
 
@@ -102,7 +102,7 @@ Periksa lagi prefix-nya!"</string>
 
     <string name="lbl_shortcut">Bka chat dengan %s</string>
 
-    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi default. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba install aplikasi penuh <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp"></a> (catatan: tidak semua versi di dukung.).</string>
+    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi default. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba install <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">aplikasi penuh</a> (catatan: tidak semua versi di dukung.).</string>
     <string name="title_instantApp">Aplikasi instan</string>
     <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. JIka kmau ingin menggunakannya silahkan install aplikasinya dari Play Store.</string>
 

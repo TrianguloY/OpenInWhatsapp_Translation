@@ -12,6 +12,10 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <resources>
+    <!-- When translated, remove this line
+    <string name="translated">.</string>
+    When translated, remove this line  -->
+
     <string name="app_name">Click to chat</string>
 
     <string name="txt_about">App created by TrianguloY. This app is not affiliated with WhatsApp Inc.</string>
@@ -21,6 +25,7 @@ Thanks to %n for providing the %l locale translation!"</string>
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
+    <string name="txt_availocales">Only locales available in your device are installed, to reduce app size.</string>
 
     <!-- in the text from below change the WhatsApp link to your locale (change 'en' by the locale code) and the wikipedia link to your locale too (go to wikipedia, change the locale and copy/paste the link). If There is a public and better place than wikipedia for the locale list in your language, use that one instead -->
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.

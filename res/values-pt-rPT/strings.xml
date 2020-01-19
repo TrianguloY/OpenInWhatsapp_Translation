@@ -13,6 +13,8 @@ Matheus Damacs
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Conversa em um Clique</string>
     <string name="txt_description">"Este aplicativo usa a API pública do WhatsApp para abrir um bate–papo com qualquer número que você inserir. Nenhum contato é criado no dispositivo. 
 Mais informações "<a href="https://www.whatsapp.com/faq/pt_pt/general/26000030">aqui</a>".

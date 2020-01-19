@@ -13,6 +13,8 @@ Armand Secco
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Clicca per chattare</string>
 
     <string name="txt_about">App creata da TrianguloY. Quest\'App non è legata a WhatsApp Inc.</string>

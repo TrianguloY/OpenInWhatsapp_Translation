@@ -13,6 +13,8 @@ artmann (Dwi Legowo)
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Klik untuk Chat</string>
 
     <string name="txt_about">Aplikasi dibuat oleh TrianguloY. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>

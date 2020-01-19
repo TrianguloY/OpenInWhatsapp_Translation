@@ -12,6 +12,8 @@ If you added/modified the following file add your name here to give credit:
 MageshBabu (mage1k99)
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">"அரட்டை தொடக்க கிளிக் செய்க"</string>
 
     <string name="txt_about">"TrianguloY உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>

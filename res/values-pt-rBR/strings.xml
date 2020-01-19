@@ -13,6 +13,8 @@ Richard Anderson (Hirai RCD)
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Conversa em um Clique</string>
 
     <string name="txt_about">Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc.</string>

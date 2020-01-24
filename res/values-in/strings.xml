@@ -8,46 +8,46 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit: 
-artmann (Dwi Legowo)
+artmann (Dwi Legowo) (Steven Felix)
 
 
  -->
 <resources>
     <string name="app_name">Klik untuk Chat</string>
 
-    <string name="txt_about">Aplikasi dibuat oleh TrianguloY. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>
+    <string name="txt_about">Aplikasi ini dibuat oleh TrianguloY. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Penghargaan:
-Terimakasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
-    <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya disini:</string>
+Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
+    <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya di sini:</string>
 
-    <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol dibawah (aplikasi akan dimuat ulang).</string>
+    <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol di bawah (aplikasi akan dimuat ulang).</string>
 
-    <string name="txt_description">"Aplikasi menggunakan public api  WhatsApp untuk memulai percakapan dengan nomor yang kamu masukan. Tidak ada kontak yang akan tersimpan.
-Info lanjut "<a href="https://www.whatsapp.com/faq/id/general/26000030">disini</a>".
+    <string name="txt_description">"Aplikasi ini menggunakan public API WhatsApp untuk memulai percakapan dengan nomor yang kamu masukkan. Tidak ada kontak yang akan tersimpan.
+Info lebih lanjut klik "<a href="https://www.whatsapp.com/faq/id/general/26000030">di sini</a>".
 
-Masukan nomor dan "<a href="https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia">prefix</a>" tanpa tambahan karakter, hanya angka 0–9. Kamu bisa klik \'+\' untuk memilih dari daftar.
-Contoh: untuk +62 (Indonesia) 123 456 7890 tulis 62 1234567890"</string>
+Masukkan nomor dan "<a href="https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia">prefix</a>" tanpa tambahan karakter, hanya angka 0–9. Kamu bisa klik \'+\' untuk memilih dari daftar.
+Contoh: untuk +628123456789 (Indonesia) tulis 628123456789"</string>
     <string name="txt_extra_description">"
-Pakai ini untuk membuat link yang akan membuka WA ketika di klik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada input box (TIDAK AKAN, saya ulang, pesan TIDAK AKAN dikirim)."</string>
+Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis)."</string>
 
     <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a donation/page link I'm fine showing it here too) -->
-    <string name="txt_donation">Mau dukung saya? Trim\'s! Cari tahu disini:</string>
+    <string name="txt_donation">Mau dukung saya? Terima kasih! Cari tahu disini:</string>
     <string name="btn_link_donate">Dukung</string>
 
-    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengijinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa di klik. Gratis gak usah kuatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
+    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah kuatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
 
     <string name="hint_editNumber">Nomor</string>
-    <string name="hint_editPrefix">Pref</string>
-    <string name="hint_message">Pesan yang auto komplit, TIDAK dikirim.</string>
+    <string name="hint_editPrefix">Prefix</string>
+    <string name="hint_message">Pesan yang terisi otomatis, TIDAK dikirim.</string>
     <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
-    <string name="hint_itemName">nama</string>
+    <string name="hint_itemName">Nama</string>
 
     <string name="btn_openInWhatsapp">Buka</string>
     <string name="btn_shareLink">Bagikan</string>
-    <string name="btn_shortcut">Pintasan</string>
+    <string name="btn_shortcut">Tambah Pintasan</string>
     <string name="chk_mergeInputs">Gabungkan input prefix dan nomor</string>
-    <string name="chk_enableRecents">Simpan nomor/pesan terkini. (menonaktifkan akan menghapus yang sudah tersimpan)</string>
+    <string name="chk_enableRecents">Simpan nomor/pesan terkini. (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="btn_addonLink">Addon</string>
 

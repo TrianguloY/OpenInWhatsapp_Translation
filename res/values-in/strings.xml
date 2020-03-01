@@ -54,59 +54,59 @@ Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bi
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="btn_addonLink">Addon</string>
 
-    <string name="btn_link_playstore_open">Play Store (open)</string>
-    <string name="btn_link_playstore_share">Play Store (share)</string>
-    <string name="btn_link_apppage">App page</string>
-    <string name="btn_link_faq">Frecuently asked questions\n(FAQ) [English only]</string>
+    <string name="btn_link_playstore_open">Play Store (buka)</string>
+    <string name="btn_link_playstore_share">Play Store (bagikan)</string>
+    <string name="btn_link_apppage">Halaman aplikasi</string>
+    <string name="btn_link_faq">Pertanyaan yang sering diajukan\n(FAQ) [dalam bahasa Inggris]</string>
     <string name="btn_link_helptranslations">Terjemahkan</string>
 
     <string name="error_badData">Gagal membuka. Data tidak benar</string>
-    <string name="error_nowhatsapp">Tidak bisa membuka WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Apa sudah di install?</a></string>
+    <string name="error_nowhatsapp">Tidak bisa membuka WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Apa sudah di instal?</a></string>
 
     <string name="toast_autoParser">"Parser otomatis.
 Periksa lagi prefix-nya!"</string>
-    <string name="toast_copied">Di salin di papan klip</string>
-    <string name="toast_error_openLink">Tidak bisa membuka link</string>
+    <string name="toast_copied">Disalin ke papan klip</string>
+    <string name="toast_error_openLink">Tidak bisa membuka tautan</string>
 
-    <string name="title_sendTo">Kirim link ke:</string>
+    <string name="title_sendTo">Kirim tautan ke:</string>
     <string name="title_chooseCountry">Prefix berdasarkan negara:</string>
     <string name="title_chooseApp">Pilih aplikasi:</string>
     <string name="title_clearRecents">Hapus terkini:</string>
-    <string name="title_pinned">Pinned:</string>
+    <string name="title_pinned">Diberi PIN:</string>
     <string name="title_recents">Terkini:</string>
     <string name="title_agenda">Agenda:</string>
 
-    <string name="message_clearRecents">Apa kamu ingin hapus semua terkini?</string>
+    <string name="message_clearRecents">Apakah kamu ingin menghapus semua terkini?</string>
 
     <string name="header_code">Prefix %1$s</string>
     <string name="header_country">Negara %1$s</string>
 
-    <string name="cntDesc_appInfo">Informasi Aplikasi</string>
-    <string name="cntDesc_prefixSelector">PEmilih Prefix</string>
+    <string name="cntDesc_appInfo">Info Aplikasi</string>
+    <string name="cntDesc_prefixSelector">Pemilih Prefix</string>
     <string name="cntDesc_pasteClipboard">Tempel dari papan klip</string>
     <string name="cntDesc_agenda">Agenda</string>
-    <string name="cntDesc_recentMessages">Pesan-pesan terkini</string>
+    <string name="cntDesc_recentMessages">Pesan terkini</string>
     <string name="cntDesc_calls">Panggilan tidak dikenal</string>
-    <string name="cntDesc_toggleAdv">Beralih mode maju</string>
+    <string name="cntDesc_toggleAdv">Lihat Lebih Banyak/Lebih Sedikit</string>
     <string name="cntDesc_appLogo">Logo Aplikasi</string>
     <string name="cntDesc_addons">Buka halaman addon</string>
     <string name="cntDesc_settings">Pengaturan</string>
     <string name="cntDesc_delete">Hapus</string>
-    <string name="cntDesc_togglepin">Pin/unpin</string>
-    <string name="cntDesc_filter">Filter</string>
+    <string name="cntDesc_togglepin">PIN/Lepas PIN</string>
+    <string name="cntDesc_filter">Saring</string>
 
     <string name="util_cancel">Batal</string>
 
     <string name="addon_message_loadingCalls">Menampilkan daftar panggilan tidak dikenal…</string>
     <string name="addon_toast_noCalls">Tidak ada nomor panggilan tidak dikenal atau tidak bisa dibaca</string>
-    <string name="addon_message_requestpermisions">Akan menampilkan daftar terkini panggilan tidak dikenal. Ijin untuk melihat daftar panggilan dan mengakses kontak (untuk menghapus nomor yang dikenal) diperlukan.</string>
+    <string name="addon_message_requestpermisions">Akan menampilkan daftar terkini panggilan tidak dikenal. Izin untuk melihat daftar panggilan dan mengakses kontak (untuk menghapus nomor yang dikenal) diperlukan.</string>
     <string name="addon_btn_grant">Beri akses</string>
     <string name="addon_txt_loading">Batasi panggilan tidak dikenal terkini untuk mengurangi waktu muat aplikasi (perlu addon V1.2+). Atur 0 untuk tampilkan semua:</string>
 
-    <string name="lbl_shortcut">Bka chat dengan %s</string>
+    <string name="lbl_shortcut">Buka chat dengan %s</string>
 
-    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi default. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba install <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">aplikasi penuh</a> (catatan: tidak semua versi di dukung.).</string>
+    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi default. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba instal <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">aplikasi penuh</a> (catatan: tidak semua versi di dukung.).</string>
     <string name="title_instantApp">Aplikasi instan</string>
-    <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. JIka kmau ingin menggunakannya silahkan install aplikasinya dari Play Store.</string>
+    <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. Jika kamu ingin menggunakannya, silahkan instal aplikasinya dari Play Store.</string>
 
 </resources>

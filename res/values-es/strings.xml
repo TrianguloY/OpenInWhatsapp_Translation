@@ -91,5 +91,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="error_instantApp">Las aplicaciones instantáneas solo pueden abrir la aplicación por defecto. Si tienes varias versiones (por ejemplo WhatsApp y WhatsApp Business) prueba instalando la <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">aplicación completa</a> (nota: no todas las versiones están soportadas).</string>
     <string name="message_instantApp">La característica \'%s\' no está soportada en una aplicación instantánea. Si quieres utilizarla debes instalar la aplicación desde el Play Store.</string>
     <string name="title_instantApp">Aplicación instantánea</string>
-    <string name="txt_availocales">Solo los idiomas disponibles en <u>tu dispositivo</u> están instalados, para reducir el tamaño de la aplicación.</string>
+    <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>
 </resources>

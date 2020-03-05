@@ -4,7 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -29,10 +30,11 @@ Thanks to %n for providing the %l locale translation!"</string>
 
     <!-- in the text from below change the WhatsApp link to your locale (change 'en' by the locale code) and the wikipedia link to your locale too (go to wikipedia, change the locale and copy/paste the link). If There is a public and better place than wikipedia for the locale list in your language, use that one instead -->
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
-More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
+More info [[wfq|here]].
 
-Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefix</a>" with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.
+Insert the number and the [[prf|prefix]] with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
+    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
 
@@ -63,7 +65,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="btn_link_helptranslations">Translate</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
-    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>
+    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. [[wps|Is it installed?]]</string>
 
     <string name="toast_autoParser">"Automatic parser.
 Check the prefix!"</string>
@@ -107,7 +109,7 @@ Check the prefix!"</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
 
-    <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">full app</a> (note: not all versions are supported).</string>
+    <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the [[oiw|full app]] (note: not all versions are supported).</string>
     <string name="title_instantApp">Instant app</string>
     <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
 

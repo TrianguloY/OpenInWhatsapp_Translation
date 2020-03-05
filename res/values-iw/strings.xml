@@ -4,11 +4,12 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
-	My name is 'Yoni Cohen jonbir3'
+Yoni Cohen jonbir3
 
  -->
 <resources>
@@ -25,10 +26,11 @@ If you added/modified the following file add your name here to give credit:
     <string name="txt_changelanguage">תוכל לשנות את שפת האפליקצייה על ידי לחיצה על הכפתור למטה (האפליקצייה תיפתח מחדש).</string>
 
     <string name="txt_description">"האפליקצייה משתמשת בממשק שפורסם על ידי וואטסאפ כדי לפתוח צ'אט עם כל מספר שתזין. לא יווצר איש קשר חדש על המכשיר.
-מידע נוסף "<a href="https://www.whatsapp.com/faq/iw/general/26000030">כאן</a>".
+מידע נוסף [[wfq|כאן]].
 
-הכנס את המספר ואת ה "<a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%93%D7%95%D7%9E%D7%AA_%D7%98%D7%9C%D7%A4%D7%95%D7%9F_%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA">קידומת</a>" בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
+הכנס את המספר ואת ה [[prf|קידומת]] בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
 לדוגמה: למספר +972 (ישראל) 123 456 7890 תכתוב 972 1234567890"</string>
+    <string name="prefix_url">https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%93%D7%95%D7%9E%D7%AA_%D7%98%D7%9C%D7%A4%D7%95%D7%9F_%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA</string>
     <string name="txt_extra_description">"
 השתמש בזה כדי ליצור לינק שיפתח בוואטסאפ כשילחצו עליו. תוכל לציין מספר ו/או הודעה שתוצב בתיבת הקלט בוואטסאפ (היא לא, אני חוזר, היא לא תישלח באופן אוטמטי)."</string>
 
@@ -59,7 +61,7 @@ If you added/modified the following file add your name here to give credit:
     <string name="btn_link_helptranslations">תרגום</string>
 
     <string name="error_badData">שגיאה בעת פתיחת המספר. קלט שגוי.</string>
-    <string name="error_nowhatsapp">לא יכול לפתוח את הוואטסאפ. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">האם הוא מותקן?</a></string>
+    <string name="error_nowhatsapp">לא יכול לפתוח את הוואטסאפ. [[wps|האם הוא מותקן?]]</string>
 
     <string name="toast_autoParser">"מנתח אוטומטי.
 בדוק את הקידומת!"</string>

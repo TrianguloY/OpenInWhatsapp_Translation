@@ -4,12 +4,12 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
 Armand Secco
-
 
  -->
 <resources>
@@ -26,10 +26,11 @@ Merci à %n pour la traduction en %l!"</string>
     <string name="txt_changelanguage">Vous pouvez modifier la langue en cliquant sur le bouton ci-dessous (l\'application va redémarrer).</string>
 
     <string name="txt_description">"Cette application utilise l\'api WhatsApp publique pour ouvrir un chat avec un quelconque numéro que vous entrerez. Aucun contact ne sera créé sur votre portable.
-Davantage d\'infos "<a href="https://www.whatsapp.com/faq/fr/general/26000030">ici</a>".
+Davantage d\'infos [[wfq|ici]].
 
-Insérez le numéro et le "<a href="https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone">préfixe</a>" sans aucun caractère supplémentaire, uniquement des nombres 0–9. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
+Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
 Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
+    <string name="prefix_url">https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone</string>
     <string name="txt_extra_description">"
 Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message)."</string>
     <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
@@ -56,7 +57,7 @@ Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant de
     <string name="btn_link_helptranslations">Traduire</string>
 
     <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
-    <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Est-il installé?</a></string>
+    <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. [[wps|Est-il installé?]]</string>
 
     <string name="toast_autoParser">"Analyseur automatique.
 Contrôlez le préfixe!"</string>

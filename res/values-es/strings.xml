@@ -4,8 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '
-' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -17,14 +17,15 @@ TrianguloY
 
     <string name="app_name">Click para chatear</string>
     <string name="txt_description">"Esta aplicación utiliza la api pública de WhatsApp para abrir un chat con cualquier número que introduzcas. Ningún contacto se crea en el teléfono.
-Más información "<a href="https://www.whatsapp.com/faq/es/general/26000030">aquí</a>".
+Más información [[wfq|aquí]].
 
-Introduce el número y el "<a href="https://es.wikipedia.org/wiki/Anexo:Prefijos_telef%C3%B3nicos_mundiales#Zonas">prefijo</a>" sin carácteres extra, sólo números 0–9. Puedes pulsar en el símbolo \'+\' para elegir de un listado.
+Introduce el número y el [[prf|prefijo]] sin carácteres extra, sólo números 0–9. Puedes pulsar en el símbolo \'+\' para elegir de un listado.
 Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
+    <string name="prefix_url">https://es.wikipedia.org/wiki/Anexo:Prefijos_telef%C3%B3nicos_mundiales#Zonas</string>
     <string name="hint_editNumber">Número</string>
     <string name="error_badData">Error al abrir. Datos incorrectos</string>
     <string name="btn_openInWhatsapp">Abrir</string>
-    <string name="error_nowhatsapp">No se ha podido abrir WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">¿Está instalado?</a></string>
+    <string name="error_nowhatsapp">No se ha podido abrir WhatsApp. [[wps|¿Está instalado?]]</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="toast_autoParser">"Extracción automática.
 ¡Comprueba el prefijo!"</string>
@@ -88,7 +89,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="lbl_shortcut">Abre un chat con %s</string>
     <string name="title_agenda">Agenda:</string>
     <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere complemento V1.2+). Poner a 0 para mostrar todos:</string>
-    <string name="error_instantApp">Las aplicaciones instantáneas solo pueden abrir la aplicación por defecto. Si tienes varias versiones (por ejemplo WhatsApp y WhatsApp Business) prueba instalando la <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp">aplicación completa</a> (nota: no todas las versiones están soportadas).</string>
+    <string name="error_instantApp">Las aplicaciones instantáneas solo pueden abrir la aplicación por defecto. Si tienes varias versiones (por ejemplo WhatsApp y WhatsApp Business) prueba instalando la [[oiw|aplicación completa]] (nota: no todas las versiones están soportadas).</string>
     <string name="message_instantApp">La característica \'%s\' no está soportada en una aplicación instantánea. Si quieres utilizarla debes instalar la aplicación desde el Play Store.</string>
     <string name="title_instantApp">Aplicación instantánea</string>
     <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>

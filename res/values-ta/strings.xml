@@ -4,12 +4,13 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
-
 MageshBabu (mage1k99)
+
  -->
 <resources>
     <string name="translated">.</string>
@@ -25,10 +26,11 @@ MageshBabu (mage1k99)
     <string name="txt_changelanguage">கீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் பயன்பாட்டு மொழியை மாற்றலாம் (பயன்பாடு மறுதொடக்கம் செய்யப்படும்).</string>
 
     <string name="txt_description">"நீங்கள் உள்ளிட்ட எந்த எண்ணுடனும் அரட்டையைத் திறக்க இந்த பயன்பாடு வாட்ஸ்அப் பொது API ஐப் பயன்படுத்துகிறது.  சாதனத்தில் எந்த தொடர்பும் உருவாக்கப்படவில்லை.
- மேலும் தகவல் "<a href="https://www.whatsapp.com/faq/ta/general/26000030">here</a>".
+ மேலும் தகவல் [[wfq|here]].
 
-எண்ணையும்  செருகவும் "<a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AF%80%E0%AE%9F%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D">prefix</a>" கூடுதல் எழுத்துக்கள் இல்லாமல், 0-9 எண்கள் மட்டுமே.  நீங்கள் கிளிக் செய்யலாம் \'+\' பட்டியலிலிருந்து தேர்வு செய்ய உருப்படி.
+எண்ணையும்  செருகவும் [[prf|prefix]] கூடுதல் எழுத்துக்கள் இல்லாமல், 0-9 எண்கள் மட்டுமே.  நீங்கள் கிளிக் செய்யலாம் \'+\' பட்டியலிலிருந்து தேர்வு செய்ய உருப்படி.
  எடுத்துக்காட்டு: +91 (இந்தியா) க்கு 123 456 7890 எழுத 91 1234567890"</string>
+    <string name="prefix_url">https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AF%80%E0%AE%9F%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D</string>
     <string name="txt_extra_description">"
 கிளிக் செய்யும் போது வாட்ஸ்அப்பைத் திறக்கும் இணைப்பை உருவாக்க இதைப் பயன்படுத்தவும்.  உள்ளீட்டு பெட்டியில் வைக்கப்படும் ஒரு எண் மற்றும் / அல்லது ஒரு செய்தியை நீங்கள் குறிப்பிடலாம் (நான் மீண்டும் சொல்ல மாட்டேன், செய்தியை அனுப்ப மாட்டேன்)."</string>
 
@@ -59,7 +61,7 @@ MageshBabu (mage1k99)
     <string name="btn_link_helptranslations">மொழிபெயர்</string>
 
     <string name="error_badData">திறக்கும் போது பிழை. தவறான தரவு</string>
-    <string name="error_nowhatsapp">வாட்ஸ்அப்பைத் திறக்க முடியவில்லை.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>
+    <string name="error_nowhatsapp">வாட்ஸ்அப்பைத் திறக்க முடியவில்லை. [[wps|Is it installed?]]</string>
 
     <string name="toast_autoParser">"தானியங்கி பாகுபடுத்தி.
 முன்னொட்டை சரிபார்க்கவும்!"</string>
@@ -103,7 +105,7 @@ MageshBabu (mage1k99)
 
     <string name="lbl_shortcut"> %s உடன் அரட்டையைத் திறக்கவும்</string>
 
-    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) <a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp"> முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும் </a> (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
+    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) [[oiw|முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும்]] (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
     <string name="title_instantApp">உடனடி பயன்பாடுகளால்</string>
     <string name="message_instantApp"> \'%s\' அம்சம் உடனடி பயன்பாட்டில் கிடைக்கவில்லை. நீங்கள் அதைப் பயன்படுத்த விரும்பினால், ப்ளே ஸ்டோரிலிருந்து பயன்பாட்டை நிறுவவும்.</string>
 

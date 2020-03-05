@@ -4,12 +4,12 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
 Armand Secco
-
 
  -->
 <resources>
@@ -26,10 +26,11 @@ Grazie a %n per la traduzione in %l!"</string>
     <string name="txt_changelanguage">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>
 
     <string name="txt_description">"Quest\'app utilizza l\'api WhatsApp publica per aprire una chat con qualsiasi numero da lei composto. Nessun contatto verrà creato sul telefono cellulare. 
-Ulteriori informazioni "<a href="https://www.whatsapp.com/faq/it/general/26000030">qui</a>".
+Ulteriori informazioni [[wfq|qui]].
 
-Inserite il numero e il "<a href="https://it.wikipedia.org/wiki/Prefissi_telefonici_internazionali">prefisso</a>" senza alcun carattere aggiuntivo, solo numeri 0 – 9. È possibile fare clic su \'+\' per selezionare un prefisso dall\'elenco.
+Inserite il numero e il [[prf|prefisso]] senza alcun carattere aggiuntivo, solo numeri 0 – 9. È possibile fare clic su \'+\' per selezionare un prefisso dall\'elenco.
 Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
+    <string name="prefix_url">https://it.wikipedia.org/wiki/Prefissi_telefonici_internazionali</string>
     <string name="txt_extra_description">"
 Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio)."</string>
     <string name="txt_donation">Per coloro che desiderano: potete fare una piccola donazione qui</string>
@@ -56,7 +57,7 @@ Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsA
     <string name="btn_link_helptranslations">Tradurre</string>
 
     <string name="error_badData">Errore durante l\'invio. Dati errati</string>
-    <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">È installato?</a></string>
+    <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. [[wps|È installato?]]</string>
 
     <string name="toast_autoParser">"Analizzatore automatico.
 Controlla il prefisso!"</string>

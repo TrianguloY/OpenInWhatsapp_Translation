@@ -4,13 +4,12 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '
-' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
 Yusuf Emen
-
 
  -->
 <resources>
@@ -26,10 +25,11 @@ Rusça çeviri için %n\'a %l!"</string>
     <string name="txt_changelanguage">Aşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
 
     <string name="txt_description">"Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp\'ın herkese açık API\'sini kullanır. Rehberde kişi oluşturulmaz. 
-Daha fazla bilgi için "<a href="https://www.whatsapp.com/faq/tr/general/26000030">tıklayınız</a>".
+Daha fazla bilgi için [[wfq|tıklayınız]].
 
-Numarayı ve "<a href="https://www.tanitma.gov.tr/TR,22861/ulke-telefon-kodlari.html">ülke kodunu</a>" başka bir karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazınız. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.
+Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazınız. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.
 Örnek: +90 (TR) 123 456 7890 için 90 1234567890 yazın."</string>
+    <string name="prefix_url">https://www.tanitma.gov.tr/TR,22861/ulke-telefon-kodlari.html</string>
     <string name="txt_extra_description">"
 Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için burayı kullanın. Mesaj kutucuğunda yer alacak bir numara ve/veya bir mesaj belirleyebilirsiniz. (Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir.)"</string>
 
@@ -48,7 +48,7 @@ Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için buray�
     <string name="btn_link_apppage">Sayfa bilgisi</string>
 
     <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
-    <string name="error_nowhatsapp">WhatsApp açılamadı. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Uygulama kurulu mu?</a></string>
+    <string name="error_nowhatsapp">WhatsApp açılamadı. [[wps|Uygulama kurulu mu?]]</string>
 
     <string name="toast_autoParser">"Otomatik ayrıştırıcı.
 Ülke kodunu kontrol edin."</string>

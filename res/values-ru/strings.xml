@@ -4,7 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -25,10 +26,11 @@ Timofey Lisunov
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
 
     <string name="txt_description">"Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.
-Подробнее "<a href="https://www.whatsapp.com/faq/ru/general/26000030">здесь</a>".
+Подробнее [[wfq|здесь]].
 
-Введите "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">код страны</a>" и номер без дополнительных символов, только цифры 0-9. Можно нажать кнопку \'+\' для выбора кода страны из списка.
+Введите [[prf|код страны]] и номер без дополнительных символов, только цифры 0-9. Можно нажать кнопку \'+\' для выбора кода страны из списка.
 Пример: для +7 (РФ) 123-456-78-90 введите 7 1234567890"</string>
+    <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
     <string name="txt_donation">Для тех, кто спрашивал: вы можете сделать небольшое пожертвование здесь</string>
@@ -57,7 +59,7 @@ Timofey Lisunov
     <string name="btn_link_helptranslations">Перевод</string>
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp.<a href="https://play.google.com/store/apps/details?id=com.whatsapp">Он установлен?</a></string>
+    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. [[wps|Он установлен?]]</string>
 
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>

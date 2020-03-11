@@ -36,7 +36,7 @@ Contoh: untuk +628123456789 (Indonesia) tulis 628123456789"</string>
 Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis)."</string>
 
     <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a donation/page link I'm fine showing it here too) -->
-    <string name="txt_donation">Mau dukung saya? Terima kasih! Cari tahu disini:</string>
+    <string name="txt_donation">Mau dukung saya? Terima kasih! Cari tahu di sini:</string>
     <string name="btn_link_donate">Dukung</string>
 
     <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah kuatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
@@ -44,14 +44,14 @@ Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bi
     <string name="hint_editNumber">Nomor</string>
     <string name="hint_editPrefix">Prefix</string>
     <string name="hint_message">Pesan yang terisi otomatis, TIDAK dikirim.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+    <string name="hint_prefAndNumber"><![CDATA[Prefix & Nomor]]></string>
     <string name="hint_itemName">Nama</string>
 
     <string name="btn_openInWhatsapp">Buka</string>
     <string name="btn_shareLink">Bagikan</string>
     <string name="btn_shortcut">Tambah Pintasan</string>
     <string name="chk_mergeInputs">Gabungkan input prefix dan nomor</string>
-    <string name="chk_enableRecents">Simpan nomor/pesan terkini. (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
+    <string name="chk_enableRecents">Simpan nomor/pesan terkini (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="btn_addonLink">Addon</string>
 

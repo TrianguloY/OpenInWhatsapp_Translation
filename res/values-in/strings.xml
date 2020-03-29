@@ -25,6 +25,7 @@ Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
     <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya di sini:</string>
 
     <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol di bawah (aplikasi akan dimuat ulang).</string>
+    <string name="txt_availocales">Hanya bahasa yang Anda pilih/terapkan di [[lcl|pengaturan sistem]] yang akan terinstal untuk mengecilkan ukuran aplikasi.</string>
 
     <string name="txt_description">"Aplikasi ini menggunakan public API WhatsApp untuk memulai percakapan dengan nomor yang kamu masukkan. Tidak ada kontak yang akan tersimpan.
 Info lebih lanjut klik [[wfq|di sini]].

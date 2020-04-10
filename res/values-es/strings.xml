@@ -93,4 +93,5 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="message_instantApp">La característica \'%s\' no está soportada en una aplicación instantánea. Si quieres utilizarla debes instalar la aplicación desde el Play Store.</string>
     <string name="title_instantApp">Aplicación instantánea</string>
     <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>
+    <string name="chk_alternate">Usar url alternativa al abrir (podría mostrar más aplicaciones compatibles)</string>
 </resources>

@@ -40,7 +40,7 @@ Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bi
     <string name="txt_donation">Mau dukung saya? Terima kasih! Cari tahu di sini:</string>
     <string name="btn_link_donate">Dukung</string>
 
-    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah kuatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
+    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah khawatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
 
     <string name="hint_editNumber">Nomor</string>
     <string name="hint_editPrefix">Prefix</string>
@@ -54,6 +54,7 @@ Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bi
     <string name="chk_mergeInputs">Gabungkan input prefix dan nomor</string>
     <string name="chk_enableRecents">Simpan nomor/pesan terkini (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
+    <string name="chk_alternate">Gunakan URL alternatif saat membuka (dapat menampilkan lebih banyak aplikasi yang kompatibel)</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (buka)</string>

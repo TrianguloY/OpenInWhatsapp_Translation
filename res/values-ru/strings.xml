@@ -24,16 +24,17 @@ Timofey Lisunov
     <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь:</string>
 
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
+    <string name="txt_availocales">Для уменьшения размера приложения будут установлены только языки, доступные [[lcl|на вашем устройстве]].</string>
 
     <string name="txt_description">"Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.
 Подробнее [[wfq|здесь]].
 
-Введите [[prf|код страны]] и номер без дополнительных символов, только цифры 0-9. Можно нажать кнопку \'+\' для выбора кода страны из списка.
+Введите [[prf|код страны]] и номер без дополнительных символов, только цифры 0-9. Можно нажать кнопку \"+\" для выбора кода страны из списка.
 Пример: для +7 (РФ) 123-456-78-90 введите 7 1234567890"</string>
     <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
-    <string name="txt_donation">Для тех, кто спрашивал: вы можете сделать небольшое пожертвование здесь</string>
+    <string name="txt_donation">Хотите поддержать меня? Спасибо! Узнайте здесь как:</string>
     <string name="btn_link_donate">Пожертвовать</string>
 
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
@@ -44,16 +45,17 @@ Timofey Lisunov
     <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
     <string name="hint_itemName">имя</string>
 
-    <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
-    <string name="btn_shareLink">Создать ссылку</string>
-    <string name="btn_shortcut">Создать ярлык</string>
+    <string name="btn_openInWhatsapp">Открыть в WhatsApp</string>
+    <string name="btn_shareLink">Ссылка</string>
+    <string name="btn_shortcut">Ярлык</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
+    <string name="chk_alternate">Открывать альтернативный URL (больше совместимых приложений)</string>
     <string name="btn_addonLink">Модуль</string>
 
-    <string name="btn_link_playstore_open">Магазин Google Play (открыть)</string>
-    <string name="btn_link_playstore_share">Магазин Google Play (создать ссылку)</string>
+    <string name="btn_link_playstore_open">Google Play (открыть)</string>
+    <string name="btn_link_playstore_share">Google Play (создать ссылку)</string>
     <string name="btn_link_apppage">Страница приложения</string>
     <string name="btn_link_faq">Ответы на частые вопросы\n(FAQ) [на английском языке]</string>
     <string name="btn_link_helptranslations">Перевод</string>
@@ -72,7 +74,7 @@ Timofey Lisunov
     <string name="title_clearRecents">Очистка истории</string>
     <string name="title_pinned">Закреплённые:</string>
     <string name="title_recents">Недавние:</string>
-    <string name="title_agenda">Недавние номера:</string>
+    <string name="title_agenda">Список номеров</string>
 
     <string name="message_clearRecents">Вы хотите очистить историю?</string>
 
@@ -82,7 +84,7 @@ Timofey Lisunov
     <string name="cntDesc_appInfo">Информация о приложении</string>
     <string name="cntDesc_prefixSelector">Выбор кода страны</string>
     <string name="cntDesc_pasteClipboard">Вставить из буфера обмена</string>
-    <string name="cntDesc_agenda">Недавние номера</string>
+    <string name="cntDesc_agenda">Список номеров</string>
     <string name="cntDesc_recentMessages">Недавние сообщения</string>
     <string name="cntDesc_calls">Неизвестные вызовы</string>
     <string name="cntDesc_toggleAdv">Дополнительно</string>
@@ -99,7 +101,12 @@ Timofey Lisunov
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>
     <string name="addon_message_requestpermisions">Будет отображаться список вызовов с неизвестных номеров. Требуется разрешение на просмотр журнала вызовов и доступ к контактам (для отсева известных номеров).</string>
     <string name="addon_btn_grant">Предоставить доступ</string>
+    <string name="addon_txt_loading">Ограничение последних неизвестные вызовов для сокращения времени загрузки (требуется модуль v1.2+). Установите \"0\", чтобы показать все:</string>
 
     <string name="lbl_shortcut">Открыть чат с %s</string>
+
+    <string name="error_instantApp">Веб-приложения могут запускать только приложения по умолчанию. Если у вас несколько версий (например, WhatsApp и WhatsApp Business), попробуйте установить [[oiw|полное приложение]] (примечание: поддерживаются не все версии).</string>
+    <string name="title_instantApp">Веб-приложение</string>
+    <string name="message_instantApp">Функция \"%s\" недоступна в веб-приложении. Если вы хотите использовать её, установите приложение из Google Play.</string>
 
 </resources>

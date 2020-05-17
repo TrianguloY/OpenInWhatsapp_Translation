@@ -4,7 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the sintaxis.
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -12,6 +13,10 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <resources>
+    <!-- When translated, remove this line
+    <string name="translated">.</string>
+    When translated, remove this line  -->
+
     <string name="app_name">Click to chat</string>
 
     <string name="txt_about">App created by TrianguloY. This app is not affiliated with WhatsApp Inc.</string>
@@ -21,18 +26,21 @@ Thanks to %n for providing the %l locale translation!"</string>
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
+    <string name="txt_availocales">Only locales available [[lcl|in your device]] are installed, to reduce app size.</string>
 
+    <!-- in the text from below change the WhatsApp link to your locale (change 'en' by the locale code) and the wikipedia link to your locale too (go to wikipedia, change the locale and copy/paste the link). If There is a public and better place than wikipedia for the locale list in your language, use that one instead -->
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
-More info "<a href="https://www.whatsapp.com/faq/en/general/26000030">here</a>".
+More info [[wfq|here]].
 
-Insert the number and the "<a href="https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region">prefix</a>" with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.
+Insert the number and the [[prf|prefix]] with no extra characters, only numbers 0–9. You can click on the \'+\' item to choose from a list.
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
+    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
     <string name="txt_extra_description">"
 Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I had permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">For those who asked: you can give me a small donation here (~1€)</string>
-    <string name="btn_link_donate">Donate</string>
+    <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a donation/page link I'm fine showing it here too) -->
+    <string name="txt_donation">Do you want to support me? Thanks! Find how here:</string>
+    <string name="btn_link_donate">Support</string>
 
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 
@@ -48,6 +56,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
+    <string name="chk_alternate">Use alternate url when opening (may show more compatible apps)</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (open)</string>
@@ -57,7 +66,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="btn_link_helptranslations">Translate</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
-    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Is it installed?</a></string>
+    <string name="error_nowhatsapp">Couldn\'t open WhatsApp. [[wps|Is it installed?]]</string>
 
     <string name="toast_autoParser">"Automatic parser.
 Check the prefix!"</string>
@@ -70,6 +79,7 @@ Check the prefix!"</string>
     <string name="title_clearRecents">Clear recents:</string>
     <string name="title_pinned">Pinned:</string>
     <string name="title_recents">Recents:</string>
+    <string name="title_agenda">Agenda:</string>
 
     <string name="message_clearRecents">Do you want to remove all recents?</string>
 
@@ -96,7 +106,12 @@ Check the prefix!"</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
     <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
     <string name="addon_btn_grant">Grant access</string>
+    <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
+
+    <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the [[oiw|full app]] (note: not all versions are supported).</string>
+    <string name="title_instantApp">Instant app</string>
+    <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
 
 </resources>

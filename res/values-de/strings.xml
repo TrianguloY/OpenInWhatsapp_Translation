@@ -4,8 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '
-' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -13,6 +13,8 @@ Benjamin Yılmaz Çetiner
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Click to chat</string>
 
     <string name="txt_about">Dıese App wurde entwickelt von TrianguloY. Es besteht keinerlei Verbindung zu WhatsApp Inc.</string>
@@ -23,13 +25,15 @@ Vielen Dank an %n für die Übersetzung in´s %l!"</string>
     <string name="txt_changelanguage">Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
 
     <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
-Weitere Informationen erhalten Sie direkt in der "<a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>".
+Weitere Informationen erhalten Sie direkt in der [[wfq|WhatsApp FAQ]].
 
-Nummer und  "<a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>"  ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
+Nummer und [[prf|Landesvorwahl]] ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
 Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890"</string>
+    <string name="prefix_url">https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern</string>
     <string name="txt_extra_description">"
 Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
 
+    <string name="txt_donation" />
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
     <string name="hint_message">Nachricht, die automatisch vervollständigt wird (NICHT autom. gesendet).</string>
@@ -43,7 +47,7 @@ Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie 
     <string name="btn_link_apppage">App-Seite</string>
 
     <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
-    <string name="error_nowhatsapp">Kann nicht in WhatsApp geöffnet werden. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ist WhatsApp auch (korrekt) installiert?</a></string>
+    <string name="error_nowhatsapp">Kann nicht in WhatsApp geöffnet werden. [[wps|Ist WhatsApp auch (korrekt) installiert?]]</string>
 
     <string name="toast_autoParser">"Automatischer Parser.
  Vorwahl korrekt?!"</string>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+
+
+If you added/modified the following file add your name here to give credit:
+MageshBabu (mage1k99)
+
+ -->
+<resources>
+    <string name="translated">.</string>
+
+    <string name="app_name">"அரட்டை தொடக்க கிளிக் செய்க"</string>
+
+    <string name="txt_about">"TrianguloY உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
+
+    <string name="txt_acknowledgements">"ஒப்புகைகள்:
+ நன்றி %n வழங்குவதற்காக %l மொழி பேர்யுபு"</string>
+    <string name="txt_about_helptranslations">மொழிபெயர்ப்புக்கு உதவ விரும்புகிறீர்களா?  மேலும் தகவல்களை இங்கே காணலாம்:</string>
+
+    <string name="txt_changelanguage">கீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் பயன்பாட்டு மொழியை மாற்றலாம் (பயன்பாடு மறுதொடக்கம் செய்யப்படும்).</string>
+
+    <string name="txt_description">"நீங்கள் உள்ளிட்ட எந்த எண்ணுடனும் அரட்டையைத் திறக்க இந்த பயன்பாடு வாட்ஸ்அப் பொது API ஐப் பயன்படுத்துகிறது.  சாதனத்தில் எந்த தொடர்பும் உருவாக்கப்படவில்லை.
+ மேலும் தகவல் [[wfq|here]].
+
+எண்ணையும்  செருகவும் [[prf|prefix]] கூடுதல் எழுத்துக்கள் இல்லாமல், 0-9 எண்கள் மட்டுமே.  நீங்கள் கிளிக் செய்யலாம் \'+\' பட்டியலிலிருந்து தேர்வு செய்ய உருப்படி.
+ எடுத்துக்காட்டு: +91 (இந்தியா) க்கு 123 456 7890 எழுத 91 1234567890"</string>
+    <string name="prefix_url">https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AF%80%E0%AE%9F%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D</string>
+    <string name="txt_extra_description">"
+கிளிக் செய்யும் போது வாட்ஸ்அப்பைத் திறக்கும் இணைப்பை உருவாக்க இதைப் பயன்படுத்தவும்.  உள்ளீட்டு பெட்டியில் வைக்கப்படும் ஒரு எண் மற்றும் / அல்லது ஒரு செய்தியை நீங்கள் குறிப்பிடலாம் (நான் மீண்டும் சொல்ல மாட்டேன், செய்தியை அனுப்ப மாட்டேன்)."</string>
+
+    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
+    <string name="txt_donation">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
+    <string name="btn_link_donate">நன்கொடை</string>
+
+    <string name="txt_addonDescr">இந்த addon மூலம் கிளிக் செய்ய அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காட்ட இந்த பயன்பாட்டை நீங்கள் அனுமதிக்கலாம்.  கவலைப்பட வேண்டாம்: இது இலவசம், படத்தை விட சிறியது, விளம்பரங்கள் இல்லை..</string>
+
+    <string name="hint_editNumber">எண்ணையும்</string>
+    <string name="hint_editPrefix"> தேசிய முன்னொட்டு</string>
+    <string name="hint_message">தானாக முடிக்கப்படும் செய்தி அனுப்பப்படவில்லை.</string>
+    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+    <string name="hint_itemName">பெயர்</string>
+
+    <string name="btn_openInWhatsapp">திர</string>
+    <string name="btn_shareLink">பகிர்</string>
+    <string name="btn_shortcut">குறுக்குவழி</string>
+    <string name="chk_mergeInputs">முன்னொட்டு மற்றும் எண் உள்ளீட்டை ஒன்றிணைக்கவும்</string>
+    <string name="chk_enableRecents">சமீபத்திய எண்கள் / செய்திகளைச் சேமிக்கவும்.  (அதை முடக்குவது சேமித்தவற்றை அழிக்கும்)</string>
+    <string name="chk_hideInfo">பிரதான திரையில் இருந்து உதவி உரையை மறைக்கவும்</string>
+    <string name="btn_addonLink">துணை நிரல்கள்</string>
+
+    <string name="btn_link_playstore_open">விளையாட்டு அங்காடி (திறக்க)</string>
+    <string name="btn_link_playstore_share">விளையாட்டு அங்காடி (பகிர்)</string>
+    <string name="btn_link_apppage">பயன்பாட்டு பக்கம்</string>
+    <string name="btn_link_faq">அடிக்கடி கேட்கப்படும் கேள்விகள் \n (கேள்விகள்) [ஆங்கிலம் மட்டும்]</string>
+    <string name="btn_link_helptranslations">மொழிபெயர்</string>
+
+    <string name="error_badData">திறக்கும் போது பிழை. தவறான தரவு</string>
+    <string name="error_nowhatsapp">வாட்ஸ்அப்பைத் திறக்க முடியவில்லை. [[wps|Is it installed?]]</string>
+
+    <string name="toast_autoParser">"தானியங்கி பாகுபடுத்தி.
+முன்னொட்டை சரிபார்க்கவும்!"</string>
+    <string name="toast_copied">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
+    <string name="toast_error_openLink">இணைப்பைத் திறக்க முடியவில்லை</string>
+
+    <string name="title_sendTo">இதற்கு இணைப்பை அனுப்பவும்:</string>
+    <string name="title_chooseCountry">நாடு வாரியாக முன்னொட்டு:</string>
+    <string name="title_chooseApp">பயன்பாட்டைத் தேர்வுசெய்க:</string>
+    <string name="title_clearRecents">தெளிவான பின்னடைவுகள்:</string>
+    <string name="title_pinned">பொருத்தப்பட்டன:</string>
+    <string name="title_recents">பின்னடைவுகள்:</string>
+    <string name="title_agenda">நிகழ்ச்சி நிரல்:</string>
+
+    <string name="message_clearRecents">Do you want to remove all recents?</string>
+
+    <string name="header_code">முன்னொட்டு %1$s</string>
+    <string name="header_country">நாடு %1$s</string>
+
+    <string name="cntDesc_appInfo">பயன்பாட்டு தகவல்</string>
+    <string name="cntDesc_prefixSelector">முன்னொட்டு தேர்வாளர்</string>
+    <string name="cntDesc_pasteClipboard">கிளிப்போர்டிலிருந்து ஒட்டவும்</string>
+    <string name="cntDesc_agenda">நிகழ்ச்சி நிரல்</string>
+    <string name="cntDesc_recentMessages">சமீபத்திய செய்திகள்</string>
+    <string name="cntDesc_calls">தெரியாத அழைப்புகள்</string>
+    <string name="cntDesc_toggleAdv">மேம்பட்டது</string>
+    <string name="cntDesc_appLogo">பயன்பாட்டு லோகோ</string>
+    <string name="cntDesc_addons">Addon பக்கத்தைத் திறக்கவும்</string>
+    <string name="cntDesc_settings">அமைப்புகள்</string>
+    <string name="cntDesc_delete">அழி</string>
+    <string name="cntDesc_togglepin">முள் / பின் நீக்குவது</string>
+    <string name="cntDesc_filter">வடிகட்டி</string>
+
+    <string name="util_cancel">ரத்து</string>
+
+    <string name="addon_message_loadingCalls">அறியப்படாத அழைப்புகள் பட்டியலை ஏற்றுகிறது…</string>
+    <string name="addon_toast_noCalls">அறியப்படாத எண்கள் எதுவும் கிடைக்கவில்லை அல்லது படிக்க முடியவில்லை</string>
+    <string name="addon_message_requestpermisions">இது அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காண்பிக்கும். அழைப்புகளைக் காணவும் தொடர்புகளை அணுகவும் (அறியப்பட்ட எண்களை அகற்ற) அனுமதி தேவை.</string>
+    <string name="addon_btn_grant">அனுமதி வழங்கு</string>
+    <string name="addon_txt_loading">ஏற்றுதல் நேரத்தைக் குறைக்க சமீபத்திய அறியப்படாத அழைப்புகளைக் கட்டுப்படுத்தவும் (addon V1.2 + தேவைப்படுகிறது). அனைத்தையும் காட்ட 0 என அமைக்கவும்:</string>
+
+    <string name="lbl_shortcut"> %s உடன் அரட்டையைத் திறக்கவும்</string>
+
+    <string name="error_instantApp">உடனடி பயன்பாடுகளால் இயல்புநிலை பயன்பாட்டை மட்டுமே திறக்க முடியும். உங்களிடம் பல பதிப்புகள் இருந்தால் (வாட்ஸ்அப் மற்றும் வாட்ஸ்அப் பிசினஸ் போன்றவை) [[oiw|முழு பயன்பாட்டை நிறுவ முயற்சிக்கவும்]] (குறிப்பு: எல்லா பதிப்புகளும் ஆதரிக்கப்படவில்லை).</string>
+    <string name="title_instantApp">உடனடி பயன்பாடுகளால்</string>
+    <string name="message_instantApp"> \'%s\' அம்சம் உடனடி பயன்பாட்டில் கிடைக்கவில்லை. நீங்கள் அதைப் பயன்படுத்த விரும்பினால், ப்ளே ஸ்டோரிலிருந்து பயன்பாட்டை நிறுவவும்.</string>
+
+</resources>

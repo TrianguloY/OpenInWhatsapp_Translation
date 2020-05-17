@@ -4,8 +4,8 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '
-' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
 If you added/modified the following file add your name here to give credit:
@@ -13,6 +13,8 @@ Richard Anderson (Hirai RCD)
 
  -->
 <resources>
+    <string name="translated">.</string>
+
     <string name="app_name">Conversa em um Clique</string>
 
     <string name="txt_about">Aplicativo criado por TrianguloY. Esse aplicativo não é afiliado com a WhatsApp Inc.</string>
@@ -23,12 +25,14 @@ Obrigado à %n por me fornecer a tradução em %l!"</string>
     <string name="txt_changelanguage">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
 
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
-Mais informações "<a href="https://faq.whatsapp.com/pt_br/general/26000030">aqui</a>".
+Mais informações [[prf|aqui]].
 
-Insira o número e o "<a href="https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses">prefixo</a>" sem caracteres extras, apenas números de 0 a 9. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
+Insira o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
 Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
+    <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses</string>
     <string name="txt_extra_description">"
 Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que irá ser PREENCHIDA no campo de texto (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM)."</string>
+    <string name="txt_donation" />
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
@@ -44,7 +48,7 @@ Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode
     <string name="btn_link_apppage">Página do App</string>
 
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
-    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. <a href="https://play.google.com/store/apps/details?id=com.whatsapp">Ele está instalado?</a></string>
+    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Ele está instalado?]]</string>
 
     <string name="toast_autoParser">"Analisando automaticamente.
 Verifique o prefixo!"</string>

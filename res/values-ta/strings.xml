@@ -34,9 +34,8 @@ MageshBabu (mage1k99)
     <string name="txt_extra_description">"
 கிளிக் செய்யும் போது வாட்ஸ்அப்பைத் திறக்கும் இணைப்பை உருவாக்க இதைப் பயன்படுத்தவும்.  உள்ளீட்டு பெட்டியில் வைக்கப்படும் ஒரு எண் மற்றும் / அல்லது ஒரு செய்தியை நீங்கள் குறிப்பிடலாம் (நான் மீண்டும் சொல்ல மாட்டேன், செய்தியை அனுப்ப மாட்டேன்)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
-    <string name="btn_link_donate">நன்கொடை</string>
+    <string name="txt_support">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
+    <string name="btn_link_support">நன்கொடை</string>
 
     <string name="txt_addonDescr">இந்த addon மூலம் கிளிக் செய்ய அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காட்ட இந்த பயன்பாட்டை நீங்கள் அனுமதிக்கலாம்.  கவலைப்பட வேண்டாம்: இது இலவசம், படத்தை விட சிறியது, விளம்பரங்கள் இல்லை..</string>
 

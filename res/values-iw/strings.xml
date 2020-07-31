@@ -34,9 +34,8 @@ Yoni Cohen jonbir3
     <string name="txt_extra_description">"
 השתמש בזה כדי ליצור לינק שיפתח בוואטסאפ כשילחצו עליו. תוכל לציין מספר ו/או הודעה שתוצב בתיבת הקלט בוואטסאפ (היא לא, אני חוזר, היא לא תישלח באופן אוטמטי)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">למי שביקש, תוכל לתת תרומה קטנה כאן</string>
-    <string name="btn_link_donate">לתרומה</string>
+    <string name="txt_support">למי שביקש, תוכל לתת תרומה קטנה כאן</string>
+    <string name="btn_link_support">לתרומה</string>
 
     <string name="txt_addonDescr">בעזרת תוסף זה תוכל לאפשר לאפליקצייה להציג רשימה של שיחות אחרונות לא מזוהות כדי לשוחח איתם בוואטסאפ. אל תדאג: זה בחינם, שוקל פחות מתמונה וללא פרסומות.</string>
 

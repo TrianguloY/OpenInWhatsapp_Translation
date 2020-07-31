@@ -34,8 +34,8 @@ Timofey Lisunov
     <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
-    <string name="txt_donation">Хотите поддержать меня? Спасибо! Узнайте здесь как:</string>
-    <string name="btn_link_donate">Пожертвовать</string>
+    <string name="txt_support">Хотите поддержать меня? Спасибо! Узнайте здесь как:</string>
+    <string name="btn_link_support">Пожертвовать</string>
 
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
 

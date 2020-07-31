@@ -33,7 +33,7 @@ Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasın
     <string name="txt_extra_description">"
 Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için burayı kullanın. Mesaj kutucuğunda yer alacak bir numara ve/veya bir mesaj belirleyebilirsiniz. (Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir.)"</string>
 
-    <string name="txt_donation" />
+    <string name="txt_support" />
 
     <string name="hint_editNumber">Numara</string>
     <string name="hint_editPrefix">Ülke kodu</string>

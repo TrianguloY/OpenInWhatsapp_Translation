@@ -30,7 +30,7 @@ Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
     <string name="txt_description">"Aplikasi ini menggunakan public API WhatsApp untuk memulai percakapan dengan nomor yang kamu masukkan. Tidak ada kontak yang akan tersimpan.
 Info lebih lanjut klik [[wfq|di sini]].
 
-Masukkan nomor dan [[prf|prefix]] tanpa tambahan karakter, hanya angka 0–9. Kamu bisa klik \'+\' untuk memilih dari daftar.
+Masukkan nomor dan [[prf|prefix]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik \'+\' untuk memilih dari daftar.
 Contoh: untuk +628123456789 (Indonesia) tulis 628123456789"</string>
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
     <string name="txt_extra_description">"

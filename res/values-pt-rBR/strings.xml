@@ -27,7 +27,7 @@ Obrigado à %n por me fornecer a tradução em %l!"</string>
     <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
 Mais informações [[prf|aqui]].
 
-Insira o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
+Insira o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
 Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses</string>
     <string name="txt_extra_description">"

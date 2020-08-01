@@ -24,10 +24,10 @@ Vielen Dank an %n für die Übersetzung in´s %l!"</string>
 
     <string name="txt_changelanguage">Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
 
-    <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
+    <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird kein Kontakt angelegt/hinzugefügt.
 Weitere Informationen erhalten Sie direkt in der [[wfq|WhatsApp FAQ]].
 
-Nummer und [[prf|Landesvorwahl]] ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
+Nummer und [[prf|Landesvorwahl]] ohne Sonderzeichen eingeben. Weitere Informationen erhalten Sie direkt in der [[hlp|WhatsApp FAQ]]. Sie können auf \'+\' zur Länderauswahl drücken.
 Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890"</string>
     <string name="prefix_url">https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern</string>
     <string name="txt_extra_description">"

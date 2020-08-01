@@ -28,7 +28,7 @@ Merci à %n pour la traduction en %l!"</string>
     <string name="txt_description">"Cette application utilise l\'api WhatsApp publique pour ouvrir un chat avec un quelconque numéro que vous entrerez. Aucun contact ne sera créé sur votre portable.
 Davantage d\'infos [[wfq|ici]].
 
-Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
+Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Davantage d\'infos [[hlp|ici]]. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
 Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="prefix_url">https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone</string>
     <string name="txt_extra_description">"

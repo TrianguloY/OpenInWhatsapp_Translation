@@ -17,7 +17,7 @@ Yusuf Emen
 
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="txt_about">Uygulama TrianguloY tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
+    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
 
     <string name="txt_acknowledgements">"Teşekkür:
 Rusça çeviri için %n\'a %l!"</string>

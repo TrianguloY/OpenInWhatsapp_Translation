@@ -37,7 +37,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_chooseCountry">Prefijo por país:</string>
     <string name="title_sendTo">Enviar enlace a:</string>
     <string name="toast_copied">Copiado al portapapeles</string>
-    <string name="txt_about">Aplicación creada por TrianguloY. Esta aplicación no está asociada con WhatsApp Inc.</string>
+    <string name="txt_about">Aplicación creada por [[tri|TrianguloY]]. Esta aplicación no está asociada con WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Agradecimientos:
 ¡Gracias a %n por la traducción al %l!"</string>

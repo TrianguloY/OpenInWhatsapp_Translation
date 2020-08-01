@@ -17,7 +17,7 @@ Timofey Lisunov
 
     <string name="app_name">Прямая связь</string>
 
-    <string name="txt_about">Приложение создано TrianguloY. Оно не аффилировано с WhatsApp Inc.</string>
+    <string name="txt_about">Приложение создано [[tri|TrianguloY]]. Оно не аффилировано с WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Выражается благодарность:
 %n за перевод на %l язык!"</string>

@@ -17,7 +17,7 @@ Armand Secco
 
     <string name="app_name">Cliquer pour Discuter</string>
 
-    <string name="txt_about">Application créée par TrianguloY. Cette application n\'est pas rattachée à WhatsApp Inc.</string>
+    <string name="txt_about">Application créée par [[tri|TrianguloY]]. Cette application n\'est pas rattachée à WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Remerciements:
 Merci à %n pour la traduction en %l!"</string>

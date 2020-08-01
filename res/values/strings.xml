@@ -19,7 +19,7 @@ If you added/modified the following file add your name here to give credit:
 
     <string name="app_name">Click to chat</string>
 
-    <string name="txt_about">App created by TrianguloY. This app is not affiliated with WhatsApp Inc.</string>
+    <string name="txt_about">App created by [[tri|TrianguloY]]. This app is not affiliated with WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Acknowledgements:
 Thanks to %n for providing the %l locale translation!"</string>

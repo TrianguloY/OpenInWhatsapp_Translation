@@ -94,4 +94,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="title_instantApp">Aplicación instantánea</string>
     <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>
     <string name="chk_alternate">Usar url alternativa al abrir (podría mostrar más aplicaciones compatibles)</string>
+    <string name="util_none">Nada</string>
+    <string name="chk_keepprefix">Restaurar prefijo [%1$s] cuando la aplicación se cierra.</string>
 </resources>

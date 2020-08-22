@@ -57,6 +57,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
     <string name="chk_alternate">Use alternate url when opening (may show more compatible apps)</string>
+    <string name="chk_keepprefix">Restore prefix [%1$s] when the app closes.</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (open)</string>
@@ -101,6 +102,7 @@ Check the prefix!"</string>
     <string name="cntDesc_filter">Filter</string>
 
     <string name="util_cancel">Cancel</string>
+    <string name="util_none">None</string>
 
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>

@@ -23,6 +23,7 @@ Nevis
 Giamaica
 Montserrat
 Egitto
+Sudan del Sud
 Marocco
 Algeria
 Tunisia

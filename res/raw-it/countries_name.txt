@@ -23,6 +23,7 @@ Nevis
 Giamaica
 Montserrat
 Egitto
+Sudan del Sud
 Marocco
 Algeria
 Tunisia
@@ -66,6 +67,7 @@ Tanzania
 Zanzibar
 Uganda
 Burundi
+Mozambico
 Zambia
 Madagascar
 Mayotte

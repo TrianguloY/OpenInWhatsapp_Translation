@@ -23,6 +23,7 @@ Nevis
 Jamaika
 Montserrat
 Mısır
+Güney Sudan
 Fas
 Cezayir
 Tunus
@@ -66,6 +67,7 @@ Tanzanya
 Tanzanya
 Uganda
 Burundi
+Mozambik
 Zambiya
 Madagaskar
 Mayotte

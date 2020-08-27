@@ -17,7 +17,7 @@ Yoni Cohen jonbir3
 
     <string name="app_name">הקלקה לצ\'אט</string>
 
-    <string name="txt_about">האפליקצייה נוצרה ע"י TrianguloY. האפליקצייה לא קשורה לחברת וואטסאפ.</string>
+    <string name="txt_about">האפליקצייה נוצרה ע"י [[tri|TrianguloY]]. האפליקצייה לא קשורה לחברת וואטסאפ.</string>
 
     <string name="txt_acknowledgements">"תודות:
 תודה ל %n על תרגום לשפה ה%l!"</string>
@@ -28,15 +28,14 @@ Yoni Cohen jonbir3
     <string name="txt_description">"האפליקצייה משתמשת בממשק שפורסם על ידי וואטסאפ כדי לפתוח צ'אט עם כל מספר שתזין. לא יווצר איש קשר חדש על המכשיר.
 מידע נוסף [[wfq|כאן]].
 
-הכנס את המספר ואת ה [[prf|קידומת]] בלי תווים נוספים, רק ספרות 0-9. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
+הכנס את המספר ואת ה [[prf|קידומת]] בלי תווים נוספים, רק ספרות 0-9. מידע נוסף [[hlp|כאן]]. תוכל ללחוץ על כפתור ה-  \'+\' כדי לבחור קידומת מהרשימה.
 לדוגמה: למספר +972 (ישראל) 123 456 7890 תכתוב 972 1234567890"</string>
     <string name="prefix_url">https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%93%D7%95%D7%9E%D7%AA_%D7%98%D7%9C%D7%A4%D7%95%D7%9F_%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA</string>
     <string name="txt_extra_description">"
 השתמש בזה כדי ליצור לינק שיפתח בוואטסאפ כשילחצו עליו. תוכל לציין מספר ו/או הודעה שתוצב בתיבת הקלט בוואטסאפ (היא לא, אני חוזר, היא לא תישלח באופן אוטמטי)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">למי שביקש, תוכל לתת תרומה קטנה כאן</string>
-    <string name="btn_link_donate">לתרומה</string>
+    <string name="txt_support">למי שביקש, תוכל לתת תרומה קטנה כאן</string>
+    <string name="btn_link_support">לתרומה</string>
 
     <string name="txt_addonDescr">בעזרת תוסף זה תוכל לאפשר לאפליקצייה להציג רשימה של שיחות אחרונות לא מזוהות כדי לשוחח איתם בוואטסאפ. אל תדאג: זה בחינם, שוקל פחות מתמונה וללא פרסומות.</string>
 

@@ -17,7 +17,7 @@ Armand Secco
 
     <string name="app_name">Cliquer pour Discuter</string>
 
-    <string name="txt_about">Application créée par TrianguloY. Cette application n\'est pas rattachée à WhatsApp Inc.</string>
+    <string name="txt_about">Application créée par [[tri|TrianguloY]]. Cette application n\'est pas rattachée à WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Remerciements:
 Merci à %n pour la traduction en %l!"</string>
@@ -28,13 +28,13 @@ Merci à %n pour la traduction en %l!"</string>
     <string name="txt_description">"Cette application utilise l\'api WhatsApp publique pour ouvrir un chat avec un quelconque numéro que vous entrerez. Aucun contact ne sera créé sur votre portable.
 Davantage d\'infos [[wfq|ici]].
 
-Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
+Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Davantage d\'infos [[hlp|ici]]. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
 Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="prefix_url">https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone</string>
     <string name="txt_extra_description">"
 Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message)."</string>
-    <string name="txt_donation">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
-    <string name="btn_link_donate">Don</string>
+    <string name="txt_support">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
+    <string name="btn_link_support">Don</string>
 
     <string name="txt_addonDescr">Avec cet addon, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>
 

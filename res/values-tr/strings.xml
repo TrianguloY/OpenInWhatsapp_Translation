@@ -17,7 +17,7 @@ Yusuf Emen
 
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="txt_about">Uygulama TrianguloY tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
+    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
 
     <string name="txt_acknowledgements">"Teşekkür:
 Rusça çeviri için %n\'a %l!"</string>
@@ -27,13 +27,13 @@ Rusça çeviri için %n\'a %l!"</string>
     <string name="txt_description">"Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp\'ın herkese açık API\'sini kullanır. Rehberde kişi oluşturulmaz. 
 Daha fazla bilgi için [[wfq|tıklayınız]].
 
-Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazınız. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.
+Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazınız. Daha fazla bilgi için [[hlp|tıklayınız]]. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.
 Örnek: +90 (TR) 123 456 7890 için 90 1234567890 yazın."</string>
     <string name="prefix_url">https://www.tanitma.gov.tr/TR,22861/ulke-telefon-kodlari.html</string>
     <string name="txt_extra_description">"
 Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için burayı kullanın. Mesaj kutucuğunda yer alacak bir numara ve/veya bir mesaj belirleyebilirsiniz. (Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir.)"</string>
 
-    <string name="txt_donation" />
+    <string name="txt_support" />
 
     <string name="hint_editNumber">Numara</string>
     <string name="hint_editPrefix">Ülke kodu</string>

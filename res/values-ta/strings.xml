@@ -17,7 +17,7 @@ MageshBabu (mage1k99)
 
     <string name="app_name">"அரட்டை தொடக்க கிளிக் செய்க"</string>
 
-    <string name="txt_about">"TrianguloY உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
+    <string name="txt_about">"[[tri|TrianguloY]] உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
 
     <string name="txt_acknowledgements">"ஒப்புகைகள்:
  நன்றி %n வழங்குவதற்காக %l மொழி பேர்யுபு"</string>
@@ -28,15 +28,14 @@ MageshBabu (mage1k99)
     <string name="txt_description">"நீங்கள் உள்ளிட்ட எந்த எண்ணுடனும் அரட்டையைத் திறக்க இந்த பயன்பாடு வாட்ஸ்அப் பொது API ஐப் பயன்படுத்துகிறது.  சாதனத்தில் எந்த தொடர்பும் உருவாக்கப்படவில்லை.
  மேலும் தகவல் [[wfq|here]].
 
-எண்ணையும்  செருகவும் [[prf|prefix]] கூடுதல் எழுத்துக்கள் இல்லாமல், 0-9 எண்கள் மட்டுமே.  நீங்கள் கிளிக் செய்யலாம் \'+\' பட்டியலிலிருந்து தேர்வு செய்ய உருப்படி.
+எண்ணையும்  செருகவும் [[prf|prefix]] கூடுதல் எழுத்துக்கள் இல்லாமல், 0-9 எண்கள் மட்டுமே. மேலும் தகவல் [[hlp|here]]. நீங்கள் கிளிக் செய்யலாம் \'+\' பட்டியலிலிருந்து தேர்வு செய்ய உருப்படி.
  எடுத்துக்காட்டு: +91 (இந்தியா) க்கு 123 456 7890 எழுத 91 1234567890"</string>
     <string name="prefix_url">https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%AF%E0%AF%80%E0%AE%9F%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D</string>
     <string name="txt_extra_description">"
 கிளிக் செய்யும் போது வாட்ஸ்அப்பைத் திறக்கும் இணைப்பை உருவாக்க இதைப் பயன்படுத்தவும்.  உள்ளீட்டு பெட்டியில் வைக்கப்படும் ஒரு எண் மற்றும் / அல்லது ஒரு செய்தியை நீங்கள் குறிப்பிடலாம் (நான் மீண்டும் சொல்ல மாட்டேன், செய்தியை அனுப்ப மாட்டேன்)."</string>
 
-    <!-- Note to translators: These strings will only be visible on translations where I have permission from the translator itself, because I don't feel right asking for donations with a translation I didn't make. You don't need to translate it, but if for some reason you want it to be visible on your translated language, say so (if you also have a donation/page link I'm fine showing it too) -->
-    <string name="txt_donation">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
-    <string name="btn_link_donate">நன்கொடை</string>
+    <string name="txt_support">கேட்டவர்களுக்கு: நீங்கள் இங்கே ஒரு சிறிய நன்கொடை கொடுக்கலாம்</string>
+    <string name="btn_link_support">நன்கொடை</string>
 
     <string name="txt_addonDescr">இந்த addon மூலம் கிளிக் செய்ய அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காட்ட இந்த பயன்பாட்டை நீங்கள் அனுமதிக்கலாம்.  கவலைப்பட வேண்டாம்: இது இலவசம், படத்தை விட சிறியது, விளம்பரங்கள் இல்லை..</string>
 

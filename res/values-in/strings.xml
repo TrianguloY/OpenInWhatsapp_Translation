@@ -54,6 +54,8 @@ Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bi
     <string name="chk_enableRecents">Simpan nomor/pesan terkini (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="chk_alternate">Gunakan URL alternatif saat membuka (dapat menampilkan lebih banyak aplikasi yang kompatibel)</string>
+    <string name="chk_keepprefix">Pulihkan prefix [%1$s] ketika aplikasi ditutup</string>
+    <string name="chk_autoopen">Buka aplikasi WhatsApp ketika nomor terisi otomatis (dari membagikan nomor, menekan tombol log panggilan, membuka agenda, atau menempel dari papan klip)</string>
     <string name="btn_addonLink">Addon</string>
 
     <string name="btn_link_playstore_open">Play Store (buka)</string>

@@ -52,6 +52,8 @@ Timofey Lisunov
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
     <string name="chk_alternate">Открывать альтернативный URL (больше совместимых приложений)</string>
+    <string name="chk_keepprefix">Восстанавливать код страны [%1$s] при выходе из приложения</string>
+    <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию «поделиться», вызов, из недавних или буфера обмена)</string>
     <string name="btn_addonLink">Модуль</string>
 
     <string name="btn_link_playstore_open">Google Play (открыть)</string>
@@ -96,6 +98,7 @@ Timofey Lisunov
     <string name="cntDesc_filter">Фильтр</string>
 
     <string name="util_cancel">Отмена</string>
+    <string name="util_none">Нет</string>
 
     <string name="addon_message_loadingCalls">Загрузка списка неизвестных номеров…</string>
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>

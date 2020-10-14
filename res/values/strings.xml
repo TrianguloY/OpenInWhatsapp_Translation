@@ -117,4 +117,13 @@ Check the prefix!"</string>
     <string name="title_instantApp">Instant app</string>
     <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
 
+    <string-array name="chl_notify">
+        <item>Never notify</item>
+        <item>Notify on important features only</item>
+        <item>Notify on new features only</item>
+        <item>Always notify</item>
+    </string-array>
+    <string name="cl_title">Changelog:</string>
+    <string name="cl_more">show more</string>
+
 </resources>

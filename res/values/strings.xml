@@ -61,6 +61,9 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
     <string name="btn_addonLink">Addon</string>
 
+    <string name="msg_warnShare">The link you are going to share contains the entered phone number in plain text. Everyone with access to the link will have access to the number. If it is a personal number don\'t share the link publicly.</string>
+    <string name="btn_noWarn">Don\'t warn again</string>
+
     <string name="btn_link_playstore_open">Play Store (open)</string>
     <string name="btn_link_playstore_share">Play Store (share)</string>
     <string name="btn_link_apppage">App page</string>

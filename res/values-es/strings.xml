@@ -105,4 +105,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     </string-array>
     <string name="cl_title">Cambios:</string>
     <string name="cl_more">mostrar más</string>
+    <string name="msg_warnShare">El enlace que vas a compartir contiene el número introducido en texto plano. Cualquiera con acceso al enlace tendrá acceso al número. Si es un número personal no compartas el enlace de forma pública.</string>
+    <string name="btn_noWarn">No avisar de nuevo</string>
 </resources>

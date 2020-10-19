@@ -106,6 +106,7 @@ Check the prefix!"</string>
     <string name="cntDesc_filter">Filter</string>
 
     <string name="util_cancel">Cancel</string>
+    <string name="util_close">Close</string>
     <string name="util_none">None</string>
 
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>

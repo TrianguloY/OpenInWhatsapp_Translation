@@ -34,7 +34,7 @@ Timofey Lisunov
     <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">"
 Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено)."</string>
-    <string name="txt_support">Хотите поддержать меня? Спасибо! Узнайте здесь как:</string>
+    <string name="txt_support">Поскольку это бесплатное приложение без рекламы и внутренних покупок, развитие и обновления зависят от вашей поддержки.</string>
     <string name="btn_link_support">Пожертвовать</string>
 
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
@@ -55,6 +55,9 @@ Timofey Lisunov
     <string name="chk_keepprefix">Восстанавливать код страны [%1$s] при выходе из приложения</string>
     <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию «поделиться», вызов, из недавних или буфера обмена)</string>
     <string name="btn_addonLink">Модуль</string>
+
+    <string name="msg_warnShare">Ссылка, которой вы собираетесь поделиться, содержит номер телефона в виде обычного текста. Все, у кого будет доступ к ссылке, будут иметь доступ и к номеру. Если это личный номер, не делитесь ссылкой публично.</string>
+    <string name="btn_noWarn">Больше не предупреждать</string>
 
     <string name="btn_link_playstore_open">Google Play (открыть)</string>
     <string name="btn_link_playstore_share">Google Play (создать ссылку)</string>
@@ -98,6 +101,7 @@ Timofey Lisunov
     <string name="cntDesc_filter">Фильтр</string>
 
     <string name="util_cancel">Отмена</string>
+    <string name="util_close">Закрыть</string>
     <string name="util_none">Нет</string>
 
     <string name="addon_message_loadingCalls">Загрузка списка неизвестных номеров…</string>
@@ -111,5 +115,14 @@ Timofey Lisunov
     <string name="error_instantApp">Веб-приложения могут запускать только приложения по умолчанию. Если у вас несколько версий (например, WhatsApp и WhatsApp Business), попробуйте установить [[oiw|полное приложение]] (примечание: поддерживаются не все версии).</string>
     <string name="title_instantApp">Веб-приложение</string>
     <string name="message_instantApp">Функция \"%s\" недоступна в веб-приложении. Если вы хотите использовать её, установите приложение из Google Play.</string>
+
+    <string-array name="chl_notify">
+        <item>Никогда не уведомлять</item>
+        <item>Уведомлять только о важных изменениях</item>
+        <item>Уведомлять только о новых функциях</item>
+        <item>Всегда уведомлять</item>
+    </string-array>
+    <string name="cl_title">История изменений:</string>
+    <string name="cl_more">показать ещё</string>
 
 </resources>

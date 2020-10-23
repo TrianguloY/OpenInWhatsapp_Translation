@@ -1,3 +1,7 @@
+V 2.13
+- New configurable changelog dialog
+- Show message when sharing number
+
 V 2.12
 - Removed non-google donation links to comply with new guidelines, replaced with new donation version (english only)
 - Minor tweaks with app colors

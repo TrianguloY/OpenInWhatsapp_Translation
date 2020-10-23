@@ -1,3 +1,7 @@
+V 2.13
+- Nueva pantalla de cambios, configurable
+- Se muestra un aviso al compartir un número
+
 V 2.12
 - Eliminados enlaces a donaciones no-google para cumplir con la nueva normativa, reemplazadas con nueva versión de donación
 - Arreglos menores de los colores de la aplicación

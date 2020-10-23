@@ -1,0 +1,91 @@
+V 2.13
+- Nueva pantalla de cambios, configurable
+- Se muestra un aviso al compartir un número
+
+V 2.12
+- Eliminados enlaces a donaciones no-google para cumplir con la nueva normativa, reemplazadas con nueva versión de donación
+- Arreglos menores de los colores de la aplicación
+
+V 2.11.1
+- Actualizada traducciones al Indonesio y Ruso
+- Arreglado error de la aplicación instantánea
+
+V 2.11
+- Nueva opción: Restaurar prefijo al cerrar
+- Nueva opción: Auto-abrir al seleccionar un número
+- Arreglado número reabierto al abrir desde recientes
+- Activadas animaciones
+- Añadido prefijo de Sudán del Sur
+
+V 2.10.2
+- Detectar números en formato 123(456)78.9
+- Añadido prefijo de Mozambique
+- Arreglado Portugués no mostrado en el listado de traducciones
+- Añadidos más enlaces (apoyar, ayuda con formato de teléfonos, perfil)
+
+V 2.10.1
+- Actualizada traducciones al Indonesio y Ruso
+- Arreglado error unusual con clicks duplicados
+
+V 2.10
+- Mejorada introducción de teclado para prefijo y número
+- Ajuste para abrir alternativo (en lugar de mantener pulsado)
+- Corregido prefijo al abrir enlace de llamada
+- Últimos cambios de Indonesio
+
+V 2.9.1
+- Arreglado el botón del portapapeles en Android 10
+- Actualizada traducción al Indonesio
+- Cambios internos relativos a enlaces
+
+V 2.9
+- Activada la separación de idiomas. Ahora solo idiomas seleccionados en tu dispositivo serán instalados. Esto reduce el tamaño en un 15-20%. ¡IMPORTANTE! Si echas en falta un idioma por favor contacta conmigo.
+- Actualizada traducción al Indonesio. ¡Muchas gracias a Steven Felix!
+
+V 2.8.6
+- Añadida traducción al Indonesio. ¡Muchas gracias a artmann (Dwi Legowo)!
+
+V 2.8.5
+- Añadida traducción al Tamil. ¡Muchas gracias a MageshBabu (mage1k99)!
+- Modificado el tamaño de algunos elementos en la agenda y lista de países. También algunos botones.
+
+V 2.8.4
+- Arreglada incorrecta generación de enlaces
+- Ahora puedes probar la aplicación directamente desde el Play Store sin instalarla (aunque siendo tan pequeña es mejor instalar la aplicación completa, ya que la instantánea no soporta algunas características, pero bueno)
+
+V 2.8.3
+- Opción para limitar la lista de números desconocidos. Requiere complemento versión 1.2+
+- Arreglada lista de mensajes recientes no mostrada
+- Cambios internos relativos a la publicación
+
+V 2.8.2
+- Añadida traducción al Hebreo. Muchas gracias a Yoni Cohen jonbir3!
+
+V 2.8.1
+- Actualizada traducción al ruso
+- Arreglado bug al abrir la agenda
+
+V 2.8
+- Nueva lista: agenda. Ahora puedes fijar números con nombre.
+- Opción para crear atajos
+- Icono adaptativo para Android 8.0+
+
+V 2.7.1
+- Solución temporal de error de WhatsApp beta (si pregunta, elige esta aplicación para abrir los enlaces en WhatsApp)
+
+V 2.7
+- Nuevo dialogo de selección de prefijo (con filtrado y ordenación!)
+- Actualizada traducción al Ruso
+- Mejorado detector del portapapeles
+
+V 2.6.2
+- Arreglado tema incorrecto en android 4.X
+
+V 2.6.1
+- Actualizados Francés e Italiano
+
+V 2.6
+- Añadida opción para ocultar la información de la pantalla principal
+- Separado el diálogo de Información en Acerca-de y Ajustes
+- Añadido enlace a la página de traducciones
+- Añadida opción para compartir la aplicación

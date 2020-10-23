@@ -1,0 +1,91 @@
+V 2.13
+- New configurable changelog dialog
+- Show message when sharing number
+
+V 2.12
+- Removed non-google donation links to comply with new guidelines, replaced with new donation version (english only)
+- Minor tweaks with app colors
+
+V 2.11.1
+- Updated Indonesia and Russian translations
+- Fixed crash on Instant app version
+
+V 2.11
+- New option: Restore prefix on close
+- New option: Auto-open when a number is selected
+- Fix reopened number when launched from recents
+- Enabled animations
+- Missing South Sudan prefix code
+
+V 2.10.2
+- Detect numbers in format 123(456)78.9
+- Missing Mozambique prefix
+- Fix Portuguese not shown in dialog list
+- Added more links (support, phone format help, profile)
+
+V 2.10.1
+- Updated Indonesia and Russian translations
+- Fixed rare crash with duplicated clicks
+
+V 2.10
+- Improved prefix and number input with keyboard
+- Setting for alternate opening (instead of long tapping)
+- Fix prefix when opening from call intent
+- Latest Indonesia changes
+
+V 2.9.1
+- Fix clipboard button in Android 10
+- Updated Indonesia translation
+- Internal changes related to links
+
+V 2.9
+- Enabled split package based on language. Now only languages selected in your device will be installed. This reduces the app size by a 15-20%. IMPORTANT! If you are missing a language please contact me.
+- Updated Indonesian. Thank you to Steven Felix!
+
+V 2.8.6
+- Added Indonesian translation. Thank you to artmann (Dwi Legowo)!
+
+V 2.8.5
+- Added Tamil translation. Thank you to MageshBabu (mage1k99)!
+- Tweaked size of elements in agenda and country code list. Also size of buttons.
+
+V 2.8.4
+- Fixed incorrect link generation
+- Now you can try the app directly from the Play Store without installing (although due to being extremely small it is better to install the full app, because the instant one doesn't support some features, but anyway)
+
+V 2.8.3
+- Option to limit unknown calls list. Requires Addon version 1.2+
+- Fixed recent messages list not shown
+- Internal change related to publication
+
+V 2.8.2
+- Added Hebrew translation. Many thanks to Yoni Cohen jonbir3!
+
+V 2.8.1
+- Updated Russian translation
+- Fixed rare bug when opening the agenda
+
+V 2.8
+- New Agenda list. Ability to pin items with name.
+- Option to create shortcuts.
+- Adaptive icon for Android 8.0+
+
+V 2.7.1
+- Temporal workaround for WhatsApp beta bug (if asked, choose this app to open the links in WhatsApp)
+
+V 2.7
+- New prefix selector dialog (with filtering and sorting!)
+- Updated Russian translation
+- Tweaked clipboard detection
+
+V 2.6.2
+- Fixed incorrect theme on android 4.X
+
+V 2.6.1
+- Updated French and Italian translations
+
+V 2.6
+- Added option to hide the main screen info
+- Separated About dialog into Settings and Info
+- Added link to translations page
+- Added option to share the app

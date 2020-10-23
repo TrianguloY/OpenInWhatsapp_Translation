@@ -61,6 +61,9 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
     <string name="btn_addonLink">Addon</string>
 
+    <string name="msg_warnShare">The link you are going to share contains the entered phone number in plain text. Everyone with access to the link will have access to the number. If it is a personal number don\'t share the link publicly.</string>
+    <string name="btn_noWarn">Don\'t warn again</string>
+
     <string name="btn_link_playstore_open">Play Store (open)</string>
     <string name="btn_link_playstore_share">Play Store (share)</string>
     <string name="btn_link_apppage">App page</string>
@@ -103,6 +106,7 @@ Check the prefix!"</string>
     <string name="cntDesc_filter">Filter</string>
 
     <string name="util_cancel">Cancel</string>
+    <string name="util_close">Close</string>
     <string name="util_none">None</string>
 
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
@@ -116,5 +120,14 @@ Check the prefix!"</string>
     <string name="error_instantApp">Instant apps can only open the default app. If you have multiple versions (like WhatsApp and WhatsApp Business) try installing the [[oiw|full app]] (note: not all versions are supported).</string>
     <string name="title_instantApp">Instant app</string>
     <string name="message_instantApp">The \'%s\' feature isn\'t available in an instant app. If you want to use it please install the app from the Play Store.</string>
+
+    <string-array name="chl_notify">
+        <item>Never notify</item>
+        <item>Notify on important features only</item>
+        <item>Notify on new features only</item>
+        <item>Always notify</item>
+    </string-array>
+    <string name="cl_title">Changelog:</string>
+    <string name="cl_more">show more</string>
 
 </resources>

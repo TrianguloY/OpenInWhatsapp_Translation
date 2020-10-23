@@ -12,8 +12,13 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <parameters>
+
+<!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
 <title max_chars="50">Click to chat [small, no ads]</title>
+
 <description_short max_chars="80">Open a WhatsApp chat from any number (you and that number).</description_short>
+
+<!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
 <description_long max_chars="4000">Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
 Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsApp guidelines.
 ------------------
@@ -58,5 +63,7 @@ SHORTCUT: To create shortcuts in the launcher.
 
 Apk size:
 ~100 KB (0,1MB)</description_long>
-<!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+
+<!-- Not needed if you don't translate the changelog -->
+<changelog_footer>Do you like the update? Suggestions? You can say so in the comments or in the blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

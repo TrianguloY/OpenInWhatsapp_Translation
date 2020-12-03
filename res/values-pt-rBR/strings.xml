@@ -8,14 +8,14 @@ Instructions for manual translation:
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
-If you added/modified the following file add your name here to give credit: 'mezysinc' based on Hirai RCD
-
+If you added/modified the following file add your name here to give credit:
+Richard Anderson (Hirai RCD)
+mezysinc
 
  -->
 <resources>
     
     <string name="translated">.</string>
-    
 
     <string name="app_name">Conversa em um Clique</string>
 
@@ -28,7 +28,6 @@ Obrigado à %n por disponibilizar a tradução em %l!"</string>
     <string name="txt_changelanguage">Você pode alterar o idioma do App clicando no botão abaixo (o App será reiniciado).</string>
     <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu dispositivo]] são instalados, para reduzir o tamanho do aplicativo.</string>
 
-    <!-- in the text from below change the WhatsApp link to your locale (change 'en' by the locale code) and the wikipedia link to your locale too (go to wikipedia, change the locale and copy/paste the link). If There is a public and better place than wikipedia for the locale list in your language, use that one instead -->
     <string name="txt_description">"Este aplicativo usa o Api público do WhatsApp para abrir uma Conversa com qualquer número que você digitar. Nenhum contato é criado no dispositivo.
 Mais informações [[wfq|aqui]].
 
@@ -39,8 +38,7 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="txt_extra_description">"Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (NÃO será, repito, NÃO será enviada a mensagem)."
 </string>
 
-    <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
-    <string name="txt_support">Sendo um aplicativo gratuito sem anúncios nem compras 'In-App', o desenvolvimento e as atualizações são baseados na aceitação e suporte das pessoas como você.</string>
+    <string name="txt_support">Sendo um aplicativo gratuito sem anúncios nem compras \'In-App\', o desenvolvimento e as atualizações são baseados na aceitação e suporte das pessoas como você.</string>
     <string name="btn_link_support">Suporte</string>
 
     <string name="txt_addonDescr">Com esta extensão você pode permitir que este App mostre uma lista de chamadas recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
@@ -130,4 +128,4 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="cl_title">Modificações:</string>
     <string name="cl_more">Mostrar mais</string>
 
-</resources
+</resources>

@@ -37,20 +37,28 @@ Se você adicionar uma mensagem, mas não especificar um número, o WhatsApp ir�
 Você pode salvar o link como um atalho, enviar para outras pessoas para que te contatem (o número é visível no link, tenha cuidado), predefinir uma mensagem em um site para que seja 'Compartilhada no WhatsApp', etc. Lembre-se, você não precisa desse app para abrir o link, o WhatsApp que cuida disso, o app apenas cria o link para você.
 Atalho oculto: dê um longo clique no botão 'Compartilhar' para rapidamente copiar o link para a área de transferência.
 
-Lista de Recentes:
-Quando um número é aberto, ele é salvo na Lista de Recentes, para caso você deseje o abrir novamente, e não lembre do número. Se você abre uma conversa com um número frequentemente, você pode criar um atalho para ele diretamente no WhatsApp (dentro da conversa: Menu, Mais, Adicionar atalho).
-Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
+    Lista de Recentes:
+    Quando um número é aberto, ele é salvo na Lista de Recentes, para caso você deseje o abrir
+    novamente, e não lembre do número. Se você abre uma conversa com um número frequentemente, você
+    pode criar um atalho para ele diretamente no WhatsApp (dentro da conversa: Menu, Mais, Adicionar
+    atalho).
+    Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
 
-------------------------------------------
+    ------------------------------------------
 
-Este app é um utilitário: simples e leve. Sem recursos adicionais, sem tamanho adicional, sem permissões, sem propagandas...apenas o recurso Abrir no WhatsApp (com o passar do tempo, irei tentar adicionar pequenas novas funcionalidades relacionadas ao recurso, mas eu planejo manter o app o mais simples e leve possível).
+    Este app é um utilitário: simples e leve. Sem recursos adicionais, sem tamanho adicional, sem
+    permissões, sem propagandas...apenas o recurso Abrir no WhatsApp (com o passar do tempo, irei
+    tentar adicionar pequenas novas funcionalidades relacionadas ao recurso, mas eu planejo manter o
+    app o mais simples e leve possível).
 
-Traduções:
-Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) e Steven Felix pelas traduções!
+    Traduções:
+    Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard
+    Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann
+    (Dwi Legowo), Steven Felix e mezysinc pelas traduções!
 
-Permissões usadas:
--Nenhuma- (não são necessárias)
+    Permissões usadas:
+    -Nenhuma- (não são necessárias)
 
-Tamanho do aplicativo:
-~100 KB (0,1MB)</description_long>
+    Tamanho do aplicativo:
+    ~100 KB (0,1MB)</description_long>
 </parameters>

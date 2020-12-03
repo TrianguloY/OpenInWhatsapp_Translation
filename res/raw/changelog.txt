@@ -1,3 +1,7 @@
+V 2.13.1
+- Updated translation to Brazilian Portuguese locale. Many thanks to mezysinc!
+- Tweaked calls addon detection
+
 V 2.13
 - New configurable changelog dialog
 - Show message when sharing number

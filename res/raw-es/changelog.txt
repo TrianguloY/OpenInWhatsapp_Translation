@@ -1,3 +1,7 @@
+V 2.13.1
+- Actualizada la traducción al Portugués de Brasil. Muchas gracias a mezysinc!
+- Ajustada la detección del complemento de llamadas
+
 V 2.13
 - Nueva pantalla de cambios, configurable
 - Se muestra un aviso al compartir un número

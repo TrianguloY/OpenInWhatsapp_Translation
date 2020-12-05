@@ -8,49 +8,73 @@ Instructions for manual translation:
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
 
 If you added/modified the following file add your name here to give credit:
-Richard Anderson (Hirai RCD)
+
 
  -->
 <parameters>
-<title max_chars="50">Conversa em um Clique</title>
-<description_short max_chars="80">Esse app abre uma conversa entre você e qualquer número existente.</description_short>
-<description_long max_chars="4000">Aviso: Esse aplicativo não é afiliado com a WhatsApp Inc.
-Previous name: "Abrir no WhatsApp (conversa em um clique)", changed to comply with WhatsApp guidelines.
-------------------------------------------------------------------------------------------
 
-Esse app usa o recurso Conversa em um Clique do WhatsApp (https://faq.whatsapp.com/en/android/26000030?lang=pt_br) para abrir uma conversa entre você e qualquer número existente.
-Nenhum contato é criado no dispositivo, você não precisa o salvar na sua lista de contatos. Apenas abra o app, insira o número, aperte no botão e o chat irá abrir (se o número não possuir cadastro, o WhatsApp irá te avisar: 'O número de telefone não está no WhatsApp).
+<!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+<title max_chars="50">Conversa em um Clique [pequeno, sem anúncios]</title>
+
+<description_short max_chars="80">Abra uma conversa no WhatsApp com qualquer número (você e esse número).</description_short>
+
+<!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+<description_long max_chars="4000">Aviso: Este aplicativo não é afiliado nem endossado pelo WhatsApp Inc.
+Nome anterior: "Abrir no WhatsApp (conversa em um clique)", alterado para cumprir com as diretrizes do WhatsApp.
+------------------
+
+'Para que é utilizado este aplicativo?' A resposta é muitas vezes mal compreendida: você pode abrir um chat no aplicativo oficial do WhatsApp (ou WhatsApp Business) com outro usuário se souber o número do contato. Este App disponibiliza um método alternativo que não requer salvar o número em contatos. Isto NÃO permitirá que você 'espie outras conversas', 'contata com números sem WhatsApp', 'esconda seu número' ou outras coisas malucas. Isto é o mesmo que clicar num número desconhecido em um grupo, criar manualmente o link da url ou salvar o contato.
+
+
+'Por que deveria usar este App ao invés de outros?' Você é livre para escolher! Este App apenas fornece a funcionalidade de 'abrir em WhatsApp' e algumas melhorias, e por esta razão o App é extremamente simples e sem anúncios, tão pequeno quanto possível, e gratuito; apenas para ajudar aos outros a usar o recurso que WhatsApp tem (note que não sou afiliado ao WhatsApp Inc). Desde que o publiquei, a popularidade aumentou inesperadamente (obrigado!) e outros aplicativos com a mesma funcionalidade (alguns até mesmo cópias exatas sem nem a minha permissão) inundaram a loja. Você pode usar o que preferir, mas este é (pelo menos, desde a última vez que verifiquei) o menor de todos, o único sem anúncios, e o único sem permissões 'perigosas' (tipo acesso completo à internet, armazenamento, etc. Experimentá-lo!).
+
+-------------------
+
+
+Esse App usa o recurso de 'Conversa em um Clique' do WhatsApp (https://faq.whatsapp.com/en/android/26000030?lang=pt_br) para abrir uma conversa com qualquer número existente (uma conversa entre você e esse número).
+Nenhum contato é criado no dispositivo, você não precisa o salvar na sua lista de contatos. Apenas abra o App, digite o número, clique no botão e o chat irá abrir (se o número não for cadastro, o WhatsApp irá te avisar: 'O número de telefone não está no WhatsApp).
+
 
 Útil em situações como:
-- Alguém te ligou ou te mandou mensagem e você quer saber se o número possui WhatsApp?
-- Você precisa mandar mensagem para alguém sem ter que salvar o número da pessoa?
-- Você quer conversar consigo mesmo? (Para salvar textos e links, por exemplo)
+- Alguém te ligou ou te mandou a mensagem e você quer saber se o número está cadastro no WhatsApp?
+- Você precisa mandar uma mensagem para alguém sem querer salvar o número da pessoa?
+- Quer deixar uma recado para você mesmo? (para salvar textos, links e ideias)
+
 
 Prefixo:
-Você precisa especificar o prefixo do número, até se for do seu próprio país (será salvo para a pŕoxima vez que você abrir o app). Você pode o especificar manualmente, ou usar o botão + para escolher um da lista.
+Você precisa especificar o prefixo do número, até se for do seu próprio país (será salvo para a próxima vez que você abrir o App). Você pode o digitar manualmente, ou usar o botão + para escolher um prefixo correspondente da lista.
 Atalho oculto: dê um longo clique no botão + para organizar a lista por Prefixo.
 
+
 Criar links:
-Você pode criar um link que irá abrir o WhatsApp no número especificado. Esse é um recurso do WhatsApp, você não precisa desse app para abrir o link, apenas para criá-lo.
-Você também pode adicionar uma mensagem que será inserida automaticamente (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM, você deve pressionar o botão de Enviar manualmente).
-Se você adicionar uma mensagem, mas não especificar um número, o WhatsApp irá te perguntar para qual contato você deseja enviar a mensagem (NOVAMENTE, EU NÃO IREI MANDAR A MENSAGEM, APENAS ADICIONÁ-LA).
-Você pode salvar o link como um atalho, enviar para outras pessoas para que te contatem (o número é visível no link, tenha cuidado), predefinir uma mensagem em um site para que seja 'Compartilhada no WhatsApp', etc. Lembre-se, você não precisa desse app para abrir o link, o WhatsApp que cuida disso, o app apenas cria o link para você.
-Atalho oculto: dê um longo clique no botão 'Compartilhar' para rapidamente copiar o link para a área de transferência.
+Você pode criar um link que irá abrir o WhatsApp com número especificado. Esse é um recurso do WhatsApp, você não precisa desse App para abrir o link, apenas para criá-lo.
+Você também pode adicionar uma mensagem que será inserida automaticamente (NÃO será, repito, NÃO será enviada. Para que isso aconteça o usuário deve clicar no botão de Enviar manualmente).
+Se você adicionar uma mensagem, mas não especificar um número, o WhatsApp irá te perguntar para qual contato você deseja enviar a mensagem (outra vez, NÃO será enviada, apenas preenchida).
+Você pode salvar o link como um atalho, enviar para outras pessoas para que te contatem (o número é visível no link, tenha cuidado), preencher uma mensagem num site para que seja 'Compartilhada no WhatsApp', etc. Lembre-se, você não precisa desse App para abrir o link, o WhatsApp que cuida disso, o App apenas cria o link para você.
+Atalho oculto: dê um longo clique no botão 'Compartilhar' para copiar rapidamente o link para o Clipboard.
 
 Lista de Recentes:
-Quando um número é aberto, ele é salvo na Lista de Recentes, para caso você deseje o abrir novamente, e não lembre do número. Se você abre uma conversa com um número frequentemente, você pode criar um atalho para ele diretamente no WhatsApp (dentro da conversa: Menu, Mais, Adicionar atalho).
+Quando um número é aberto, ele é salvo na Lista de Recentes, no caso que você deseje o abrir novamente, e não conseguir lembrar o número. Você também pode afixar os números e nomeá-los, ou mesmo criar atalhos. Se você abre uma conversa com um número frequentemente, você pode criar um atalho para ele diretamente no WhatsApp (dentro da conversa: Menu, Mais, Adicionar atalho).
 Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
 
-------------------------------------------
+---------------------------
 
-Este app é um utilitário: simples e leve. Sem recursos adicionais, sem tamanho adicional, sem permissões, sem propagandas...apenas o recurso Abrir no WhatsApp (com o passar do tempo, irei tentar adicionar pequenas novas funcionalidades relacionadas ao recurso, mas eu planejo manter o app o mais simples e leve possível).
+
+Este App é um utilitário: simples e leve. Sem funcionalidades adicionais, sem tamanho adicional, sem permissões perigosas, sem anúncios...apenas o recurso Abrir-no-WhatsApp (com o passar do tempo, irei tentar adicionar pequenas novas funcionalidades relacionadas ao recurso, mas planejo manter o App o mais simples e leve possível).
+
 
 Traduções:
 Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) e Steven Felix pelas traduções!
 
+
 Permissões usadas:
--Nenhuma- (não são necessárias)
+ATALHO: Para criar os atalhos no lançador.
+-Nenhuma mais- (não são necessárias)
+
 
 Tamanho do aplicativo:
 ~100 KB (0,1MB)</description_long>
+
+<!-- Not needed if you don't translate the changelog -->
+<changelog_footer>Gostou da atualização? Sugestões? Você pode dizer isso nos comentários ou no blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

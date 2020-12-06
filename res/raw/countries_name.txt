@@ -7,21 +7,26 @@ Antigua and Barbuda
 Barbuda
 British Virgin Islands
 US Virgin Islands
+Cayman Islands
 Bermuda
 Grenada
 Turks and Caicos Islands
+Montserrat
 Northern Mariana Islands
 Guam
 American Samoa
+Sint Maarten (Netherlands)
+Saint Lucia
 Dominica
+Saint Vincent and the Grenadines
 Puerto Rico
 Midway Island, USA
 Wake Island, USA
 Dominican Republic
 Trinidad and Tobago
+Nevis
 Saint Kitts and Nevis
 Jamaica
-Montserrat
 Egypt
 South Sudan
 Morocco
@@ -47,6 +52,7 @@ Chad
 Central African Republic
 Cameroon
 Cape Verde
+São Tomé and Príncipe
 Equatorial Guinea
 Gabon
 Congo
@@ -70,8 +76,8 @@ Burundi
 Mozambique
 Zambia
 Madagascar
-Mayotte
 Réunion
+Mayotte
 Zimbabwe
 Namibia
 Malawi
@@ -80,6 +86,8 @@ Botswana
 eSwatini (Swaziland)
 Comoros
 South Africa
+Saint Helena
+Tristan da Cunha
 Eritrea
 Aruba
 Faroe Islands
@@ -89,7 +97,6 @@ Netherlands
 Belgium
 France
 Spain
-Cayman Islands
 Gibraltar
 Portugal
 Luxembourg
@@ -97,21 +104,27 @@ Ireland
 Iceland
 Albania
 Malta
+Cyprus
 Finland
+Åland Islands
 Bulgaria
 Hungary
 Lithuania
 Latvia
 Estonia
 Moldova
+Transnistria
 Armenia
+Nagorno-Karabakh
 Belarus
 Andorra
 Monaco
 San Marino
+Vatican City State (Holy See)
 Ukraine
 Serbia
 Montenegro
+Kosovo
 Croatia
 Slovenia
 Bosnia and Herzegovina
@@ -124,9 +137,15 @@ Slovakia
 Liechtenstein
 Austria
 United Kingdom
+Guernsey
+Jersey
+Isle of Man
+Northern Ireland
 Denmark
 Sweden
 Norway
+Jan Mayen
+Svalbard
 Poland
 Germany
 Falkland Islands
@@ -138,11 +157,11 @@ Honduras
 Nicaragua
 Costa Rica
 Panama
+Saint Pierre and Miquelon
 Haiti
 Peru
 Mexico
 Cuba
-Cyprus
 Argentina
 Brazil
 Chile
@@ -150,29 +169,36 @@ Easter Island
 Colombia
 Venezuela
 Guadeloupe
+Saint Barthélemy
+Saint Martin (France)
 Bolivia
+Guyana
 Ecuador
 French Guiana
-Guyana
 Paraguay
 French Antilles
 Martinique
 Suriname
 Uruguay
+Sint Eustatius
+Caribbean Netherlands
+Saba
+Bonaire
 Curaçao
-Netherlands Antilles
 Malaysia
 Australia
-Christmas Island
 Cocos (Keeling) Islands
+Christmas Island
 Indonesia
 Philippines
+Chatham Island
 New Zealand
+Pitcairn Islands
 Singapore
 Thailand
 East Timor
-Timor Leste
 Australian External Territories
+Australian Antarctic Territory
 Norfolk Island
 Brunei Darussalam
 Nauru
@@ -195,7 +221,8 @@ Federated States of Micronesia
 Marshall Islands
 Russia
 Kazakhstan
-Abkhazia
+International Freephone Service (UIFN)
+International Shared Cost Service (ISCS)
 Japan
 South Korea
 Vietnam
@@ -205,9 +232,21 @@ Macau
 Cambodia
 Laos
 China
+Inmarsat SNAC
+Universal Personal Telecommunications (UPT)
 Bangladesh
+Global Mobile Satellite System (GMSS)
+ICO Global (Mobile Satellite Service)
+Ellipso (Mobile Satellite service)
+Iridium (Mobile Satellite service)
+Globalstar (Mobile Satellite Service)
+EMSAT (Mobile Satellite service)
+Thuraya (Mobile Satellite service)
+International Networks
 Taiwan
+Telecommunications for Disaster Relief by OCHA
 Turkey
+Northern Cyprus
 India
 Pakistan
 Afghanistan
@@ -230,10 +269,12 @@ Qatar
 Bhutan
 Mongolia
 Nepal
+International Premium Rate Service
 Iran
 Tajikistan
 Turkmenistan
 Azerbaijan
 Georgia
+South Ossetia
 Kyrgyzstan
 Uzbekistan

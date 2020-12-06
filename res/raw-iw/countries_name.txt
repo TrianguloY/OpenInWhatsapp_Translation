@@ -7,21 +7,26 @@
 ברבודה
 איי הבתולה הבריטיים
 איי הבתולה של ארצות הברית
+איי קיימן
 ברמודה
 גרנדה
 איי טורקס וקאיקוס
+מונטסראט
 איי מריאנה הצפוניים
 גואם
 סמואה האמריקנית
+??? Sint Maarten (Netherlands)
+??? Saint Lucia
 דומיניקה
+??? Saint Vincent and the Grenadines
 פוארטו ריקו
 אטול מידוויי
 האי ווייק
 הרפובליקה הדומיניקנית
 טרינידד וטובגו
+??? Nevis
 נוויס
 ג'מייקה
-מונטסראט
 מצרים
 דרום סודן
 מרוקו
@@ -47,6 +52,7 @@
 הרפובליקה המרכז - אפריקאית
 קמרון
 כף ורדה
+??? São Tomé and Príncipe
 גיניאה המשוונית
 גאבון
 קונגו
@@ -70,8 +76,8 @@
 מוזמביק
 זמביה
 מדגסקר
-מאיוט
 ראוניון
+מאיוט
 זימבבואה
 נמיביה
 מלאווי
@@ -80,6 +86,8 @@
 אסוואטיני (סווזילנד)
 איי קומורו
 דרום אפריקה
+??? Saint Helena
+??? Tristan da Cunha
 אריתריאה
 ארובה
 איי פארו
@@ -89,7 +97,6 @@
 בלגיה
 צרפת
 ספרד
-איי קיימן
 גיברלטר
 פורטוגל
 לוקסמבורג
@@ -97,21 +104,27 @@
 איסלנד
 אלבניה
 מלטה
+קפריסין
 פינלנד
+??? Åland Islands
 בולגריה
 הונגריה
 ליטא
 לטביה
 אסטוניה
 מולדובה
+??? Transnistria
 ארמניה
+??? Nagorno-Karabakh
 בלארוס
 אנדורה
 מונקו
 סן מרינו
+??? Vatican City State (Holy See)
 אוקראינה
 סרביה
 מונטנגרו
+??? Kosovo
 קרואטיה
 סלובניה
 בוסניה והרצגובינה
@@ -124,9 +137,15 @@
 ליכטנשטיין
 אוסטריה
 בריטניה
+??? Guernsey
+??? Jersey
+??? Isle of Man
+??? Northern Ireland
 דנמרק
 שבדיה
 נורווגיה
+??? Jan Mayen
+??? Svalbard
 פולין
 גרמניה
 איי מאלבינס (איי פוקלנד)
@@ -138,11 +157,11 @@
 ניקרגואה
 קוסטה ריקה
 פנמה
+??? Saint Pierre and Miquelon
 האיטי
 פרו
 מקסיקו
 קובה
-קפריסין
 ארגנטינה
 ברזיל
 צ'ילה
@@ -150,29 +169,36 @@
 קולומביה
 ונצואלה
 גוואדלופ
+??? Saint Barthélemy
+??? Saint Martin (France)
 בוליביה
+גיאנה
 אקוודור
 גיאנה הצרפתית
-גיאנה
 פרגוואי
 האנטילים הצרפתיים
 מרטיניק
 סורינאם
 אורוגוואי
+??? Sint Eustatius
+??? Caribbean Netherlands
+??? Saba
+??? Bonaire
 קוראסאו
-האנטילים ההולנדיים
 מלזיה
 אוסטרליה
-אי חג המולד
 איי קוקוס-קילינג
+אי חג המולד
 אינדונזיה
 הפיליפינים
+??? Chatham Island
 ניו זילנד
+??? Pitcairn Islands
 סינגפור
 תאילנד
 מזרח טימור
-הרפובליקה הדמוקרטית של מזרח טימור
 שטחים חיצוניים אוסטרלים
+??? Australian Antarctic Territory
 האי נורפולק
 ברוניי דארוסלאם
 נאורו
@@ -195,7 +221,8 @@
 איי מרשל
 רוסיה
 קזחסטן
-אבחזיה
+??? International Freephone Service (UIFN)
+??? International Shared Cost Service (ISCS)
 יפן
 דרום קוריאה
 וייטנאם
@@ -205,9 +232,21 @@
 קמבודיה
 לאוס
 סין
+??? Inmarsat SNAC
+??? Universal Personal Telecommunications (UPT)
 בנגלדש
+??? Global Mobile Satellite System (GMSS)
+??? ICO Global (Mobile Satellite Service)
+??? Ellipso (Mobile Satellite service)
+??? Iridium (Mobile Satellite service)
+??? Globalstar (Mobile Satellite Service)
+??? EMSAT (Mobile Satellite service)
+??? Thuraya (Mobile Satellite service)
+??? International Networks
 טייוואן
+??? Telecommunications for Disaster Relief by OCHA
 טורקיה
+??? Northern Cyprus
 הודו
 פקיסטן
 אפגניסטן
@@ -230,10 +269,12 @@
 בהוטאן
 מונגוליה
 נפאל
+??? International Premium Rate Service
 איראן
 טג'יקיסטן
 טורקמניסטן
 אזרבייג'ן
 גאורגיה
+??? South Ossetia
 קירגיזסטן
 אוזבקיסטן

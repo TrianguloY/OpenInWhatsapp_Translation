@@ -7,21 +7,26 @@ Antigua e Barbuda
 Barbuda
 Isole Vergini britanniche
 Isole Vergini americane
+Isole Cayman
 Bermuda
 Grenada
 Isole Turks e Caicos
+Montserrat
 Isole Marianne settentrionali
 Guam
 Samoa americane
+??? Sint Maarten (Netherlands)
+??? Saint Lucia
 Dominica
+??? Saint Vincent and the Grenadines
 Portorico
 Isola di Midway
 Isola di Wake
 Repubblica Dominicana
 Trinidad e Tobago
+??? Nevis
 Nevis
 Giamaica
-Montserrat
 Egitto
 Sudan del Sud
 Marocco
@@ -47,6 +52,7 @@ Ciad
 Repubblica Centrafricana
 Camerun
 Capo verde
+??? São Tomé and Príncipe
 Guinea Equatoriale
 Gabon
 Congo
@@ -70,8 +76,8 @@ Burundi
 Mozambico
 Zambia
 Madagascar
-Mayotte
 Riunione
+Mayotte
 Zimbabwe
 Namibia
 Malawi
@@ -80,6 +86,8 @@ Botswana
 Swaziland
 Comore
 Sud Africa
+??? Saint Helena
+??? Tristan da Cunha
 Eritrea
 Aruba
 Isole Faroe
@@ -89,7 +97,6 @@ Paesi Bassi
 Belgio
 Francia
 Spagna
-Isole Cayman
 Gibilterra
 Portogallo
 Lussemburgo
@@ -97,21 +104,27 @@ Irlanda
 Islanda
 Albania
 Malta
+Cipro
 Finlandia
+??? Åland Islands
 Bulgaria
 Ungheria
 Lituania
 Lettonia
 Estonia
 Moldova
+??? Transnistria
 Armenia
+??? Nagorno-Karabakh
 Belarus
 Andorra
 Monaco
 San Marino
+??? Vatican City State (Holy See)
 Ucraina
 Serbia
 Montenegro
+??? Kosovo
 Croazia
 Slovenia
 Bosnia ed Erzegovina
@@ -124,9 +137,15 @@ Slovacchia
 Liechtenstein
 Austria
 Regno Unito
+??? Guernsey
+??? Jersey
+??? Isle of Man
+??? Northern Ireland
 Danimarca
 Svezia
 Norvegia
+??? Jan Mayen
+??? Svalbard
 Polonia
 Germania
 Isole Falkland
@@ -138,11 +157,11 @@ Honduras
 Nicaragua
 Costa Rica
 Panama
+??? Saint Pierre and Miquelon
 Haiti
 Perù
 Messico
 Cuba
-Cipro
 Argentina
 Brasile
 Cile
@@ -150,29 +169,36 @@ Isola di Pasqua
 Colombia
 Venezuela
 Guadalupa
+??? Saint Barthélemy
+??? Saint Martin (France)
 Bolivia
+Guyana
 Ecuador
 Guyana francese
-Guyana
 Paraguay
 Antille francesi
 Martinica
 Suriname
 Uruguay
+??? Sint Eustatius
+??? Caribbean Netherlands
+??? Saba
+??? Bonaire
 Curacao
-Antille
 Malaysia
 Australia
-Isola di Natale
 Isole Cocos-Keeling
+Isola di Natale
 Indonesia
 Filippine
+??? Chatham Island
 Nuova Zelanda
+??? Pitcairn Islands
 Singapore
 Thailandia
 Timor
-Timor Leste
 Territori esterni australiani
+??? Australian Antarctic Territory
 Isola Norfolk
 Brunei
 Nauru
@@ -195,7 +221,8 @@ Micronesia
 Isole Marshall
 Russia
 Kazakhstan
-Abkhazia
+??? International Freephone Service (UIFN)
+??? International Shared Cost Service (ISCS)
 Giappone
 Corea del sud
 Vietnam
@@ -205,9 +232,21 @@ Macao SAR Cina
 Cambogia
 Laos
 Cina
+??? Inmarsat SNAC
+??? Universal Personal Telecommunications (UPT)
 Bangladesh
+??? Global Mobile Satellite System (GMSS)
+??? ICO Global (Mobile Satellite Service)
+??? Ellipso (Mobile Satellite service)
+??? Iridium (Mobile Satellite service)
+??? Globalstar (Mobile Satellite Service)
+??? EMSAT (Mobile Satellite service)
+??? Thuraya (Mobile Satellite service)
+??? International Networks
 Taiwan
+??? Telecommunications for Disaster Relief by OCHA
 Turchia
+??? Northern Cyprus
 India
 Pakistan
 Afghanistan
@@ -230,10 +269,12 @@ Qatar
 Bhutan
 Mongolia
 Nepal
+??? International Premium Rate Service
 Iran
 Tagikistan
 Turkmenistan
 Azerbaigian
 Georgia
+??? South Ossetia
 Kirghizistan
 Uzbekistan

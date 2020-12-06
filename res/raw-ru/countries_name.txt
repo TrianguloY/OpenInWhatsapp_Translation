@@ -7,21 +7,26 @@
 Барбуда
 Британские Виргинские острова
 Виргинские острова США
+Каймановы острова
 Бермудские острова
 Гренада
 Острова Теркс и Кайкос
+Монтсеррат
 Северные Марианские острова
 Гуам
 Американское Самоа
+??? Sint Maarten (Netherlands)
+??? Saint Lucia
 Доминика
+??? Saint Vincent and the Grenadines
 Пуэрто-Рико
 Остров Мидуэй
 Остров Уэйк
 Доминиканская Республика
 Тринидад и Тобаго
+??? Nevis
 Невис
 Ямайка
-Монтсеррат
 Египет
 Южный Судан
 Марокко
@@ -47,6 +52,7 @@
 Центральноафриканская Республика
 Камерун
 Кабо-Верде
+??? São Tomé and Príncipe
 Экваториальная Гвинея
 Габон
 Конго
@@ -70,8 +76,8 @@
 Мозамбик
 Замбия
 Мадагаскар
-Майотта
 Реюньон
+Майотта
 Зимбабве
 Намибия
 Малави
@@ -80,6 +86,8 @@
 Свазиленд
 Коморские острова
 Южная Африка
+??? Saint Helena
+??? Tristan da Cunha
 Эритрея
 Аруба
 Фарерские острова
@@ -89,7 +97,6 @@
 Бельгия
 Франция
 Испания
-Каймановы острова
 Гибралтар
 Португалия
 Люксембург
@@ -97,21 +104,27 @@
 Исландия
 Албания
 Мальта
+Кипр
 Финляндия
+??? Åland Islands
 Болгария
 Венгрия
 Литва
 Латвия
 Эстония
 Молдова
+??? Transnistria
 Армения
+??? Nagorno-Karabakh
 Беларусь
 Андорра
 Монако
 Сан-Марино
+??? Vatican City State (Holy See)
 Украина
 Сербия
 Черногория
+??? Kosovo
 Хорватия
 Словения
 Босния и Герцеговина
@@ -124,9 +137,15 @@
 Лихтенштейн
 Австрия
 Великобритания
+??? Guernsey
+??? Jersey
+??? Isle of Man
+??? Northern Ireland
 Дания
 Швеция
 Норвегия
+??? Jan Mayen
+??? Svalbard
 Польша
 Германия
 Фолклендские острова
@@ -138,11 +157,11 @@
 Никарагуа
 Коста-Рика
 Панама
+??? Saint Pierre and Miquelon
 Гаити
 Перу
 Мексика
 Куба
-Кипр
 Аргентина
 Бразилия
 Чили
@@ -150,29 +169,36 @@
 Колумбия
 Венесуэла
 Гваделупа
+??? Saint Barthélemy
+??? Saint Martin (France)
 Боливия
+Гайана
 Эквадор
 Французская Гвиана
-Гайана
 Парагвай
 Французские Антильские острова
 Мартиника
 Суринам
 Уругвай
+??? Sint Eustatius
+??? Caribbean Netherlands
+??? Saba
+??? Bonaire
 Кюрасао
-Нидерландские Антильские острова
 Малайзия
 Австралия
-Остров Рождества
 Острова Кокос-Килинг
+Остров Рождества
 Индонезия
 Филиппины
+??? Chatham Island
 Новая Зеландия
+??? Pitcairn Islands
 Сингапур
 Таиланд
 Восточный Тимор
-Тимор-Лешти
 Внешние территории Австралии
+??? Australian Antarctic Territory
 Остров Норфолк
 Бруней
 Науру
@@ -195,7 +221,8 @@
 Маршалловы острова
 Россия
 Казахстан
-Абхазия
+??? International Freephone Service (UIFN)
+??? International Shared Cost Service (ISCS)
 Япония
 Южная Корея
 Вьетнам
@@ -205,9 +232,21 @@
 Камбоджа
 Лаос
 Китай
+??? Inmarsat SNAC
+??? Universal Personal Telecommunications (UPT)
 Бангладеш
+??? Global Mobile Satellite System (GMSS)
+??? ICO Global (Mobile Satellite Service)
+??? Ellipso (Mobile Satellite service)
+??? Iridium (Mobile Satellite service)
+??? Globalstar (Mobile Satellite Service)
+??? EMSAT (Mobile Satellite service)
+??? Thuraya (Mobile Satellite service)
+??? International Networks
 Тайвань
+??? Telecommunications for Disaster Relief by OCHA
 Турция
+??? Northern Cyprus
 Индия
 Пакистан
 Афганистан
@@ -230,10 +269,12 @@
 Бутан
 Монголия
 Непал
+??? International Premium Rate Service
 Иран
 Таджикистан
 Туркменистан
 Азербайджан
 Грузия
+??? South Ossetia
 Кыргызстан
 Узбекистан

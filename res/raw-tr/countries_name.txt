@@ -7,21 +7,26 @@ Antigua ve Barbuda
 Barbuda
 Britanya Virjin Adaları
 ABD Virjin Adaları
+Cayman Adaları
 Bermuda
 Grenada
 Turks ve Caicos Adaları
+Montserrat
 Kuzey Mariana Adaları
 Guam
 Amerikan Samoası
+??? Sint Maarten (Netherlands)
+??? Saint Lucia
 Dominika
+??? Saint Vincent and the Grenadines
 Porto Riko
 Midway Adası
 Wake Adası
 Dominik Cumhuriyeti
 Trinidad ve Tobago
+??? Nevis
 Nevis
 Jamaika
-Montserrat
 Mısır
 Güney Sudan
 Fas
@@ -47,6 +52,7 @@ Nijerya
 Orta Afrika Cumhuriyeti
 Kamerun
 Yeşil Burun Adaları
+??? São Tomé and Príncipe
 Ekvator Ginesi
 Gabon
 Kongo
@@ -70,8 +76,8 @@ Burundi
 Mozambik
 Zambiya
 Madagaskar
-Mayotte
 Réunion
+Mayotte
 Zimbabve
 Namibya
 Malavi
@@ -80,6 +86,8 @@ Botsvana
 Svaziland
 Komorlar
 Güney Afrika
+??? Saint Helena
+??? Tristan da Cunha
 Eritre
 Aruba
 Faroe Adaları
@@ -89,7 +97,6 @@ Hollanda
 Belçika
 Fransa
 İspanya
-Cayman Adaları
 Gibraltar
 Portekiz
 Lüksemburg
@@ -97,21 +104,27 @@ Lüksemburg
 İzlanda
 Arnavutluk
 Malta
+Kıbrıs Cumhuriyeti
 Finlandiya
+??? Åland Islands
 Bulgaristan
 Macaristan
 Litvanya
 Letonya
 Estonya
 Moldova
+??? Transnistria
 Ermenistan
+??? Nagorno-Karabakh
 Belarus
 Andorra
 Monako
 San Marino
+??? Vatican City State (Holy See)
 Ukrayna
 Sırbistan
 Karadağ
+??? Kosovo
 Hırvatistan
 Slovenya
 Bosna-Hersek
@@ -124,9 +137,15 @@ Slovakya
 Lihtenştayn
 Avusturya
 Birleşik Krallık
+??? Guernsey
+??? Jersey
+??? Isle of Man
+??? Northern Ireland
 Danimarka
 İsveç
 Norveç
+??? Jan Mayen
+??? Svalbard
 Polonya
 Almanya
 Falkland Islands
@@ -138,11 +157,11 @@ Honduras
 Nikaragua
 Kosta Rika
 Panama
+??? Saint Pierre and Miquelon
 Haiti
 Peru
 Meksika
 Küba
-Kıbrıs Cumhuriyeti
 Arjantin
 Brezilya
 Paskalya Adası
@@ -150,29 +169,36 @@ Paskalya Adası
 Kolombiya
 Venezuela
 Guadeloupe
+??? Saint Barthélemy
+??? Saint Martin (France)
 Bolivya
+Guyana
 Ekvador
 Fransız Guyaası
-Guyana
 Paraguay
 Fransız Antilleri
 Martinique
 Surinam
 Uruguay
+??? Sint Eustatius
+??? Caribbean Netherlands
+??? Saba
+??? Bonaire
 Curaçao
-Hollanda Antilleri
 Malezya
 Avustralya
-Christmas Adası
 Cocos Adaları
+Christmas Adası
 Endonezya
 Filipinler
+??? Chatham Island
 Yeni Zelanda
+??? Pitcairn Islands
 Singapur
 Tayland
 Doğu Timor
-Doğu Timor
 Avustralya Uzak Bölgeleri
+??? Australian Antarctic Territory
 Norfolk Adası
 Brunei
 Nauru
@@ -195,7 +221,8 @@ Mikronezya Federal Devletleri
 Marshall Adaları
 Rusya
 Kazakistan
-Abhazya
+??? International Freephone Service (UIFN)
+??? International Shared Cost Service (ISCS)
 Japonya
 Güney Kore
 Vietnam
@@ -205,9 +232,21 @@ Makao
 Kamboçya
 Laos
 Çin
+??? Inmarsat SNAC
+??? Universal Personal Telecommunications (UPT)
 Bangladeş
+??? Global Mobile Satellite System (GMSS)
+??? ICO Global (Mobile Satellite Service)
+??? Ellipso (Mobile Satellite service)
+??? Iridium (Mobile Satellite service)
+??? Globalstar (Mobile Satellite Service)
+??? EMSAT (Mobile Satellite service)
+??? Thuraya (Mobile Satellite service)
+??? International Networks
 Tayvan
+??? Telecommunications for Disaster Relief by OCHA
 Türkiye
+??? Northern Cyprus
 Hindistan
 Pakistan
 Afganistan
@@ -230,10 +269,12 @@ Katar
 Bhutan
 Moğolistan
 Nepal
+??? International Premium Rate Service
 İran
 Tacikistan
 Türkmenistan
 Azerbaycan
 Gürcistan
+??? South Ossetia
 Kırgızistan
 Özbekistan

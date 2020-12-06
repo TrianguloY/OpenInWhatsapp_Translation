@@ -6,7 +6,7 @@ Anguilla
 Antigua and Barbuda
 Barbuda
 British Virgin Islands
-U.S. Virgin Islands
+US Virgin Islands
 Bermuda
 Grenada
 Turks and Caicos Islands
@@ -15,11 +15,11 @@ Guam
 American Samoa
 Dominica
 Puerto Rico
-Midway Island
-Wake Island
+Midway Island, USA
+Wake Island, USA
 Dominican Republic
 Trinidad and Tobago
-Nevis
+Saint Kitts and Nevis
 Jamaica
 Montserrat
 Egypt
@@ -50,7 +50,7 @@ Cape Verde
 Equatorial Guinea
 Gabon
 Congo
-Congo, Dem. Rep. of (Zaire)
+Democratic Republic of the Congo (Zaire)
 Angola
 Guinea-Bissau
 British Indian Ocean Territory
@@ -71,13 +71,13 @@ Mozambique
 Zambia
 Madagascar
 Mayotte
-Reunion
+Réunion
 Zimbabwe
 Namibia
 Malawi
 Lesotho
 Botswana
-Swaziland
+eSwatini (Swaziland)
 Comoros
 South Africa
 Eritrea
@@ -115,7 +115,7 @@ Montenegro
 Croatia
 Slovenia
 Bosnia and Herzegovina
-Macedonia
+North Macedonia
 Italy
 Romania
 Switzerland
@@ -159,12 +159,12 @@ French Antilles
 Martinique
 Suriname
 Uruguay
-Curacao
+Curaçao
 Netherlands Antilles
 Malaysia
 Australia
 Christmas Island
-Cocos-Keeling Islands
+Cocos (Keeling) Islands
 Indonesia
 Philippines
 New Zealand
@@ -174,7 +174,7 @@ East Timor
 Timor Leste
 Australian External Territories
 Norfolk Island
-Brunei
+Brunei Darussalam
 Nauru
 Papua New Guinea
 Tonga
@@ -191,7 +191,7 @@ New Caledonia
 Tuvalu
 French Polynesia
 Tokelau
-Micronesia
+Federated States of Micronesia
 Marshall Islands
 Russia
 Kazakhstan
@@ -200,8 +200,8 @@ Japan
 South Korea
 Vietnam
 North Korea
-Hong Kong SAR China
-Macau SAR China
+Hong Kong
+Macau
 Cambodia
 Laos
 China
@@ -222,7 +222,7 @@ Kuwait
 Saudi Arabia
 Yemen
 Oman
-Palestinian Territory
+State of Palestine
 United Arab Emirates
 Israel
 Bahrain

@@ -15,16 +15,16 @@ Montserrat
 Marianas Setentrionais
 Guam
 Samoa Americana
-??? Sint Maarten (Netherlands)
-??? Saint Lucia
+Sint Maarten (Holanda)
+Santa Lúcia
 Dominica
-??? Saint Vincent and the Grenadines
+São Vicente e as Granadinas
 Porto Rico
 Atol Midway
 Ilha Wake
 República Dominicana
 Trindade e Tobago
-??? Nevis
+Nevis
 Nevis
 Jamaica
 Egito
@@ -52,7 +52,7 @@ Chade
 República Centro-Africana
 Camarões
 Cabo Verde
-??? São Tomé and Príncipe
+São Tomé e Príncipe
 Guiné Equatorial
 Gabão
 Congo
@@ -86,8 +86,8 @@ Botsuana
 Suazilândia
 Comores
 África do Sul
-??? Saint Helena
-??? Tristan da Cunha
+Santa Helena
+Tristão da Cunha
 Eritréia
 Aruba
 Ilhas Faroe
@@ -106,25 +106,25 @@ Albânia
 Malta
 Chipre
 Finlândia
-??? Åland Islands
+Ilhas Åland
 Bulgária
 Hungria
 Lituânia
 Letônia
 Estônia
 Moldávia
-??? Transnistria
+Transnístria
 Armênia
-??? Nagorno-Karabakh
+Nagorno-Karabakh
 Belarus
 Andorra
 Mônaco
 San Marino
-??? Vatican City State (Holy See)
+Estado da Cidade do Vaticano (Santa Sé)
 Ucrânia
 Sérvia
 Montenegro
-??? Kosovo
+Kosovo
 Croácia
 Eslovênia
 Bósnia e Herzegovina
@@ -137,15 +137,15 @@ Eslováquia
 Liechtenstein
 Áustria
 Reino Unido
-??? Guernsey
-??? Jersey
-??? Isle of Man
-??? Northern Ireland
+Guernsey
+Jersey
+Ilha de Man
+Irlanda do Norte
 Dinamarca
 Suécia
 Noruega
-??? Jan Mayen
-??? Svalbard
+Jan Mayen
+Svalbard
 Polônia
 Alemanha
 Ilhas Falkland
@@ -157,7 +157,7 @@ Honduras
 Nicarágua
 Costa Rica
 Panamá
-??? Saint Pierre and Miquelon
+São Pedro e Miquelon
 Haiti
 Peru
 México
@@ -169,8 +169,8 @@ Ilha da Páscoa
 Colômbia
 Venezuela
 Guadalupe
-??? Saint Barthélemy
-??? Saint Martin (France)
+Santo: Bartolomeu
+Saint Martin (França)
 Bolívia
 Guiana
 Equador
@@ -180,10 +180,10 @@ Antilhas Francesas
 Martinica
 Suriname
 Uruguai
-??? Sint Eustatius
-??? Caribbean Netherlands
-??? Saba
-??? Bonaire
+Sint Eustatius
+Caribe Países Baixos
+Saba
+Bonaire
 Curaçao
 Malásia
 Austrália
@@ -191,14 +191,14 @@ Ilhas Cocos-Keeling
 Ilha do Natal
 Indonésia
 Filipinas
-??? Chatham Island
+Ilha de Chatham
 Nova Zelândia
-??? Pitcairn Islands
+Ilhas Pitcairn
 Cingapura
 Tailândia
 Timor Leste
 Territórios Externos da Austrália
-??? Australian Antarctic Territory
+Território Antártico Australiano
 Ilha Norfolk
 Brunei
 Nauru
@@ -221,8 +221,8 @@ Micronésia
 Ilhas Marshall
 Rússia
 Cazaquistão
-??? International Freephone Service (UIFN)
-??? International Shared Cost Service (ISCS)
+Serviço Internacional de Atendimento Telefônico Gratuito (UIFN)
+Serviço de Custos Compartilhados Internacionais (ISCS)
 Japão
 Coreia do Sul
 Vietnã
@@ -232,21 +232,21 @@ Macau SAR China
 Camboja
 Laos
 China
-??? Inmarsat SNAC
-??? Universal Personal Telecommunications (UPT)
+Inmarsat SNAC
+Telecomunicações Pessoais Universais (UPT)
 Bangladesh
-??? Global Mobile Satellite System (GMSS)
-??? ICO Global (Mobile Satellite Service)
-??? Ellipso (Mobile Satellite service)
-??? Iridium (Mobile Satellite service)
-??? Globalstar (Mobile Satellite Service)
-??? EMSAT (Mobile Satellite service)
-??? Thuraya (Mobile Satellite service)
-??? International Networks
+Sistema Global Mobile Satellite (GMSS)
+ICO Global (Serviço Móvel via Satélite)
+Ellipso (serviço móvel via satélite)
+Iridium (serviço móvel via satélite)
+Globalstar (Serviço de Satélite Móvel)
+EMSAT (Serviço de Satélite Móvel)
+Thuraya (Serviço móvel via satélite)
+Redes Internacionais
 Taiwan
-??? Telecommunications for Disaster Relief by OCHA
+Telecomunicações para o Alívio de Catástrofes pela OCHA
 Peru
-??? Northern Cyprus
+Norte de Chipre
 Índia
 Paquistão
 Afeganistão
@@ -269,12 +269,12 @@ Catar
 Butão
 Mongólia
 Nepal
-??? International Premium Rate Service
+Serviço Internacional de Tarifas Premium
 Irã
 Tajiquistão
 Turcomenistão
 Azerbaijão
 Geórgia
-??? South Ossetia
+Ossétia do Sul
 Quirguistão
 Uzbequistão

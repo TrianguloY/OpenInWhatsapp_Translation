@@ -15,16 +15,16 @@
 איי מריאנה הצפוניים
 גואם
 סמואה האמריקנית
-??? Sint Maarten (Netherlands)
-??? Saint Lucia
+סנט מארטן (הולנד)
+סנט לוסיה
 דומיניקה
-??? Saint Vincent and the Grenadines
+וינסנט הקדוש ו ה - גרנידיים
 פוארטו ריקו
 אטול מידוויי
 האי ווייק
 הרפובליקה הדומיניקנית
 טרינידד וטובגו
-??? Nevis
+נוויס
 נוויס
 ג'מייקה
 מצרים
@@ -52,7 +52,7 @@
 הרפובליקה המרכז - אפריקאית
 קמרון
 כף ורדה
-??? São Tomé and Príncipe
+סאו טומה ופרינסיפה
 גיניאה המשוונית
 גאבון
 קונגו
@@ -86,8 +86,8 @@
 אסוואטיני (סווזילנד)
 איי קומורו
 דרום אפריקה
-??? Saint Helena
-??? Tristan da Cunha
+סנט הלנה
+טריסטן דה קונה
 אריתריאה
 ארובה
 איי פארו
@@ -106,25 +106,25 @@
 מלטה
 קפריסין
 פינלנד
-??? Åland Islands
+איי אלנד
 בולגריה
 הונגריה
 ליטא
 לטביה
 אסטוניה
 מולדובה
-??? Transnistria
+טרנסניסטריה
 ארמניה
-??? Nagorno-Karabakh
+נגורנו-קרבאך
 בלארוס
 אנדורה
 מונקו
 סן מרינו
-??? Vatican City State (Holy See)
+מדינת הוותיקן (הכס הקדוש)
 אוקראינה
 סרביה
 מונטנגרו
-??? Kosovo
+קוסובו
 קרואטיה
 סלובניה
 בוסניה והרצגובינה
@@ -137,15 +137,15 @@
 ליכטנשטיין
 אוסטריה
 בריטניה
-??? Guernsey
-??? Jersey
-??? Isle of Man
-??? Northern Ireland
+גרנזי
+ג'רזי
+האי מאן
+אירלנד הצפונית
 דנמרק
 שבדיה
 נורווגיה
-??? Jan Mayen
-??? Svalbard
+יאן מאיין
+סוולבארד
 פולין
 גרמניה
 איי מאלבינס (איי פוקלנד)
@@ -157,7 +157,7 @@
 ניקרגואה
 קוסטה ריקה
 פנמה
-??? Saint Pierre and Miquelon
+סן פייר ומיקלון
 האיטי
 פרו
 מקסיקו
@@ -169,8 +169,8 @@
 קולומביה
 ונצואלה
 גוואדלופ
-??? Saint Barthélemy
-??? Saint Martin (France)
+סנט ברתלמי
+סן מרטין (צרפת)
 בוליביה
 גיאנה
 אקוודור
@@ -180,10 +180,10 @@
 מרטיניק
 סורינאם
 אורוגוואי
-??? Sint Eustatius
-??? Caribbean Netherlands
-??? Saba
-??? Bonaire
+סינט אוסטאטיוס
+הולנד הקריבית
+סבא
+בונייר
 קוראסאו
 מלזיה
 אוסטרליה
@@ -191,14 +191,14 @@
 אי חג המולד
 אינדונזיה
 הפיליפינים
-??? Chatham Island
+האי צ'את'ם
 ניו זילנד
-??? Pitcairn Islands
+איי פיטקארן
 סינגפור
 תאילנד
 מזרח טימור
 שטחים חיצוניים אוסטרלים
-??? Australian Antarctic Territory
+הטריטוריה האנטרקטית האוסטרלית
 האי נורפולק
 ברוניי דארוסלאם
 נאורו
@@ -221,8 +221,8 @@
 איי מרשל
 רוסיה
 קזחסטן
-??? International Freephone Service (UIFN)
-??? International Shared Cost Service (ISCS)
+שירות טלפון חופשי בינלאומי (UIFN)
+שירות עלויות משותפות בינלאומיות (ISCS)
 יפן
 דרום קוריאה
 וייטנאם
@@ -232,21 +232,21 @@
 קמבודיה
 לאוס
 סין
-??? Inmarsat SNAC
-??? Universal Personal Telecommunications (UPT)
+Inmarsat SNAC
+טלקומוניקציה אישית אוניברסלית (UPT)
 בנגלדש
-??? Global Mobile Satellite System (GMSS)
-??? ICO Global (Mobile Satellite Service)
-??? Ellipso (Mobile Satellite service)
-??? Iridium (Mobile Satellite service)
-??? Globalstar (Mobile Satellite Service)
-??? EMSAT (Mobile Satellite service)
-??? Thuraya (Mobile Satellite service)
-??? International Networks
+מערכת לוויין ניידת גלובלית (GMSS)
+ICO גלובל (שירות לוויין נייד)
+אליפסו (שירות לוויין נייד)
+אירידיום (שירות לוויין נייד)
+Globalstar (שירות לוויין נייד)
+EMSAT (שירות לוויין נייד)
+תוראיה (שירות לוויין נייד)
+רשתות בינלאומיות
 טייוואן
-??? Telecommunications for Disaster Relief by OCHA
+טלקומוניקציה להקלה על אסונות מאת OCHA
 טורקיה
-??? Northern Cyprus
+צפון קפריסין
 הודו
 פקיסטן
 אפגניסטן
@@ -269,12 +269,12 @@
 בהוטאן
 מונגוליה
 נפאל
-??? International Premium Rate Service
+שירות תעריף פרמיום בינלאומי
 איראן
 טג'יקיסטן
 טורקמניסטן
 אזרבייג'ן
 גאורגיה
-??? South Ossetia
+דרום אוסטיה
 קירגיזסטן
 אוזבקיסטן

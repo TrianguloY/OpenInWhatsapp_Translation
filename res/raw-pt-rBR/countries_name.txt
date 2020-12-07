@@ -1,10 +1,8 @@
-Canadá
-Estados Unidos
+Canadá;Estados Unidos
 Bahamas
 Barbados
 Anguilla
-Antígua e Barbuda
-Barbuda
+Antígua e Barbuda;Barbuda
 Ilhas Virgens Britânicas
 Ilhas Virgens Americanas
 Ilhas Cayman
@@ -20,12 +18,10 @@ Santa Lúcia
 Dominica
 São Vicente e as Granadinas
 Porto Rico
-Atol Midway
-Ilha Wake
+Atol Midway;Ilha Wake
 República Dominicana
 Trindade e Tobago
-Nevis
-Nevis
+Nevis;Nevis
 Jamaica
 Egito
 Sudão do Sul
@@ -59,8 +55,7 @@ Congo
 Congo, Rep. Dem. do (Zaire)
 Angola
 Guiné-Bissau
-British Indian Ocean Territory
-Diego Garcia
+British Indian Ocean Territory;Diego Garcia
 Ascensão
 Seychelles
 Sudão
@@ -144,12 +139,10 @@ Irlanda do Norte
 Dinamarca
 Suécia
 Noruega
-Jan Mayen
-Svalbard
+Jan Mayen;Svalbard
 Polônia
 Alemanha
-Ilhas Falkland
-Geórgia do Sul e Ilhas Sandwich do Sul
+Ilhas Falkland;Geórgia do Sul e Ilhas Sandwich do Sul
 Belize
 Guatemala
 El Salvador
@@ -164,20 +157,16 @@ México
 Cuba
 Argentina
 Brasil
-Chile
-Ilha da Páscoa
+Chile;Ilha da Páscoa
 Colômbia
 Venezuela
-Guadalupe
-Santo: Bartolomeu
-Saint Martin (França)
+Guadalupe;Santo: Bartolomeu;Saint Martin (França)
 Bolívia
 Guiana
 Equador
 Guiana Francesa
 Paraguai
-Antilhas Francesas
-Martinica
+Antilhas Francesas;Martinica
 Suriname
 Uruguai
 Sint Eustatius
@@ -191,9 +180,7 @@ Ilhas Cocos-Keeling
 Ilha do Natal
 Indonésia
 Filipinas
-Ilha de Chatham
-Nova Zelândia
-Ilhas Pitcairn
+Ilha de Chatham;Nova Zelândia;Ilhas Pitcairn
 Cingapura
 Tailândia
 Timor Leste

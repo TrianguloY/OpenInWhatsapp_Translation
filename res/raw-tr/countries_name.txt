@@ -1,10 +1,8 @@
-Amerika Birleşik Devletleri
-Kanada
+Amerika Birleşik Devletleri;Kanada
 Bahamalar
 Barbados
 Anguilla
-Antigua ve Barbuda
-Barbuda
+Antigua ve Barbuda;Barbuda
 Britanya Virjin Adaları
 ABD Virjin Adaları
 Cayman Adaları
@@ -20,12 +18,10 @@ Saint Lucia
 Dominika
 Saint Vincent ve Grenadinler
 Porto Riko
-Midway Adası
-Wake Adası
+Midway Adası;Wake Adası
 Dominik Cumhuriyeti
 Trinidad ve Tobago
-Nevis
-Nevis
+Nevis;Nevis
 Jamaika
 Mısır
 Güney Sudan
@@ -59,8 +55,7 @@ Kongo
 Demokratik Kongo Cumhuriyeti (Zaire)
 Angola
 Gine-Bissau
-Britanya Hint Okyanusu Toprakları
-Diego Garcia
+Britanya Hint Okyanusu Toprakları;Diego Garcia
 Ascension
 Seyşeller
 Sudan
@@ -144,12 +139,10 @@ Kuzey Irlanda
 Danimarka
 İsveç
 Norveç
-Jan Mayen
-Svalbard
+Jan Mayen;Svalbard
 Polonya
 Almanya
-Falkland Islands
-Güney Georgia ve Güney Sandwich Adaları
+Falkland Islands;Güney Georgia ve Güney Sandwich Adaları
 Belize
 Guatemala
 El Salvador
@@ -164,20 +157,16 @@ Meksika
 Küba
 Arjantin
 Brezilya
-Paskalya Adası
-Şili
+Paskalya Adası;Şili
 Kolombiya
 Venezuela
-Guadeloupe
-Saint Barthélemy
-Saint Martin (Fransa)
+Guadeloupe;Saint Barthélemy;Saint Martin (Fransa)
 Bolivya
 Guyana
 Ekvador
 Fransız Guyaası
 Paraguay
-Fransız Antilleri
-Martinique
+Fransız Antilleri;Martinique
 Surinam
 Uruguay
 Sint Eustatius
@@ -191,9 +180,7 @@ Cocos Adaları
 Christmas Adası
 Endonezya
 Filipinler
-Chatham Adası
-Yeni Zelanda
-Pitcairn Adaları
+Chatham Adası;Yeni Zelanda;Pitcairn Adaları
 Singapur
 Tayland
 Doğu Timor

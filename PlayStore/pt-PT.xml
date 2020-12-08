@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -12,9 +11,10 @@ Matheus Damacs
 
  -->
 <parameters>
-<title max_chars="50">Conversa em um clique</title>
-<description_short max_chars="80">Abra o bate-papo do WhatsApp a partir de qualquer número (você e esse número).</description_short>
-<description_long max_chars="4000">Disclaimer: This app is not affiliated with WhatsApp Inc.
+    <title max_chars="50">Conversa em um clique</title>
+    <description_short max_chars="80">Abra o bate-papo do WhatsApp a partir de qualquer número (você e esse número).</description_short>
+    <description_long max_chars="4000">
+Disclaimer: This app is not affiliated with WhatsApp Inc.
 Previous name: "Abrir no WhatsApp (conversa em um clique)", changed to comply with WhatsApp guidelines.
 ------------------------------------------------------------------------------------------
 
@@ -46,24 +46,20 @@ Quando um número é aberto ele é salvo em uma "Lista Recentes", no caso de voc
 Atalho oculto: longo toque no botão Recentes para apagar a lista.
 
 
-    ------------------------------------------
+------------------------------------------
 
 
-    Este é um aplicativo de ferramenta: simples e leve. Não há recursos extras, sem tamanho extra,
-    sem permissões, sem anúncios. Apenas o recurso "Abrir no WhatsApp" (a cada atualização eu
-    adiciono um pouco de recurso relacionado, mas eu quero mantê-lo tão simples e leve quanto
-    possível).
+Este é um aplicativo de ferramenta: simples e leve. Não há recursos extras, sem tamanho extra, sem permissões, sem anúncios. Apenas o recurso "Abrir no WhatsApp" (a cada atualização eu adiciono um pouco de recurso relacionado, mas eu quero mantê-lo tão simples e leve quanto possível).
 
 
-    Tradução:
-    Agradeço a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard
-    Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann
-    (Dwi Legowo), Steven Felix e mezysinc por fornecer-me a tradução.
+Tradução:
+Agradeço a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix e mezysinc por fornecer-me a tradução.
 
-    Permissões usadas:
-    - Nenhuma permissão. (Não são necessárias)
+Permissões usadas:
+- Nenhuma permissão. (Não são necessárias)
 
 
-    Tamanho do aplicativo:
-    ~100 KB (0,1MB)</description_long>
+Tamanho do aplicativo:
+~100 KB (0,1MB)
+</description_long>
 </parameters>

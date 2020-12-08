@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -12,9 +11,10 @@ Aditya
 
  -->
 <parameters>
-<title max_chars="50">ಚಾಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</title>
-<description_short max_chars="80">ಯಾವುದೇ ಸಂಖ್ಯೆಯೊಂದಿಗಿನ ಚಾಟ್ ತೆರೆಯಲು</description_short>
-<description_long max_chars="4000">Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
+    <title max_chars="50">ಚಾಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</title>
+    <description_short max_chars="80">ಯಾವುದೇ ಸಂಖ್ಯೆಯೊಂದಿಗಿನ ಚಾಟ್ ತೆರೆಯಲು</description_short>
+    <description_long max_chars="4000">
+Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
 Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsApp guidelines.
 
 ---------
@@ -25,7 +25,7 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 -----
 
 ಈ ಅಪ್ಲಿಕೇಶನ್ ವಾಟಸಪ್ ಅನ್ನು 'ಚಾಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ' ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುತ್ತದೆ
-(https://faq.whatsapp.com/kn/android/26000030/) 
+(https://faq.whatsapp.com/kn/android/26000030/)
 ಯಾವುದೇ ಸಂಖ್ಯೆಯೊಂದಿಗಿನ ಚಾಟ್ ತೆರೆಯಲು (ನೀವು ಮತ್ತು ಆ ಸಂಖ್ಯೆಯ ನಡುವೆ ಚಾಟ್).
 ಸಾಧನದಲ್ಲಿ ಯಾವುದೇ ಸಂಪರ್ಕವನ್ನು ರಚಿಸಲಾಗಿಲ್ಲ, ಅದನ್ನು ನಿಮ್ಮ ಸಂಪರ್ಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಉಳಿಸಬೇಕಾದ ಅಗತ್ಯವಿಲ್ಲ.
 ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ, ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ, ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಚಾಟ್ ತೆರೆಯುತ್ತದೆ
@@ -37,8 +37,8 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 - ನಿವು ನಿಮಜೊತೆಯಲಿ ಚಟ್ ಮಫ಼ಕೆ
 
 ಪೂರ್ವಪ್ರತ್ಯಯ
-ನಿವು ಫೊನೆ ನುಮ್ಬೆರದ ಪೂರ್ವಪ್ರತ್ಯಯ ಕೊದಬೆಕು, ಇದು ನಿಮ್ಮ ದೇಶದಿಂದಲೂ ಸಹ (ಅಪ್ಲಿಕೇಶನ್ ಪುನಃ ತೆರೆಯುವಾಗ ಇರಿಸಲಾಗುವುದು). 
-ನೀವು ಅದನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ನಮೂದಿಸಬಹುದು ಅಥವಾ '+' ಟ್ಯಾಪ್ ಮಾಡಿ ಲಿಸ್ತ್ ಇನ್ದಾ 
+ನಿವು ಫೊನೆ ನುಮ್ಬೆರದ ಪೂರ್ವಪ್ರತ್ಯಯ ಕೊದಬೆಕು, ಇದು ನಿಮ್ಮ ದೇಶದಿಂದಲೂ ಸಹ (ಅಪ್ಲಿಕೇಶನ್ ಪುನಃ ತೆರೆಯುವಾಗ ಇರಿಸಲಾಗುವುದು).
+ನೀವು ಅದನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ನಮೂದಿಸಬಹುದು ಅಥವಾ '+' ಟ್ಯಾಪ್ ಮಾಡಿ ಲಿಸ್ತ್ ಇನ್ದಾ
 ಮರೆಮಾಡಿದ ಶಾರ್ಟ್ಕಟ್: ಪೂರ್ವಪ್ರತ್ಯಯದ ಮೂಲಕ ಪಟ್ಟಿಯನ್ನು ವಿಂಗಡಿಸಲು + ಬಟನ್ ಅನ್ನು ದೀರ್ಘವಾಗಿ ಟ್ಯಾಪ್ ಮಾಡಿ.
 
 ಲಿಂಕ್ಗಳನ್ನು ರಚಿಸಿ:
@@ -58,23 +58,21 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 ಒಂದು ಸಂಖ್ಯೆಯನ್ನು ತೆರೆದಾಗ ಅದನ್ನು ಮರುಕಳಿಸುವ ಪಟ್ಟಿಯಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತದೆ,
 ನೀವು ಮತ್ತೆ ಸಂಖ್ಯೆಯನ್ನು ತೆರೆಯಲು ಬಯಸಿದರೆ ಮತ್ತು ನೀವು ಸಂಖ್ಯೆಯನ್ನು ನೆನಪಿರುವುದಿಲ್ಲ.
 ನೀವು ಸಕ್ರಿಯವಾಗಿ ಸಂಖ್ಯೆಯನ್ನು ತೆರೆದರೆ, ನಿಮ್ಮ ಲಾಂಚರ್ನಲ್ಲಿ ನೇರವಾಗಿ ವಾಟಸಪ್ ನಿಂದ ಶಾರ್ಟ್ಕಟ್ ಅನ್ನು ರಚಿಸಬಹುದು
-    (ಚಾಟ್ನಿಂದ: ಮೆನು, ಹೆಚ್ಚು, ಶಾರ್ಟ್ಕಟ್ ರಚಿಸಿ).
-    ಮರೆಮಾಡಿದ ಶಾರ್ಟ್ಕಟ್: ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಲು ಮರುಕಳಿಸುವ ಗುಂಡಿಯನ್ನು ದೀರ್ಘಕಾಲ ಟ್ಯಾಪ್ ಮಾಡಿ.
+(ಚಾಟ್ನಿಂದ: ಮೆನು, ಹೆಚ್ಚು, ಶಾರ್ಟ್ಕಟ್ ರಚಿಸಿ).
+ಮರೆಮಾಡಿದ ಶಾರ್ಟ್ಕಟ್: ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಲು ಮರುಕಳಿಸುವ ಗುಂಡಿಯನ್ನು ದೀರ್ಘಕಾಲ ಟ್ಯಾಪ್ ಮಾಡಿ.
 
-    -----
+-----
 
-    ಇದು ಒಂದು ಟೂಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ: ಸರಳ ಮತ್ತು ಹಗುರವಾದ.
-    ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳು, ಹೆಚ್ಚುವರಿ ಗಾತ್ರವಿಲ್ಲ, ಅನುಮತಿ ಇಲ್ಲ, ಜಾಹೀರಾತುಗಳಿಲ್ಲ ...
-    ಕೇವಲ ತೆರೆದ ಇನ್ ವಾಟಸಪ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು
-    ಪ್ರತಿ ಅಪ್ಡೇಟ್ನೊಂದಿಗೆ ನಾನು ಸ್ವಲ್ಪ ಸಂಬಂಧಿತ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ, ಆದರೆ ಸಾಧ್ಯವಾದಷ್ಟು ಸರಳ
-    ಮತ್ತು ಹಗುರವಾದದ್ದನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು ನಾನು ಬಯಸುತ್ತೇನೆ).
-    ಅನುವಾದ:
-    ಇವರಿಗೆ ಧನ್ಯವಾದಗಳು Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard
-    Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann
-    (Dwi Legowo), Steven Felix & mezysinc ಸ್ಥಳೀಯ ಅನುವಾದಗಳಿಗಾಗಿ!
+ಇದು ಒಂದು ಟೂಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ: ಸರಳ ಮತ್ತು ಹಗುರವಾದ.
+ಯಾವುದೇ ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳು, ಹೆಚ್ಚುವರಿ ಗಾತ್ರವಿಲ್ಲ, ಅನುಮತಿ ಇಲ್ಲ, ಜಾಹೀರಾತುಗಳಿಲ್ಲ ...
+ಕೇವಲ ತೆರೆದ ಇನ್ ವಾಟಸಪ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು
+ಪ್ರತಿ ಅಪ್ಡೇಟ್ನೊಂದಿಗೆ ನಾನು ಸ್ವಲ್ಪ ಸಂಬಂಧಿತ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ, ಆದರೆ ಸಾಧ್ಯವಾದಷ್ಟು ಸರಳ ಮತ್ತು ಹಗುರವಾದದ್ದನ್ನು ಇರಿಸಿಕೊಳ್ಳಲು ನಾನು ಬಯಸುತ್ತೇನೆ).
+ಅನುವಾದ:
+ಇವರಿಗೆ ಧನ್ಯವಾದಗಳು Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix & mezysinc ಸ್ಥಳೀಯ ಅನುವಾದಗಳಿಗಾಗಿ!
 
-    ಅನುಮತಿಗಳನ್ನು ಬಳಸಲಾಗಿದೆ:
-    -ಏನೂ- (ಅವರು ಅಗತ್ಯವಿಲ್ಲ)
-    ಎಪೆಕೆ ಗಾತ್ರ:
-    ~೧೦೦ ಕೆಬಿ (೦,೧ಮಬಿ)</description_long>
+ಅನುಮತಿಗಳನ್ನು ಬಳಸಲಾಗಿದೆ:
+-ಏನೂ- (ಅವರು ಅಗತ್ಯವಿಲ್ಲ)
+ಎಪೆಕೆ  ಗಾತ್ರ:
+~೧೦೦ ಕೆಬಿ (೦,೧ಮಬಿ)
+    </description_long>
 </parameters>

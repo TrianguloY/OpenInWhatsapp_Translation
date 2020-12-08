@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -13,13 +12,14 @@ If you added/modified the following file add your name here to give credit:
  -->
 <parameters>
 
-<!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
-<title max_chars="50">Click to chat [small, no ads]</title>
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="50">Click to chat [small, no ads]</title>
 
-<description_short max_chars="80">Open a WhatsApp chat from any number (you and that number).</description_short>
+    <description_short max_chars="80">Open a WhatsApp chat from any number (you and that number).</description_short>
 
-<!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
-<description_long max_chars="4000">Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
 Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsApp guidelines.
 ------------------
 
@@ -47,29 +47,30 @@ If you specify a message but not a number WhatsApp will ask who to send it to (a
 You can save the link as a quick shortcut, share it so people can contact you (the number is visible on the link, be careful), set a predefined message on a site to 'share it on WhatsApp', etc. Remember, you don't need this app to open the link, it is handled by WhatsApp.
 Hidden shortcut: long tap the 'share' button to quickly copy the link to the clipboard.
 
-    Recents list:
-    When a number is opened it is saved on a recents list, in case you want to open a number again
-    and you don't remember the number. You can also pin numbers and name them, or even create
-    shortcuts.
+Recents list:
+When a number is opened it is saved on a recents list, in case you want to open a number again
+and you don't remember the number. You can also pin numbers and name them, or even create
+shortcuts.
 
-    ---------------------------
+---------------------------
 
-    This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous
-    permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related
-    feature, but I want to keep it as simple and lightweight as possible).
+This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous
+permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related
+feature, but I want to keep it as simple and lightweight as possible).
 
-    Translation:
-    Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson
-    (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi
-    Legowo), Steven Felix and mezysinc for the translations!
+Translation:
+Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson
+(Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi
+Legowo), Steven Felix and mezysinc for the translations!
 
-    Permissions used:
-    SHORTCUT: To create shortcuts in the launcher.
-    -Nothing else- (they aren't necessary)
+Permissions used:
+SHORTCUT: To create shortcuts in the launcher.
+-Nothing else- (they aren't necessary)
 
-    Apk size:
-    ~100 KB (0,1MB)</description_long>
+Apk size:
+~100 KB (0,1MB)
+    </description_long>
 
-<!-- Not needed if you don't translate the changelog -->
-<changelog_footer>Do you like the update? Suggestions? You can say so in the comments or in the blog! https://triangularapps.blogspot.com/</changelog_footer>
+    <!-- Not needed if you don't translate the changelog -->
+    <changelog_footer>Do you like the update? Suggestions? You can say so in the comments or in the blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

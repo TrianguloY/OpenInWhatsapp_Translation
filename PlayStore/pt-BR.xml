@@ -8,6 +8,8 @@ Instructions for manual translation:
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
 
 If you added/modified the following file add your name here to give credit:
+Richard Anderson (Hirai RCD)
+mezysinc
 
 
  -->
@@ -53,26 +55,34 @@ Você pode salvar o link como um atalho, enviar para outras pessoas para que te 
 Atalho oculto: dê um longo clique no botão 'Compartilhar' para copiar rapidamente o link para o Clipboard.
 
 
-Lista de Recentes:
-Quando um número é aberto, ele é salvo na Lista de Recentes, no caso que você deseje o abrir novamente e não conseguir lembrar o número. Você também pode afixar os números e nomeá-los, ou mesmo criar atalhos. Se você abre uma conversa com um número frequentemente, você pode criar um atalho no WhatsApp diretamente para ele (dentro do chat: Menu, Mais, Adicionar atalho).
-Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
+    Lista de Recentes:
+    Quando um número é aberto, ele é salvo na Lista de Recentes, no caso que você deseje o abrir
+    novamente e não conseguir lembrar o número. Você também pode afixar os números e nomeá-los, ou
+    mesmo criar atalhos. Se você abre uma conversa com um número frequentemente, você pode criar um
+    atalho no WhatsApp diretamente para ele (dentro do chat: Menu, Mais, Adicionar atalho).
+    Atalho oculto: dê um longo clique no botão de recentes para limpar a lista.
 
----------------------------
+    ---------------------------
 
-Este App é um utilitário: simples e leve. Sem funcionalidades adicionais, sem tamanho adicional, sem permissões perigosas, sem anúncios...apenas o recurso Abrir-no-WhatsApp (com o passar do tempo, tentarei adicionar pequenas novas funcionalidades relacionadas ao recurso, mas planejo manter o App o mais simples e leve possível).
-
-
-Traduções:
-Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) e Steven Felix pelas traduções!
-
-
-Permissões usadas:
-ATALHO: Para criar os atalhos no lançador.
--Nenhuma mais- (não são necessárias)
+    Este App é um utilitário: simples e leve. Sem funcionalidades adicionais, sem tamanho adicional,
+    sem permissões perigosas, sem anúncios...apenas o recurso Abrir-no-WhatsApp (com o passar do
+    tempo, tentarei adicionar pequenas novas funcionalidades relacionadas ao recurso, mas planejo
+    manter o App o mais simples e leve possível).
 
 
-Tamanho do aplicativo:
-~100 KB (0,1MB)</description_long>
+    Traduções:
+    Obrigado à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard
+    Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann
+    (Dwi Legowo), Steven Felix e mezysinc pelas traduções!
+
+
+    Permissões usadas:
+    ATALHO: Para criar os atalhos no lançador.
+    -Nenhuma mais- (não são necessárias)
+
+
+    Tamanho do aplicativo:
+    ~100 KB (0,1MB)</description_long>
 
 <!-- Not needed if you don't translate the changelog -->
 <changelog_footer>Gostou da atualização? Sugestões? Você pode deixar uma avaliação sobre isso nos comentários ou no blog! https://triangularapps.blogspot.com/</changelog_footer>

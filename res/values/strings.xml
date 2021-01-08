@@ -59,6 +59,11 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_alternate">Use alternate url when opening (may show more compatible apps)</string>
     <string name="chk_keepprefix">Restore prefix [%1$s] when the app closes.</string>
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
+    <string-array name="chl_openable">
+        <item>Default: Uses the Android WhatsApp scheme</item>
+        <item>Web: Uses the web scheme, may show browsers too</item>
+        <item>SMS: Uses a sms-related intent, may show other messaging apps too [note: sending text doesn't seem to be supported this way]</item>
+    </string-array>
     <string name="btn_addonLink">Addon</string>
 
     <string name="msg_warnShare">The link you are going to share contains the entered phone number in plain text. Everyone with access to the link will have access to the number. If it is a personal number don\'t share the link publicly.</string>

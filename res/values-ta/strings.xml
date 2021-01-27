@@ -94,12 +94,8 @@ MageshBabu (mage1k99)
     <string name="cntDesc_togglepin">முள் / பின் நீக்குவது</string>
     <string name="cntDesc_filter">வடிகட்டி</string>
 
-    <string name="util_cancel">ரத்து</string>
-
     <string name="addon_message_loadingCalls">அறியப்படாத அழைப்புகள் பட்டியலை ஏற்றுகிறது…</string>
     <string name="addon_toast_noCalls">அறியப்படாத எண்கள் எதுவும் கிடைக்கவில்லை அல்லது படிக்க முடியவில்லை</string>
-    <string name="addon_message_requestpermisions">இது அறியப்படாத சமீபத்திய அழைப்புகளின் பட்டியலைக் காண்பிக்கும். அழைப்புகளைக் காணவும் தொடர்புகளை அணுகவும் (அறியப்பட்ட எண்களை அகற்ற) அனுமதி தேவை.</string>
-    <string name="addon_btn_grant">அனுமதி வழங்கு</string>
     <string name="addon_txt_loading">ஏற்றுதல் நேரத்தைக் குறைக்க சமீபத்திய அறியப்படாத அழைப்புகளைக் கட்டுப்படுத்தவும் (addon V1.2 + தேவைப்படுகிறது). அனைத்தையும் காட்ட 0 என அமைக்கவும்:</string>
 
     <string name="lbl_shortcut"> %s உடன் அரட்டையைத் திறக்கவும்</string>

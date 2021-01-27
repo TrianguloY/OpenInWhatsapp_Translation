@@ -1,27 +1,28 @@
-Canadá
-Estados Unidos
+Canadá;Estados Unidos
 Bahamas
 Barbados
 Anguila
-Antígua e Barbuda
-Barbuda
+Antígua e Barbuda;Barbuda
 Ilhas Virgens Britânicas
 Ilhas Virgens dos EUA
+Ilhas Cayman
 Bermuda
 Grenada
 Turcos e Caicos Islands
+Montserrat
 Ilhas Marianas do Norte
 Guam
 Samoa Americana
+Sint Maarten (Holanda)
+Santa Lúcia
 Dominica
+São Vicente e as Granadinas
 Porto Rico
-Ilha Midway
-Ilha Wake
+Ilha Midway;Ilha Wake
 República Dominicana
 Trinidad e Tobago
-Nevis
+Nevis;Nevis
 Jamaica
-Montserrat
 Egipo
 Sudão do Sul
 Marrocos
@@ -47,14 +48,14 @@ Chade
 República Centro-Africana
 Camarões
 Cabo Verde
+São Tomé e Príncipe
 Guiné Equatorial
 Gabão
 Congo
 Congo, Dem. Rep. De (Zaire)
 Angola
 Guiné-Bissau
-Território britânico do Oceano Índico
-Diego Garcia
+Território britânico do Oceano Índico;Diego Garcia
 Ascensão
 Seychelles
 Sudão
@@ -70,8 +71,8 @@ Burundi
 Moçambique
 Zâmbia
 Madagáscar
-Mayotte
 Reunion
+Mayotte
 Zimbábue
 Namíbia
 Malawi
@@ -80,6 +81,8 @@ Botswana
 Suazilândia
 Comores
 África do Sul
+Santa Helena
+Tristão da Cunha
 Eritréia
 Aruba
 ilhas Faroe
@@ -89,7 +92,6 @@ Países Baixos
 Bélgica
 Francesa
 Espanha
-Ilhas Cayman
 Gibraltar
 Portugal
 Luxemburgo
@@ -97,21 +99,27 @@ Irlanda
 Islândia
 Albânia
 Malta
+Chipre
 Finlândia
+Ilhas Åland
 Bulgária
 Hungria
 Lituânia
 Letônia
 Estônia
 Moldávia
+Transnístria
 Armênia
+Nagorno-Karabakh
 Bielorrússia
 Andorra
 Mônaco
 São Marinho
+Estado da Cidade do Vaticano (Santa Sé)
 Ucrânia
 Sérvia
 Montenegro
+Kosovo
 Croácia
 Eslovênia
 Bósnia e Herzegovina
@@ -124,13 +132,17 @@ Eslováquia
 Liechtenstein
 Áustria
 Reino Unido
+Guernsey
+Jersey
+Ilha de Man
+Irlanda do Norte
 Dinamarca
 Suécia
 Noruega
+Jan Mayen;Svalbard
 Polônia
 Alemanha
-Ilhas Falkland
-Geórgia do Sul e Ilhas Sandwich do Sul
+Ilhas Falkland;Geórgia do Sul e Ilhas Sandwich do Sul
 Belize
 Guatemala
 El Salvador
@@ -138,41 +150,42 @@ Honduras
 Nicarágua
 Costa Rica
 Panamá
+São Pedro e Miquelon
 Haiti
 Peru
 México
 Cuba
-Chipre
 Argentina
 Brasil
-Chile
-ilha da Páscoa
+Chile;ilha da Páscoa
 Colômbia
 Venezuela
-Guadalupe
+Guadalupe;São Bartolomeu;São Martinho (França)
 Bolívia
+Guiana
 Equador
 Guiana Francesa
-Guiana
 Paraguai
-Antilhas francesas
-Martinica
+Antilhas francesas;Martinica
 Suriname
 Uruguai
+Sint Eustatius
+Holanda das Caraíbas
+Saba
+Bonaire
 Curaçao
-Antilhas holandesas
 Malásia
 Austrália
-Ilha do Natal
 Ilhas Cocos-Keeling
+Ilha do Natal
 Indonésia
 Filipinas
-Nova Zelândia
+Ilha de Chatham;Nova Zelândia;Ilhas Pitcairn
 Cingapura
 Tailândia
 Timor Leste
-Timor Leste
 Territórios externos australianos
+Território Antárctico Australiano
 Ilha de Norfolk
 Brunei
 Nauru
@@ -195,7 +208,8 @@ Micronésia
 Ilhas Marshall
 Rússia
 Casaquistão
-Abkhazia
+Serviço Internacional de Atendimento Telefónico Gratuito (UIFN)
+Serviço de Custos Partilhados Internacional (ISCS)
 Japão
 Coreia do Sul
 Vietnã
@@ -205,9 +219,21 @@ RAE de Macau China
 Camboja
 Laos
 China
+Inmarsat SNAC
+Telecomunicações Pessoais Universais (UPT)
 Bangla
+Sistema Global Mobile Satellite (GMSS)
+ICO Global (Serviço de Satélite Móvel)
+Ellipso (Serviço de Satélite Móvel)
+Iridium (serviço móvel via satélite)
+Globalstar (Serviço de Satélite Móvel)
+EMSAT (Serviço de Satélite Móvel)
+Thuraya (Serviço móvel via satélite)
+Redes Internacionais
 Taiwan
+Telecomunicações para Alívio de Catástrofes pela OCHA
 Turquia
+Norte de Chipre
 Índia
 Paquistão
 Afeganistão
@@ -230,10 +256,12 @@ Catar
 Butão
 Mongólia
 Nepal
+Serviço Internacional de Tarifas Premium
 Irã
 Tajiquistão
 Turquemenistão
 Azerbaijão
 Geórgia
+Ossétia do Sul
 Quirguistão
 Uzbequistão

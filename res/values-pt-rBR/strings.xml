@@ -10,67 +10,118 @@ Instructions for manual translation:
 
 If you added/modified the following file add your name here to give credit:
 Richard Anderson (Hirai RCD)
+mezysinc
 
  -->
 <resources>
+    
     <string name="translated">.</string>
 
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="txt_about">Aplicativo criado por [[tri|TrianguloY]]. Esse aplicativo não é afiliado com a WhatsApp Inc.</string>
+    <string name="txt_about">Aplicativo criado por [[tri|TrianguloY]]. Esse aplicativo não é afiliado com o WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Acknowledgements:
-Obrigado à %n por me fornecer a tradução em %l!"</string>
+    <string name="txt_acknowledgements">"Agradecimentos:
+Obrigado à %n por disponibilizar a tradução em %l!"</string>
+    <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais informações aqui:</string>
 
-    <string name="txt_changelanguage">Você pode alterar o idioma do app clicando nos botões abaixo (o app será reiniciado).</string>
+    <string name="txt_changelanguage">Você pode alterar o idioma do App clicando no botão abaixo (o App será reiniciado).</string>
+    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu dispositivo]] são instalados, para reduzir o tamanho do aplicativo.</string>
 
-    <string name="txt_description">"Esse app usa o recurso Conversa em um Clique do WhatsApp para abrir uma conversa entre você e qualquer número existente. Nenhum contato é criado no dispositivo. 
-Mais informações [[prf|aqui]].
+    <string name="txt_description">"Este aplicativo usa o Api público do WhatsApp para abrir uma Conversa com qualquer número que você digitar. Nenhum contato é criado no dispositivo.
+Mais informações [[wfq|aqui]].
 
-Insira o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no \'+\' para escolher prefixos a partir de uma lista.
+Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no botão \'+\' para escolher prefixos a partir de uma lista.
+
 Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
-    <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_telef%C3%B3nicos#C%C3%B3digos_de_pa%C3%ADses</string>
-    <string name="txt_extra_description">"
-Use isso para criar um link que irá abrir o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que irá ser PREENCHIDA no campo de texto (EU NÃO IREI, REPITO, EU NÃO IREI MANDAR A MENSAGEM)."</string>
-    <string name="txt_support" />
+    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
+    <string name="txt_extra_description">"Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (NÃO será, repito, NÃO será enviada a mensagem)."
+</string>
+
+    <string name="txt_support">Sendo um aplicativo gratuito sem anúncios nem compras \'In-App\', o desenvolvimento e as atualizações são baseados na aceitação e suporte das pessoas como você.</string>
+    <string name="btn_link_support">Suporte</string>
+
+    <string name="txt_addonDescr">Com esta extensão você pode permitir que este App mostre uma lista de chamadas recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
-    <string name="hint_message">Mensagem que será inserida, MAS NÃO ENVIADA.</string>
+    <string name="hint_message">Mensagem que será inserida, mas NÃO enviada.</string>
     <string name="hint_prefAndNumber"><![CDATA[Prefixo e Número]]></string>
+    <string name="hint_itemName">Nome</string>
 
     <string name="btn_openInWhatsapp">Abrir</string>
     <string name="btn_shareLink">Compartilhar</string>
-    <string name="chk_mergeInputs">Mesclar prefixo e número</string>
+    <string name="btn_shortcut">Atalho</string>
+    <string name="chk_mergeInputs">Unir o prefixo e o número</string>
+    <string name="chk_enableRecents">Salvar os números/mensagens recentes. (ao desativar esta opção, os salvos serão excluídos)</string>
+    <string name="chk_hideInfo">Ocultar o texto de ajuda da tela principal</string>
+    <string name="chk_keepprefix">Restaurar o prefixo [%1$s] após o fechamento do App.</string>
+    <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recente ou clipboard).</string>
+    <string name="btn_addonLink">Extensão</string>
 
-    <string name="btn_link_playstore_open">Play Store (abrir)</string>
-    <string name="btn_link_playstore_share">Play Store (compartilhar)</string>
-    <string name="btn_link_apppage">Página do App</string>
+    <string name="msg_warnShare">O link que você vai compartilhar contém o número de telefone em texto puro. Todos com acesso ao link terão acesso ao número. Se for um número pessoal, não compartilhe o link publicamente.</string>
+    <string name="btn_noWarn">Não alertar novamente</string>
+
+    <string name="btn_link_playstore_open">Loja Google Play (abrir)</string>
+    <string name="btn_link_playstore_share">Loja Google Play (compartilhar)</string>
+    <string name="btn_link_apppage">Site do App</string>
+    <string name="btn_link_faq">Perguntas mais freqüentes\n(FAQ) [Somente em inglês]</string>
+    <string name="btn_link_helptranslations">Traduzir</string>
 
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
-    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Ele está instalado?]]</string>
+    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
 
-    <string name="toast_autoParser">"Analisando automaticamente.
-Verifique o prefixo!"</string>
-    <string name="toast_copied">Copiado para a área de transferência</string>
+    <string name="toast_autoParser">"Analisador automático. Verifique o prefixo!"</string>
+    <string name="toast_copied">Copiado para o Clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
 
     <string name="title_sendTo">Enviar link para:</string>
     <string name="title_chooseCountry">Prefixos por país:</string>
-    <string name="title_chooseApp">Escolher app:</string>
-    <string name="title_clearRecents">Limpar recentes:</string>
+    <string name="title_chooseApp">Escolher o App:</string>
+    <string name="title_clearRecents">Limpar os recentes:</string>
+    <string name="title_pinned">Afixados:</string>
+    <string name="title_recents">Recentes:</string>
+    <string name="title_agenda">Agenda:</string>
 
-    <string name="message_clearRecents">Desejar limpar todos os recentes?</string>
+    <string name="message_clearRecents">Você quer excluir todos os recentes?</string>
 
     <string name="header_code">Prefixo %1$s</string>
     <string name="header_country">País %1$s</string>
 
     <string name="cntDesc_appInfo">Informações do App</string>
-    <string name="cntDesc_prefixSelector">Selecionar prefixo</string>
-    <string name="cntDesc_pasteClipboard">Colar da área de transferência</string>
-    <string name="cntDesc_agenda">Números recentes</string>
+    <string name="cntDesc_prefixSelector">Selecione o prefixo</string>
+    <string name="cntDesc_pasteClipboard">Colar do Clipboard</string>
+    <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
+    <string name="cntDesc_calls">Chamadas desconhecidas</string>
     <string name="cntDesc_toggleAdv">Abrir Opções Avançadas</string>
     <string name="cntDesc_appLogo">Logo do Aplicativo</string>
+    <string name="cntDesc_addons">Abrir site da Extensão</string>
+    <string name="cntDesc_settings">Configurações</string>
+    <string name="cntDesc_delete">Excluir</string>
+    <string name="cntDesc_togglepin">Afixar/Desafixar</string>
+    <string name="cntDesc_filter">Filtrar</string>
+
+    <string name="util_close">Encerrar</string>
+    <string name="util_none">Nenhum</string>
+
+    <string name="addon_message_loadingCalls">Carregando lista de chamadas desconhecidas…</string>
+    <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
+    <string name="addon_txt_loading">Limitar as chamadas recentes desconhecidas para reduzir o tempo de carregamento (requer a extensão v1.2+). Definir 0 para mostrar todos:</string>
+
+    <string name="lbl_shortcut">Abrir uma conversa com %s</string>
+
+    <string name="error_instantApp">Os aplicativos instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (como WhatsApp e WhatsApp Business) tente instalar o [[oiw|app completo]] (nota: nem todas as versões são suportadas).</string>
+    <string name="title_instantApp">App instantâneo</string>
+    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num aplicativo instantâneo. Se você quiser usá-lo, instale o App da Loja Google Play.</string>
+
+    <string-array name="chl_notify">
+        <item>Nunca notifique</item>
+        <item>Notifique apenas sobre recursos importantes</item>
+        <item>Notifique apenas sobre novos recursos</item>
+        <item>Notifique sempre</item>
+    </string-array>
+    <string name="cl_title">Modificações:</string>
+    <string name="cl_more">Mostrar mais</string>
 
 </resources>

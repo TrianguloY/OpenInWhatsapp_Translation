@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -13,14 +12,15 @@ Yusuf Emen
 
  -->
 <parameters>
-<title max_chars="50">Tıkla Sohbet Et</title>
-<description_short max_chars="80">Herhangi bir numarayla bir WhatsApp sohbeti başlatın.</description_short>
-<description_long max_chars="4000">Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
+    <title max_chars="50">Tıkla Sohbet Et</title>
+    <description_short max_chars="80">Herhangi bir numarayla bir WhatsApp sohbeti başlatın.</description_short>
+    <description_long max_chars="4000">
+Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
 Previous name: "WhatsApp'ta Aç (tıkla Sohbet Et)", changed to comply with WhatsApp guidelines.
 ------------------------------------------------------------------------------------------
 
 Bu uygulama, girdiğiniz herhangi bir numara ile sohbet başlatmak için (Siz ve girdiğiniz numara arasında, diğer sohbetleri görmek mümkün DEĞİLDİR.) WhatsApp'ın herkese açık 'tıkla sohbet et' (Daha fazla bilgi için: https://faq.whatsapp.com/tr/android/26000030/) özelliğini kullanır.
-Rehberinizde kişi oluşturulmaz. Sohbet başlatmak için numarayı rehbere kaydetmekle uğraşmazsınız. Yalnızca uygulamayı açın, numarayı girin, butona basın ve sohbet açılsın. (Numara mevcutsa, aksi takdirde WhatsApp bunu belirtecektir.) 
+Rehberinizde kişi oluşturulmaz. Sohbet başlatmak için numarayı rehbere kaydetmekle uğraşmazsınız. Yalnızca uygulamayı açın, numarayı girin, butona basın ve sohbet açılsın. (Numara mevcutsa, aksi takdirde WhatsApp bunu belirtecektir.)
 
 Özellikle şu gibi durumlarda işe yarar:
 - Bilinmeyen bir numara sizi aradı ve siz de bu numaranın WhatsApp'ı olup olmadığını mı merak ediyorsunuz?
@@ -34,12 +34,12 @@ Numara kendi ülkenizden olsa bile ülke kodunu belirtmelisiniz. Ülke kodunu ke
 Gizli bir kısayol: Ülke adları yerine ülke kodlarına göre sıralanmış listeyi görmek için + butonuna uzun basın.
 
 
-Bağlantı oluşturmak: 
-Tıkladığınız zaman, belirttiğiniz numarayı WhatsApp'ta açacak bir html bağlantısı oluşturabilirsiniz. Bu, WhatsApp'ın kendi özelliğidir. Bu sebeple bağlantıyı açmak için bu uygulamaya ihtiyaç duymazsınız. Uygulama, bağlantıyı oluşturmanızı sağlar. 
-Ayrıca mesaj kutucuğunda görünecek bir mesaj da ekleyebilirsiniz. Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir. Göndermek için gönderme butonuna tıklamanız gerekecektir. 
-Bir mesaj belirler ama numara belirtmezseniz WhatsApp mesajı nereye göndermek istediğinizi soracaktır. (Yeniden belirtmek gerekirse; mesaj gönderilMEyecektir, sadece mesaj kutucuğu doldurulacaktır.) 
-Bağlantıyı bir hızlı kısayol olarak kaydedebilir, insanların sizle iletişim kurabilmesi için paylaşabilirsiniz. (Numara, bağlantıda görünecektir, dikkatli olun.) Bir sitede 'WhatsApp'ta paylaş.' özelliğini kullanmak için bir mesaj tanımlayabilirsiniz vb. Unutmayın, bağlantıyı açmak için bu uygulamaya ihtiyaç duymayacaksınız, bağlantı otomatik olarak WhatsApp tarafından açılacaktır. 
-Gizli bir kısayol: Bağlantıyı hızlıca panoya kopyalamak için 'Paylaş' butonuna uzun basın. 
+Bağlantı oluşturmak:
+Tıkladığınız zaman, belirttiğiniz numarayı WhatsApp'ta açacak bir html bağlantısı oluşturabilirsiniz. Bu, WhatsApp'ın kendi özelliğidir. Bu sebeple bağlantıyı açmak için bu uygulamaya ihtiyaç duymazsınız. Uygulama, bağlantıyı oluşturmanızı sağlar.
+Ayrıca mesaj kutucuğunda görünecek bir mesaj da ekleyebilirsiniz. Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir. Göndermek için gönderme butonuna tıklamanız gerekecektir.
+Bir mesaj belirler ama numara belirtmezseniz WhatsApp mesajı nereye göndermek istediğinizi soracaktır. (Yeniden belirtmek gerekirse; mesaj gönderilMEyecektir, sadece mesaj kutucuğu doldurulacaktır.)
+Bağlantıyı bir hızlı kısayol olarak kaydedebilir, insanların sizle iletişim kurabilmesi için paylaşabilirsiniz. (Numara, bağlantıda görünecektir, dikkatli olun.) Bir sitede 'WhatsApp'ta paylaş.' özelliğini kullanmak için bir mesaj tanımlayabilirsiniz vb. Unutmayın, bağlantıyı açmak için bu uygulamaya ihtiyaç duymayacaksınız, bağlantı otomatik olarak WhatsApp tarafından açılacaktır.
+Gizli bir kısayol: Bağlantıyı hızlıca panoya kopyalamak için 'Paylaş' butonuna uzun basın.
 
 
 Son kullanılanlar listesi:
@@ -54,7 +54,7 @@ Bu bir araç uygulamasıdır: Basit ve yer kaplamaz. Fazladan özellikler yok, f
 
 
 Çeviri:
-Timofey Lisunov'a, Matheus Damacs'a, Matheus Damacs'a, Yusuf Emen'a, Benjamin Yılmaz Çetiner'a, Richard Anderson (Hirai RCD)'a, Aditya'a, Armand Secco'a, Yoni Cohen jonbir3'a, MageshBabu K (mage1k99)'a, artmann'a (Dwi Legowo), Steven Felix'a teşekkürler!
+Timofey Lisunov'a, Matheus Damacs'a, Matheus Damacs'a, Yusuf Emen'a, Benjamin Yılmaz Çetiner'a, Richard Anderson (Hirai RCD)'a, Aditya'a, Armand Secco'a, Yoni Cohen jonbir3'a, MageshBabu K (mage1k99)'a, artmann'a (Dwi Legowo), Steven Felix'a, mezysinc'a teşekkürler!
 
 
 Kullanılan izinler:
@@ -62,5 +62,6 @@ Kullanılan izinler:
 
 
 APK boyutu:
-~100 KB (0,1MB)</description_long>
+~100 KB (0,1MB)
+    </description_long>
 </parameters>

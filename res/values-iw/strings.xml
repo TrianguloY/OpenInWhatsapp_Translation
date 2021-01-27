@@ -94,12 +94,8 @@ Yoni Cohen jonbir3
     <string name="cntDesc_togglepin">נעץ/בטל נעיצה</string>
     <string name="cntDesc_filter">סנן</string>
 
-    <string name="util_cancel">בטל</string>
-
     <string name="addon_message_loadingCalls">טוען רשימת שיחות לא מזוהות…</string>
     <string name="addon_toast_noCalls">לא נמצאו מספרים לא מזוהים או שלא ניתן לטעון אותם</string>
-    <string name="addon_message_requestpermisions">התוסף יציג רשימת שיחות לא מזוהות אחרונות. נדרשות הרשאות להצגת שיחות אחרונות ולגשת לאנשי קשר (כדי להסיר את השיחות הידועות).</string>
-    <string name="addon_btn_grant">תן הרשאה</string>
 
     <string name="lbl_shortcut">פתח צ\'אט עם %s</string>
 

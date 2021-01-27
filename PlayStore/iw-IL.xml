@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -12,9 +11,10 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <parameters dir="rtl">
-<title max_chars="50">הקלקה לצ'אט</title>
-<description_short max_chars="80">שוחח בוואטסאפ עם כל מספר אפילו אם אינו באנשי הקשר שלך.</description_short>
-<description_long max_chars="4000">הסתייגות: האפליקצייה לא קשורה או מאושרת ע"י חברת WhatsApp.
+    <title max_chars="50">הקלקה לצ'אט</title>
+    <description_short max_chars="80">שוחח בוואטסאפ עם כל מספר אפילו אם אינו באנשי הקשר שלך.</description_short>
+    <description_long max_chars="4000">
+הסתייגות: האפליקצייה לא קשורה או מאושרת ע"י חברת WhatsApp.
 שם קודם: "Open in WhatsApp (click to chat)", השם שונה כדי לעמוד בהנחיות של חברת וואטסאפ.
 ---------
 
@@ -47,16 +47,17 @@ If you added/modified the following file add your name here to give credit:
 כאשר תפתח מספר דרך האפליקצייה הוא ישמר ברשימת השימושים האחרונים, למקרה שתרצה לפתוח בעתיד שוב את המספר ולא תזכור אותו. אם אתה פותח את המספר באופן תדיר תזכור שתוכל ליצור קיצור דרך במסך הראשי ישירות מתוך וואטסאפ (כאשר אתה נמצא בתוך הצ'אט: תפריט, עוד, הוסף קיצור דרך).
 טיפ: לחיצה ארוכה על כפתור רשימת השימושים האחרונים תמחק את הרשימה.
 
-------------------
+------------
 
 האפליקצייה הינה כלי עזר: פשוטה וקלת משקל. ללא פיצ'רים מיותרים, ללא משקל מנופח, ללא הרשאות, ללא מודעות... אך ורק הפיצ'ר של פתיחה-עם-וואטסאפ (בכל עדכון אני אוסיף פיצ'רים קשורים, אבל אני אשמור על האפליקצייה פשוטה וקלה ככל האפשר).
 
 תרגום:
-תודה ל- Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) and Steven Felix על התרגומים!
+תודה ל- Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) Steven Felix & mezysinc על התרגומים!
 
 הרשאות משתמש:
 - כלום - (הן לא נצרכות)
 
 גודל קובץ APK:
-~100 KB (0.1MB)</description_long>
+~100 KB (0.1MB)
+    </description_long>
 </parameters>

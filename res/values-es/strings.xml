@@ -60,11 +60,8 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="btn_addonLink">Complemento</string>
     <string name="cntDesc_calls">Llamadas desconocidas</string>
     <string name="cntDesc_addons">Abrir la página del complemento</string>
-    <string name="util_cancel">Cancelar</string>
     <string name="addon_message_loadingCalls">Cargando lista de llamadas desconocidas…</string>
     <string name="addon_toast_noCalls">No hay números desconocidos o no han podido ser leidos</string>
-    <string name="addon_message_requestpermisions">Esto mostrará un listado de llamadas recientes desconocidas. Permisos para ver las llamadas recientes y los contactos (para quitar números conocidos) son necesarios.</string>
-    <string name="addon_btn_grant">Dar acceso</string>
     <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
     <string name="cntDesc_settings">Ajustes</string>
     <string name="chk_hideInfo">Oculta el texto de ayuda de la pantalla principal</string>
@@ -93,7 +90,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="message_instantApp">La característica \'%s\' no está soportada en una aplicación instantánea. Si quieres utilizarla debes instalar la aplicación desde el Play Store.</string>
     <string name="title_instantApp">Aplicación instantánea</string>
     <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>
-    <string name="chk_alternate">Usar url alternativa al abrir (podría mostrar más aplicaciones compatibles)</string>
     <string name="util_none">Nada</string>
     <string name="chk_keepprefix">Restaurar prefijo [%1$s] cuando la aplicación se cierra.</string>
     <string name="chk_autoopen">Abrir automáticamente cuando un número es autorellenado (compartir, marcar, recientes o portapapeles).</string>
@@ -108,4 +104,12 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="msg_warnShare">El enlace que vas a compartir contiene el número introducido en texto plano. Cualquiera con acceso al enlace tendrá acceso al número. Si es un número personal no compartas el enlace de forma pública.</string>
     <string name="btn_noWarn">No avisar de nuevo</string>
     <string name="util_close">Cerrar</string>
+    <string name="txt_mode">Modo de apertura:</string>
+    <string name="txt_jidWarning">Este modo utiliza una característica no documentada de WhatsApp y puede dejar de funcionar o hacerlo incorrectamente. A no ser que se haya arreglado, parece que no comprueba la validez de los números y abrirá un chat incluso con los no existentes. Notar que este modo no se recomienda debido a consecuencias desconocidas.\n\n¿Continuar bajo tu propio riesgo?</string>
+    <string-array name="chl_openable">
+        <item>Por defecto: Utiliza el modo por defecto de WhatsApp</item>
+        <item>Web: Utiliza el modo web, puede que también muestre navegadores</item>
+        <item>SMS: Utiliza un modo relacionado con sms, puede que también muestre otras aplicaciones de mensajería [nota: enviar texto no parece estar siempre soportado]</item>
+        <item>[PELIGRO] JID: Utiliza un modo interno de WhatsApp. El uso de este modo no se recomienda ya que la validex de los números parece que no se comprueba</item>
+    </string-array>
 </resources>

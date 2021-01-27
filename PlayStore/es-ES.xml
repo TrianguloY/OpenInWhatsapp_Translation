@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
@@ -12,13 +11,14 @@ TrianguloY
 
  -->
 <parameters>
-<title max_chars="50">Click para chatear</title>
-<description_short max_chars="80">Abre un chat en WhatsApp de cualquier número (tu y ese número).</description_short>
-<description_long max_chars="4000">Disclaimer: Esta aplicación no está asociada con WhatsApp Inc.
+    <title max_chars="50">Click para chatear</title>
+    <description_short max_chars="80">Abre un chat en WhatsApp de cualquier número (tu y ese número).</description_short>
+    <description_long max_chars="4000">
+Disclaimer: Esta aplicación no está asociada con WhatsApp Inc.
 Nombre anterior: "Abrir en Whatsapp (click para chatear)", cambiado para cumplir con las pautas de WhatsApp.
 ------------------------------------------------------------------------------------------
 
-Esta aplicación utiliza la característica 'click para chatear' pública de WhatsApp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones). 
+Esta aplicación utiliza la característica 'click para chatear' pública de WhatsApp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones).
 Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso WhatsApp lo notificará).
 
 Especialmente útil en situaciones como:
@@ -51,7 +51,7 @@ Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin
 
 
 Traducción:
-¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) y Steven Felix por las traduciones!
+¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix y mezysinc por las traduciones!
 
 
 Permisos usados:
@@ -60,6 +60,7 @@ SHORTCUTS: permite crear atajos en el escritorio.
 
 
 Tamaño del apk:
-~100 KB (0,1MB)</description_long>
-<changelog_footer>¿Te gusta la actualización? ¿Sugerencias? ¡Dilo en los comentarios o en el blog! https://triangularapps.blogspot.com/</changelog_footer>
+~100 KB (0,1MB)
+    </description_long>
+    <changelog_footer>¿Te gusta la actualización? ¿Sugerencias? ¡Dilo en los comentarios o en el blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

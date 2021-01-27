@@ -1,27 +1,28 @@
-Kanada
-Vereinigte Staaten
+Kanada;Vereinigte Staaten
 Bahamas
 Barbados
 Anguilla
-Antigua u.Barbuda
-Barbuda
+Antigua u.Barbuda;Barbuda
 Brit. Jungferninseln
 U.S. Jungferninseln
+Kaimaninseln
 Bermuda
 Grenada
 Turks- und Caicosinseln
+Montserrat
 Nördliche Marianen
 Guam
 Amerikanisch-Samoa
+Sint Maarten (Niederlande)
+St. Lucia
 Dominica
+St. Vincent und die Grenadinen
 Puerto Rico
-Midway Island
-Wake Island
+Midway Island;Wake Island
 Domin. Republik
 Trinidad und Tobago
-Nevis
+Nevis;Nevis
 Jamaika
-Montserrat
 Ägypten
 Südsudan
 Marokko
@@ -47,14 +48,14 @@ Tschad
 Zentralafrik. Republik
 Kamerun
 Kapverdische Inseln
+São Tomé und Príncipe
 Äquatorialguinea
 Gabun
 Kongo
 Kongo. Dem. Rep.(Zaire)
 Angola
 Guinea-Bissau
-Brit. Territ. Ind. Ozean
-Diego Garcia
+Brit. Territ. Ind. Ozean;Diego Garcia
 Aufstieg
 Seychellen
 Sudan
@@ -70,8 +71,8 @@ Burundi
 Mosambik
 Sambia
 Madagaskar
-Mayotte
 Wiedersehen
+Mayotte
 Simbabwe
 Namibia
 Malawi
@@ -80,6 +81,8 @@ Botswana
 Swasiland
 Komoren
 Südafrika
+Heilige Helena
+Tristan da Cunha
 Eritrea
 Aruba
 Färöer
@@ -89,7 +92,6 @@ Niederlande
 Belgien
 Frankreich
 Spanien
-Kaimaninseln
 Gibraltar
 Portugal
 Luxemburg
@@ -97,21 +99,27 @@ Irland
 Island
 Albanien
 Malta
+Zypern
 Finnland
+Åland-Inseln
 Bulgarien
 Ungarn
 Litauen
 Lettland
 Estland
 Moldawien
+Transnistrien
 Armenien
+Berg-Karabach
 Weißrussland
 Andorra
 Monaco
 San Marino
+Staat Vatikanstadt (Heiliger Stuhl)
 Ukraine
 Serbien
 Montenegro
+Kosovo
 Kroatien
 Slowenien
 Bosnien und Herzegowina
@@ -124,13 +132,17 @@ Slowakei
 Liechtenstein
 Österreich
 Vereinigtes Königreich (England)
+Guernsey
+Trikot
+Insel Man
+Nordirland
 Dänemark
 Schweden
 Norwegen
+Jan Mayen;Svalbard
 Polen
 Deutschland
-Falklandinseln
-Südgeorgien/Sandwichins.
+Falklandinseln;Südgeorgien/Sandwichins.
 Belize
 Guatemala
 El Salvador
@@ -138,41 +150,42 @@ Honduras
 Nicaragua
 Costa Rica
 Panama
+St. Pierre und Miquelon
 Haiti
 Peru
 Mexiko
 Kuba
-Zypern
 Argentinien
 Brasilien
-Chile
-Osterinsel
+Chile;Osterinsel
 Kolumbien
 Venezuela
-Guadeloupe
+Guadeloupe;Sankt Barthélemy;Saint Martin (Frankreich)
 Bolivien
+Guyana
 Ecuador
 Franz.-Guayana
-Guyana
 Paraguay
-Franz. Antillen
-Martinique
+Franz. Antillen;Martinique
 Surinam
 Uruguay
+Sint Eustatius
+Karibische Niederlande
+Saba
+Bonaire
 Curacao
-Niederländische Antillen
 Malaysia
 Australien
-Weihnachtsinsel
 Cocos-Keeling Islands
+Weihnachtsinsel
 Indonesien
 Philippinen
-Neuseeland
+Insel Chatham;Neuseeland;Pitcairn-Inseln
 Singapur
 Thailand
 Osttimor
-Timor Leste
 Austr. Außengebiete
+Australisches Antarktis-Territorium
 Norfolkinsel
 Brunei
 Nauru
@@ -195,7 +208,8 @@ Mikronesien
 Marshallinseln
 Russland
 Kasachstan
-Abchasien
+Internationaler gebührenfreier Dienst (UIFN)
+Internationaler Dienst für geteilte Kosten (ISCS)
 Japan
 Südkorea
 Vietnam
@@ -205,9 +219,21 @@ Macau SAR China
 Kambodscha
 Laos
 China
+Inmarsat SNAC
+Universelle persönliche Telekommunikation (UPT)
 Bangladesch
+Globales Mobiles Satellitensystem (GMSS)
+ICO Global (Mobiler Satellitendienst)
+Ellipso (Mobiler Satellitendienst)
+Iridium (mobiler Satellitendienst)
+Globalstar (Mobiler Satellitendienst)
+EMSAT (Mobiler Satellitendienst)
+Thuraya (Mobiler Satellitendienst)
+Internationale Netzwerke
 Taiwan
+Telekommunikation für die Katastrophenhilfe durch OCHA
 Türkei
+Nordzypern
 Indien
 Pakistan
 Afghanistan
@@ -230,10 +256,12 @@ Katar
 Bhutan
 Mongolei
 Nepal
+Internationaler Premium-Rate-Dienst
 Iran
 Tadschikistan
 Turkmenistan
 Aserbaidschan
 Georgien
+Südossetien
 Kirgisistan
 Usbekistan

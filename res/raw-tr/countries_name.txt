@@ -1,27 +1,28 @@
-Amerika Birleşik Devletleri
-Kanada
+Amerika Birleşik Devletleri;Kanada
 Bahamalar
 Barbados
 Anguilla
-Antigua ve Barbuda
-Barbuda
+Antigua ve Barbuda;Barbuda
 Britanya Virjin Adaları
 ABD Virjin Adaları
+Cayman Adaları
 Bermuda
 Grenada
 Turks ve Caicos Adaları
+Montserrat
 Kuzey Mariana Adaları
 Guam
 Amerikan Samoası
+Sint Maarten (Hollanda)
+Saint Lucia
 Dominika
+Saint Vincent ve Grenadinler
 Porto Riko
-Midway Adası
-Wake Adası
+Midway Adası;Wake Adası
 Dominik Cumhuriyeti
 Trinidad ve Tobago
-Nevis
+Nevis;Nevis
 Jamaika
-Montserrat
 Mısır
 Güney Sudan
 Fas
@@ -47,14 +48,14 @@ Nijerya
 Orta Afrika Cumhuriyeti
 Kamerun
 Yeşil Burun Adaları
+São Tomé ve Príncipe
 Ekvator Ginesi
 Gabon
 Kongo
 Demokratik Kongo Cumhuriyeti (Zaire)
 Angola
 Gine-Bissau
-Britanya Hint Okyanusu Toprakları
-Diego Garcia
+Britanya Hint Okyanusu Toprakları;Diego Garcia
 Ascension
 Seyşeller
 Sudan
@@ -70,8 +71,8 @@ Burundi
 Mozambik
 Zambiya
 Madagaskar
-Mayotte
 Réunion
+Mayotte
 Zimbabve
 Namibya
 Malavi
@@ -80,6 +81,8 @@ Botsvana
 Svaziland
 Komorlar
 Güney Afrika
+Saint Helena
+Tristan da Cunha
 Eritre
 Aruba
 Faroe Adaları
@@ -89,7 +92,6 @@ Hollanda
 Belçika
 Fransa
 İspanya
-Cayman Adaları
 Gibraltar
 Portekiz
 Lüksemburg
@@ -97,21 +99,27 @@ Lüksemburg
 İzlanda
 Arnavutluk
 Malta
+Kıbrıs Cumhuriyeti
 Finlandiya
+Aland adaları
 Bulgaristan
 Macaristan
 Litvanya
 Letonya
 Estonya
 Moldova
+Transdinyester
 Ermenistan
+Dağlık Karabağ
 Belarus
 Andorra
 Monako
 San Marino
+Vatikan Şehir Devleti (Vatikan)
 Ukrayna
 Sırbistan
 Karadağ
+Kosova
 Hırvatistan
 Slovenya
 Bosna-Hersek
@@ -124,13 +132,17 @@ Slovakya
 Lihtenştayn
 Avusturya
 Birleşik Krallık
+Guernsey
+Jersey
+Man Adası
+Kuzey Irlanda
 Danimarka
 İsveç
 Norveç
+Jan Mayen;Svalbard
 Polonya
 Almanya
-Falkland Islands
-Güney Georgia ve Güney Sandwich Adaları
+Falkland Islands;Güney Georgia ve Güney Sandwich Adaları
 Belize
 Guatemala
 El Salvador
@@ -138,41 +150,42 @@ Honduras
 Nikaragua
 Kosta Rika
 Panama
+Saint Pierre ve Miquelon
 Haiti
 Peru
 Meksika
 Küba
-Kıbrıs Cumhuriyeti
 Arjantin
 Brezilya
-Paskalya Adası
-Şili
+Paskalya Adası;Şili
 Kolombiya
 Venezuela
-Guadeloupe
+Guadeloupe;Saint Barthélemy;Saint Martin (Fransa)
 Bolivya
+Guyana
 Ekvador
 Fransız Guyaası
-Guyana
 Paraguay
-Fransız Antilleri
-Martinique
+Fransız Antilleri;Martinique
 Surinam
 Uruguay
+Sint Eustatius
+Karayip Hollandası
+Saba
+Bonaire
 Curaçao
-Hollanda Antilleri
 Malezya
 Avustralya
-Christmas Adası
 Cocos Adaları
+Christmas Adası
 Endonezya
 Filipinler
-Yeni Zelanda
+Chatham Adası;Yeni Zelanda;Pitcairn Adaları
 Singapur
 Tayland
 Doğu Timor
-Doğu Timor
 Avustralya Uzak Bölgeleri
+Avustralya Antarktika Bölgesi
 Norfolk Adası
 Brunei
 Nauru
@@ -195,7 +208,8 @@ Mikronezya Federal Devletleri
 Marshall Adaları
 Rusya
 Kazakistan
-Abhazya
+Uluslararası Ücretsiz Telefon Hizmeti (UIFN)
+Uluslararası Paylaşılan Maliyet Hizmeti (ISCS)
 Japonya
 Güney Kore
 Vietnam
@@ -205,9 +219,21 @@ Makao
 Kamboçya
 Laos
 Çin
+Inmarsat SNAC
+Evrensel Kişisel Telekomünikasyon (UPT)
 Bangladeş
+Küresel Mobil Uydu Sistemi (GMSS)
+ICO Global (Mobil Uydu Servisi)
+Ellipso (Mobil Uydu hizmeti)
+Iridium (Mobil Uydu servisi)
+Globalstar (Mobil Uydu Servisi)
+EMSAT (Mobil Uydu servisi)
+Thuraya (Mobil Uydu hizmeti)
+Uluslararası Ağlar
 Tayvan
+OCHA'dan Afet Yardımı için Telekomünikasyon
 Türkiye
+Kuzey Kıbrıs
 Hindistan
 Pakistan
 Afganistan
@@ -230,10 +256,12 @@ Katar
 Bhutan
 Moğolistan
 Nepal
+Uluslararası Premium Fiyat Hizmeti
 İran
 Tacikistan
 Türkmenistan
 Azerbaycan
 Gürcistan
+Güney Osetya
 Kırgızistan
 Özbekistan

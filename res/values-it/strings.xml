@@ -85,12 +85,8 @@ Controlla il prefisso!"</string>
     <string name="cntDesc_addons">Aprire la pagina Addon</string>
     <string name="cntDesc_settings">Impostazioni</string>
 
-    <string name="util_cancel">Annulla</string>
-
     <string name="addon_message_loadingCalls">Elenco delle chiamate sconosciute…</string>
     <string name="addon_toast_noCalls">Nessun numero sconosciuto trovato o leggibile</string>
-    <string name="addon_message_requestpermisions">Visualizza l\'elenco dei numeri sconosciuti recenti. Autorizzazione necessaria per visualizzare le chiamate o accedere ai contatti (per rimuovere i numeri conosciuti).</string>
-    <string name="addon_btn_grant">Concedere l\'accesso</string>
 
 
 </resources>

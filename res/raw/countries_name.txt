@@ -1,27 +1,28 @@
-Canada
-United States
+Canada;United States
 Bahamas
 Barbados
 Anguilla
-Antigua and Barbuda
-Barbuda
+Antigua and Barbuda;Barbuda
 British Virgin Islands
-U.S. Virgin Islands
+US Virgin Islands
+Cayman Islands
 Bermuda
 Grenada
 Turks and Caicos Islands
+Montserrat
 Northern Mariana Islands
 Guam
 American Samoa
+Sint Maarten (Netherlands)
+Saint Lucia
 Dominica
+Saint Vincent and the Grenadines
 Puerto Rico
-Midway Island
-Wake Island
+Midway Island, USA;Wake Island, USA
 Dominican Republic
 Trinidad and Tobago
-Nevis
+Nevis;Saint Kitts and Nevis
 Jamaica
-Montserrat
 Egypt
 South Sudan
 Morocco
@@ -47,14 +48,14 @@ Chad
 Central African Republic
 Cameroon
 Cape Verde
+São Tomé and Príncipe
 Equatorial Guinea
 Gabon
 Congo
-Congo, Dem. Rep. of (Zaire)
+Democratic Republic of the Congo (Zaire)
 Angola
 Guinea-Bissau
-British Indian Ocean Territory
-Diego Garcia
+British Indian Ocean Territory;Diego Garcia
 Ascension
 Seychelles
 Sudan
@@ -70,16 +71,18 @@ Burundi
 Mozambique
 Zambia
 Madagascar
+Réunion
 Mayotte
-Reunion
 Zimbabwe
 Namibia
 Malawi
 Lesotho
 Botswana
-Swaziland
+eSwatini (Swaziland)
 Comoros
 South Africa
+Saint Helena
+Tristan da Cunha
 Eritrea
 Aruba
 Faroe Islands
@@ -89,7 +92,6 @@ Netherlands
 Belgium
 France
 Spain
-Cayman Islands
 Gibraltar
 Portugal
 Luxembourg
@@ -97,25 +99,31 @@ Ireland
 Iceland
 Albania
 Malta
+Cyprus
 Finland
+Åland Islands
 Bulgaria
 Hungary
 Lithuania
 Latvia
 Estonia
 Moldova
+Transnistria
 Armenia
+Nagorno-Karabakh
 Belarus
 Andorra
 Monaco
 San Marino
+Vatican City State (Holy See)
 Ukraine
 Serbia
 Montenegro
+Kosovo
 Croatia
 Slovenia
 Bosnia and Herzegovina
-Macedonia
+North Macedonia
 Italy
 Romania
 Switzerland
@@ -124,13 +132,17 @@ Slovakia
 Liechtenstein
 Austria
 United Kingdom
+Guernsey
+Jersey
+Isle of Man
+Northern Ireland
 Denmark
 Sweden
 Norway
+Jan Mayen;Svalbard
 Poland
 Germany
-Falkland Islands
-South Georgia and the South Sandwich Islands
+Falkland Islands;South Georgia and the South Sandwich Islands
 Belize
 Guatemala
 El Salvador
@@ -138,43 +150,44 @@ Honduras
 Nicaragua
 Costa Rica
 Panama
+Saint Pierre and Miquelon
 Haiti
 Peru
 Mexico
 Cuba
-Cyprus
 Argentina
 Brazil
-Chile
-Easter Island
+Chile;Easter Island
 Colombia
 Venezuela
-Guadeloupe
+Guadeloupe;Saint Barthélemy;Saint Martin (France)
 Bolivia
+Guyana
 Ecuador
 French Guiana
-Guyana
 Paraguay
-French Antilles
-Martinique
+French Antilles;Martinique
 Suriname
 Uruguay
-Curacao
-Netherlands Antilles
+Sint Eustatius
+Caribbean Netherlands
+Saba
+Bonaire
+Curaçao
 Malaysia
 Australia
+Cocos (Keeling) Islands
 Christmas Island
-Cocos-Keeling Islands
 Indonesia
 Philippines
-New Zealand
+Chatham Island;New Zealand;Pitcairn Islands
 Singapore
 Thailand
 East Timor
-Timor Leste
 Australian External Territories
+Australian Antarctic Territory
 Norfolk Island
-Brunei
+Brunei Darussalam
 Nauru
 Papua New Guinea
 Tonga
@@ -191,23 +204,36 @@ New Caledonia
 Tuvalu
 French Polynesia
 Tokelau
-Micronesia
+Federated States of Micronesia
 Marshall Islands
 Russia
 Kazakhstan
-Abkhazia
+International Freephone Service (UIFN)
+International Shared Cost Service (ISCS)
 Japan
 South Korea
 Vietnam
 North Korea
-Hong Kong SAR China
-Macau SAR China
+Hong Kong
+Macau
 Cambodia
 Laos
 China
+Inmarsat SNAC
+Universal Personal Telecommunications (UPT)
 Bangladesh
+Global Mobile Satellite System (GMSS)
+ICO Global (Mobile Satellite Service)
+Ellipso (Mobile Satellite service)
+Iridium (Mobile Satellite service)
+Globalstar (Mobile Satellite Service)
+EMSAT (Mobile Satellite service)
+Thuraya (Mobile Satellite service)
+International Networks
 Taiwan
+Telecommunications for Disaster Relief by OCHA
 Turkey
+Northern Cyprus
 India
 Pakistan
 Afghanistan
@@ -222,7 +248,7 @@ Kuwait
 Saudi Arabia
 Yemen
 Oman
-Palestinian Territory
+State of Palestine
 United Arab Emirates
 Israel
 Bahrain
@@ -230,10 +256,12 @@ Qatar
 Bhutan
 Mongolia
 Nepal
+International Premium Rate Service
 Iran
 Tajikistan
 Turkmenistan
 Azerbaijan
 Georgia
+South Ossetia
 Kyrgyzstan
 Uzbekistan

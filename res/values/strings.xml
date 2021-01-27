@@ -56,7 +56,6 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
-    <string name="chk_alternate">Use alternate url when opening (may show more compatible apps)</string>
     <string name="chk_keepprefix">Restore prefix [%1$s] when the app closes.</string>
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
     <string name="txt_mode">Opening mode:</string>
@@ -113,14 +112,11 @@ Check the prefix!"</string>
     <string name="cntDesc_togglepin">Pin/unpin</string>
     <string name="cntDesc_filter">Filter</string>
 
-    <string name="util_cancel">Cancel</string>
     <string name="util_close">Close</string>
     <string name="util_none">None</string>
 
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
-    <string name="addon_message_requestpermisions">This will show the list of unknowns recent calls. Permission to view the calls and to access contacts (to remove known numbers) are needed.</string>
-    <string name="addon_btn_grant">Grant access</string>
     <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>

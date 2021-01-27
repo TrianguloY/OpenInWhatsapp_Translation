@@ -55,7 +55,6 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes. (ao desativar esta opção, os salvos serão excluídos)</string>
     <string name="chk_hideInfo">Ocultar o texto de ajuda da tela principal</string>
-    <string name="chk_alternate">Ao abrir utilizar url alternativo (pode mostrar Apps mais compatíveis)</string>
     <string name="chk_keepprefix">Restaurar o prefixo [%1$s] após o fechamento do App.</string>
     <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recente ou clipboard).</string>
     <string name="btn_addonLink">Extensão</string>
@@ -103,14 +102,11 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="cntDesc_togglepin">Afixar/Desafixar</string>
     <string name="cntDesc_filter">Filtrar</string>
 
-    <string name="util_cancel">Cancelar</string>
     <string name="util_close">Encerrar</string>
     <string name="util_none">Nenhum</string>
 
     <string name="addon_message_loadingCalls">Carregando lista de chamadas desconhecidas…</string>
     <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
-    <string name="addon_message_requestpermisions">Isto mostrará a lista das chamadas recentes desconhecidas. É necessária a permissão para visualizar as chamadas e acessar os contatos (para excluir os números conhecidos).</string>
-    <string name="addon_btn_grant">Permitir acesso</string>
     <string name="addon_txt_loading">Limitar as chamadas recentes desconhecidas para reduzir o tempo de carregamento (requer a extensão v1.2+). Definir 0 para mostrar todos:</string>
 
     <string name="lbl_shortcut">Abrir uma conversa com %s</string>

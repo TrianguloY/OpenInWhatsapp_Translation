@@ -51,7 +51,6 @@ Timofey Lisunov
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
-    <string name="chk_alternate">Открывать альтернативный URL (больше совместимых приложений)</string>
     <string name="chk_keepprefix">Восстанавливать код страны [%1$s] при выходе из приложения</string>
     <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию «поделиться», вызов, из недавних или буфера обмена)</string>
     <string name="btn_addonLink">Модуль</string>
@@ -100,14 +99,11 @@ Timofey Lisunov
     <string name="cntDesc_togglepin">Закрепить/открепить</string>
     <string name="cntDesc_filter">Фильтр</string>
 
-    <string name="util_cancel">Отмена</string>
     <string name="util_close">Закрыть</string>
     <string name="util_none">Нет</string>
 
     <string name="addon_message_loadingCalls">Загрузка списка неизвестных номеров…</string>
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>
-    <string name="addon_message_requestpermisions">Будет отображаться список вызовов с неизвестных номеров. Требуется разрешение на просмотр журнала вызовов и доступ к контактам (для отсева известных номеров).</string>
-    <string name="addon_btn_grant">Предоставить доступ</string>
     <string name="addon_txt_loading">Ограничение последних неизвестные вызовов для сокращения времени загрузки (требуется модуль v1.2+). Установите \"0\", чтобы показать все:</string>
 
     <string name="lbl_shortcut">Открыть чат с %s</string>

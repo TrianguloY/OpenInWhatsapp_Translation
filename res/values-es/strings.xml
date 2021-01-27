@@ -104,4 +104,12 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="msg_warnShare">El enlace que vas a compartir contiene el número introducido en texto plano. Cualquiera con acceso al enlace tendrá acceso al número. Si es un número personal no compartas el enlace de forma pública.</string>
     <string name="btn_noWarn">No avisar de nuevo</string>
     <string name="util_close">Cerrar</string>
+    <string name="txt_mode">Modo de apertura:</string>
+    <string name="txt_jidWarning">Este modo utiliza una característica no documentada de WhatsApp y puede dejar de funcionar o hacerlo incorrectamente. A no ser que se haya arreglado, parece que no comprueba la validez de los números y abrirá un chat incluso con los no existentes. Notar que este modo no se recomienda debido a consecuencias desconocidas.\n\n¿Continuar bajo tu propio riesgo?</string>
+    <string-array name="chl_openable">
+        <item>Por defecto: Utiliza el modo por defecto de WhatsApp</item>
+        <item>Web: Utiliza el modo web, puede que también muestre navegadores</item>
+        <item>SMS: Utiliza un modo relacionado con sms, puede que también muestre otras aplicaciones de mensajería [nota: enviar texto no parece estar siempre soportado]</item>
+        <item>[PELIGRO] JID: Utiliza un modo interno de WhatsApp. El uso de este modo no se recomienda ya que la validex de los números parece que no se comprueba</item>
+    </string-array>
 </resources>

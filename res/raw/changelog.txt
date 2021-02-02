@@ -1,3 +1,8 @@
+V 3.0
+- New openable mode selector: includes the previous alternate mode, the experimental jid mode and a new sms mode
+- Updated list of country codes
+- Internal tweaks and fixes (including auto-open checkbox not displaying correctly)
+
 V 2.13.1
 - Updated translation to Brazilian Portuguese locale. Many thanks to mezysinc!
 - Tweaked calls addon detection

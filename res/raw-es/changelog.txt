@@ -1,3 +1,8 @@
+V 3.0
+- Nuevo selector de modo de apertura: incluye el antiguo modo alternativo, el modo experimental jid y un nuevo modo sms
+- Actualizada lista de prefijos
+- Cambios y arreglos internos (incluyendo el ajuste de auto-apertura no mostrado correctamente)
+
 V 2.13.1
 - Actualizada la traducción al Portugués de Brasil. Muchas gracias a mezysinc!
 - Ajustada la detección del complemento de llamadas

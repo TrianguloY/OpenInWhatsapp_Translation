@@ -13,10 +13,10 @@ Montserrat
 Marianas Setentrionais
 Guam
 Samoa Americana
-Sint Maarten (Holanda)
+São Martinho (Países Baixos)
 Santa Lúcia
 Dominica
-São Vicente e as Granadinas
+São Vicente e Granadinas
 Porto Rico
 Atol Midway;Ilha Wake
 República Dominicana
@@ -110,7 +110,7 @@ Estônia
 Moldávia
 Transnístria
 Armênia
-Nagorno-Karabakh
+Alto Carabaque
 Belarus
 Andorra
 Mônaco
@@ -119,7 +119,7 @@ Estado da Cidade do Vaticano (Santa Sé)
 Ucrânia
 Sérvia
 Montenegro
-Kosovo
+República do Kosovo
 Croácia
 Eslovênia
 Bósnia e Herzegovina
@@ -132,8 +132,8 @@ Eslováquia
 Liechtenstein
 Áustria
 Reino Unido
-Guernsey
-Jersey
+Bailiado de Guernesey
+Bailiado de Jersey
 Ilha de Man
 Irlanda do Norte
 Dinamarca
@@ -160,7 +160,7 @@ Brasil
 Chile;Ilha da Páscoa
 Colômbia
 Venezuela
-Guadalupe;Santo: Bartolomeu;Saint Martin (França)
+Guadalupe;São Bartolomeu;São Martinho (França)
 Bolívia
 Guiana
 Equador
@@ -169,8 +169,8 @@ Paraguai
 Antilhas Francesas;Martinica
 Suriname
 Uruguai
-Sint Eustatius
-Caribe Países Baixos
+Santo Eustáquio
+Países Baixos Caribenhos
 Saba
 Bonaire
 Curaçao
@@ -180,7 +180,7 @@ Ilhas Cocos-Keeling
 Ilha do Natal
 Indonésia
 Filipinas
-Ilha de Chatham;Nova Zelândia;Ilhas Pitcairn
+Ilhas Chatham;Nova Zelândia;Ilhas Pitcairn
 Cingapura
 Tailândia
 Timor Leste
@@ -233,7 +233,7 @@ Redes Internacionais
 Taiwan
 Telecomunicações para o Alívio de Catástrofes pela OCHA
 Peru
-Norte de Chipre
+Chipre do Norte
 Índia
 Paquistão
 Afeganistão

@@ -1,0 +1,105 @@
+V 3.1
+- Os botões foram movidos para a parte superior das caixas de texto
+- Agora o seletor de prefixos mostra o país correspondente
+- Atualizações de tradução
+
+V 3.0
+- Novo modo de abrir via seletor: inclui o modo alternativo anterior, o modo experimental jid e um novo modo de sms
+- Atualizada lista de códigos de países
+- Ajustes e consertos internos (incluindo caixa de seleção que auto-abre não sendo exibida corretamente)
+
+V 2.13.1
+- Atualizada tradução em português do Brasil. Muito obrigado a mezysinc!
+- Melhorada detecção de chamadas via Extensão
+
+V 2.13
+- Novo diálogo configurável em relatório de mudanças
+- Mostrar mensagem ao compartilhar o número
+
+V 2.12
+- Removidos os links de doação para cumprir com as novas regras do google, substituídos por uma nova versão de doação (somente em inglês)
+- Pequenos ajustes com cores do App
+
+V 2.11.1
+- Atualizadas traduções em indonésio e russo
+- Consertada falha em versão instantâneo do App 
+
+V 2.11
+- Nova opção: Recolocar o prefixo ao fechar
+- Nova opção: Abertura automática quando um número é selecionado
+- Consertar número reusado quando aberto de recentes
+- Ativadas animações
+- Adicionado código de prefixo do Sul do Sudão
+
+V 2.10.2
+- Detectar números no formato 123(456)78.9
+- Adicionado prefixo de Moçambique
+- Consertado o português indisponível na lista de diálogos
+- Adicionados outros links (suporte, ajuda no formato do telefone, perfil)
+
+V 2.10.1
+- Atualizadas traduções em indonésio e russo
+- Corrigida falha rara com cliques duplicados
+
+V 2.10
+- Melhorada inserção de prefixo e número via teclado
+- Configuração para abertura alternativa (em vez de clique longo)
+- Conserto de prefixo ao abrir da intenção de chamada
+- Novas mudanças em indonésio
+
+V 2.9.1
+- Consertado o botão do Clipboard em Android 10
+- Tradução em indonésio atualizada
+- Mudanças internas relacionadas aos links
+
+V 2.9
+- Implementado Pacote Dividido com base no idioma. Agora somente os idiomas encontrados no seu dispositivo serão instalados. Recurso reduz o tamanho do App em 15-20%. IMPORTANTE! Se estivesse faltando alguns idiomas, por favor, entre em contato comigo.
+- Tradução em indonésio atualizada. Obrigado a Steven Felix!
+
+V 2.8.6
+- Adicionada a tradução em indonésio. Obrigado a artmann (Dwi Legowo)!
+
+V 2.8.5
+- Adicionada a tradução em tâmil. Obrigado a MageshBabu (mage1k99)!
+- Consertado o tamanho dos elementos em Agenda, em lista de códigos de países e o tamanho dos botões.
+
+V 2.8.4
+- Corrigida a criação incorreta dos links
+- Agora você pode experimentar o App sem instalar, diretamente na Loja do Google Play (apesar de ser extremamente pequeno é melhor instalar o App no aparelho, porque o aplicativo instantâneo não suporta algumas funcionalidades)
+
+V 2.8.3
+- Opção para limitar a lista de chamadas desconhecidas. Requer a versão da Extensão 1.2+
+- Corrigido um bug da lista de mensagens recentes não sendo mostrada
+- Mudança interna relacionada à publicação
+
+V 2.8.2
+- Adicionada tradução em hebraico. Muito obrigado a Yoni Cohen jonbir3!
+
+V 2.8.1
+- Atualização da tradução em russo
+- Corrigida uma falha rara ao abrir a Agenda
+
+V 2.8
+- Nova lista da Agenda. Possibilidade de identificar itens com nome.
+- Opção de criar atalhos.
+- Ícone adaptativo para Android 8.0+
+
+V 2.7.1
+- Solução temporária para o bug do WhatsApp beta (se solicitado, escolha este App para abrir os links em WhatsApp)
+
+V 2.7
+- Novo diálogo em seletor de prefixos (com filtro e classificação!)
+- Atualização da tradução em russo
+- Melhorada na detecção do Clipboard
+
+V 2.6.2
+- Consertado tema incorreto em android 4.X
+
+V 2.6.1
+- Atualização das traduções em francês e italiano
+
+V 2.6
+- Adicionada opção para ocultar as informações da tela principal
+- Conteúdo do 'Sobre' foi incluído em Configurações e Informações
+- Adicionado link para a página de traduções
+- Adicionada a opção de compartilhar o App

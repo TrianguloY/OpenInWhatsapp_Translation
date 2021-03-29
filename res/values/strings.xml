@@ -15,7 +15,7 @@ If you added/modified the following file add your name here to give credit:
 <resources>
     <!-- When translated, remove this line
     <string name="translated">.</string>
-    When translated, remove this line  -->
+    When translated, remove this line -->
 
     <string name="app_name">Click to chat</string>
 
@@ -118,6 +118,7 @@ Check the prefix!"</string>
     <string name="addon_message_loadingCalls">Loading unknown calls list…</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
     <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
+    <string name="addon_txt_warning">The addon was detected, but its signature doesn\'t match [Error %d]. Please make sure you have installed it from the official page (and this app from the Play Store)</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
 

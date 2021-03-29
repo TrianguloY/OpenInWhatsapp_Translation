@@ -113,6 +113,7 @@ Timofey Lisunov
     <string name="addon_message_loadingCalls">Загрузка списка неизвестных номеров…</string>
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>
     <string name="addon_txt_loading">Ограничение последних неизвестные вызовов для сокращения времени загрузки (требуется модуль v1.2+). Установите \"0\", чтобы показать все:</string>
+    <string name="addon_txt_warning">Модуль найден, но подпись не совпадает [ошибка %d]. Убедитесь, что он установлен с официальной страницы (и это приложение из Play Store)</string>
 
     <string name="lbl_shortcut">Открыть чат с %s</string>
 

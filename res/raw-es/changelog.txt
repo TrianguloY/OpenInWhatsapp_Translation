@@ -1,3 +1,6 @@
+V 3.1.1
+- Arreglado error al iniciar
+
 V 3.1
 - Se han movido los botones encima de los cuadros de texto
 - El selector de prefijos muestra ahora el país que coincide

@@ -1,3 +1,6 @@
+V 3.1.1
+- Fixed crash on startup
+
 V 3.1
 - Os botões foram movidos para a parte superior das caixas de texto
 - Agora o seletor de prefixos mostra o país correspondente

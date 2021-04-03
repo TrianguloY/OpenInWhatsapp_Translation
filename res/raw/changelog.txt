@@ -1,3 +1,6 @@
+V 3.1.1
+- Fixed crash on startup
+
 V 3.1
 - Moved buttons to the top of the input textboxes
 - The prefix selector now shows the matching country

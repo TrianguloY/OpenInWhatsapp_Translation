@@ -19,29 +19,29 @@ mezysinc
 
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="txt_about">Aplicativo criado por [[tri|TrianguloY]]. Esse App não é afiliado ao WhatsApp Inc.</string>
+    <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse App não é afiliado ao WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Agradecimentos:
 Obrigado à %n por disponibilizar a tradução em %l!"</string>
     <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais informações aqui:</string>
 
     <string name="txt_changelanguage">Você pode alterar o idioma do App clicando no botão abaixo (o App será reiniciado).</string>
-    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu dispositivo]] são instalados, para reduzir o tamanho do aplicativo.</string>
+    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu dispositivo]] estão instalados, para reduzir o tamanho do aplicativo.</string>
 
-    <string name="txt_description">"Este App usa o API público do WhatsApp para abrir uma Conversa com qualquer número que você digitar. Nenhum contato é criado no dispositivo.
+    <string name="txt_description">"Este App usa o API público do WhatsApp para abrir um Chat com qualquer número que você digitar. Nenhum contato é criado no dispositivo!
 Mais informações [[wfq|aqui]].
 
-Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no botão \'+\' para escolher prefixos de uma lista.
+Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no botão \'+\' para escolher prefixo da lista.
 
-Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
-    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
-    <string name="txt_extra_description">"Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (NÃO será, repito, NÃO será enviada a mensagem)."
+Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 998123765; juntos: 55 75 998123765"</string>
+    <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
+    <string name="txt_extra_description">"Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas NÃO será, repito, NÃO será enviada)."
 </string>
 
-    <string name="txt_support">Sendo um App gratuito sem anúncios nem compras \'In-App\', o desenvolvimento e as atualizações dependem da aceitação e suporte das pessoas como você.</string>
+    <string name="txt_support">Sendo um App gratuito, sem anúncios, nem compras \'In-App\', o desenvolvimento e as atualizações dependem da aceitação e suporte das pessoas como você.</string>
     <string name="btn_link_support">Suporte</string>
 
-    <string name="txt_addonDescr">Com esta extensão você pode permitir que o App mostre uma lista de chamadas desconhecidas recentes para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
+    <string name="txt_addonDescr">Com esta extensão você consegue visualizar uma lista de chamadas recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
@@ -53,33 +53,33 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="btn_shareLink">Compartilhar</string>
     <string name="btn_shortcut">Atalho</string>
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
-    <string name="chk_enableRecents">Salvar os números/mensagens recentes. (ao desativar esta opção, os salvos serão excluídos)</string>
+    <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar esta opção, os salvos serão excluídos)</string>
     <string name="chk_hideInfo">Ocultar o texto de ajuda da tela principal</string>
-    <string name="chk_keepprefix">Restaurar o prefixo [%1$s] após o fechamento do App.</string>
+    <string name="chk_keepprefix">Restaurar o prefixo [%1$s] ao sair do App.</string>
     <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recentes ou clipboard).</string>
     <string name="txt_mode">Modo de abrir:</string>
     <string-array name="chl_openable">
-        <item>Padrão: Utiliza recurso do Android WhatsApp</item>
-        <item>Web: Utiliza recurso web, pode tb exibir navegadores</item>
-        <item>SMS: Utiliza recurso do SMS, pode tb exibir outros apps de mensagens [aviso: o envio de texto nem sempre suportado]</item>
-        <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, já que os números não parecem ser conferidos se realmente existem</item>
+        <item>Padrão: Usa recurso padrão do WhatsApp</item>
+        <item>Web: Usa recurso web, pode exibir navegadores</item>
+        <item>SMS: Usa recurso do SMS, pode exibir outros apps de mensagens [aviso: o envio de texto nem sempre suportado]</item>
+        <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, porque a validade de número não está sendo verificada</item>
     </string-array>
-    <string name="txt_jidWarning">Este recurso usa uma ação do Whatsapp não documentada e pode parar de funcionar ou funcionar de forma incorreta. A menos que isto já foi consertado, parece não verificar a validade dos números, de modo que um chat será aberto embora o número não existir. Note que o uso deste modo é desencorajado por causa de resultados desconhecidos.\n\nApesar disto você quer continuar?</string>
+    <string name="txt_jidWarning">Este recurso usa um protocolo não documentado do Whatsapp e pode parar ou não funcionar de forma correta. A menos que isto já foi consertado, parece não verificar a validade dos números, de modo que um chat será aberto embora o número pode não existir. Note que o uso deste modo não é recomendado por causa dos resultados desconhecidos.\n\nVocê quer continuar mesmo assim?</string>
     <string name="btn_addonLink">Extensão</string>
 
-    <string name="msg_warnShare">O link que você vai compartilhar contém o número de telefone em texto puro. Todos com acesso ao link terão acesso ao número. Se for um número pessoal, não compartilhe o link publicamente.</string>
+    <string name="msg_warnShare">O link que você vai compartilhar contém o número de telefone em texto puro. Pessoas com acesso ao link poderão ver o número. Se for um número pessoal, não compartilhe este link publicamente.</string>
     <string name="btn_noWarn">Não avisar novamente</string>
 
-    <string name="btn_link_playstore_open">Loja Google Play (abrir)</string>
-    <string name="btn_link_playstore_share">Loja Google Play (compartilhar)</string>
+    <string name="btn_link_playstore_open">Loja do Google Play (abrir)</string>
+    <string name="btn_link_playstore_share">Loja do Google Play (compartilhar)</string>
     <string name="btn_link_apppage">Site do App</string>
-    <string name="btn_link_faq">Perguntas mais freqüentes\n(FAQ) [Somente em inglês]</string>
+    <string name="btn_link_faq">Perguntas mais frequentes\n(FAQ) [Somente em inglês]</string>
     <string name="btn_link_helptranslations">Traduzir</string>
 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
 
-    <string name="toast_autoParser">"Processo automático. Verifique o prefixo!"</string>
+    <string name="toast_autoParser">"Processo automático. Verifica o prefixo!"</string>
     <string name="toast_copied">Copiado ao Clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
 
@@ -97,7 +97,7 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="header_country">País %1$s</string>
 
     <string name="cntDesc_appInfo">Informações do App</string>
-    <string name="cntDesc_prefixSelector">Selecione o prefixo</string>
+    <string name="cntDesc_prefixSelector">Seletor do prefixo</string>
     <string name="cntDesc_pasteClipboard">Colar do Clipboard</string>
     <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
@@ -116,20 +116,21 @@ Exemplo: para +55 (Brasil) 9 9876 1234 digite 55 998761234"</string>
     <string name="addon_message_loadingCalls">Carregando lista de chamadas desconhecidas…</string>
     <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
     <string name="addon_txt_loading">Limitar as chamadas desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Definir 0 para mostrar todos:</string>
+    <string name="addon_txt_warning">A extensão foi detectada porem sua assinatura nas corresponde [Error %d]. Certifique-se de que foi instalada da pagina oficial (assim como este App da loja do Google Play)</string>
 
-    <string name="lbl_shortcut">Abrir uma conversa com %s</string>
+    <string name="lbl_shortcut">Abrir um chat com %s</string>
 
-    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp e WhatsApp Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões são suportadas).</string>
+    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp e WhatsApp Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
     <string name="title_instantApp">App instantâneo</string>
-    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num aplicativo instantâneo. Se você quiser usá-lo, instale o App da Loja Google Play.</string>
+    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num aplicativo instantâneo. Se você quiser usá-la, instale o App da Loja do Google Play.</string>
 
     <string-array name="chl_notify">
         <item>Nunca notifique</item>
-        <item>Notifique apenas sobre recursos importantes</item>
-        <item>Notifique apenas sobre novos recursos</item>
-        <item>Notifique sempre</item>
+        <item>Apenas notifique sobre recursos importantes</item>
+        <item>Apenas notifique sobre novos recursos</item>
+        <item>Sempre notifique</item>
     </string-array>
     <string name="cl_title">Modificações:</string>
-    <string name="cl_more">Mostrar mais</string>
+    <string name="cl_more">Ver mais</string>
 
 </resources>

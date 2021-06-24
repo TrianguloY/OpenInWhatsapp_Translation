@@ -1,3 +1,6 @@
+V 3.1.2
+- Translation updates
+
 V 3.1.1
 - Fixed crash on startup
 

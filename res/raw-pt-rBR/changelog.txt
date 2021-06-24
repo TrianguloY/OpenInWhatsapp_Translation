@@ -1,3 +1,6 @@
+V 3.1.2
+- Atualizações de tradução
+
 V 3.1.1
 - Consertada a falha ao iniciar o App
 

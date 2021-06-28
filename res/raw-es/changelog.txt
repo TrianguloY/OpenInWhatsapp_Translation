@@ -1,4 +1,5 @@
 V 3.1.2
+- Mejorado pegar con entradas combinadas
 - Actualización de las traducciones
 
 V 3.1.1

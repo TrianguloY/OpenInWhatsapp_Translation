@@ -110,7 +110,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
         <item>Por defecto: Utiliza el modo por defecto de WhatsApp</item>
         <item>Web: Utiliza el modo web, puede que también muestre navegadores</item>
         <item>SMS: Utiliza un modo relacionado con sms, puede que también muestre otras aplicaciones de mensajería [nota: enviar texto no parece estar siempre soportado]</item>
-        <item>Fijo: Se asegura de que funciona para las aplicaciones oficiales WhatsApp y WhatsApp Business.</item>
+        <item>Predefinido: Se asegura de que funciona para las aplicaciones oficiales WhatsApp y WhatsApp Business.</item>
         <item>[PELIGRO] JID: Utiliza un modo interno de WhatsApp. El uso de este modo no se recomienda ya que la validez de los números parece que no se comprueba</item>
     </string-array>
     <string name="addon_txt_warning">El complemento se ha detectado, pero su firma no coincide [Error %d]. Por favor asegúrese de que lo ha instalado de la página oficial (y esta aplicación de Play Store)</string>

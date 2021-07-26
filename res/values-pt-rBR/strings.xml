@@ -62,7 +62,7 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
         <item>Padrão: Usa recurso padrão do WhatsApp</item>
         <item>Web: Usa recurso web, pode exibir navegadores</item>
         <item>SMS: Usa recurso do SMS, pode exibir outros apps de mensagens [aviso: o envio de texto nem sempre suportado]</item>
-        <item>Hardcoded: Ensures that it works for official WhatsApp and WhatsApp Business apps.</item>
+        <item>Predefinido: Garante que funciona com o WhatsApp oficial e Business.</item>
         <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, porque a validade de número não está sendo verificada</item>
     </string-array>
     <string name="txt_jidWarning">Este recurso usa um protocolo não documentado do Whatsapp e pode parar ou não funcionar de forma correta. A menos que isto já foi consertado, parece não verificar a validade dos números, de modo que um chat será aberto embora o número pode não existir. Note que o uso deste modo não é recomendado por causa dos resultados desconhecidos.\n\nVocê quer continuar mesmo assim?</string>

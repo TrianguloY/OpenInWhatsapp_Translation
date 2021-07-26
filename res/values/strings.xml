@@ -63,7 +63,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
         <item>Default: Uses the Android WhatsApp scheme</item>
         <item>Web: Uses the web scheme, may show browsers too</item>
         <item>SMS: Uses a sms-related intent, may show other messaging apps too [note: sending text doesn\'t seem to be always supported]</item>
-        <item>Hardcoded: Ensures that it works for official WhatsApp and WhatsApp Business apps.</item>
+        <item>Predefined: Ensures that it works for official WhatsApp and WhatsApp Business apps.</item>
         <item>[DANGER] JID: Uses an internal WhatsApp scheme. Using this mode is discouraged as numbers seems to not be checked for existence</item>
     </string-array>
     <string name="txt_jidWarning">This mode uses an undocumented WhatsApp intent and may stop working or do so incorrectly. Unless already fixed, it seems to avoid checking for valid numbers so a chat will open even if the number doesn\'t exist. Note that using this mode is discouraged because of unknown consequences.\n\nContinue at your own risk?</string>

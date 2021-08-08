@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+
+
+If you added/modified the following file add your name here to give credit:
+
+
+ -->
+<resources>
+    <!-- When translated, remove this line
+    <string name="translated">.</string>
+    When translated, remove this line -->
+
+    <string name="app_name">ചാറ്റുചെയ്യാൻ ക്ലിക്കുചെയ്യുക</string>
+
+    <string name="txt_about">[[Tri | TrianguloY]] സൃഷ്ടിച്ച അപ്ലിക്കേഷൻ.  ഈ അപ്ലിക്കേഷൻ വാട്ട്‌സ്ആപ്പ് ഇങ്കുമായി അഫിലിയേറ്റ് ചെയ്തിട്ടില്ല.</string>
+
+    <string name="txt_acknowledgements">"അംഗീകാരങ്ങൾ:
+%1 ലോക്കൽ പരിഭാഷ നൽകിയതിന് %n ന് നന്ദി!"</string>
+    <string name="txt_about_helptranslations">ഒരു വിവർത്തനത്തിൽ സഹായിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?  നിങ്ങൾക്ക് കൂടുതൽ വിവരങ്ങൾ ഇവിടെ കണ്ടെത്താം:</string>
+
+    <string name="txt_changelanguage">ചുവടെയുള്ള ബട്ടൺ ക്ലിക്കുചെയ്ത് നിങ്ങൾക്ക് ആപ്പ് ഭാഷ മാറ്റാൻ കഴിയും (ആപ്പ് പുനരാരംഭിക്കും).</string>
+    <string name="txt_availocales">അപ്ലിക്കേഷൻ വലുപ്പം കുറയ്ക്കുന്നതിന് ലഭ്യമായ [[lcl | നിങ്ങളുടെ ഉപകരണത്തിൽ]] ലോക്കലുകൾ മാത്രമേ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുള്ളൂ.</string>
+
+    <string name="txt_description">"നിങ്ങൾ നൽകുന്ന ഏത് നമ്പറിലും ഒരു ചാറ്റ് തുറക്കാൻ ഈ അപ്ലിക്കേഷൻ വാട്ട്‌സ്ആപ്പ് പബ്ലിക് API ഉപയോഗിക്കുന്നു.  ഉപകരണത്തിൽ ഒരു കോൺടാക്റ്റും സൃഷ്ടിച്ചിട്ടില്ല.
+കൂടുതൽ വിവരങ്ങൾ [[wfq | ഇവിടെ]].
+
+അധിക പ്രതീകങ്ങളൊന്നുമില്ലാതെ നമ്പറും [[prf | പ്രിഫിക്‌സും] ചേർക്കുക, 0–9 അക്കങ്ങൾ മാത്രം.  കൂടുതൽ വിവരങ്ങൾ [[hlp | ഇവിടെ]].  ഒരു ലിസ്റ്റിൽ നിന്ന് തിരഞ്ഞെടുക്കാൻ നിങ്ങൾക്ക് \ '+\' ഇനത്തിൽ ക്ലിക്ക് ചെയ്യാം.
+ ഉദാഹരണം: +44 (യുകെ) 123 456 7890 റൈറ്റ് 44 1234567890 "</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
+    <string name="prefix_url">https://ml.m.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
+    <string name="txt_extra_description">"
+ക്ലിക്കുചെയ്യുമ്പോൾ വാട്ട്‌സ്ആപ്പ് തുറക്കുന്ന ഒരു ലിങ്ക് സൃഷ്‌ടിക്കാൻ ഇത് ഉപയോഗിക്കുക.  ഇൻപുട്ട് ബോക്സിൽ സ്ഥാപിക്കുന്ന ഒരു നമ്പറും കൂടാതെ / അല്ലെങ്കിൽ ഒരു സന്ദേശവും നിങ്ങൾക്ക് വ്യക്തമാക്കാൻ കഴിയും (ഞാൻ ആവർത്തിക്കില്ല, സന്ദേശം അയയ്ക്കില്ല)."</string>
+
+    <!-- Note to translators: These two strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to (the button will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <string name="txt_support">Being a free without ads nor purchases app, the progress and updates are based on the reception and support from you.</string>
+    <string name="btn_link_support">Support</string>
+
+    <string name="txt_addonDescr">ക്ലിക്കുചെയ്യുന്നതിന് അടുത്തിടെയുള്ള അജ്ഞാത കോളുകളുടെ ഒരു ലിസ്റ്റ് കാണിക്കാൻ ഈ ആഡോൺ ഉപയോഗിച്ച് നിങ്ങൾക്ക് ഈ അപ്ലിക്കേഷനെ അനുവദിക്കാൻ കഴിയും.  വിഷമിക്കേണ്ട: ഇത് സ free ജന്യവും ചിത്രത്തേക്കാൾ ചെറുതും പരസ്യങ്ങളുമില്ല.</string>
+
+    <string name="hint_editNumber">നമ്പർ</string>
+    <string name="hint_editPrefix">പ്രിഫിക്സ്</string>
+    <string name="hint_message">സന്ദേശം യാന്ത്രികമായി പൂർത്തിയാകും, അയച്ചില്ല.</string>
+    <string name="hint_prefAndNumber"><![CDATA[പ്രിഫിക്സ് & നമ്പർ]]></string>
+    <string name="hint_itemName">പേര്</string>
+
+    <string name="btn_openInWhatsapp">തുറക്കുക</string>
+    <string name="btn_shareLink">പങ്കിടുക</string>
+    <string name="btn_shortcut">കുറുക്കുവഴി</string>
+    <string name="chk_mergeInputs">പ്രിഫിക്സും നമ്പർ ഇൻപുട്ടുകളും ലയിപ്പിക്കുക</string>
+    <string name="chk_enableRecents">സമീപകാല നമ്പറുകൾ/സന്ദേശങ്ങൾ സംരക്ഷിക്കുക.  (ഇത് പ്രവർത്തനരഹിതമാക്കുന്നത് സംരക്ഷിച്ചവയെ മായ്‌ക്കും)</string>
+    <string name="chk_hideInfo">പ്രധാന സ്ക്രീനിൽ നിന്ന് സഹായ വാചകം മറയ്ക്കുക</string>
+    <string name="chk_keepprefix">ആപ്പ് ക്ലോസ് ചെയ്യുമ്പോൾ പ്രിഫിക്സ് [%1 $ s] പുനസ്ഥാപിക്കുക.</string>
+    <string name="chk_autoopen">ഒരു നമ്പർ സ്വയം പൂരിപ്പിക്കുമ്പോൾ യാന്ത്രികമായി തുറക്കുക (പങ്കിടുക, വിളിക്കുക, സമീപകാലത്ത് അല്ലെങ്കിൽ ക്ലിപ്പ്ബോർഡ്).</string>
+    <string name="txt_mode">തുറക്കൽ മോഡ്:</string>
+    <string-array name="chl_openable">
+        <item>സ്ഥിരസ്ഥിതി: Android വാട്ട്‌സ്ആപ്പ് സ്കീം ഉപയോഗിക്കുന്നു</item>
+        <item>വെബ്: വെബ് സ്കീം ഉപയോഗിക്കുന്നു, ബ്ര rowsers സറുകളും കാണിച്ചേക്കാം</item>
+        <item>എസ്എംഎസ്: ഒരു എസ്എംഎസുമായി ബന്ധപ്പെട്ട ഉദ്ദേശ്യം ഉപയോഗിക്കുന്നു, മറ്റ് സന്ദേശമയയ്‌ക്കൽ അപ്ലിക്കേഷനുകളും കാണിച്ചേക്കാം [കുറിപ്പ്: ടെക്സ്റ്റ് അയയ്ക്കുന്നത് എല്ലായ്പ്പോഴും പിന്തുണയ്‌ക്കുന്നതായി തോന്നുന്നില്ല]</item>
+        <item>മുൻകൂട്ടി നിശ്ചയിച്ചത്: ഇത് ദ്യോഗിക വാട്ട്‌സ്ആപ്പ്, വാട്ട്‌സ്ആപ്പ് ബിസിനസ് ആപ്പുകൾക്കായി പ്രവർത്തിക്കുന്നുവെന്ന് ഉറപ്പാക്കുന്നു.</item>
+        <item>[അപായം] JID: ഒരു ആന്തരിക WhatsApp സ്കീം ഉപയോഗിക്കുന്നു.  ഈ മോഡ് ഉപയോഗിക്കുന്നത് നിരുത്സാഹപ്പെടുത്തുന്നു, കാരണം നമ്പറുകൾ അസ്തിത്വത്തിനായി പരിശോധിച്ചിട്ടില്ലെന്ന് തോന്നുന്നു</item>
+    </string-array>
+    <string name="txt_jidWarning">ഈ മോഡ് രേഖപ്പെടുത്താത്ത വാട്ട്‌സ്ആപ്പ് ഉദ്ദേശ്യം ഉപയോഗിക്കുന്നു, ഇത് പ്രവർത്തിക്കുന്നത് നിർത്തുകയോ തെറ്റായി ചെയ്യുകയോ ചെയ്യാം.  ഇതിനകം പരിഹരിച്ചിട്ടില്ലെങ്കിൽ, സാധുവായ നമ്പറുകൾ പരിശോധിക്കുന്നത് ഒഴിവാക്കുമെന്ന് തോന്നുന്നു, അതിനാൽ നമ്പർ നിലവിലില്ലെങ്കിലും ഒരു ചാറ്റ് തുറക്കും.  അജ്ഞാതമായ അനന്തരഫലങ്ങൾ കാരണം ഈ മോഡ് ഉപയോഗിക്കുന്നത് നിരുത്സാഹപ്പെടുത്തുന്നുവെന്നത് ശ്രദ്ധിക്കുക. \ N \ n നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്തത്തിൽ തുടരണോ?</string>
+    <string name="btn_addonLink">ആഡ് ഓൺ</string>
+
+    <string name="msg_warnShare">നിങ്ങൾ പങ്കിടാൻ പോകുന്ന ലിങ്കിൽ സാധാരണ വാചകത്തിൽ നൽകിയ ഫോൺ നമ്പർ അടങ്ങിയിരിക്കുന്നു.  ലിങ്കിലേക്ക് ആക്സസ് ഉള്ള എല്ലാവർക്കും നമ്പറിലേക്ക് ആക്സസ് ഉണ്ടായിരിക്കും.  ഇത് ഒരു സ്വകാര്യ നമ്പറാണെങ്കിൽ ലിങ്ക് എല്ലാവർക്കുമായി പങ്കിടരുത്.</string>
+    <string name="btn_noWarn">വീണ്ടും മുന്നറിയിപ്പ് നൽകരുത്</string>
+
+    <string name="btn_link_playstore_open">Play Store (തുറക്കുക)</string>
+    <string name="btn_link_playstore_share">Play Store (പങ്കിടുക)</string>
+    <string name="btn_link_apppage">അപ്ലിക്കേഷൻ പേജ്</string>
+    <string name="btn_link_faq">പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ \ in (FAQ) [ഇംഗ്ലീഷ് മാത്രം]</string>
+    <string name="btn_link_helptranslations">വിവർത്തനം ചെയ്യുക</string>
+
+    <string name="error_badData">തുറക്കുമ്പോൾ പിശക്.  തെറ്റായ ഡാറ്റ <</string>
+    <string name="error_nowhatsapp">വാട്ട്‌സ്ആപ്പ് തുറക്കാൻ കഴിഞ്ഞില്ല.  [[wps | ഇത് ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടോ?]]</string>
+
+    <string name="toast_autoParser">"ഓട്ടോമാറ്റിക് പാർസർ. പ്രിഫിക്സ് പരിശോധിക്കുക!"</string>
+    <string name="toast_copied">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="toast_error_openLink">ലിങ്ക് തുറക്കാൻ കഴിഞ്ഞില്ല</string>
+
+    <string name="title_sendTo">ഇതിലേക്ക് ലിങ്ക് അയയ്ക്കുക:</string>
+    <string name="title_chooseCountry">രാജ്യം അനുസരിച്ച് പ്രിഫിക്സ്:</string>
+    <string name="title_chooseApp">അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക:</string>
+    <string name="title_clearRecents">റീസന്റുകൾ മായ്‌ക്കുക:</string>
+    <string name="title_pinned">പിൻ ചെയ്തു:</string>
+    <string name="title_recents">സമീപകാലങ്ങൾ:</string>
+    <string name="title_agenda">അജണ്ട:</string>
+
+    <string name="message_clearRecents">നിങ്ങൾക്ക് എല്ലാ സമീപകാലങ്ങളും നീക്കംചെയ്യണോ?</string>
+
+    <string name="header_code">പ്രിഫിക്സ് %1$s</string>
+    <string name="header_country">രാജ്യം %1$s</string>
+
+    <string name="cntDesc_appInfo">ആപ്പ് വിവരങ്ങൾ</string>
+    <string name="cntDesc_prefixSelector">പ്രിഫിക്‌സ് സെലക്ടർ</string>
+    <string name="cntDesc_pasteClipboard">ക്ലിപ്പ്ബോർഡിൽ നിന്ന് ഒട്ടിക്കുക</string>
+    <string name="cntDesc_agenda">അജണ്ട</string>
+    <string name="cntDesc_recentMessages">സമീപകാല സന്ദേശങ്ങൾ</string>
+    <string name="cntDesc_calls">അജ്ഞാത കോളുകൾ</string>
+    <string name="cntDesc_toggleAdv">വിപുലമായത് ടോഗിൾ ചെയ്യുക</string>
+    <string name="cntDesc_appLogo">അപ്ലിക്കേഷൻ ലോഗോ</string>
+    <string name="cntDesc_addons">ആഡ് ഓൺ പേജ് തുറക്കുക</string>
+    <string name="cntDesc_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="cntDesc_delete">ഇല്ലാതാക്കുക</string>
+    <string name="cntDesc_togglepin">പിൻ ചെയ്യുക/അൺപിൻ ചെയ്യുക</string>
+    <string name="cntDesc_filter">ഫിൽട്ടർ ചെയ്യുക</string>
+
+    <string name="util_close">അടയ്ക്കുക</string>
+    <string name="util_none">ഒന്നുമില്ല</string>
+
+    <string name="addon_message_loadingCalls">അജ്ഞാത കോളുകളുടെ പട്ടിക ലോഡുചെയ്യുന്നു…</string>
+    <string name="addon_toast_noCalls">അജ്ഞാത നമ്പറുകളൊന്നും കണ്ടെത്തിയില്ല അല്ലെങ്കിൽ വായിക്കാൻ കഴിഞ്ഞില്ല</string>
+    <string name="addon_txt_loading">ലോഡിംഗ് സമയം കുറയ്ക്കുന്നതിന് സമീപകാലത്തെ അജ്ഞാത കോളുകൾ പരിമിതപ്പെടുത്തുക (ആഡോൺ V1.2 + ആവശ്യമാണ്).  എല്ലാം കാണിക്കുന്നതിന് 0 ആയി സജ്ജമാക്കുക:</string>
+    <string name="addon_txt_warning">ആഡോൺ കണ്ടെത്തി, പക്ഷേ അതിന്റെ ഒപ്പ് പൊരുത്തപ്പെടുന്നില്ല [പിശക്% d].  നിങ്ങൾ ഇത് theദ്യോഗിക പേജിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടെന്ന് ഉറപ്പുവരുത്തുക (പ്ലേ സ്റ്റോറിൽ നിന്നുള്ള ഈ ആപ്പും)</string>
+
+    <string name="lbl_shortcut">ഇതുപയോഗിച്ച് ഒരു ചാറ്റ് തുറക്കുക %s</string>
+
+    <string name="error_instantApp">തൽക്ഷണ ആപ്പുകൾക്ക് ഡിഫോൾട്ട് ആപ്പ് മാത്രമേ തുറക്കാനാകൂ.  നിങ്ങൾക്ക് ഒന്നിലധികം പതിപ്പുകൾ ഉണ്ടെങ്കിൽ (WhatsApp, WhatsApp Business പോലുള്ളവ) [[oiw | full app]] ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുക (ശ്രദ്ധിക്കുക: എല്ലാ പതിപ്പുകളും പിന്തുണയ്ക്കുന്നില്ല).</string>
+    <string name="title_instantApp">തൽക്ഷണ അപ്ലിക്കേഷൻ</string>
+    <string name="message_instantApp">തൽക്ഷണ അപ്ലിക്കേഷനിൽ% '% s feature' സവിശേഷത ലഭ്യമല്ല.  നിങ്ങൾക്ക് ഇത് ഉപയോഗിക്കാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ, പ്ലേ സ്റ്റോറിൽ നിന്ന് ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക.</string>
+
+    <string-array name="chl_notify">
+        <item>ഒരിക്കലും അറിയിക്കരുത്</item>
+        <item>പ്രധാനപ്പെട്ട സവിശേഷതകളിൽ മാത്രം അറിയിക്കുക</item>
+        <item>പുതിയ ഫീച്ചറുകളിൽ മാത്രം അറിയിക്കുക</item>
+        <item>എല്ലായ്പ്പോഴും അറിയിക്കുക</item>
+    </string-array>
+    <string name="cl_title">ചേഞ്ച്ലോഗ്:</string>
+    <string name="cl_more">കൂടുതൽ കാണിക്കുക</string>
+
+</resources>

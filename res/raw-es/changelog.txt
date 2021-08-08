@@ -1,3 +1,8 @@
+V 3.3
+- Nueva traducción a Malayalam. Muchas gracias a Thenur Mahesh Kannan!
+- Compartir enlace incluye 'https://'
+- Eliminar ceros iniciales en modo combinado
+
 V 3.2
 - Nuevo modo de apertura: predefinido
 - Mostrar 'comprueba el prefijo' debajo

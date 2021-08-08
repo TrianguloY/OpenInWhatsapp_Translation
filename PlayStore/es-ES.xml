@@ -44,23 +44,23 @@ Lista de recientes:
 Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). También puedes fijarlo y darle un nombre. O incluso crear un atajo en el escritorio.
 
 
------------------------------------------------------------
+        -----------------------------------------------------------
 
 
-Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos peligrosos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
+        Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos peligrosos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
 
 
-Traducción:
-¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix y mezysinc por las traduciones!
+        Traducción:
+        ¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc y Thenur Mahesh Kannan por las traduciones!
 
 
-Permisos usados:
-SHORTCUTS: permite crear atajos en el escritorio.
--Ninguno más- (no eran necesarios)
+        Permisos usados:
+        SHORTCUTS: permite crear atajos en el escritorio.
+        -Ninguno más- (no eran necesarios)
 
 
-Tamaño del apk:
-~100 KB (0,1MB)
+        Tamaño del apk:
+        ~100 KB (0,1MB)
     </description_long>
     <changelog_footer>¿Te gusta la actualización? ¿Sugerencias? ¡Dilo en los comentarios o en el blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

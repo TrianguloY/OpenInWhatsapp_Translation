@@ -52,23 +52,23 @@ When a number is opened it is saved on a recents list, in case you want to open 
 and you don't remember the number. You can also pin numbers and name them, or even create
 shortcuts.
 
----------------------------
+        ---------------------------
 
-This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous
-permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related
-feature, but I want to keep it as simple and lightweight as possible).
+        This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous
+        permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related
+        feature, but I want to keep it as simple and lightweight as possible).
 
-Translation:
-Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson
-(Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi
-Legowo), Steven Felix and mezysinc for the translations!
+        Translation:
+        Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson
+        (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi
+        Legowo), Steven Felix, mezysinc and Thenur Mahesh Kannan for the translations!
 
-Permissions used:
-SHORTCUT: To create shortcuts in the launcher.
--Nothing else- (they aren't necessary)
+        Permissions used:
+        SHORTCUT: To create shortcuts in the launcher.
+        -Nothing else- (they aren't necessary)
 
-Apk size:
-~100 KB (0,1MB)
+        Apk size:
+        ~100 KB (0,1MB)
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->

@@ -1,3 +1,8 @@
+V 3.3
+- New Malayalam translation. Many thanks to Thenur Mahesh Kannan!
+- Share link includes 'https://'
+- Remove leading zeros in merge mode too
+
 V 3.2
 - New openable mode: predefined
 - Show 'check prefix' message as inline

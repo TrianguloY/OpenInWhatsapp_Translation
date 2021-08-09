@@ -1,3 +1,8 @@
+V 3.3
+- Nova tradução em malaiala. Obrigado Thenur Mahesh Kannan!
+- Links de compartilhamento via 'https://'
+- Exclusão de zeros precedentes em modo agregado
+
 V 3.2
 - Novo modo de abrir: valores predefinidos
 - Mostrar a mensagem 'verificar o prefixo' digitado em linha

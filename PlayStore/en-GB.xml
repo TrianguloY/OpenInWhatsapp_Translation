@@ -45,23 +45,19 @@ You can create an url link that will open WhatsApp on the specified number. This
 You can also add a message that will be autocompleted (will NOT, I repeat, will NOT be sent, the user must press the send button manually).
 If you specify a message but not a number WhatsApp will ask who to send it to (again, will NOT be sent, only autocompleted).
 You can save the link as a quick shortcut, share it so people can contact you (the number is visible on the link, be careful), set a predefined message on a site to 'share it on WhatsApp', etc. Remember, you don't need this app to open the link, it is handled by WhatsApp.
-Hidden shortcut: long tap the 'share' button to quickly copy the link to the clipboard.
+        Hidden shortcut: long tap the 'share' button to quickly copy the link to the clipboard.
 
-Recents list:
-When a number is opened it is saved on a recents list, in case you want to open a number again
-and you don't remember the number. You can also pin numbers and name them, or even create
-shortcuts.
+        Recents list:
+        When a number is opened it is saved on a recents list, in case you want to open a number again
+        and you don't remember the number. You can also pin numbers and name them, or even create
+        shortcuts.
 
         ---------------------------
 
-        This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous
-        permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related
-        feature, but I want to keep it as simple and lightweight as possible).
+        This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related feature, but I want to keep it as simple and lightweight as possible).
 
         Translation:
-        Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson
-        (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi
-        Legowo), Steven Felix, mezysinc and Thenur Mahesh Kannan for the translations!
+        Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc and Thenur Mahesh Kannan for the translations!
 
         Permissions used:
         SHORTCUT: To create shortcuts in the launcher.

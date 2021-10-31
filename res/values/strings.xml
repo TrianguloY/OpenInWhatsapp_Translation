@@ -31,7 +31,7 @@ Thanks to %n for providing the %l locale translation!"</string>
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
 More info [[wfq|here]].
 
-Insert the number and the [[prf|prefix]] with no extra characters, only numbers 0–9. More info [[hlp|here]]. You can click on the \'+\' item to choose from a list.
+Insert the number and the [[prf|prefix]] with no extra characters, only numbers 0–9. More info [[hlp|here]]. You can click on the country button to choose from a list.
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
     <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>

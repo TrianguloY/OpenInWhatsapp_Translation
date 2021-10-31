@@ -19,7 +19,7 @@ TrianguloY
     <string name="txt_description">"Esta aplicación utiliza la api pública de WhatsApp para abrir un chat con cualquier número que introduzcas. Ningún contacto se crea en el teléfono.
 Más información [[wfq|aquí]].
 
-Introduce el número y el [[prf|prefijo]] sin carácteres extra, sólo números 0–9. Más información [[hlp|aquí]]. Puedes pulsar en el símbolo \'+\' para elegir de un listado.
+Introduce el número y el [[prf|prefijo]] sin carácteres extra, sólo números 0–9. Más información [[hlp|aquí]]. Puedes pulsar en el botón de país para elegir de un listado.
 Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="prefix_url">https://es.wikipedia.org/wiki/Anexo:Prefijos_telef%C3%B3nicos_mundiales#Zonas</string>
     <string name="hint_editNumber">Número</string>

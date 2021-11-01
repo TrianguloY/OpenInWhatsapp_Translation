@@ -56,7 +56,7 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
     <string name="txt_support">Al ser una aplicación gratuita sin compras, el progreso y actualizaciones dependen del apoyo que reciba.</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
-    <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuita, más pequeña que una foto, y sin anuncios.</string>
+    <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuito, más pequeño que una foto, y sin anuncios.</string>
     <string name="btn_addonLink">Complemento</string>
     <string name="cntDesc_calls">Llamadas desconocidas</string>
     <string name="cntDesc_addons">Abrir la página del complemento</string>

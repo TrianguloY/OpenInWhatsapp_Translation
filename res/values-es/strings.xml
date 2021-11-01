@@ -116,5 +116,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="addon_txt_warning">El complemento se ha detectado, pero su firma no coincide [Error %d]. Por favor asegúrese de que lo ha instalado de la página oficial (y esta aplicación de Play Store)</string>
     <string name="cntDesc_clear">Borrar entradas</string>
     <string name="txt_business">Parece que estás usando la aplicación para fines comerciales. Considera [[spt|apoyarla]], gracias.\n\n[[hdb|Descartar]]</string>
+    <string name="txt_newVersion">La aplicación ha sido actualizada: [[chl|ver cambios]].\n\n[[hdc|Ignorar]]</string>
 
 </resources>

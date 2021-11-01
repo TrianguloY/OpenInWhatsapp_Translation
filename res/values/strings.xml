@@ -137,5 +137,6 @@ Check the prefix!"</string>
     </string-array>
     <string name="cl_title">Changelog:</string>
     <string name="cl_more">show more</string>
+    <string name="txt_newVersion">The app was updated: [[chl|view changes]].\n\n[[hdc|Dismiss]]</string>
 
 </resources>

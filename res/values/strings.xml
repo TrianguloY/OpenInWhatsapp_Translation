@@ -101,6 +101,7 @@ Check the prefix!"</string>
 
     <string name="cntDesc_appInfo">App information</string>
     <string name="cntDesc_prefixSelector">Prefix selector</string>
+    <string name="cntDesc_clear">Clear inputs</string>
     <string name="cntDesc_pasteClipboard">Paste from clipboard</string>
     <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Recent messages</string>

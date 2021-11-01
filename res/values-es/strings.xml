@@ -114,5 +114,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
         <item>[PELIGRO] JID: Utiliza un modo interno de WhatsApp. El uso de este modo no se recomienda ya que la validez de los números parece que no se comprueba</item>
     </string-array>
     <string name="addon_txt_warning">El complemento se ha detectado, pero su firma no coincide [Error %d]. Por favor asegúrese de que lo ha instalado de la página oficial (y esta aplicación de Play Store)</string>
+    <string name="cntDesc_clear">Borrar entradas</string>
 
 </resources>

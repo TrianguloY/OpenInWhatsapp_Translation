@@ -117,5 +117,6 @@ Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar u
     <string name="cntDesc_clear">Borrar entradas</string>
     <string name="txt_business">Parece que estás usando la aplicación para fines comerciales. Considera [[spt|apoyarla]], gracias.\n\n[[hdb|Descartar]]</string>
     <string name="txt_newVersion">La aplicación ha sido actualizada: [[chl|ver cambios]].\n\n[[hdc|Ignorar]]</string>
+    <string name="chk_stripZeros">Quitar ceros a la izquierda del prefijo y número</string>
 
 </resources>

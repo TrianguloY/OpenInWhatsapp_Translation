@@ -55,6 +55,7 @@ Use this to create a link that will open WhatsApp when clicked. You can specify 
     <string name="btn_shareLink">Share</string>
     <string name="btn_shortcut">Shortcut</string>
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
+    <string name="chk_stripZeros">Remove leading zeros from the prefix and number</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
     <string name="chk_keepprefix">Restore prefix [%1$s] when the app closes.</string>

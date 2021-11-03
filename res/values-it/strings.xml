@@ -31,8 +31,7 @@ Ulteriori informazioni [[wfq|qui]].
 Inserite il numero e il [[prf|prefisso]] senza alcun carattere aggiuntivo, solo numeri 0 – 9. Ulteriori informazioni [[hlp|qui]]. È possibile fare clic su \'+\' per selezionare un prefisso dall\'elenco.
 Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="prefix_url">https://it.wikipedia.org/wiki/Prefissi_telefonici_internazionali</string>
-    <string name="txt_extra_description">"
-Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio)."</string>
+    <string name="txt_extra_description">Utilizzare questa parte per creare un collegamento che verrà eseguito da WhatsApp. È possibile specificare un numero e/o un messaggio che verrà visualizzato nell\'area di input (NESSUN invio, ripeto, NESSUN invio di messaggio).</string>
     <string name="txt_support">Per coloro che desiderano: potete fare una piccola donazione qui</string>
     <string name="btn_link_support">Donazione</string>
 

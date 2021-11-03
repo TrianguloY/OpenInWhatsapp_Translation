@@ -33,8 +33,7 @@ Info lebih lanjut klik [[wfq|di sini]].
 Masukkan nomor dan [[prf|prefix]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik \'+\' untuk memilih dari daftar.
 Contoh: untuk +628123456789 (Indonesia) tulis 628123456789"</string>
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
-    <string name="txt_extra_description">"
-Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis)."</string>
+    <string name="txt_extra_description">Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
 
     <string name="txt_support">Mau dukung saya? Terima kasih! Cari tahu di sini:</string>
     <string name="btn_link_support">Dukung</string>

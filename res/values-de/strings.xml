@@ -30,8 +30,7 @@ Weitere Informationen erhalten Sie direkt in der [[wfq|WhatsApp FAQ]].
 Nummer und [[prf|Landesvorwahl]] ohne Sonderzeichen eingeben. Weitere Informationen erhalten Sie direkt in der [[hlp|WhatsApp FAQ]]. Sie können auf \'+\' zur Länderauswahl drücken.
 Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890"</string>
     <string name="prefix_url">https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern</string>
-    <string name="txt_extra_description">"
-Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
+    <string name="txt_extra_description">Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet).</string>
 
     <string name="txt_support" />
     <string name="hint_editNumber">Nummer</string>

@@ -35,8 +35,7 @@ Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números d
 
 Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
-    <string name="txt_extra_description">"Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas NÃO será, repito, NÃO será enviada)."
-</string>
+    <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas NÃO será, repito, NÃO será enviada).</string>
 
     <string name="txt_support">Sendo um App gratuito, sem anúncios, nem compras \'In-App\', o desenvolvimento e as atualizações dependem da aceitação e suporte das pessoas como você.</string>
     <string name="btn_link_support">Suporte</string>

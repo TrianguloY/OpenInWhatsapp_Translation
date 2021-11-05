@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+
+
+If you added/modified the following file add your name here to give credit:
+Faisal Aloufi
+
+ -->
+<resources>
+
+    <string name="translated">.</string>
+    <string name="app_name">اسم البرنامج</string>
+    <string name="txt_about">صنع بواسطة [[tri|TrianguloY]]. لا يتبع هذا البرنامج برنامج الواتس اب.</string>
+    <string name="txt_acknowledgements">"شكر خاص:
+شكر خاص %n لتوفيره الترجمة %l</string>
+    <string name="txt_about_helptranslations">هل تريد مساعدتنا على توفير الترجمة ؟ للمزيد من المعلومات هنا :</string>
+    <string name="txt_changelanguage">اضغط هنا بالأسفل لتغيير اللغة وسيقوم البرنامج بإعادة تشغيل نفسه</string>
+    <string name="txt_availocales">يتم تثبيت الإعدادات على جهازك المحلي ليساعدك في المساحة المحلية لجهازك</string>
+    <string name="txt_description">"هذا البرنامج يستخدم واجهة الواتس اب مباشرة ليسهل عليك التواصل مع اي رقم بدون الحاجة لإضافته في جهات الاتصال لديك
+لمزيد من المعلومات اضغط [[wfq|هنا]]
+
+أدخل الرقم ويجب أن تكون  [[prf|بداية]] أرقام وليست حروف , اختر من 0-9 لمزيد من المعلومات[[hlp|هنا]] ,وكذلك يمكن اختيار الدولة الصحيحة من قائمة الدول.
+
+مثال : التواصل مع رقم من السعودية أدخل كود السعودية +966 و بعد ذلك ادخل الرقم مباشرة في خانة الأرقام 0123456789</string>
+    <string name="prefix_url">https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9</string>
+    <string name="txt_extra_description">"
+استخدم هذا لإنشاء رابط واتس أب عند الضغط عليه ويمكنك تحدي رقم أو رسالة في مربع الإدخال"</string>
+    <string name="txt_support">تطوير التطبيق يعتمد على دعمكم المستمر في حال رغبتكم في التبرع لذلك</string>
+    <string name="btn_link_support">الدعم</string>
+    <string name="txt_addonDescr">باستخدام هذا الملحق ، يمكنك السماح لهذا التطبيق بعرض قائمة بالمكالمات الحديثة غير المسجلة لديك للنقر عليها.</string>
+    <string name="hint_editNumber">الرقم</string>
+    <string name="hint_editPrefix">بداية</string>
+    <string name="hint_message">لن يتم إرسال الرسالة التي سيتم إكمالها تلقائيًا.</string>
+    <string name="hint_prefAndNumber"><![CDATA[بداية الرقم]]></string>
+    <string name="hint_itemName">الرقم</string>
+    <string name="btn_openInWhatsapp">فتح</string>
+    <string name="btn_shareLink">للمشاركة</string>
+    <string name="btn_shortcut">اختصار</string>
+    <string name="chk_mergeInputs">دمج الأرقام المدخلة</string>
+    <string name="chk_enableRecents">حفظ الأرقام / الرسائل الأخيرة.(سيؤدي تعطيله إلى مسح العناصر المحفوظة)</string>
+    <string name="chk_hideInfo">إخفاء نص المساعدة من الشاشة الرئيسية</string>
+    <string name="chk_keepprefix">استعادة البداية [%1$s] عند إغلاق التطبيق.</string>
+    <string name="chk_autoopen">الفتح بشكل تلقائي عندما يتم ملىء الرقم بشكل تلقائي</string>
+    <string name="txt_mode">وضع الإفتتاح:</string>
+    <string-array name="chl_openable">
+        <item>الإفتراضي : استخدام نظام الواتس أب</item>
+        <item>استخدام متصفح الإنترنت</item>
+        <item>الرسائل القصيرة: تستخدم هدفًا متعلقًا بالرسائل القصيرة ، وقد تُظهر تطبيقات المراسلة الأخرى أيضًا [ملاحظة: إرسال النص غير مدعوم دائمًا]</item>
+        <item>محدد مسبقًا: يضمن أنه يعمل مع تطبيقات WhatsApp و WhatsApp Business الرسمية.</item>
+        <item>[تحذير] : يستخدم مخطط WhatsApp داخلي. لا يُنصح باستخدام هذا الوضع حيث يبدو أنه لم يتم التحقق من وجود الأرقام</item>
+    </string-array>
+    <string name="txt_jidWarning">يستخدم هذا الوضع WhatsApp بشكل غير موثق وقد يتوقف عن العمل أو يفعل ذلك بشكل غير صحيح. ما لم يتم إصلاحه بالفعل ، يبدو أنه يتجنب التحقق من وجود أرقام صالحة ، لذا ستفتح الدردشة حتى لو لم يكن الرقم موجودًا. لاحظ أن استخدام هذا الوضع غير مستحسن بسبب عواقب غير معروفة هل تريد المتابعة على مسؤوليتك الخاصة؟</string>
+    <string name="btn_addonLink">إضافة</string>
+    <string name="msg_warnShare">يحتوي الرابط الذي ستشاركه على رقم الهاتف الذي تم إدخاله بنص عادي. سيتمكن كل شخص لديه حق الوصول إلى الرابط من الوصول إلى الرقم. إذا كان رقمًا شخصيًا ، فلا تشارك الرابط علنًا.</string>
+    <string name="btn_noWarn">عدم العرض مرة أخرى</string>
+    <string name="btn_link_playstore_open">متجر قوقل (فتح)</string>
+    <string name="btn_link_playstore_share">متجر قوقل (مشاركة)</string>
+    <string name="btn_link_apppage">صفحة التطبيق</string>
+    <string name="btn_link_faq">أسئلة متداولة \n (FAQ) [بالإنجليزية فقط]</string>
+    <string name="btn_link_helptranslations">الترجمة</string>
+    <string name="error_badData">خطأ أثناء الفتح أو بيانات خاطئة</string>
+    <string name="error_nowhatsapp">تعذر فتح تطبيق الواتس اب , هل قمت بتثبيت برنامج الواتس أب ؟</string>
+    <string name="toast_autoParser">"تحليل تلقائي تأكد من بدابة الادخال"</string>
+    <string name="toast_copied">نسخ إلى الحافظة</string>
+    <string name="toast_error_openLink">تعذر فتح الرابط</string>
+    <string name="title_sendTo">ارسال الرابط إلى :</string>
+    <string name="title_chooseCountry">البداية حسب الدولة:</string>
+    <string name="title_chooseApp">اختر التطبيق :</string>
+    <string name="title_clearRecents">مسح السجل المؤقت</string>
+    <string name="title_pinned">تثبيت :</string>
+    <string name="title_recents">المحفوظات الحديثة/</string>
+    <string name="title_agenda">جدول الأعمال</string>
+    <string name="message_clearRecents">هل ترغب بمسح المحفوظات الحديثة ؟</string>
+    <string name="header_code">بداية الرقم %1$s</string>
+    <string name="header_country">الدولة %1$s</string>
+    <string name="cntDesc_appInfo">معلومات التطبيق</string>
+    <string name="cntDesc_prefixSelector">اختار البداية</string>
+    <string name="cntDesc_pasteClipboard">لصق من الحافظة</string>
+    <string name="cntDesc_agenda">جدول الأعمال</string>
+    <string name="cntDesc_recentMessages">الرسائل الحديثة</string>
+    <string name="cntDesc_calls">المكالمات المجهولة</string>
+    <string name="cntDesc_toggleAdv">تبديل متقدم</string>
+    <string name="cntDesc_appLogo">شعار التطبيق</string>
+    <string name="cntDesc_addons">فتح الصفحة الملحقة</string>
+    <string name="cntDesc_settings">الإعدادات</string>
+    <string name="cntDesc_delete">مسح</string>
+    <string name="cntDesc_togglepin">تثبيت/عدم تثبيت</string>
+    <string name="cntDesc_filter">فلتر</string>
+    <string name="util_close">إغلاق</string>
+    <string name="util_none">لا شيء</string>
+    <string name="addon_message_loadingCalls">تحميل قائمة الأرقام المجهولة…</string>
+    <string name="addon_toast_noCalls">لم يتم العثور على أرقام غير معروفة أو تعذر قراءتها</string>
+    <string name="addon_txt_loading">قم بالحد من المكالمات غير المعروفة الأخيرة لتقليل وقت التحميل (يتطلب اصدار V1.2 +). اضبط على 0 لإظهار الكل:</string>
+    <string name="addon_txt_warning">تم الكشف عن الوظيفة الإضافية ، لكن غير متطابقة يرجى التأكد من تثبيته من الصفحة الرسمية (وهذا التطبيق من متجر Play)</string>
+    <string name="lbl_shortcut">افتح المحادثة مع %s</string>
+    <string name="error_instantApp">يمكن للتطبيقات الفورية فتح التطبيق الافتراضي فقط. إذا كانت لديك إصدارات متعددة (مثل WhatsApp و WhatsApp Business) ، فحاول تثبيت [[oiw|التطبيق الكامل]] (ملاحظة: ليست كل الإصدارات مدعومة).</string>
+    <string name="title_instantApp">تطبيق فوري</string>
+    <string name="message_instantApp">ميزة \'%s\' غير متوفرة في التطبيق الفوري. إذا كنت ترغب في استخدامه ، فيرجى تثبيت التطبيق من متجر Play.</string>
+    <string-array name="chl_notify">
+        <item>عدم الاشعار</item>
+        <item>اشعار المميزات الهامة فقط</item>
+        <item>اشعاري بالمميزات الجديدة فقط</item>
+        <item>اشعارات دائمة</item>
+    </string-array>
+    <string name="cl_title">التغيرات</string>
+    <string name="cl_more">عرض أكثر</string>
+</resources>

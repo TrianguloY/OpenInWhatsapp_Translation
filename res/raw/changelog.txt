@@ -1,3 +1,14 @@
+V 4.0
+- Several style changes
+- New dedicated clear button (pressing back is still supported)
+- New setting to disable leading zeros removal
+- New arabic translation. Many thanks to Faisal Aloufi!
+- New update notice is shown as message instead of popup
+- Fixed issue with zeros after area codes
+- Convert entered arabic numbers
+- Removed support to Android 4.0.4 or older (same as WhatsApp)
+- Several internal fixes and cleanups
+
 V 3.3
 - New Malayalam translation. Many thanks to Thenur Mahesh Kannan!
 - Share link includes 'https://'

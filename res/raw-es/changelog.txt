@@ -1,3 +1,14 @@
+V 4.0
+- Multiples cambios visuales
+- Nuevo botón dedicado para borrar (se puede seguir pulsando atrás)
+- Nuevo ajuste para desactivar la eliminación de ceros a la izquierda
+- Nueva traducción al árabe. Muchas gracias a Faisal Aloufi!
+- El aviso de actualización se muestra como mensaje en lugar de como popup
+- Arreglado problema con ceros tras códigos de área
+- Se convierten los números arábigos introducidos
+- Versiones anteriores a Android 4.0.4 ya no están soportadas (igual que WhatsApp)
+- Limpieza y cambios internos
+
 V 3.3
 - Nueva traducción a Malayalam. Muchas gracias a Thenur Mahesh Kannan!
 - Compartir enlace incluye 'https://'

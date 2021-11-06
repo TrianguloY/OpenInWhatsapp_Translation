@@ -35,6 +35,7 @@ Timofey Lisunov
     <string name="txt_extra_description">Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено).</string>
     <string name="txt_support">Поскольку это бесплатное приложение без рекламы и внутренних покупок, развитие и обновления зависят от вашей поддержки.</string>
     <string name="btn_link_support">Пожертвовать</string>
+    <string name="txt_business">Похоже, вы используете приложение в коммерческих целях. Пожалуйста, рассмотрите возможность [[spt|поддержки]], спасибо.\n\n[[hdb|Отказ]]</string>
 
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
 
@@ -44,14 +45,15 @@ Timofey Lisunov
     <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
     <string name="hint_itemName">имя</string>
 
-    <string name="btn_openInWhatsapp">Открыть в WhatsApp</string>
+    <string name="btn_openInWhatsapp">Открыть</string>
     <string name="btn_shareLink">Ссылка</string>
     <string name="btn_shortcut">Ярлык</string>
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
+    <string name="chk_stripZeros">Удалять ведущие нули из кода и номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
     <string name="chk_keepprefix">Восстанавливать код страны [%1$s] при выходе из приложения</string>
-    <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию «поделиться», вызов, из недавних или буфера обмена)</string>
+    <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию \"поделиться\", вызов, из недавних или буфера обмена)</string>
     <string name="txt_mode">Режим открытия:</string>
     <string-array name="chl_openable">
         <item>По умолчанию: схема WhatsApp для Android</item>
@@ -73,12 +75,12 @@ Timofey Lisunov
     <string name="btn_link_helptranslations">Перевод</string>
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
-    <string name="error_nowhatsapp">Не удаётся открыть WhatsApp. [[wps|Он установлен?]]</string>
+    <string name="error_nowhatsapp">Невозможно открыть WhatsApp. [[wps|Он установлен?]]</string>
 
     <string name="toast_autoParser">"Автоматическое распознавание.
 Проверьте код страны!"</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>
-    <string name="toast_error_openLink">Не удаётся открыть ссылку</string>
+    <string name="toast_error_openLink">Невозможно открыть ссылку</string>
 
     <string name="title_sendTo">Открыть ссылку в:</string>
     <string name="title_chooseCountry">Коды стран:</string>
@@ -95,6 +97,7 @@ Timofey Lisunov
 
     <string name="cntDesc_appInfo">Информация о приложении</string>
     <string name="cntDesc_prefixSelector">Выбор кода страны</string>
+    <string name="cntDesc_clear">Очистить введённое</string>
     <string name="cntDesc_pasteClipboard">Вставить из буфера обмена</string>
     <string name="cntDesc_agenda">Список номеров</string>
     <string name="cntDesc_recentMessages">Недавние сообщения</string>
@@ -113,7 +116,7 @@ Timofey Lisunov
     <string name="addon_message_loadingCalls">Загрузка списка неизвестных номеров…</string>
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>
     <string name="addon_txt_loading">Ограничение последних неизвестные вызовов для сокращения времени загрузки (требуется модуль v1.2+). Установите \"0\", чтобы показать все:</string>
-    <string name="addon_txt_warning">Модуль найден, но подпись не совпадает [ошибка %d]. Убедитесь, что он установлен с официальной страницы (и это приложение из Play Store)</string>
+    <string name="addon_txt_warning">Модуль найден, но подпись не совпадает [ошибка %d]. Убедитесь, что он установлен с официальной страницы (и это приложение из Play Store).</string>
 
     <string name="lbl_shortcut">Открыть чат с %s</string>
 
@@ -129,5 +132,6 @@ Timofey Lisunov
     </string-array>
     <string name="cl_title">История изменений:</string>
     <string name="cl_more">показать ещё</string>
+    <string name="txt_newVersion">Приложение обновлено: [[chl|просмотр изменений]].\n\n[[hdc|Пропустить]]</string>
 
 </resources>

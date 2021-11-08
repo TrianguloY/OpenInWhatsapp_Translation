@@ -33,6 +33,7 @@ Faisal Aloufi
 استخدم هذا لإنشاء رابط واتس أب عند الضغط عليه ويمكنك تحدي رقم أو رسالة في مربع الإدخال"</string>
     <string name="txt_support">تطوير التطبيق يعتمد على دعمكم المستمر في حال رغبتكم في التبرع لذلك</string>
     <string name="btn_link_support">الدعم</string>
+    <string name="txt_business">يبدو أنك تستخدم التطبيق لأغراض تجارية. يرجى الأخذ بالإعتبار [[spt|دعم]], شكرا.\n\n[[hdb|تجاهل]]</string>
     <string name="txt_addonDescr">باستخدام هذا الملحق ، يمكنك السماح لهذا التطبيق بعرض قائمة بالمكالمات الحديثة غير المسجلة لديك للنقر عليها.</string>
     <string name="hint_editNumber">الرقم</string>
     <string name="hint_editPrefix">بداية</string>
@@ -43,6 +44,7 @@ Faisal Aloufi
     <string name="btn_shareLink">للمشاركة</string>
     <string name="btn_shortcut">اختصار</string>
     <string name="chk_mergeInputs">دمج الأرقام المدخلة</string>
+    <string name="chk_stripZeros">قم بإزالة الاصفار من البداية و الأرقام</string>
     <string name="chk_enableRecents">حفظ الأرقام / الرسائل الأخيرة.(سيؤدي تعطيله إلى مسح العناصر المحفوظة)</string>
     <string name="chk_hideInfo">إخفاء نص المساعدة من الشاشة الرئيسية</string>
     <string name="chk_keepprefix">استعادة البداية [%1$s] عند إغلاق التطبيق.</string>
@@ -81,6 +83,7 @@ Faisal Aloufi
     <string name="header_country">الدولة %1$s</string>
     <string name="cntDesc_appInfo">معلومات التطبيق</string>
     <string name="cntDesc_prefixSelector">اختار البداية</string>
+    <string name="cntDesc_clear">مسح المدخلات</string>
     <string name="cntDesc_pasteClipboard">لصق من الحافظة</string>
     <string name="cntDesc_agenda">جدول الأعمال</string>
     <string name="cntDesc_recentMessages">الرسائل الحديثة</string>
@@ -110,4 +113,5 @@ Faisal Aloufi
     </string-array>
     <string name="cl_title">التغيرات</string>
     <string name="cl_more">عرض أكثر</string>
+    <string name="txt_newVersion">تم تحديث التطبيق: [[chl|عرض التغييرات]]. \n\n[[hdc|استبعاد]]</string>
 </resources>

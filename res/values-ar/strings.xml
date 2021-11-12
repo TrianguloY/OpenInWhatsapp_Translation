@@ -15,7 +15,7 @@ Faisal Aloufi
 <resources>
 
     <string name="translated">.</string>
-    <string name="app_name">اسم البرنامج</string>
+    <string name="app_name">اضغط وتحدث</string>
     <string name="txt_about">صنع بواسطة [[tri|TrianguloY]]. لا يتبع هذا البرنامج برنامج الواتس اب.</string>
     <string name="txt_acknowledgements">"شكر خاص:
 شكر خاص %n لتوفيره الترجمة %l</string>
@@ -29,8 +29,7 @@ Faisal Aloufi
 
 مثال : التواصل مع رقم من السعودية أدخل كود السعودية +966 و بعد ذلك ادخل الرقم مباشرة في خانة الأرقام 0123456789</string>
     <string name="prefix_url">https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9</string>
-    <string name="txt_extra_description">"
-استخدم هذا لإنشاء رابط واتس أب عند الضغط عليه ويمكنك تحدي رقم أو رسالة في مربع الإدخال"</string>
+    <string name="txt_extra_description">كتب نص الرسالة للإرسال بواسطة "فتح" أو مشاركتها كرابط عن طريق "مشاركة" او "اختصار" للإرسال</string>
     <string name="txt_support">تطوير التطبيق يعتمد على دعمكم المستمر في حال رغبتكم في التبرع لذلك</string>
     <string name="btn_link_support">الدعم</string>
     <string name="txt_business">يبدو أنك تستخدم التطبيق لأغراض تجارية. يرجى الأخذ بالإعتبار [[spt|دعم]], شكرا.\n\n[[hdb|تجاهل]]</string>
@@ -41,10 +40,10 @@ Faisal Aloufi
     <string name="hint_prefAndNumber"><![CDATA[بداية الرقم]]></string>
     <string name="hint_itemName">الرقم</string>
     <string name="btn_openInWhatsapp">فتح</string>
-    <string name="btn_shareLink">للمشاركة</string>
+    <string name="btn_shareLink">مشاركة</string>
     <string name="btn_shortcut">اختصار</string>
     <string name="chk_mergeInputs">دمج الأرقام المدخلة</string>
-    <string name="chk_stripZeros">قم بإزالة الاصفار من البداية و الأرقام</string>
+    <string name="chk_stripZeros">امسح الأصفار من البداية ومن الأرقام</string>
     <string name="chk_enableRecents">حفظ الأرقام / الرسائل الأخيرة.(سيؤدي تعطيله إلى مسح العناصر المحفوظة)</string>
     <string name="chk_hideInfo">إخفاء نص المساعدة من الشاشة الرئيسية</string>
     <string name="chk_keepprefix">استعادة البداية [%1$s] عند إغلاق التطبيق.</string>
@@ -80,7 +79,7 @@ Faisal Aloufi
     <string name="title_agenda">جدول الأعمال</string>
     <string name="message_clearRecents">هل ترغب بمسح المحفوظات الحديثة ؟</string>
     <string name="header_code">بداية الرقم %1$s</string>
-    <string name="header_country">الدولة %1$s</string>
+    <string name="header_country">الدولة"قائمة" %1$s</string>
     <string name="cntDesc_appInfo">معلومات التطبيق</string>
     <string name="cntDesc_prefixSelector">اختار البداية</string>
     <string name="cntDesc_clear">مسح المدخلات</string>

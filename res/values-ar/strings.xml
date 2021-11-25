@@ -79,7 +79,7 @@ Faisal Aloufi
     <string name="title_agenda">جدول الأعمال</string>
     <string name="message_clearRecents">هل ترغب بمسح المحفوظات الحديثة ؟</string>
     <string name="header_code">بداية الرقم %1$s</string>
-    <string name="header_country">الدولة"قائمة" %1$s</string>
+    <string name="header_country">قائمة الدول %1$s</string>
     <string name="cntDesc_appInfo">معلومات التطبيق</string>
     <string name="cntDesc_prefixSelector">اختار البداية</string>
     <string name="cntDesc_clear">مسح المدخلات</string>

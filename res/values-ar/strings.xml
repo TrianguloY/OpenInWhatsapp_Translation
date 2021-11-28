@@ -99,7 +99,7 @@ Faisal Aloufi
     <string name="addon_message_loadingCalls">تحميل قائمة الأرقام المجهولة…</string>
     <string name="addon_toast_noCalls">لم يتم العثور على أرقام غير معروفة أو تعذر قراءتها</string>
     <string name="addon_txt_loading">قم بالحد من المكالمات غير المعروفة الأخيرة لتقليل وقت التحميل (يتطلب اصدار V1.2 +). اضبط على 0 لإظهار الكل:</string>
-    <string name="addon_txt_warning">تم الكشف عن الوظيفة الإضافية ، لكن غير متطابقة يرجى التأكد من تثبيته من الصفحة الرسمية (وهذا التطبيق من متجر Play)</string>
+    <string name="addon_txt_warning">تم الكشف عن الوظيفة الإضافية ، لكن غير متطابقة يرجى [%d] التأكد من تثبيته من الصفحة الرسمية (وهذا التطبيق من متجر Play)</string>
     <string name="lbl_shortcut">افتح المحادثة مع %s</string>
     <string name="error_instantApp">يمكن للتطبيقات الفورية فتح التطبيق الافتراضي فقط. إذا كانت لديك إصدارات متعددة (مثل WhatsApp و WhatsApp Business) ، فحاول تثبيت [[oiw|التطبيق الكامل]] (ملاحظة: ليست كل الإصدارات مدعومة).</string>
     <string name="title_instantApp">تطبيق فوري</string>

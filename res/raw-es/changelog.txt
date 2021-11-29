@@ -1,3 +1,9 @@
+V 4.0.1
+- Actualizada traducción al Indonesio y Árabe
+- La traducción al Indonesio está ahora también disponible en la versión de donación. Gracias a artmann (Dwi Legowo) y a Steven Felix for su permiso
+- Arreglado aviso sobre cambios tras primera instalación
+- Arreglados algunos errores poco frecuentes
+
 V 4.0
 - Multiples cambios visuales
 - Nuevo botón dedicado para borrar (se puede seguir pulsando atrás)

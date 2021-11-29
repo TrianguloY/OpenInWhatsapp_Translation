@@ -1,3 +1,9 @@
+V 4.0.1
+- Updated Indonesian and Arabic translations
+- Indonesian translation is now available on the donation version too. Thanks to artmann (Dwi Legowo) & Steven Felix for the permission
+- Fix changelog notification after fresh install
+- Fixed some very rare crashes
+
 V 4.0
 - Several style changes
 - New dedicated clear button (pressing back is still supported)

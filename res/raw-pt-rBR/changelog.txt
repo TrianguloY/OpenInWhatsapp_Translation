@@ -1,3 +1,20 @@
+V 4.0.1
+- Updated Indonesian and Arabic translations
+- Indonesian translation is now available on the donation version too. Thanks to artmann (Dwi Legowo) & Steven Felix for the permission
+- Fix changelog notification after fresh install
+- Fixed some very rare crashes
+
+V 4.0
+- Several style changes
+- New dedicated clear button (pressing back is still supported)
+- New setting to disable leading zeros removal
+- New Arabic translation. Many thanks to Faisal Aloufi!
+- New update notice is shown as message instead of popup
+- Fixed issue with zeros after area codes
+- Convert entered Arabic numbers
+- Removed support to Android 4.0.4 or older (same as WhatsApp)
+- Several internal fixes and cleanups
+
 V 3.3
 - Nova tradução em malaiala. Obrigado Thenur Mahesh Kannan!
 - Links de compartilhamento via 'https://'

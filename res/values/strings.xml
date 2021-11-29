@@ -131,7 +131,7 @@ Check the prefix!"</string>
 
     <string-array name="chl_notify">
         <item>Never notify</item>
-        <item>Notify on important features only</item>
+        <item>Notify on new important features only</item>
         <item>Notify on new features only</item>
         <item>Always notify</item>
     </string-array>

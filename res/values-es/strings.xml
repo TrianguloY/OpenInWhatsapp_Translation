@@ -94,7 +94,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="chk_autoopen">Abrir automáticamente cuando un número es autorellenado (compartir, marcar, recientes o portapapeles).</string>
     <string-array name="chl_notify">
         <item>No notificar nunca</item>
-        <item>Notificar sólo para funcionalidades importantes</item>
+        <item>Notificar sólo para nuevas funcionalidades importantes</item>
         <item>Notificar sólo para nuevas funcionalidades</item>
         <item>Notificar siempre</item>
     </string-array>

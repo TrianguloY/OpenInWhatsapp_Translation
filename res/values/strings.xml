@@ -76,7 +76,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="btn_link_playstore_open">Play Store (open)</string>
     <string name="btn_link_playstore_share">Play Store (share)</string>
     <string name="btn_link_apppage">App page</string>
-    <string name="btn_link_faq">Frecuently asked questions\n(FAQ) [English only]</string>
+    <string name="btn_link_faq">Frequently asked questions\n(FAQ) [English only]</string>
     <string name="btn_link_helptranslations">Translate</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>

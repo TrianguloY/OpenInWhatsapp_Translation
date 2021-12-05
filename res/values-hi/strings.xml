@@ -47,7 +47,7 @@ RaviDhoriya
     <string name="hint_editNumber">मोबाइल नंबर</string>
     <string name="hint_editPrefix">उपसर्ग</string>
     <string name="hint_message">संदेश जो स्वतः पूर्ण हो जाएगा (भेजा नहीं जाएगा)।</string>
-    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+    <string name="hint_prefAndNumber"><![CDATA[उपसर्ग & मोबाइल नंबर]]></string>
     <string name="hint_itemName">नाम</string>
 
     <string name="btn_openInWhatsapp">खोले</string>

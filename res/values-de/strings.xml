@@ -19,8 +19,8 @@ Benjamin Yılmaz Çetiner
 
     <string name="txt_about">Dıese App wurde entwickelt von [[tri|TrianguloY]]. Es besteht keinerlei Verbindung zu WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Danksagungen:
-Vielen Dank an %n für die Übersetzung in´s %l!"</string>
+    <string name="txt_acknowledgements">Danksagungen:</string>
+    <string name="txt_translators">Vielen Dank an %n für die Übersetzung in´s %l!</string>
 
     <string name="txt_changelanguage">Sie können die gewünschte Landessprache ändern (App startet sich neu).</string>
 

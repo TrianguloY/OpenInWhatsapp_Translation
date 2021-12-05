@@ -19,8 +19,8 @@ Thenur Mahesh Kannan
 
     <string name="txt_about">[[Tri|TrianguloY]] സൃഷ്ടിച്ച അപ്ലിക്കേഷൻ.  ഈ അപ്ലിക്കേഷൻ വാട്ട്‌സ്ആപ്പ് ഇങ്കുമായി അഫിലിയേറ്റ് ചെയ്തിട്ടില്ല.</string>
 
-    <string name="txt_acknowledgements">"അംഗീകാരങ്ങൾ:
-%l ലോക്കൽ പരിഭാഷ നൽകിയതിന് %n ന് നന്ദി!"</string>
+    <string name="txt_acknowledgements">അംഗീകാരങ്ങൾ:</string>
+    <string name="txt_translators">%l ലോക്കൽ പരിഭാഷ നൽകിയതിന് %n ന് നന്ദി!</string>
     <string name="txt_about_helptranslations">ഒരു വിവർത്തനത്തിൽ സഹായിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?  നിങ്ങൾക്ക് കൂടുതൽ വിവരങ്ങൾ ഇവിടെ കണ്ടെത്താം:</string>
 
     <string name="txt_changelanguage">ചുവടെയുള്ള ബട്ടൺ ക്ലിക്കുചെയ്ത് നിങ്ങൾക്ക് ആപ്പ് ഭാഷ മാറ്റാൻ കഴിയും (ആപ്പ് പുനരാരംഭിക്കും).</string>

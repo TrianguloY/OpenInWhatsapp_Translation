@@ -19,8 +19,8 @@ Armand Secco
 
     <string name="txt_about">App creata da [[tri|TrianguloY]]. Quest\'App non è legata a WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Grazie:
-Grazie a %n per la traduzione in %l!"</string>
+    <string name="txt_acknowledgements">Grazie:</string>
+    <string name="txt_translators">Grazie a %n per la traduzione in %l!</string>
     <string name="txt_about_helptranslations">Volete contribuire alla traduzione? Troverete più informazioni qui:</string>
 
     <string name="txt_changelanguage">Si può cambiare la lingua premendo il tasto qui sotto (l\'app si riavvierà).</string>

@@ -19,8 +19,8 @@ Yoni Cohen jonbir3
 
     <string name="txt_about">האפליקצייה נוצרה ע"י [[tri|TrianguloY]]. האפליקצייה לא קשורה לחברת וואטסאפ.</string>
 
-    <string name="txt_acknowledgements">"תודות:
-תודה ל %n על תרגום לשפה ה%l!"</string>
+    <string name="txt_acknowledgements">תודות:</string>
+    <string name="txt_translators">תודה ל %n על תרגום לשפה ה%l!</string>
     <string name="txt_about_helptranslations">אתה רוצה לעזור עם תרגום? תוכל למצוא מידע נוסף כאן: </string>
 
     <string name="txt_changelanguage">תוכל לשנות את שפת האפליקצייה על ידי לחיצה על הכפתור למטה (האפליקצייה תיפתח מחדש).</string>

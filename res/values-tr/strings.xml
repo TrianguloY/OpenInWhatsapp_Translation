@@ -19,8 +19,8 @@ Yusuf Emen
 
     <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
 
-    <string name="txt_acknowledgements">"Teşekkür:
-Rusça çeviri için %n\'a %l!"</string>
+    <string name="txt_acknowledgements">Teşekkür:</string>
+    <string name="txt_translators">Rusça çeviri için %n\'a %l!</string>
 
     <string name="txt_changelanguage">Aşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
 

@@ -19,8 +19,8 @@ Timofey Lisunov
 
     <string name="txt_about">Приложение создано [[tri|TrianguloY]]. Оно не аффилировано с WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Выражается благодарность:
-%n за перевод на %l язык!"</string>
+    <string name="txt_acknowledgements">Выражается благодарность:</string>
+    <string name="txt_translators">%n за перевод на %l язык!</string>
     <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь:</string>
 
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>

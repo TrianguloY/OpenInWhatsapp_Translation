@@ -38,8 +38,8 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="toast_copied">Copiado al portapapeles</string>
     <string name="txt_about">Aplicación creada por [[tri|TrianguloY]]. Esta aplicación no está asociada con WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Agradecimientos:
-¡Gracias a %n por la traducción al %l!"</string>
+    <string name="txt_acknowledgements">Agradecimientos:</string>
+    <string name="txt_translators">¡Gracias a %n por la traducción al %l!</string>
 
     <string name="txt_changelanguage">Puedes cambiar el idioma de la aplicación pulsando el botón de debajo (la aplicación se reiniciará).</string>
     <string name="toast_error_openLink">No se ha podido abrir el enlace</string>

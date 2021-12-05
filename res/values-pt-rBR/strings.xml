@@ -21,8 +21,8 @@ mezysinc
 
     <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse app não é afiliado ao WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Agradecimentos:
-Obrigado %n por disponibilizar a tradução em %l!"</string>
+    <string name="txt_acknowledgements">Agradecimentos:</string>
+    <string name="txt_translators">Obrigado %n por disponibilizar a tradução em %l!</string>
     <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais detalhes aqui:</string>
 
     <string name="txt_changelanguage">Você pode alterar o idioma do app clicando no botão abaixo (o app será reiniciado).</string>

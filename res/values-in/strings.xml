@@ -20,8 +20,8 @@ Steven Felix
 
     <string name="txt_about">Aplikasi ini dibuat oleh [[tri|TrianguloY]]. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Penghargaan:
-Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!"</string>
+    <string name="txt_acknowledgements">Penghargaan:</string>
+    <string name="txt_translators">Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!</string>
     <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya di sini:</string>
 
     <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol di bawah (aplikasi akan dimuat ulang).</string>

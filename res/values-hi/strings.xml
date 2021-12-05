@@ -19,8 +19,8 @@ RaviDhoriya
 
     <string name="txt_about">[[tri|TrianguloY]] द्वारा बनाया गया ऐप। यह ऐप WhatsApp Inc से संबद्ध नहीं है।</string>
 
-    <string name="txt_acknowledgements">"स्वीकृतियाँ:
-%l अनुवाद उपलब्ध कराने के लिए %n को धन्यवाद!"</string>
+    <string name="txt_acknowledgements">स्वीकृतियाँ:</string>
+    <string name="txt_translators">%l अनुवाद उपलब्ध कराने के लिए %n को धन्यवाद!</string>
     <string name="txt_about_helptranslations">क्या आप अनुवाद में मदद करना चाहते हैं? आप यहां और अधिक जानकारी प्राप्त कर सकते है:</string>
 
     <string name="txt_changelanguage">आप नीचे दिए गए बटन पर क्लिक करके ऐप की भाषा बदल सकते हैं (ऐप को फिर से शुरू किया जाएगा)।</string>

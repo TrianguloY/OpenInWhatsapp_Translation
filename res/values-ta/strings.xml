@@ -19,8 +19,8 @@ MageshBabu (mage1k99)
 
     <string name="txt_about">"[[tri|TrianguloY]] உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
 
-    <string name="txt_acknowledgements">"ஒப்புகைகள்:
- நன்றி %n வழங்குவதற்காக %l மொழி பேர்யுபு"</string>
+    <string name="txt_acknowledgements">ஒப்புகைகள்:</string>
+    <string name="txt_translators">நன்றி %n வழங்குவதற்காக %l மொழி பேர்யுபு</string>
     <string name="txt_about_helptranslations">மொழிபெயர்ப்புக்கு உதவ விரும்புகிறீர்களா?  மேலும் தகவல்களை இங்கே காணலாம்:</string>
 
     <string name="txt_changelanguage">கீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் பயன்பாட்டு மொழியை மாற்றலாம் (பயன்பாடு மறுதொடக்கம் செய்யப்படும்).</string>

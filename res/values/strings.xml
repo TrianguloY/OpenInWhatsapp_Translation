@@ -21,8 +21,8 @@ If you added/modified the following file add your name here to give credit:
 
     <string name="txt_about">App created by [[tri|TrianguloY]]. This app is not affiliated with WhatsApp Inc.</string>
 
-    <string name="txt_acknowledgements">"Acknowledgements:
-Thanks to %n for providing the %l locale translation!"</string>
+    <string name="txt_acknowledgements">Acknowledgements:</string>
+    <string name="txt_translators">Thanks to %n for providing the %l locale translation!</string>
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>

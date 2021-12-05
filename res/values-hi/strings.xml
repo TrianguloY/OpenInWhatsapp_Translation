@@ -13,9 +13,7 @@ RaviDhoriya
 
  -->
 <resources>
-    <!-- When translated, remove this line
     <string name="translated">.</string>
-    When translated, remove this line -->
 
     <string name="app_name">बातचीत के लिए क्लिक करें</string>
 

@@ -27,8 +27,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="btn_openInWhatsapp">Abrir</string>
     <string name="error_nowhatsapp">No se ha podido abrir WhatsApp. [[wps|¿Está instalado?]]</string>
     <string name="hint_editPrefix">Pref</string>
-    <string name="toast_autoParser">"Extracción automática.
-¡Comprueba el prefijo!"</string>
+    <string name="toast_autoParser">Extracción automática.\n¡Comprueba el prefijo!</string>
     <string name="btn_shareLink">Compartir</string>
     <string name="hint_message">Mensaje que será autocompletado, NO se enviará.</string>
     <string name="hint_prefAndNumber">Pref &amp; Número</string>

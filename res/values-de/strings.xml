@@ -48,8 +48,7 @@ Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 12
     <string name="error_badData">Fehler beim Öffnen; Daten falsch.</string>
     <string name="error_nowhatsapp">Kann nicht in WhatsApp geöffnet werden. [[wps|Ist WhatsApp auch (korrekt) installiert?]]</string>
 
-    <string name="toast_autoParser">"Automatischer Parser.
- Vorwahl korrekt?!"</string>
+    <string name="toast_autoParser">Automatischer Parser.\nVorwahl korrekt?!</string>
     <string name="toast_copied">In die Zwischenablage kopiert</string>
     <string name="toast_error_openLink">Link kann nicht geladen werden</string>
 

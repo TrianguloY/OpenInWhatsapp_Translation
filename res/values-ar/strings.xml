@@ -67,7 +67,7 @@ Faisal Aloufi
     <string name="btn_link_helptranslations">الترجمة</string>
     <string name="error_badData">خطأ أثناء الفتح أو بيانات خاطئة</string>
     <string name="error_nowhatsapp">تعذر فتح تطبيق الواتس اب , هل قمت بتثبيت برنامج الواتس أب ؟</string>
-    <string name="toast_autoParser">"تحليل تلقائي تأكد من بدابة الادخال"</string>
+    <string name="toast_autoParser">تحليل تلقائي\nتأكد من بدابة الادخال</string>
     <string name="toast_copied">نسخ إلى الحافظة</string>
     <string name="toast_error_openLink">تعذر فتح الرابط</string>
     <string name="title_sendTo">ارسال الرابط إلى :</string>

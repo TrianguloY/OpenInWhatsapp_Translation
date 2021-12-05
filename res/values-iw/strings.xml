@@ -61,8 +61,7 @@ Yoni Cohen jonbir3
     <string name="error_badData">שגיאה בעת פתיחת המספר. קלט שגוי.</string>
     <string name="error_nowhatsapp">לא יכול לפתוח את הוואטסאפ. [[wps|האם הוא מותקן?]]</string>
 
-    <string name="toast_autoParser">"מנתח אוטומטי.
-בדוק את הקידומת!"</string>
+    <string name="toast_autoParser">מנתח אוטומטי.\nבדוק את הקידומת!</string>
     <string name="toast_copied">הועתק ללוח</string>
     <string name="toast_error_openLink">לא יכול לפתוח את הלינק</string>
 

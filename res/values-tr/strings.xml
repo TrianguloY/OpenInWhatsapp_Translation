@@ -49,8 +49,7 @@ Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasın
     <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
     <string name="error_nowhatsapp">WhatsApp açılamadı. [[wps|Uygulama kurulu mu?]]</string>
 
-    <string name="toast_autoParser">"Otomatik ayrıştırıcı.
-Ülke kodunu kontrol edin."</string>
+    <string name="toast_autoParser">Otomatik ayrıştırıcı.\nÜlke kodunu kontrol edin.</string>
     <string name="toast_copied">Panoya kopyalandı.</string>
     <string name="toast_error_openLink">Bağlantı yüklenemedi.</string>
 

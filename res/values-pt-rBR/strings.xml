@@ -79,7 +79,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
 
-    <string name="toast_autoParser">"Processo automático. Verifique o prefixo!"</string>
+    <string name="toast_autoParser">Processo automático.\nVerifique o prefixo!</string>
     <string name="toast_copied">Copiado ao Clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
 

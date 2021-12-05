@@ -22,12 +22,14 @@ If you added/modified the following file add your name here to give credit:
     <string name="txt_about">App created by [[tri|TrianguloY]]. This app is not affiliated with WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Acknowledgements:</string>
-    <string name="txt_translators">Thanks to %n for providing the %l locale translation!</string>
+    <string name="txt_translators">Thanks to %n for providing the %l locale translation!</string><!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
     <string name="txt_availocales">Only locales available [[lcl|in your device]] are installed, to reduce app size.</string>
 
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (COUNTRY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
     <string name="txt_description">"This app uses WhatsApp public api to open a chat with any number you enter. No contact is created on the device.
 More info [[wfq|here]].
 
@@ -82,8 +84,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="error_badData">Error while opening. Incorrect data</string>
     <string name="error_nowhatsapp">Couldn\'t open WhatsApp. [[wps|Is it installed?]]</string>
 
-    <string name="toast_autoParser">"Automatic parser.
-Check the prefix!"</string>
+    <string name="toast_autoParser">Automatic parser.\nCheck the prefix!</string>
     <string name="toast_copied">Copied to clipboard</string>
     <string name="toast_error_openLink">Could not open link</string>
 

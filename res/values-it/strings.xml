@@ -58,8 +58,7 @@ Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="error_badData">Errore durante l\'invio. Dati errati</string>
     <string name="error_nowhatsapp">Impossibile di avviare WhatsApp. [[wps|È installato?]]</string>
 
-    <string name="toast_autoParser">"Analizzatore automatico.
-Controlla il prefisso!"</string>
+    <string name="toast_autoParser">Analizzatore automatico.\nControlla il prefisso!</string>
     <string name="toast_copied">Copiato negli appunti</string>
     <string name="toast_error_openLink">Impossibile collegare</string>
 

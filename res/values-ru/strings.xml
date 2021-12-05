@@ -77,8 +77,7 @@ Timofey Lisunov
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
     <string name="error_nowhatsapp">Невозможно открыть WhatsApp. [[wps|Он установлен?]]</string>
 
-    <string name="toast_autoParser">"Автоматическое распознавание.
-Проверьте код страны!"</string>
+    <string name="toast_autoParser">Автоматическое распознавание.\nПроверьте код страны!</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>
     <string name="toast_error_openLink">Невозможно открыть ссылку</string>
 

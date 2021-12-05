@@ -61,8 +61,7 @@ MageshBabu (mage1k99)
     <string name="error_badData">திறக்கும் போது பிழை. தவறான தரவு</string>
     <string name="error_nowhatsapp">வாட்ஸ்அப்பைத் திறக்க முடியவில்லை. [[wps|Is it installed?]]</string>
 
-    <string name="toast_autoParser">"தானியங்கி பாகுபடுத்தி.
-முன்னொட்டை சரிபார்க்கவும்!"</string>
+    <string name="toast_autoParser">தானியங்கி பாகுபடுத்தி.\nமுன்னொட்டை சரிபார்க்கவும்!</string>
     <string name="toast_copied">கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது</string>
     <string name="toast_error_openLink">இணைப்பைத் திறக்க முடியவில்லை</string>
 

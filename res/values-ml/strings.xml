@@ -77,7 +77,7 @@ Thenur Mahesh Kannan
     <string name="error_badData">തുറക്കുമ്പോൾ പിശക്.  തെറ്റായ ഡാറ്റ </string>
     <string name="error_nowhatsapp">വാട്ട്‌സ്ആപ്പ് തുറക്കാൻ കഴിഞ്ഞില്ല.  [[wps|ഇത് ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ടോ?]]</string>
 
-    <string name="toast_autoParser">"ഓട്ടോമാറ്റിക് പാർസർ. പ്രിഫിക്സ് പരിശോധിക്കുക!"</string>
+    <string name="toast_autoParser">ഓട്ടോമാറ്റിക് പാർസർ.\nപ്രിഫിക്സ് പരിശോധിക്കുക!</string>
     <string name="toast_copied">ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
     <string name="toast_error_openLink">ലിങ്ക് തുറക്കാൻ കഴിഞ്ഞില്ല</string>
 

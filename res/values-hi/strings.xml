@@ -80,8 +80,7 @@ RaviDhoriya
     <string name="error_badData">खोलते समय त्रुटि। गलत आंकड़े</string>
     <string name="error_nowhatsapp">WhatsApp नहीं खोल सका. [[wps|क्या यह इनस्टॉल है?]]</string>
 
-    <string name="toast_autoParser">"स्वचालित पार्सर।
-उपसर्ग की जाँच करें!"</string>
+    <string name="toast_autoParser">स्वचालित पार्सर।\nउपसर्ग की जाँच करें!</string>
     <string name="toast_copied">क्लिपबोर्ड पर कॉपी किया गया</string>
     <string name="toast_error_openLink">लिंक नहीं खोला जा सका</string>
 

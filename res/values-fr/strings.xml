@@ -58,8 +58,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
     <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. [[wps|Est-il installé?]]</string>
 
-    <string name="toast_autoParser">"Analyseur automatique.
-Contrôlez le préfixe!"</string>
+    <string name="toast_autoParser">Analyseur automatique.\nContrôlez le préfixe!</string>
     <string name="toast_copied">Copié dans le presse-papiers</string>
     <string name="toast_error_openLink">Impossible d\'ouvrir le lien</string>
 

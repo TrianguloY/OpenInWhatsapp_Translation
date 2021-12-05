@@ -27,8 +27,7 @@ Exemplo: para +351 (Portugal) 123 456 7890 escreva 351 1234567890"</string>
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>
     <string name="btn_openInWhatsapp">Abrir</string>
     <string name="hint_editPrefix">Prefixo</string>
-    <string name="toast_autoParser">"Analisador automático.
-Verifique o prefixo!"</string>
+    <string name="toast_autoParser">Analisador automático.\nVerifique o prefixo!</string>
     <string name="btn_shareLink">Compartilhar</string>
     <string name="hint_message">Mensagem que será preenchida automaticamente, NÃO ENVIAREMOS.</string>
     <string name="hint_prefAndNumber">Prefixo &amp; Número</string>

@@ -19,28 +19,28 @@ mezysinc
 
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse App não é afiliado ao WhatsApp Inc.</string>
+    <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse app não é afiliado ao WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">"Agradecimentos:
-Obrigado à %n por disponibilizar a tradução em %l!"</string>
-    <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais informações aqui:</string>
+Obrigado %n por disponibilizar a tradução em %l!"</string>
+    <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais detalhes aqui:</string>
 
-    <string name="txt_changelanguage">Você pode alterar o idioma do App clicando no botão abaixo (o App será reiniciado).</string>
-    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu dispositivo]] estão instalados, para reduzir o tamanho do aplicativo.</string>
+    <string name="txt_changelanguage">Você pode alterar o idioma do app clicando no botão abaixo (o app será reiniciado).</string>
+    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu aparelho]] estão instalados, a fim de reduzir o tamanho do app.</string>
 
-    <string name="txt_description">"Este App usa o API público do WhatsApp para abrir um Chat com qualquer número que você digitar. Nenhum contato é criado no dispositivo!
-Mais informações [[wfq|aqui]].
+    <string name="txt_description">"Este app usa o API público do WhatsApp para abrir uma conversa com qualquer número que você digitar. Nenhum contato é criado no aparelho!
+Mais detalhes [[wfq|aqui]].
 
-Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais informações [[hlp|aqui]]. Você pode clicar no botão \'+\' para escolher prefixo da lista.
-
-Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
+Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais detalhes [[hlp|aqui]]. Toque na palavra País para escolher prefixo da lista.
+p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
     <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas NÃO será, repito, NÃO será enviada).</string>
 
-    <string name="txt_support">Sendo um App gratuito, sem anúncios, nem compras \'In-App\', o desenvolvimento e as atualizações dependem da aceitação e suporte das pessoas como você.</string>
+    <string name="txt_support">Sendo um app gratuito, sem anúncios, nem compras dentro do app, o desenvolvimento e as atualizações dependem da aceitação e suporte das pessoas como você.</string>
     <string name="btn_link_support">Suporte</string>
+    <string name="txt_business">Parece que você está usando o app para fins comerciais. Por favor, considere [[spt|apoiar]], obrigado.\n\n[[hdb|Descartar]]</string>
 
-    <string name="txt_addonDescr">Com esta extensão você consegue visualizar uma lista de chamadas recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
+    <string name="txt_addonDescr">Com esta extensão você consegue ver a lista de ligações recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto, e sem anúncios.</string>
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
@@ -52,9 +52,9 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
     <string name="btn_shareLink">Compartilhar</string>
     <string name="btn_shortcut">Atalho</string>
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
-    <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar esta opção, os salvos serão excluídos)</string>
-    <string name="chk_hideInfo">Ocultar o texto de ajuda da tela principal</string>
-    <string name="chk_keepprefix">Restaurar o prefixo [%1$s] ao sair do App.</string>
+    <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
+    <string name="chk_hideInfo">Esconder o texto de ajuda da tela principal</string>
+    <string name="chk_keepprefix">Recupere o prefixo [%1$s] ao sair do app.</string>
     <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recentes ou clipboard).</string>
     <string name="txt_mode">Modo de abrir:</string>
     <string-array name="chl_openable">
@@ -64,7 +64,7 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
         <item>Predefinido: Garante que funciona com o WhatsApp oficial e Business.</item>
         <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, porque a validade de número não está sendo verificada</item>
     </string-array>
-    <string name="txt_jidWarning">Este recurso usa um protocolo não documentado do Whatsapp e pode parar ou não funcionar de forma correta. A menos que isto já foi consertado, parece não verificar a validade dos números, de modo que um chat será aberto embora o número pode não existir. Note que o uso deste modo não é recomendado por causa dos resultados desconhecidos.\n\nVocê quer continuar mesmo assim?</string>
+    <string name="txt_jidWarning">Este modo usa um protocolo não documentado do Whatsapp, ele pode parar ou não funcionar de forma correta. A menos que isto já foi consertado, parece não verificar a validade dos números, de modo que um chat será aberto embora o número pode não existir. Observe que o uso deste modo não é recomendado por causa de resultados desconhecidos.\n\nVocê realmente quer continuar?</string>
     <string name="btn_addonLink">Extensão</string>
 
     <string name="msg_warnShare">O link que você vai compartilhar contém o número de telefone em texto puro. Pessoas com acesso ao link poderão ver o número. Se for um número pessoal, não compartilhe este link publicamente.</string>
@@ -72,21 +72,21 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
 
     <string name="btn_link_playstore_open">Loja do Google Play (abrir)</string>
     <string name="btn_link_playstore_share">Loja do Google Play (compartilhar)</string>
-    <string name="btn_link_apppage">Site do App</string>
+    <string name="btn_link_apppage">Site do app</string>
     <string name="btn_link_faq">Perguntas mais frequentes\n(FAQ) [Somente em inglês]</string>
     <string name="btn_link_helptranslations">Traduzir</string>
 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
 
-    <string name="toast_autoParser">"Processo automático. Verifica o prefixo!"</string>
+    <string name="toast_autoParser">"Processo automático. Verifique o prefixo!"</string>
     <string name="toast_copied">Copiado ao Clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
 
-    <string name="title_sendTo">Enviar link para:</string>
+    <string name="title_sendTo">Enviar o link para:</string>
     <string name="title_chooseCountry">Prefixos por país:</string>
-    <string name="title_chooseApp">Escolher o App:</string>
-    <string name="title_clearRecents">Limpar os recentes:</string>
+    <string name="title_chooseApp">Escolher o app:</string>
+    <string name="title_clearRecents">Excluir os recentes:</string>
     <string name="title_pinned">Afixados:</string>
     <string name="title_recents">Recentes:</string>
     <string name="title_agenda">Agenda:</string>
@@ -96,14 +96,15 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
     <string name="header_code">Prefixo %1$s</string>
     <string name="header_country">País %1$s</string>
 
-    <string name="cntDesc_appInfo">Informações do App</string>
+    <string name="cntDesc_appInfo">Detalhes do app</string>
     <string name="cntDesc_prefixSelector">Seletor do prefixo</string>
+    <string name="cntDesc_clear">Remover conteúdo</string>
     <string name="cntDesc_pasteClipboard">Colar do Clipboard</string>
     <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
-    <string name="cntDesc_calls">Chamadas desconhecidas</string>
+    <string name="cntDesc_calls">Ligações desconhecidas</string>
     <string name="cntDesc_toggleAdv">Abrir opções avançadas</string>
-    <string name="cntDesc_appLogo">Logo do App</string>
+    <string name="cntDesc_appLogo">Logo do app</string>
     <string name="cntDesc_addons">Abrir site da Extensão</string>
     <string name="cntDesc_settings">Configurações</string>
     <string name="cntDesc_delete">Excluir</string>
@@ -113,16 +114,16 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
     <string name="util_close">Fechar</string>
     <string name="util_none">Nenhum</string>
 
-    <string name="addon_message_loadingCalls">Carregando lista de chamadas desconhecidas…</string>
+    <string name="addon_message_loadingCalls">Carregando lista de ligações desconhecidas…</string>
     <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
-    <string name="addon_txt_loading">Limitar as chamadas desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Definir 0 para mostrar todos:</string>
-    <string name="addon_txt_warning">A extensão foi detectada porem sua assinatura nas corresponde [Error %d]. Certifique-se de que foi instalada da pagina oficial (assim como este App da loja do Google Play)</string>
+    <string name="addon_txt_loading">Limitar as ligações desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Digite 0 para mostrar todos:</string>
+    <string name="addon_txt_warning">A extensão foi detectada porem a sua assinatura nas corresponde [Erro %d]. Certifique-se de que foi instalada da pagina oficial (assim como este app da loja do Google Play)</string>
 
-    <string name="lbl_shortcut">Abrir um chat com %s</string>
+    <string name="lbl_shortcut">Abrir uma conversa com %s</string>
 
-    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp e WhatsApp Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
+    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp e WA Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
     <string name="title_instantApp">App instantâneo</string>
-    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num aplicativo instantâneo. Se você quiser usá-la, instale o App da Loja do Google Play.</string>
+    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num app instantâneo. Se você quiser usá-la, instale o app da Loja do Google Play.</string>
 
     <string-array name="chl_notify">
         <item>Nunca notifique</item>
@@ -132,5 +133,6 @@ Exemplo: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número d
     </string-array>
     <string name="cl_title">Modificações:</string>
     <string name="cl_more">Ver mais</string>
+    <string name="txt_newVersion">O app foi atualizado: [[chl|ver modificações]].\n\n[[hdc|Descartada]]</string>
 
 </resources>

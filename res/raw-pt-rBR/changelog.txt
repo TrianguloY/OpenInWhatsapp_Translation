@@ -1,19 +1,19 @@
 V 4.0.1
-- Updated Indonesian and Arabic translations
-- Indonesian translation is now available on the donation version too. Thanks to artmann (Dwi Legowo) & Steven Felix for the permission
-- Fix changelog notification after fresh install
-- Fixed some very rare crashes
+- Atualizadas traduções em indonésio e árabe
+- Agora a tradução em indonésio também está disponível na versão por doação. Agradecimentos a artmann (Dwi Legowo) & Steven Felix pela permissão
+- Consertado o aviso com o histórico de mudanças após nova instalação
+- Corrigidas algumas falhas muito raras
 
 V 4.0
-- Several style changes
-- New dedicated clear button (pressing back is still supported)
-- New setting to disable leading zeros removal
-- New Arabic translation. Many thanks to Faisal Aloufi!
-- New update notice is shown as message instead of popup
-- Fixed issue with zeros after area codes
-- Convert entered Arabic numbers
-- Removed support to Android 4.0.4 or older (same as WhatsApp)
-- Several internal fixes and cleanups
+- Várias mudanças de aspecto
+- Novo botão dedicado de limpeza (clique para trás também está suportado)
+- Nova configuração para desativar a exclusão de zeros precedentes
+- Nova tradução em árabe. Obrigado Faisal Aloufi!
+- Novo aviso de atualização é mostrado como mensagem ao invés de diálogo separado
+- Consertado erro com zeros após do código de área
+- Conversão de números digitados em árabe
+- Removido suporte para Android 4.0.4 ou mais antigo (mesmo que o WhatsApp)
+- Vários consertos e limpezas internas
 
 V 3.3
 - Nova tradução em malaiala. Obrigado Thenur Mahesh Kannan!
@@ -56,7 +56,7 @@ V 2.12
 
 V 2.11.1
 - Atualizadas traduções em indonésio e russo
-- Consertada falha em versão instantâneo do App 
+- Consertada falha em versão instantâneo do App
 
 V 2.11
 - Nova opção: Reusar o prefixo ao fechar

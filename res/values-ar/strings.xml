@@ -37,7 +37,7 @@ Faisal Aloufi
     <string name="hint_editNumber">الرقم</string>
     <string name="hint_editPrefix">بداية</string>
     <string name="hint_message">لن يتم إرسال الرسالة التي سيتم إكمالها تلقائيًا.</string>
-    <string name="hint_prefAndNumber"><![CDATA[بداية الرقم]]></string>
+    <string name="hint_prefAndNumber">بداية الرقم</string>
     <string name="hint_itemName">الرقم</string>
     <string name="btn_openInWhatsapp">فتح</string>
     <string name="btn_shareLink">مشاركة</string>

@@ -43,7 +43,7 @@ Thenur Mahesh Kannan
     <string name="hint_editNumber">നമ്പർ</string>
     <string name="hint_editPrefix">പ്രിഫിക്സ്</string>
     <string name="hint_message">സന്ദേശം യാന്ത്രികമായി പൂർത്തിയാകും, അയച്ചില്ല.</string>
-    <string name="hint_prefAndNumber"><![CDATA[പ്രിഫിക്സ് & നമ്പർ]]></string>
+    <string name="hint_prefAndNumber">പ്രിഫിക്സ് &amp; നമ്പർ</string>
     <string name="hint_itemName">പേര്</string>
 
     <string name="btn_openInWhatsapp">തുറക്കുക</string>

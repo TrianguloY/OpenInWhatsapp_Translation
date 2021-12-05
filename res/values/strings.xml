@@ -4,7 +4,7 @@ Permission given to translate only.
 
 Instructions for manual translation:
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
@@ -47,7 +47,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="hint_editNumber">Number</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+    <string name="hint_prefAndNumber">Pref &amp; Number</string><!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
     <string name="hint_itemName">name</string>
 
     <string name="btn_openInWhatsapp">Open</string>

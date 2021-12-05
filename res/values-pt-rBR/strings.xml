@@ -45,7 +45,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
     <string name="hint_message">Mensagem que será inserida, mas NÃO enviada.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Prefixo e Número]]></string>
+    <string name="hint_prefAndNumber">Prefixo e Número</string>
     <string name="hint_itemName">Nome</string>
 
     <string name="btn_openInWhatsapp">Abrir</string>

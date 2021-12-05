@@ -31,7 +31,7 @@ Exemplo: para +351 (Portugal) 123 456 7890 escreva 351 1234567890"</string>
 Verifique o prefixo!"</string>
     <string name="btn_shareLink">Compartilhar</string>
     <string name="hint_message">Mensagem que será preenchida automaticamente, NÃO ENVIAREMOS.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Prefixo & Número]]></string>
+    <string name="hint_prefAndNumber">Prefixo &amp; Número</string>
     <string name="title_sendTo">Enviar link para:</string>
     <string name="title_chooseCountry">Prefixo por país:</string>
     <string name="toast_copied">Copiado para a área de transferência</string>

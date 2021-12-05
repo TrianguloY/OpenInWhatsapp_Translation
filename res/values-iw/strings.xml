@@ -41,7 +41,7 @@ Yoni Cohen jonbir3
     <string name="hint_editNumber">מספר</string>
     <string name="hint_editPrefix">קידומת</string>
     <string name="hint_message">הודעה שתושלם אוטומטית, לא תישלח לבד.</string>
-    <string name="hint_prefAndNumber"><![CDATA[קידומת & מספר]]></string>
+    <string name="hint_prefAndNumber">קידומת &amp; מספר</string>
     <string name="hint_itemName">שם</string>
 
     <string name="btn_openInWhatsapp">פתיחה</string>

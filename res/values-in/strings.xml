@@ -45,7 +45,7 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
     <string name="hint_editNumber">Nomor</string>
     <string name="hint_editPrefix">Awalan</string>
     <string name="hint_message">Pesan yang terisi otomatis, TIDAK dikirim.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Awalan & Nomor]]></string>
+    <string name="hint_prefAndNumber">Awalan &amp; Nomor</string>
     <string name="hint_itemName">Nama</string>
 
     <string name="btn_openInWhatsapp">Buka</string>

@@ -40,7 +40,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="hint_editNumber">Numéro</string>
     <string name="hint_editPrefix">Préf</string>
     <string name="hint_message">Message qui sera complété automatiquement, mais PAS envoyé.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Préfixe & Numéro]]></string>
+    <string name="hint_prefAndNumber">Préfixe &amp; Numéro</string>
 
     <string name="btn_openInWhatsapp">Ouvrir</string>
     <string name="btn_shareLink">Partager</string>

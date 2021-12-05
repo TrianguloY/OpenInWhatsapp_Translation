@@ -40,7 +40,7 @@ Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="hint_editNumber">Numero</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Messaggio che verrà completato automaticamente, ma NON inviato.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Prefisso & Numero]]></string>
+    <string name="hint_prefAndNumber">Prefisso &amp; Numero</string>
 
     <string name="btn_openInWhatsapp">Aprire</string>
     <string name="btn_shareLink">Condividere</string>

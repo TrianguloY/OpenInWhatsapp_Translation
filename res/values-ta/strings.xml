@@ -41,7 +41,7 @@ MageshBabu (mage1k99)
     <string name="hint_editNumber">எண்ணையும்</string>
     <string name="hint_editPrefix"> தேசிய முன்னொட்டு</string>
     <string name="hint_message">தானாக முடிக்கப்படும் செய்தி அனுப்பப்படவில்லை.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Pref & Number]]></string>
+    <string name="hint_prefAndNumber">Pref &amp; Number</string>
     <string name="hint_itemName">பெயர்</string>
 
     <string name="btn_openInWhatsapp">திர</string>

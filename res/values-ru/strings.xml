@@ -42,7 +42,7 @@ Timofey Lisunov
     <string name="hint_editNumber">Номер</string>
     <string name="hint_editPrefix">Код</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
-    <string name="hint_prefAndNumber"><![CDATA[Код и номер телефона]]></string>
+    <string name="hint_prefAndNumber">Код и номер телефона</string>
     <string name="hint_itemName">имя</string>
 
     <string name="btn_openInWhatsapp">Открыть</string>

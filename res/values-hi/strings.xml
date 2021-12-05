@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+
+
+If you added/modified the following file add your name here to give credit:
+RaviDhoriya
+
+ -->
+<resources>
+    <!-- When translated, remove this line
+    <string name="translated">.</string>
+    When translated, remove this line -->
+
+    <string name="app_name">बातचीत के लिए क्लिक करें</string>
+
+    <string name="txt_about">[[tri|TrianguloY]] द्वारा बनाया गया ऐप। यह ऐप WhatsApp Inc से संबद्ध नहीं है।</string>
+
+    <string name="txt_acknowledgements">"स्वीकृतियाँ:
+%l अनुवाद उपलब्ध कराने के लिए %n को धन्यवाद!"</string>
+    <string name="txt_about_helptranslations">क्या आप अनुवाद में मदद करना चाहते हैं? आप यहां और अधिक जानकारी प्राप्त कर सकते है:</string>
+
+    <string name="txt_changelanguage">आप नीचे दिए गए बटन पर क्लिक करके ऐप की भाषा बदल सकते हैं (ऐप को फिर से शुरू किया जाएगा)।</string>
+    <string name="txt_availocales">ऐप के आकार को कम करने के लिए केवल [[lcl|आपके डिवाइस में]] उपलब्ध भाषाएँ इंस्टॉल किए गए हैं।</string>
+
+    <string name="txt_description">"यह ऐप आपके द्वारा दर्ज किए गए किसी भी नंबर से चैट खोलने के लिए व्हाट्सएप पब्लिक एपीआई का उपयोग करता है। डिवाइस पर कोई संपर्क नहीं बनाया गया है।
+अधिक जानकारी [[wfq|यहां]]।
+
+संख्या और [[prf|उपसर्ग]] बिना किसी अतिरिक्त वर्ण के डालें, केवल संख्या 0–9। अधिक जानकारी [[hlp|यहां]]। सूची में से चुनने के लिए आप देश बटन पर क्लिक कर सकते हैं।
+उदाहरण: +91 (India) 123 456 7890 के लिये 91 1234567890 लिखो"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
+    <string name="prefix_url">https://hi.wikipedia.org/wiki/देशों_के_दूरभाष_कूट_की_सूची</string>
+    <string name="txt_extra_description">इसका उपयोग एक लिंक बनाने के लिए करें जो क्लिक करने पर व्हाट्सएप खुल जाएगा। आप एक संख्या और/या एक संदेश निर्दिष्ट कर सकते हैं जो इनपुट बॉक्स पर रखा जाएगा (मैं दोहराता हूं, मैं संदेश नहीं भेजूंगा)।</string>
+
+    <!-- Note to translators: These three strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <string name="txt_support">विज्ञापनों के बिना और न ही ऐप खरीदने के बिना, प्रगति और अपडेट आपके स्वागत और समर्थन पर आधारित हैं।</string>
+    <string name="btn_link_support">समर्थन</string>
+    <string name="txt_business">ऐसा प्रतीत होता है कि आप व्यावसायिक उद्देश्यों के लिए ऐप का उपयोग कर रहे हैं। कृपया [[spt|समर्थन]] पर विचार करें, धन्यवाद।\n\n[[hdb|त्यागें]]</string>
+
+    <string name="txt_addonDescr">इस ऐडऑन के साथ आप इस ऐप को क्लिक करने के लिए अज्ञात हालिया कॉलों की सूची दिखाने की अनुमति दे सकते हैं। चिंता न करें: यह मुफ़्त है, एक तस्वीर से छोटा है, और कोई विज्ञापन नहीं है।</string>
+
+    <string name="hint_editNumber">मोबाइल नंबर</string>
+    <string name="hint_editPrefix">उपसर्ग</string>
+    <string name="hint_message">संदेश जो स्वतः पूर्ण हो जाएगा (भेजा नहीं जाएगा)।</string>
+    <string name="hint_prefAndNumber"><![CDATA[उपसर्ग & मोबाइल नंबर]]></string>
+    <string name="hint_itemName">नाम</string>
+
+    <string name="btn_openInWhatsapp">खोले</string>
+    <string name="btn_shareLink">शेयर</string>
+    <string name="btn_shortcut">शॉर्टकट</string>
+    <string name="chk_mergeInputs">उपसर्ग और मोबाइल नंबर मर्ज करें</string>
+    <string name="chk_stripZeros">उपसर्ग और मोबाइल नंबर से अग्रणी शून्य हटा दें</string>
+    <string name="chk_enableRecents">हाल के नंबरों/संदेशों को सेव करें। (इसे अक्षम करने से सेव किये गए रिकॉर्ड्स साफ़ हो जाएंगे)</string>
+    <string name="chk_hideInfo">मुख्य स्क्रीन से सहायता पाठ छुपाएं</string>
+    <string name="chk_keepprefix">ऐप बंद होने पर प्रीफ़िक्स [%1$s] पुनर्स्थापित करें।</string>
+    <string name="chk_autoopen">जब कोई नंबर स्वतः भर जाता है तो स्वचालित रूप से खोलें (साझा करें, कॉल करें, हाल ही में या क्लिपबोर्ड।</string>
+    <string name="txt_mode">खोलने का तरीका:</string>
+    <string-array name="chl_openable">
+        <item>डिफ़ॉल्ट: एंड्रॉयड व्हाट्सएप योजना का उपयोग करता है</item>
+        <item>वेब: वेब योजना का उपयोग करता है, ब्राउज़र भी दिखा सकता है</item>
+        <item>एसएमएस: एसएमएस से संबंधित इरादे का उपयोग करता है, अन्य मैसेजिंग ऐप भी दिखा सकता है [नोट: टेक्स्ट भेजना हमेशा समर्थित नहीं लगता है]</item>
+        <item>पूर्वनिर्धारित: सुनिश्चित करता है कि यह आधिकारिक व्हाट्सएप और व्हाट्सएप बिजनेस ऐप के लिए काम करता है।</item>
+        <item>[खतरा] JID: एक आंतरिक WhatsApp योजना का उपयोग करता है। इस मोड का उपयोग करना हतोत्साहित किया जाता है क्योंकि ऐसा लगता है कि संख्याओं को अस्तित्व के लिए जाँचा नहीं गया है</item>
+    </string-array>
+    <string name="txt_jidWarning">यह मोड एक गैर-दस्तावेजी व्हाट्सएप इरादे का उपयोग करता है और काम करना बंद कर सकता है या गलत तरीके से ऐसा कर सकता है। ये वैध नंबरों की पहले से जांच नहीं करता है, इसलिए एक चैट खुल जाएगी, भले ही नंबर मौजूद न हो। ध्यान दें कि अज्ञात परिणामों के कारण इस मोड का उपयोग करना हतोत्साहित किया जाता है।\n\nअपने जोखिम पर जारी रखें?</string>
+    <string name="btn_addonLink">ऐड ऑन</string>
+
+    <string name="msg_warnShare">आप जिस लिंक को साझा करने जा रहे हैं, उसमें सादा पाठ में दर्ज किया गया फ़ोन नंबर है। लिंक तक पहुंच वाले सभी लोगों के पास नंबर तक पहुंच होगी। यदि यह एक व्यक्तिगत नंबर है तो लिंक को सार्वजनिक रूप से साझा न करें।</string>
+    <string name="btn_noWarn">फिर से चेतावनी न दें</string>
+
+    <string name="btn_link_playstore_open">प्ले स्टोर (खोले )</string>
+    <string name="btn_link_playstore_share">प्ले स्टोर (शेयर)</string>
+    <string name="btn_link_apppage">ऐप पेज</string>
+    <string name="btn_link_faq">अक्सर पूछे जाने वाले प्रश्न\n(FAQ) [केवल अंग्रेज़ी]</string>
+    <string name="btn_link_helptranslations">अनुवाद करें</string>
+
+    <string name="error_badData">खोलते समय त्रुटि। गलत आंकड़े</string>
+    <string name="error_nowhatsapp">WhatsApp नहीं खोल सका. [[wps|क्या यह इनस्टॉल है?]]</string>
+
+    <string name="toast_autoParser">"स्वचालित पार्सर।
+उपसर्ग की जाँच करें!"</string>
+    <string name="toast_copied">क्लिपबोर्ड पर कॉपी किया गया</string>
+    <string name="toast_error_openLink">लिंक नहीं खोला जा सका</string>
+
+    <string name="title_sendTo">यहां लिंक भेजें:</string>
+    <string name="title_chooseCountry">देश के अनुसार उपसर्ग:</string>
+    <string name="title_chooseApp">ऐप चुनें:</string>
+    <string name="title_clearRecents">हालिया साफ़ करें:</string>
+    <string name="title_pinned">पिन किया हुआ:</string>
+    <string name="title_recents">हाल का:</string>
+    <string name="title_agenda">एजेंडा:</string>
+
+    <string name="message_clearRecents">क्या आप सभी हाल को हटाना चाहते हैं?</string>
+
+    <string name="header_code">उपसर्ग %1$s</string>
+    <string name="header_country">देश %1$s</string>
+
+    <string name="cntDesc_appInfo">ऐप की जानकारी</string>
+    <string name="cntDesc_prefixSelector">उपसर्ग चयनकर्ता</string>
+    <string name="cntDesc_clear">इनपुट साफ़ करें</string>
+    <string name="cntDesc_pasteClipboard">क्लिपबोर्ड से पेस्ट करें</string>
+    <string name="cntDesc_agenda">एजेंडा</string>
+    <string name="cntDesc_recentMessages">हाल के संदेश</string>
+    <string name="cntDesc_calls">अज्ञात कॉल</string>
+    <string name="cntDesc_toggleAdv">उन्नत टॉगल करें</string>
+    <string name="cntDesc_appLogo">ऐप लोगो</string>
+    <string name="cntDesc_addons">एडऑन पेज खोलें</string>
+    <string name="cntDesc_settings">सेटिंग्स</string>
+    <string name="cntDesc_delete">हटाएं</string>
+    <string name="cntDesc_togglepin">पिन/अनपिन</string>
+    <string name="cntDesc_filter">फिल्टर</string>
+
+    <string name="util_close">बंद करे</string>
+    <string name="util_none">कोई नहीं</string>
+
+    <string name="addon_message_loadingCalls">अज्ञात कॉल सूची लोड हो रही है…</string>
+    <string name="addon_toast_noCalls">कोई अज्ञात नंबर नहीं मिला या पढ़ा नहीं जा सका</string>
+    <string name="addon_txt_loading">लोडिंग समय को कम करने के लिए हाल ही में अज्ञात कॉलों को सीमित करें (एडऑन V1.2+ की आवश्यकता है)। सभी दिखाने के लिए 0 पर सेट करें:</string>
+    <string name="addon_txt_warning">ऐडऑन का पता चला था, लेकिन उसके हस्ताक्षर मेल नहीं खाते [त्रुटि %d]। कृपया सुनिश्चित करें कि आपने इसे आधिकारिक पेज (और Play Store से यह ऐप) से इंस्टॉल किया है।</string>
+
+    <string name="lbl_shortcut">%s के साथ एक चैट खोलें</string>
+
+    <string name="error_instantApp">इंस्टेंट ऐप केवल डिफ़ॉल्ट ऐप खोल सकते हैं। यदि आपके पास एकाधिक संस्करण हैं (जैसे WhatsApp और WhatsApp Business) तो [[oiw|पूर्ण ऐप]] इंस्टॉल करने का प्रयास करें (नोट: सभी वर्जन समर्थित नहीं हैं)।</string>
+    <string name="title_instantApp">इंस्टेंट ऐप्स</string>
+    <string name="message_instantApp">इंस्टेंट ऐप में \'%s\' सुविधा उपलब्ध नहीं है। यदि आप इसका उपयोग करना चाहते हैं तो कृपया Play Store से ऐप इंस्टॉल करें।</string>
+
+    <string-array name="chl_notify">
+        <item>कभी सूचित न करें</item>
+        <item>केवल नई महत्वपूर्ण सुविधाओं पर सूचित करें</item>
+        <item>केवल नई सुविधाओं पर सूचित करें</item>
+        <item>हमेशा सुचित करें</item>
+    </string-array>
+    <string name="cl_title">चेंजलॉग:</string>
+    <string name="cl_more">और दिखाओ</string>
+    <string name="txt_newVersion">ऐप अपडेट किया गया था: [[chl|परिवर्तन देखें]]।\n\n[[hdc|खारिज करें]]</string>
+
+</resources>

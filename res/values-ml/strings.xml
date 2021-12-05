@@ -30,7 +30,7 @@ Thenur Mahesh Kannan
 കൂടുതൽ വിവരങ്ങൾ [[wfq|ഇവിടെ]].
 
 അധിക പ്രതീകങ്ങളൊന്നുമില്ലാതെ നമ്പറും [[prf|പ്രിഫിക്‌സും] ചേർക്കുക, 0–9 അക്കങ്ങൾ മാത്രം.  കൂടുതൽ വിവരങ്ങൾ [[hlp|ഇവിടെ]].  ഒരു ലിസ്റ്റിൽ നിന്ന് തിരഞ്ഞെടുക്കാൻ നിങ്ങൾക്ക് \'+\' ഇനത്തിൽ ക്ലിക്ക് ചെയ്യാം.
- ഉദാഹരണം: +44 (യുകെ) 123 456 7890 റൈറ്റ് 44 1234567890 "</string>
+ ഉദാഹരണം: +44 (യുകെ) 123 456 7890 റൈറ്റ് 44 1234567890 "</string>
     <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
     <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
     <string name="txt_extra_description">ക്ലിക്കുചെയ്യുമ്പോൾ വാട്ട്‌സ്ആപ്പ് തുറക്കുന്ന ഒരു ലിങ്ക് സൃഷ്‌ടിക്കാൻ ഇത് ഉപയോഗിക്കുക.  ഇൻപുട്ട് ബോക്സിൽ സ്ഥാപിക്കുന്ന ഒരു നമ്പറും കൂടാതെ / അല്ലെങ്കിൽ ഒരു സന്ദേശവും നിങ്ങൾക്ക് വ്യക്തമാക്കാൻ കഴിയും (ഞാൻ ആവർത്തിക്കില്ല, സന്ദേശം അയയ്ക്കില്ല).</string>

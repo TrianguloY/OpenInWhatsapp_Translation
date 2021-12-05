@@ -32,7 +32,7 @@ Obrigado %n por disponibilizar a tradução em %l!"</string>
 Mais detalhes [[wfq|aqui]].
 
 Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais detalhes [[hlp|aqui]]. Toque na palavra País para escolher prefixo da lista.
-p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
+p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
     <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas NÃO será, repito, NÃO será enviada).</string>
 

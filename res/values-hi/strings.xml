@@ -32,9 +32,9 @@ RaviDhoriya
 अधिक जानकारी [[wfq|यहां]]।
 
 संख्या और [[prf|उपसर्ग]] बिना किसी अतिरिक्त वर्ण के डालें, केवल संख्या 0–9। अधिक जानकारी [[hlp|यहां]]। सूची में से चुनने के लिए आप देश बटन पर क्लिक कर सकते हैं।
-उदाहरण: +44 (UK) 123 456 7890 के लिये 44 1234567890 लिखो"</string>
+उदाहरण: +91 (India) 123 456 7890 के लिये 91 1234567890 लिखो"</string>
     <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
-    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
+    <string name="prefix_url">https://hi.wikipedia.org/wiki/देशों_के_दूरभाष_कूट_की_सूची</string>
     <string name="txt_extra_description">इसका उपयोग एक लिंक बनाने के लिए करें जो क्लिक करने पर व्हाट्सएप खुल जाएगा। आप एक संख्या और/या एक संदेश निर्दिष्ट कर सकते हैं जो इनपुट बॉक्स पर रखा जाएगा (मैं दोहराता हूं, मैं संदेश नहीं भेजूंगा)।</string>
 
     <!-- Note to translators: These three strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->

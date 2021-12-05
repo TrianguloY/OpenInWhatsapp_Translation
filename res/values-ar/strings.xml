@@ -63,7 +63,7 @@ Faisal Aloufi
     <string name="btn_link_playstore_open">متجر قوقل (فتح)</string>
     <string name="btn_link_playstore_share">متجر قوقل (مشاركة)</string>
     <string name="btn_link_apppage">صفحة التطبيق</string>
-    <string name="btn_link_faq">أسئلة متداولة \n (FAQ) [بالإنجليزية فقط]</string>
+    <string name="btn_link_faq">أسئلة متداولة \n (FAQ)</string>
     <string name="btn_link_helptranslations">الترجمة</string>
     <string name="error_badData">خطأ أثناء الفتح أو بيانات خاطئة</string>
     <string name="error_nowhatsapp">تعذر فتح تطبيق الواتس اب , هل قمت بتثبيت برنامج الواتس أب ؟</string>

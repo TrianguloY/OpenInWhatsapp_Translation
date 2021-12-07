@@ -32,10 +32,8 @@ Info lebih lanjut klik [[wfq|di sini]].
 
 Masukkan nomor dan [[prf|awalan]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik pada tombol negara untuk memilih dari daftar.
 Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
-    <!-- Pada teks di bawah ini ubah tautan wikipedia ke lokal Anda (buka wikipedia, ubah lokal dan salin/tempel tautan). Jika ada tempat umum dan lebih baik daripada wikipedia untuk daftar kode negara dalam bahasa Anda, gunakan yang itu  -->
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
     <string name="txt_extra_description">Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
-    <!-- Catatan untuk penerjemah: Tiga string berikut ini hanya akan terlihat jika diterjemahkan, karena saya merasa tidak pantas meminta dukungan dengan terjemahan yang tidak saya buat. Anda tidak perlu menerjemahkannya jika tidak mau (opsi akan disembunyikan), tetapi jika Anda masih ingin terlihat pada bahasa yang Anda terjemahkan, silahkan terjemahkan (jika Anda juga memiliki halaman/tautan dukungan saya akan dengan senang hati menampilkannya di sini.)  -->
     <string name="txt_support">Menjadi aplikasi gratis tanpa iklan atau pembelian, kemajuan dan pembaruan didasarkan pada penerimaan dan dukungan dari Anda.</string>
     <string name="btn_link_support">Dukung</string>
     <string name="txt_business">Tampaknya Anda menggunakan aplikasi untuk keperluan bisnis, mohon pertimbangkan [[spt|dukungan]], terimakasih.\n\n[[hdb|Buang]]</string>

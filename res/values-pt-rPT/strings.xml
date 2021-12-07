@@ -16,12 +16,12 @@ Matheus Damacs
     <string name="translated">.</string>
 
     <string name="app_name">Conversa em um Clique</string>
-    <string name="txt_description">"Este aplicativo usa a API pública do WhatsApp para abrir um bate–papo com qualquer número que você inserir. Nenhum contato é criado no dispositivo. 
+    <string name="txt_description">"Este aplicativo usa a API pública do WhatsApp para abrir um bate–papo com qualquer número que você inserir. Nenhum contato é criado no dispositivo.
 Mais informações [[wfq|aqui]].
 
 Insira o número e o [[prf|prefixo]] sem caracteres extras, apenas números de 0–9. Mais informações [[hlp|aqui]]. Você pode clicar no \'+\' item para escolher de uma lista.
 Exemplo: para +351 (Portugal) 123 456 7890 escreva 351 1234567890"</string>
-    <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
+    <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">Use isso para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será colocada na caixa de entrada (NÃO, repito, NÃO enviarei a mensagem).</string>
     <string name="hint_editNumber">Número</string>
     <string name="error_badData">Erro ao abrir. Dados incorretos</string>

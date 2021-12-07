@@ -1,6 +1,7 @@
 V 4.0.1
-- Actualizada traducción al Indonesio y Árabe
+- Nueva traducción al Hindi. Muchas gracias a RaviDhoriya!
 - La traducción al Indonesio está ahora también disponible en la versión de donación. Gracias a artmann (Dwi Legowo) y a Steven Felix for su permiso
+- Actualizaciones de otras traducciones
 - Arreglado aviso sobre cambios tras primera instalación
 - Arreglados algunos errores poco frecuentes
 

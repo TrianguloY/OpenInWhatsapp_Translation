@@ -1,6 +1,7 @@
 V 4.0.1
-- Atualizadas traduções em indonésio e árabe
+- New Hindi translation. Many thanks to RaviDhoriya!
 - Agora a tradução em indonésio também está disponível na versão por doação. Agradecimentos a artmann (Dwi Legowo) & Steven Felix pela permissão
+- Updated other translations
 - Consertado o aviso com o histórico de mudanças após nova instalação
 - Corrigidas algumas falhas muito raras
 

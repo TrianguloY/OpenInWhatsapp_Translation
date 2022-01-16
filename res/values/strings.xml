@@ -46,10 +46,12 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
     <string name="txt_extra_description">Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message).</string>
 
-    <!-- These three strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Being a free without ads nor purchases app, the progress and updates are based on the reception and support from you.</string>
     <string name="btn_link_support">Support</string>
     <string name="txt_business">It appears you are using the app for business purposes. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
+    <string name="txt_longUser">It appears you have been using the app for quite some time. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
+
 
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 

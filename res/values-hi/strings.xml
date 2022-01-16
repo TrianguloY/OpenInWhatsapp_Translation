@@ -9,10 +9,16 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit:
-RaviDhoriya
 
  -->
 <resources>
+
+    <!--<string name="language">English</string>-->
+
+    <!--<string name="translators">RaviDhoriya</string>-->
+
+    <!--<string name="donation_permission">yes/no</string>-->
+
     <string name="translated">.</string>
 
     <string name="app_name">बातचीत के लिए क्लिक करें</string>

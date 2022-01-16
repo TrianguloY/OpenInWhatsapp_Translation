@@ -3,26 +3,33 @@ strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
--Translate only the text between <string name="..." > ... </string> and <item> ... </item>
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
 -Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
-
-
-If you added/modified the following file add your name here to give credit:
-
-
- -->
+-->
 <resources>
-    <!-- When translated, remove this line
-    <string name="translated">.</string>
-    When translated, remove this line -->
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
+    <!--<string name="language">English</string>-->
 
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
+    <!--<string name="translators">TrianguloY</string>-->
+
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free -->
+    <!--<string name="donation_permission">yes/no</string>-->
+
+    <!-- When translated, uncomment the following element (the previous ones are not needed) -->
+    <!--<string name="translated">.</string>-->
+
+    <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Click to chat</string>
 
     <string name="txt_about">App created by [[tri|TrianguloY]]. This app is not affiliated with WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Acknowledgements:</string>
-    <string name="txt_translators">Thanks to %n for providing the %l locale translation!</string><!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
+    <string name="txt_translators">Thanks to %n for providing the %l locale translation!</string>
     <string name="txt_about_helptranslations">Do you want to help with a translation? You can find more information here:</string>
 
     <string name="txt_changelanguage">You can change the app language by clicking the button below (the app will be restarted).</string>
@@ -35,11 +42,11 @@ More info [[wfq|here]].
 
 Insert the number and the [[prf|prefix]] with no extra characters, only numbers 0–9. More info [[hlp|here]]. You can click on the country button to choose from a list.
 Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
-    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead -->
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the country code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
     <string name="prefix_url">https://en.wikipedia.org/wiki/List_of_country_calling_codes#Alphabetical_listing_by_country_or_region</string>
     <string name="txt_extra_description">Use this to create a link that will open WhatsApp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message).</string>
 
-    <!-- Note to translators: These three strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <!-- These three strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Being a free without ads nor purchases app, the progress and updates are based on the reception and support from you.</string>
     <string name="btn_link_support">Support</string>
     <string name="txt_business">It appears you are using the app for business purposes. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
@@ -49,7 +56,8 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="hint_editNumber">Number</string>
     <string name="hint_editPrefix">Pref</string>
     <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
-    <string name="hint_prefAndNumber">Pref &amp; Number</string><!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
+    <string name="hint_prefAndNumber">Pref &amp; Number</string>
     <string name="hint_itemName">name</string>
 
     <string name="btn_openInWhatsapp">Open</string>

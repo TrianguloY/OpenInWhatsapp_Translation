@@ -9,10 +9,17 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit:
-Yusuf Emen
+
 
  -->
 <resources>
+
+    <!--<string name="language">English</string>-->
+
+    <!--<string name="translators">Yusuf Emen</string>-->
+
+    <!--<string name="donation_permission">yes/no</string>-->
+
     <string name="translated">.</string>
 
     <string name="app_name">Tıkla Sohbet Et</string>

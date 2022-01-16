@@ -9,11 +9,15 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit:
-Richard Anderson (Hirai RCD)
-mezysinc
 
  -->
 <resources>
+
+    <!--<string name="language">English</string>-->
+
+    <!--<string name="translators">Richard Anderson (Hirai RCD) & mezysinc</string>-->
+
+    <!--<string name="donation_permission">yes/no</string>-->
 
     <string name="translated">.</string>
 

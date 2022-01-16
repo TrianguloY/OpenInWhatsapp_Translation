@@ -9,10 +9,12 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit:
-TrianguloY
 
  -->
 <resources>
+    <!--<string name="language">English</string>-->
+    <!--<string name="translators">TrianguloY</string>-->
+    <!--<string name="donation_permission">yes/no</string>-->
     <string name="translated">.</string>
 
     <string name="app_name">Click para chatear</string>

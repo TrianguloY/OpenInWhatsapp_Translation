@@ -9,11 +9,16 @@ Instructions for manual translation:
 
 
 If you added/modified the following file add your name here to give credit:
-artmann (Dwi Legowo)
-Steven Felix
 
  -->
 <resources>
+
+    <!--<string name="language">English</string>-->
+
+    <!--<string name="translators">artmann (Dwi Legowo) & Steven Felix</string>-->
+
+    <!--<string name="donation_permission">yes/no</string>-->
+
     <string name="translated">.</string>
 
     <string name="app_name">Klik untuk Chat</string>

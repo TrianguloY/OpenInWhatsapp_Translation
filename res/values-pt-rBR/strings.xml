@@ -52,6 +52,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="btn_shareLink">Compartilhar</string>
     <string name="btn_shortcut">Atalho</string>
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
+    <string name="chk_stripZeros">Excluir zeros à frente do prefixo e número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
     <string name="chk_hideInfo">Esconder o texto de ajuda da tela principal</string>
     <string name="chk_keepprefix">Recupere o prefixo [%1$s] ao sair do app.</string>

@@ -133,6 +133,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="addon_toast_noCalls">No unknown numbers found or couldn\'t be read</string>
     <string name="addon_txt_loading">Limit the recent unknown calls to reduce loading time (requires addon V1.2+). Set to 0 to show all:</string>
     <string name="addon_txt_warning">The addon was detected, but its signature doesn\'t match [Error %d]. Please make sure you have installed it from the official page (and this app from the Play Store)</string>
+    <string name="addon_reload">reload</string>
 
     <string name="lbl_shortcut">Open a chat with %s</string>
 

@@ -14,7 +14,7 @@ If you added/modified the following file add your name here to give credit:
 <resources>
     <!--<string name="language">English</string>-->
     <!--<string name="translators">Faisal Aloufi</string>-->
-    <!--<string name="donation_permission">yes/no</string>-->
+    <!--<string name="donation_permission">unknown</string>-->
     <string name="translated">.</string>
     <string name="app_name">اضغط وتحدث</string>
     <string name="txt_about">صنع بواسطة [[tri|TrianguloY]]. لا يتبع هذا البرنامج برنامج الواتس اب.</string>

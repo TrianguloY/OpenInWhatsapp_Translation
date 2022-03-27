@@ -16,8 +16,8 @@ Instructions for manual translation:
     <!--<string name="translators">TrianguloY</string>-->
 
     <!-- Permission to use in the donation version-->
-    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free -->
-    <!--<string name="donation_permission">yes/no</string>-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
+    <!--<string name="donation_permission">yes</string>-->
 
     <!-- When translated, uncomment the following element (the previous ones are not needed) -->
     <!--<string name="translated">.</string>-->

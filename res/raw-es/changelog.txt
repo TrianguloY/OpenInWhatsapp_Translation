@@ -1,3 +1,8 @@
+V 4.1
+- Soporte experimental de Telegram, actívalo en ajustes
+- Mejorado el refresco de la lista de llamadas del addon
+- Ligera mejora al mostrar mensajes de error
+
 V 4.0.1
 - Nueva traducción al Hindi. Muchas gracias a RaviDhoriya!
 - La traducción al Indonesio está ahora también disponible en la versión de donación. Gracias a artmann (Dwi Legowo) y a Steven Felix for su permiso

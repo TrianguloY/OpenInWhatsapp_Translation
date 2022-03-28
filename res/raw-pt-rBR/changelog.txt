@@ -1,3 +1,8 @@
+V 4.1
+- Experimental Telegram support, enable it in settings
+- Improved recent calls addon refresh
+- Slight optimization when displaying errors
+
 V 4.0.1
 - Nova tradução em hindi. Obrigado RaviDhoriya!
 - Agora a tradução em indonésio também está disponível na versão por doação. Agradecimentos a artmann (Dwi Legowo) & Steven Felix pela permissão

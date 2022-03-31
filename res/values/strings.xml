@@ -99,6 +99,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
 
     <string name="toast_autoParser">Automatic parser.\nCheck the prefix!</string>
     <string name="toast_copied">Copied to clipboard</string>
+    <string name="toast_empty">Clipboard contains no numbers</string>
     <string name="toast_error_openLink">Could not open link</string>
 
     <string name="title_sendTo">Send link to:</string>

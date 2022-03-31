@@ -2,6 +2,7 @@ V 4.1
 - Tema claro
 - Soporte experimental de Telegram, actívalo en ajustes
 - Mejorado el refresco de la lista de llamadas del addon
+- Botón del portapapeles siempre activo (desactivada la comprobación automática)
 - Ligera mejora al mostrar mensajes de error
 
 V 4.0.1

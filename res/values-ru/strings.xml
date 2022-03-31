@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-strings.xml file from Click to chat app by TrianguloY.
-Permission given to translate only.
-
-Instructions for manual translation:
--Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
-- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
-
-
-If you added/modified the following file add your name here to give credit:
-
-
- -->
+-->
 <resources>
 
-    <!--<string name="language">English</string>-->
+    <!--<string name="language">Русский</string>-->
 
     <!--<string name="translators">Timofey Lisunov</string>-->
 
@@ -43,6 +31,8 @@ If you added/modified the following file add your name here to give credit:
     <string name="txt_support">Поскольку это бесплатное приложение без рекламы и внутренних покупок, развитие и обновления зависят от вашей поддержки.</string>
     <string name="btn_link_support">Пожертвовать</string>
     <string name="txt_business">Похоже, вы используете приложение в коммерческих целях. Пожалуйста, рассмотрите возможность [[spt|поддержки]], спасибо.\n\n[[hdb|Отказ]]</string>
+    <string name="txt_longUser">Похоже, вы используете приложение уже довольно долго. Пожалуйста, рассмотрите возможность [[spt|поддержки]], спасибо.\n\n[[hdb|Отказ]]</string>
+
 
     <string name="txt_addonDescr">С помощью данного модуля приложение сможет показывать список неизвестных номеров из журнала вызовов с возможностью их открыть. Не волнуйтесь: он бесплатный, маленький и без рекламы.</string>
 
@@ -70,6 +60,9 @@ If you added/modified the following file add your name here to give credit:
         <item>[ОСТОРОЖНО] JID: внутренняя схема WhatsApp [не рекомендуется, номер не проверяется]</item>
     </string-array>
     <string name="txt_jidWarning">Этот режим использует недокументированный вызов WhatsApp, он может перестать работать или отработать неправильно. Похоже, WhatsApp не проверяет корректность ввода и чат будет открыт, даже если номер не существует. Использование данного режима не рекомендуется из-за неизвестных последствий.\n\nПродолжить на свой страх и риск?</string>
+    <string name="chk_telegram">Поддержка Telegram (экспериментально)</string>
+    <string name="txt_telegram">Обратите внимание, что для возможности открыть номер ссылкой t.me/+123, пользователь должен установить его видимым для всех и разрешить нахождение через поиск. И почти никто этого не делает.\nТак что, если вы не знаете человека, этот вариант бесполезен (Telegram даже не сообщит, что номер не удалось открыть, а просто откроет главный экран как обычно без ошибок).\nПопробовать можно, но вас предупредили.</string>
+    <string name="chk_light">Светлая тема (приложение перезапустится)</string>
     <string name="btn_addonLink">Модуль</string>
 
     <string name="msg_warnShare">Ссылка, которой вы собираетесь поделиться, содержит номер телефона в виде обычного текста. Все, у кого будет доступ к ссылке, будут иметь доступ и к номеру. Если это личный номер, не делитесь ссылкой публично.</string>
@@ -123,6 +116,7 @@ If you added/modified the following file add your name here to give credit:
     <string name="addon_toast_noCalls">Вызовы с неизвестных номеров не найдены или не могут быть прочитаны</string>
     <string name="addon_txt_loading">Ограничение последних неизвестные вызовов для сокращения времени загрузки (требуется модуль v1.2+). Установите \"0\", чтобы показать все:</string>
     <string name="addon_txt_warning">Модуль найден, но подпись не совпадает [ошибка %d]. Убедитесь, что он установлен с официальной страницы (и это приложение из Play Store).</string>
+    <string name="addon_reload">перезагрузить</string>
 
     <string name="lbl_shortcut">Открыть чат с %s</string>
 

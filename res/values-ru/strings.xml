@@ -79,6 +79,7 @@
 
     <string name="toast_autoParser">Автоматическое распознавание.\nПроверьте код страны!</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>
+    <string name="toast_empty">В буфере обмена нет номера</string>
     <string name="toast_error_openLink">Невозможно открыть ссылку</string>
 
     <string name="title_sendTo">Открыть ссылку в:</string>

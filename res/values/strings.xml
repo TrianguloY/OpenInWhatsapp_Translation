@@ -80,6 +80,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
         <item>[DANGER] JID: Uses an internal WhatsApp scheme. Using this mode is discouraged as numbers seems to not be checked for existence</item>
     </string-array>
     <string name="txt_jidWarning">This mode uses an undocumented WhatsApp intent and may stop working or do so incorrectly. Unless already fixed, it seems to avoid checking for valid numbers so a chat will open even if the number doesn\'t exist. Note that using this mode is discouraged because of unknown consequences.\n\nContinue at your own risk?</string>
+    <string name="chk_signal">Signal support</string>
     <string name="chk_telegram">Experimental Telegram support</string>
     <string name="txt_telegram">Note that, in order for a number to be opened with the t.me/+123 link, the user must set it as "publicly visible" and allow being found by it. And almost no one does that.\nSo, unless you know the person, I assure you this option is useless (Telegram doesn\'t even say that the number couldn\'t be opened, it simply opens the main screen as normal without errors).\nYou can still try it, but you\'ve been warned.</string>
     <string name="chk_light">Use light theme (the app will restart)</string>

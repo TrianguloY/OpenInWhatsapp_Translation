@@ -1,6 +1,6 @@
 V 4.1
 - Light theme
-- Experimental Telegram support, enable it in settings
+- Experimental Telegram and Signal support, enable it in settings
 - Improved recent calls addon refresh
 - Clipboard button always enabled (removed automatic background check)
 - Slight optimization when displaying errors

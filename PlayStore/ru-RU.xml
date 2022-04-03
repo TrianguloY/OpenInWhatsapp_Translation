@@ -13,14 +13,14 @@ If you added/modified the following file add your name here to give credit:
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
-    <title max_chars="50">Прямая связь [без рекламы]</title>
+    <title max_chars="30">Прямая связь</title>
 
     <description_short max_chars="80">Откройте чат WhatsApp с любым номером (вы и этот номер).</description_short>
 
     <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
     <description_long max_chars="4000">
 Отказ от ответственности: это приложение не связано и не одобрено WhatsApp Inc.
-Предыдущее название «Открыть в WhatsApp (прямая связь)» изменено в соответствии с рекомендациями WhatsApp.
+Предыдущее название «Открыть в WhatsApp (прямая связь) [без рекламы]» изменено в соответствии с рекомендациями WhatsApp и Google.
 ------------------
 
 «Для чего это приложение?» Ответ часто понимают неправильно: вы можете открыть чат в официальном приложении WhatsApp (или Business) с другим пользователем просто по его номеру. Данное приложение просто заменяет метод с сохранением номера в адресную книгу. Оно НЕ позволяет «шпионить за чужими чатами», «связываться с номерами без WhatsApp», «скрывать свой номер» или делать другие подобные вещи. Это то же самое, что нажать на неизвестный номер в группе, вручную создать URL-ссылку или сохранить номер контакта в адресную книгу.
@@ -42,10 +42,6 @@ If you added/modified the following file add your name here to give credit:
 
 Создание ссылки:
 Можно создать URL-ссылку, которая будет открывать WhatsApp с указанным номером. Это функция WhatsApp, вам не потребуется данное приложение, чтобы открыть ссылку, оно только помогает её создать.
-Также можно добавить текст сообщения, который будет автоматически вставлен (но НЕ будет, повторяю, НЕ будет отправлен, пока пользователь вручную не нажмёт кнопку отправки).
-Если вы укажете только текст сообщения без номера, WhatsApp спросит, кому его отправить (опять же, сообщение НЕ будет автоматически отправлено, только вставлен текст).
-Вы можете сохранить ссылку как ярлык, поделиться им, чтобы люди могли связаться с вами (в ссылке виден ваш номер, будьте осторожны), установить предопределённое сообщение на сайте, чтобы «поделиться им в WhatsApp», и т.д. Помните, вам не нужно данное приложение, чтобы открыть ссылку, она обрабатывается WhatsApp.
-Скрытый ярлык: нажмите и удерживайте кнопку «Ссылка», чтобы быстро скопировать ссылку в буфер обмена.
 
 Списки недавних:
 При открытии номера он сохраняется в списке недавних на случай, если вы захотите открыть его снова. Вы также можете закреплять номера и присваивать им имена, а также создавать ярлыки.
@@ -55,7 +51,7 @@ If you added/modified the following file add your name here to give credit:
 Это приложение-инструмент: простое и лёгкое. Никаких дополнительных функций, никакого лишнего размера, никаких опасных разрешений, никакой рекламы… только функция открыть-в-WhatsApp (с каждым обновлением я добавляю небольшие связанные с основной функции, но хочу, чтобы приложение оставалось простым и лёгким).
 
 Перевод:
-Благодарю Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan и Faisal Aloufi за их переводы!
+Благодарю Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi и RaviDhoriya за их переводы!
 
 Используемые разрешения:
 ЯРЛЫК: для создания ярлыков на рабочем столе.

@@ -11,11 +11,11 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <parameters dir="rtl">
-    <title max_chars="50">הקלקה לצ'אט</title>
+    <title max_chars="30">הקלקה לצ'אט</title>
     <description_short max_chars="80">שוחח בוואטסאפ עם כל מספר אפילו אם אינו באנשי הקשר שלך.</description_short>
     <description_long max_chars="4000">
 הסתייגות: האפליקצייה לא קשורה או מאושרת ע"י חברת WhatsApp.
-שם קודם: "Open in WhatsApp (click to chat)", השם שונה כדי לעמוד בהנחיות של חברת וואטסאפ.
+שם קודם: "Open in WhatsApp (click to chat) [small, no ads]", השם שונה כדי לעמוד בהנחיות של חברת וואטסאפ.
 ---------
 
 'למה האפליקצייה משמשת? הרי תמיד אפשר להיכנס לאפליקצייה הרשמית של וואטסאפ ולשלוח הודעה אם המספר ידוע!' התשובה היא שניתן לשלוח מהאפליקצייה הרשמית רק אם המספר שמור באנשי הקשר. האפליקצייה מחליפה את הצורך לשמור את המספר באנשי הקשר כדי לשלוח הודעת וואטסאפ, היא מאפשרת לשלוח הודעה לכל מספר גם אם אינו שמור. האפליקצייה לא מאפשרת 'לזייף שיחת וואטסאפ', 'לשוחח עם מספר גם אם אין לי וואטסאפ', 'להסתיר את המספר שלי' או כל מיני דברים משוגעים אחרים. האפליקצייה מבצעת בסך הכל פעולה דומה ללחיצה על מספר לא מוכר בקבוצת וואטסאפ, היא יוצרת לינק לצורך השיחה באפליקציית וואטסאפ עצמה גם אם המספר לא שמור.
@@ -51,7 +51,7 @@ If you added/modified the following file add your name here to give credit:
 האפליקצייה הינה כלי עזר: פשוטה וקלת משקל. ללא פיצ'רים מיותרים, ללא משקל מנופח, ללא הרשאות, ללא מודעות... אך ורק הפיצ'ר של פתיחה-עם-וואטסאפ (בכל עדכון אני אוסיף פיצ'רים קשורים, אבל אני אשמור על האפליקצייה פשוטה וקלה ככל האפשר).
 
 תרגום:
-תודה ל- Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) Steven Felix, mezysinc, Thenur Mahesh Kannan & Faisal Aloufi על התרגומים!
+תודה ל- Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo) Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi & RaviDhoriya על התרגומים!
 
 הרשאות משתמש:
 - כלום - (הן לא נצרכות)

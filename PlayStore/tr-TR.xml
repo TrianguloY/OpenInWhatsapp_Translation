@@ -12,11 +12,11 @@ Yusuf Emen
 
  -->
 <parameters>
-    <title max_chars="50">Tıkla Sohbet Et</title>
+    <title max_chars="30">Tıkla Sohbet Et</title>
     <description_short max_chars="80">Herhangi bir numarayla bir WhatsApp sohbeti başlatın.</description_short>
     <description_long max_chars="4000">
 Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.
-Previous name: "WhatsApp'ta Aç (tıkla Sohbet Et)", changed to comply with WhatsApp guidelines.
+Previous name: "WhatsApp'ta Aç (tıkla Sohbet Et) [small, no ads]", changed to comply with WhatsApp and Google guidelines.
 ------------------------------------------------------------------------------------------
 
 Bu uygulama, girdiğiniz herhangi bir numara ile sohbet başlatmak için (Siz ve girdiğiniz numara arasında, diğer sohbetleri görmek mümkün DEĞİLDİR.) WhatsApp'ın herkese açık 'tıkla sohbet et' (Daha fazla bilgi için: https://faq.whatsapp.com/tr/android/26000030/) özelliğini kullanır.
@@ -54,7 +54,7 @@ Bu bir araç uygulamasıdır: Basit ve yer kaplamaz. Fazladan özellikler yok, f
 
 
 Çeviri:
-Timofey Lisunov'a, Matheus Damacs'a, Matheus Damacs'a, Yusuf Emen'a, Benjamin Yılmaz Çetiner'a, Richard Anderson (Hirai RCD)'a, Aditya'a, Armand Secco'a, Yoni Cohen jonbir3'a, MageshBabu K (mage1k99)'a, artmann'a (Dwi Legowo), Steven Felix'a, mezysinc'a, Thenur Mahesh Kannan'a, Faisal Aloufi'a teşekkürler!
+Timofey Lisunov'a, Matheus Damacs'a, Matheus Damacs'a, Yusuf Emen'a, Benjamin Yılmaz Çetiner'a, Richard Anderson (Hirai RCD)'a, Aditya'a, Armand Secco'a, Yoni Cohen jonbir3'a, MageshBabu K (mage1k99)'a, artmann'a (Dwi Legowo), Steven Felix'a, mezysinc'a, Thenur Mahesh Kannan'a, Faisal Aloufi'a, RaviDhoriya'a teşekkürler!
 
 
 Kullanılan izinler:

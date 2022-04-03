@@ -11,11 +11,11 @@ Aditya
 
  -->
 <parameters>
-    <title max_chars="50">ಚಾಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</title>
+    <title max_chars="30">ಚಾಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ</title>
     <description_short max_chars="80">ಯಾವುದೇ ಸಂಖ್ಯೆಯೊಂದಿಗಿನ ಚಾಟ್ ತೆರೆಯಲು</description_short>
     <description_long max_chars="4000">
 Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
-Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsApp guidelines.
+Previous name: "Open in WhatsApp (click to chat) [small, no ads]", changed to comply with WhatsApp and Google guidelines.
 
 ---------
 
@@ -71,7 +71,7 @@ Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsA
 
 ಅನುಮತಿಗಳನ್ನು ಬಳಸಲಾಗಿದೆ:
 -ಏನೂ- (ಅವರು ಅಗತ್ಯವಿಲ್ಲ)
-ಎಪೆಕೆ ಗಾತ್ರ:
+ಎಪೆಕೆ  ಗಾತ್ರ:
 ~೧೦೦ ಕೆಬಿ (೦,೧ಮಬಿ)
     </description_long>
 </parameters>

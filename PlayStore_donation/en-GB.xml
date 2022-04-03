@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit:
+
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Click to chat [donation]</title>
+
+    <description_short max_chars="80">Donation version of Click to chat app</description_short>
+
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+This is the donation version of the app Click to chat:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Check that app for a description about what to expect.
+
+This version is practically the same without any noticeable differences, more precisely:
+
+• What does NOT change:
+- Functionality and updates: both versions will always have the same functionality and the same updates at roughly the same time (except for the beta, where I test new things with a small set of users first).
+- No ads: none of the version will have ads. Ever.
+- Small size: both versions are as small as possible.
+
+• What does change:
+- Less translations: This version only contains locales where the translators gave me permission to use it. To know if a locale is available, open the normal app, then choose the language from settings, then press on 'Support' in information: if a 'Click to chat' entry is shown, it is available. All translations are provided freely by users, and so I feel bad using them on a paid app unless I get explicit permission from them.
+- Icon: The only visual change between versions: normal=green, donation=yellow.
+
+
+Paying for this version won't benefit you in a direct way, because both are practically identical, however if you do so you will help in the future and improvement of the app. Think of this as a cosmetic purchase. 
+And if you want to help but can't buy it don't worry, you can continue using the normal app. If you like and share it you are already helping. (A constructive comment also helps).
+
+There is a cheaper general donation app also if you prefer: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation
+
+Note: if you have supported me in the past, either buying that 'Buy me a coffee' app or other means (this including providing or updating a translation of one of my apps), simply send me an email and I'll give you a code for this.
+
+
+Important note: if you pay for an app but you uninstall it in less than two hours, Play Store will automatically refund it. Use this knowledge with care.
+    </description_long>
+</parameters>

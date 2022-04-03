@@ -14,13 +14,11 @@ If you added/modified the following file add your name here to give credit:
  -->
 <resources>
 
-    <!--<string name="language">Türkçe</string>-->
+    <string name="language">Türkçe</string>
 
     <!--<string name="translators">Yusuf Emen</string>-->
 
     <!--<string name="donation_permission">unknown</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Tıkla Sohbet Et</string>
 

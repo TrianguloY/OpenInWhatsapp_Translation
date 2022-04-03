@@ -10,7 +10,7 @@ Instructions for manual translation:
 -->
 <resources>
     <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
-    <!--<string name="language">English</string>-->
+    <string name="language">English</string>
 
     <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
     <!--<string name="translators">TrianguloY</string>-->
@@ -18,9 +18,6 @@ Instructions for manual translation:
     <!-- Permission to use in the donation version-->
     <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
     <!--<string name="donation_permission">yes</string>-->
-
-    <!-- When translated, uncomment the following element (the previous ones are not needed) -->
-    <!--<string name="translated">.</string>-->
 
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Click to chat</string>

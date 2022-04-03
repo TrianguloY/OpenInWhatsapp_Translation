@@ -13,13 +13,11 @@ If you added/modified the following file add your name here to give credit:
  -->
 <resources>
 
-    <!--<string name="language">Deutsch</string>-->
+    <string name="language">Deutsch</string>
 
     <!--<string name="translators">Benjamin Yılmaz Çetiner</string>-->
 
     <!--<string name="donation_permission">unknown</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Click to chat</string>
 

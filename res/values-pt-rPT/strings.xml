@@ -13,10 +13,9 @@ If you added/modified the following file add your name here to give credit:
 
  -->
 <resources>
-    <!--<string name="language">Português de Portugal</string>-->
+    <string name="language">Português de Portugal</string>
     <!--<string name="translators">Matheus Damacs</string>-->
     <!--<string name="donation_permission">unknown</string>-->
-    <string name="translated">.</string>
 
     <string name="app_name">Conversa em um Clique</string>
     <string name="txt_description">"Este aplicativo usa a API pública do WhatsApp para abrir um bate–papo com qualquer número que você inserir. Nenhum contato é criado no dispositivo.

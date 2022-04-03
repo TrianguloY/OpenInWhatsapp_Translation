@@ -13,13 +13,11 @@ If you added/modified the following file add your name here to give credit:
  -->
 <resources>
 
-    <!--<string name="language">Português do Brasil</string>-->
+    <string name="language">Português do Brasil</string>
 
     <!--<string name="translators">Richard Anderson (Hirai RCD) & mezysinc</string>-->
 
     <!--<string name="donation_permission">yes</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Conversa em um Clique</string>
 

@@ -1,9 +1,9 @@
 V 4.1
-- Light theme
-- Experimental Telegram support, enable it in settings
-- Improved recent calls addon refresh
-- Clipboard button always enabled (removed automatic background check)
-- Slight optimization when displaying errors
+- Tema claro
+- Suporte experimental ao Telegram, pode ativar em configurações
+- Melhorada a opção de atualização da extensão de ligações recentes
+- Botão do clipboard sempre ativo (desativada a verificação automática em segundo plano)
+- Pequena melhoria ao exibir erros
 
 V 4.0.1
 - Nova tradução em hindi. Obrigado RaviDhoriya!

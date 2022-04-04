@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit:
+mezysinc
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/?lang=pt_br/ in your language -->
+    <title max_chars="30">Conversa em um Clique [doação]</title>
+
+    <description_short max_chars="80">Versão para apoiar o app Conversa em um Clique</description_short>
+
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+Versão exclusiva para apoiar o app Conversa em um Clique:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=pt_BR&gl=US
+Confira a descrição do app padrão para ter uma ideia porquê foi desenvolvido.
+
+Esta versão é praticamente a mesma que original, exceto algumas pequenas mudanças:
+
+• O que NÃO muda:
+- Funcionalidades e atualizações: ambas as versões terão sempre as mesmas funcionalidades e atualizações lançadas aproximadamente ao mesmo tempo (exceto a versão beta, onde primeiro eu testo coisas novas com um pequeno grupo de pessoas).
+- Sem anúncios: nenhuma das versões terá anúncios. Nunca.
+- Tamanho pequeno: ambas as versões são tão pequenas quanto possível.
+
+• O que muda:
+- Menos traduções: Esta versão contém traduções dos tradutores que me deram permissão para usá-las. Para saber se o idioma está disponível, abra o app padrão, escolha o idioma em configurações, logo clique no 'Suporte' em informações: se uma entrada 'Conversa em um Clique' for presente, tradução está disponível. Todas as traduções são disponibilizadas livremente pelas pessoas (como você), e por isso sinto um desconforto ao usá-las num app pago, exceto nos casos onde recebi a permissão explícita deles.
+
+- Ícone: A única mudança visível entre as versões: app padrão=verde, de apoio=amarelo.
+
+Ao pagar por esta versão você não se beneficiará de forma direta, pois ambas são praticamente iguais, no entanto, se você fizer a compra, ajudará na melhoria e desenvolvimento do app.
+Se você quiser ajudar, mas não puder comprar, não se preocupe, siga usando o app de mesmo jeito. E se você gostar mesmo, compartilhe o app com outros, esta é a melhor forma de ajudar indiretamente. (Uma avaliação ou comentário construtivo também ajuda).
+
+Se você preferir outra opção, existe um app mais em conta, de doação geral: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation&hl=pt_BR&gl=US
+
+Observe: se você me apoiou no passado, adquirindo o app 'Compre-me um café' ou por outro meio (incluindo novas ou atualizadas traduções para meus aplicativos), simplesmente me envie um e-mail e te darei um código-fonte para isso.
+
+Aviso importante: se você adquiriu um aplicativo, porém decidiu desinstalar em menos de duas horas após compra, a Play Store o reembolsará automaticamente. Use esta informação com cuidado.
+    </description_long>
+</parameters>

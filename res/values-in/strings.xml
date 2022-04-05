@@ -7,19 +7,14 @@ Instructions for manual translation:
 -Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
-
-If you added/modified the following file add your name here to give credit:
-
  -->
 <resources>
 
-    <!--<string name="language">Bahasa Indonesia</string>-->
+    <string name="language">Bahasa Indonesia</string>
 
     <!--<string name="translators">artmann (Dwi Legowo) & Steven Felix</string>-->
 
     <!--<string name="donation_permission">yes</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Klik untuk Chat</string>
 

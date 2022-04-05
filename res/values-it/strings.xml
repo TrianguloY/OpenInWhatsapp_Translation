@@ -8,19 +8,14 @@ Instructions for manual translation:
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
 
-If you added/modified the following file add your name here to give credit:
-
-
  -->
 <resources>
 
-    <!--<string name="language">Italiano</string>-->
+    <string name="language">Italiano</string>
 
     <!--<string name="translators">Armand Secco</string>-->
 
     <!--<string name="donation_permission">unknown</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Clicca per chattare</string>
 

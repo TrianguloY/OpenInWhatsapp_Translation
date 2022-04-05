@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit:
+TrianguloY
+
+ -->
+<parameters>
+    <title max_chars="30">Click para chatear [donación]</title>
+    <description_short max_chars="80">Versión de donación para Click para chatear</description_short>
+    <description_long max_chars="4000">
+Esta es la versión de donación de la aplicación Click para chatear:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Revisa la descripción de esa aplicación para ver los detalles.
+
+Esta versión es prácticamente idéntica sin diferencias notables, mas concretamente:
+
+• Lo que NO cambia:
+- Funcionalidad y actualizaciones: ambas versiones siempre tendrán las mismas funcionalidades y las mismas actualizaciones aproximadamente el mismo momento (excepto para la beta, donde prueba nuevas funciones con pocos usuarios primero).
+- Sin anuncios: ninguna de las versiones tendrá anuncios. Nunca.
+- Pequeño tamaño: ambas versiones son tan pequeñas como me es posible.
+
+• Lo que sí cambia:
+- Menos traducciones: Esta versión solo contiene los idiomas cuyos traductores me han dado permiso para usarlo. El español es uno de ellos. Para saber si otras traducciones están disponibles abre la aplicación normal, elige el idioma a comprobar en ajustes y pulsa en 'Apoyar' dentro de información: si aparece una entrada para 'Click para chatear' entonces sí está disponible. Todas las traducciones son proporcionadas de forma gratuita por usuarios, y no me parece correcto usarlas en una aplicación de pago, a no ser que obtenga permiso explicito de ellos.
+- Icono: El único cambio visual entre versiones: normal=verde, donación=amarillo.
+
+
+Pagar por esta aplicación no te beneficiará de forma directa, ya que ambas son prácticamente idénticas, sin embargo hacerlo ayudará en el futuro y desarrollo de la aplicación. Piensa en esto como en una compra cosmética.
+Y si quieres ayudar pero no puedes comprarla no te preocupes, puedes seguir usando la aplicación normal. Si te gusta y la compartes ya estás ayudando. (Un comentario constructivo también ayuda).
+
+
+Nota: Si me has ayudado en el pasado, ya sea comprando la aplicación 'Buy me a coffee' o por otros medios, envíame un email y te daré un código para ésta.
+
+
+Nota importante: Si pagas por una aplicación pero la desinstalas en menos de dos horas, Play Store te la auto-reembolsará. Usa este conocimiento con cuidado.
+    </description_long>
+</parameters>

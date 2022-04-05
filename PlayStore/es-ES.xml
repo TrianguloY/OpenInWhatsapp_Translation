@@ -11,47 +11,37 @@ TrianguloY
 
  -->
 <parameters>
-    <title max_chars="50">Click para chatear</title>
-    <description_short max_chars="80">Abre un chat en WhatsApp de cualquier número (tu y ese número).</description_short>
+    <title max_chars="30">Click para chatear</title>
+    <description_short max_chars="80">Pequeña y sin anuncios para abrir un chat en WhatsApp de ti con cualquier número</description_short>
     <description_long max_chars="4000">
 Disclaimer: Esta aplicación no está asociada con WhatsApp Inc.
-Nombre anterior: "Abrir en Whatsapp (click para chatear)", cambiado para cumplir con las pautas de WhatsApp.
-------------------------------------------------------------------------------------------
+Nombre anterior: "Abrir en Whatsapp (click para chatear) [ligero, sin anuncios]", cambiado para cumplir con las directrices de WhatsApp y Google.
 
-Esta aplicación utiliza la característica 'click para chatear' pública de WhatsApp (descrita aquí: https://faq.whatsapp.com/en/android/26000030/) para abrir un chat con cualquier número que introduzcas (un chat entre ti y ese número, NO es posible espiar otras conversaciones).
-Ningún contacto se crea en el teléfono, por lo que no necesitas guardar el número en tu agenda para abrir el chat. Simplemente abre la aplicación, introduce el número, pulsa el botón y el chat se abrirá (si el número existe, en otro caso WhatsApp lo notificará).
+------------------
 
-Especialmente útil en situaciones como:
-- ¿Te ha llamado un número desconocido y quieres saber si tiene WhatsApp?
-- ¿Necesitas enviar un mensaje a alguien pero no quieres guardarlo como contacto?
-- ¿Quieres abrir un chat contigo mismo?
-Tan solo abre la aplicación e introduce el número (con prefijo).
+Soy consciente de que algunos usuarios están usando la aplicación en empresas. Me alegra saber que mi aplicación está ayudando a ser más productivo, pero por favor si usas la aplicación con motivos comerciales considera apoyarla. Quiero que este pequeño proyecto personal siga siendo gratis sin anuncios ni compras integradas, y el progreso y actualizaciones dependen de la recepción y ayuda que recibo. Existe una versión de donación que puedes comprar para ayudar en el desarrollo: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
 
+[Nuevo: Ahora existe una versión web, compatible con WhatsApp Web: https://trianguloy.github.io/OpenInWhatsapp_Web/ ]
 
-Prefijo:
-Necesitas introducir el prefijo del número, incluso si es de tu mismo país. Puedes introducirlo manualmente o, si no recuerdas el de un país concreto, puedes pulsar el botón + para mostrar un listado del que elegirlo.
+------------------
 
+Sabías que puedes abrir un chat en WhatsApp con cualquier número, sin tener que guardarlo en contactos, abriendo en tu navegador el enlace 'wa.me/123456789' (usando el prefijo+número deseado)?
+Fuente: https://faq.whatsapp.com/en/android/26000030/
 
-Crear enlaces:
-Puedes generar un enlace html que, al ser pulsado, abrirá WhatsApp en el número especificado. Esta es una característica de WhatsApp, así que no necesitas esta aplicación para abrir el enlace.
-También puedes añadir un mensaje que será colocado en la caja de texto. NO será, repito, NO será enviado. El usuario debe pulsar el botón de enviar manualmente.
-Si especificas un mensaje pero no un número WhatsApp te preguntará donde lo quieres enviar (al igual que antes, NO será enviado, solo autocompletado).
-Puedes guardar el enlace como un atajo rápido, compartirlo para que otros puedan contactarte (el número es visible en el enlace, ten cuidado), añadir un mensaje predefinido en una página para 'compartir en WhatsApp', etc. Recuerda, no necesitas esta aplicación para abrir el enlace, es abierto automáticamente por Whastapp.
-Atajo oculto: mantén pulsado el botón de 'compartir' para copiar el enlace rápidamente en el portapapeles.
+Originalmente ese enlace era más largo y más difícil de recordar, así que creé esta minúscula aplicación para ayudar en el proceso.
+
+Desde entonces he ido añadiendo múltiples funcionalidades (introducir mensaje, compartir enlace, lista de prefijos, crear atajo, guardar y fijar recientes, abrir llamadas recientes mediante complemento y algunas más) pero siempre con estos tres principios:
+1) Hacer la aplicación más pequeña posible. Esto significa no incluir contenido no relacionado, sin librerías adicionales y nada que sea inútil. Actualmente su tamaño es de aproximadamente 100KB=0.1MB. ¡Menos que una fotografía estándar!
+2) Usar el mínimo número de permisos. Solo se usa el de crear_atajos, ¡nada más! (no llamadas, no almacenamiento, no internet).
+3) Sin anuncios. Odio los anuncios. Nunca añadiré anuncios, adware, spyware, seguimiento de usuarios u otras cosas desagradables.
 
 
-Lista de recientes:
-Cuando un número es abierto se almacena en una lista de recientes, en caso de que quieras abrir el chat de nuevo y no recuerdes el número (5 números máx). También puedes fijarlo y darle un nombre. O incluso crear un atajo en el escritorio.
+Si quieres una pequeña herramienta para ayudarte a abrir números en WhatsApp, pruébala. Si prefieres una aplicación que envía tus datos a Google, hay clones por ahí.
 
-
------------------------------------------------------------
-
-
-Esta aplicación es una herramienta: sencilla y ligera. Sin funciones extra, sin tamaño innecesario, sin permisos peligrosos, sin anuncios...tan solo la funcionalidad de abrir-en-WhatsApp (con cada actualización añado una pequeña funcionalidad relacionada, pero quiero mantener la aplicación tan simple y ligera como pueda).
-
+---------------------------
 
 Traducción:
-¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan y Faisal Aloufi por las traduciones!
+¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi y RaviDhoriya por las traduciones!
 
 
 Permisos usados:

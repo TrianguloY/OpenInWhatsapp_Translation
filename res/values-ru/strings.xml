@@ -2,13 +2,11 @@
 -->
 <resources>
 
-    <!--<string name="language">Русский</string>-->
+    <string name="language">Русский</string>
 
     <!--<string name="translators">Timofey Lisunov</string>-->
 
     <!--<string name="donation_permission">unknown</string>-->
-
-    <string name="translated">.</string>
 
     <string name="app_name">Прямая связь</string>
 

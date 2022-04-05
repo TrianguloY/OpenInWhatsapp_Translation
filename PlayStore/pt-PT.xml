@@ -11,11 +11,11 @@ Matheus Damacs
 
  -->
 <parameters>
-    <title max_chars="50">Conversa em um clique</title>
+    <title max_chars="30">Conversa em um clique</title>
     <description_short max_chars="80">Abra o bate-papo do WhatsApp a partir de qualquer número (você e esse número).</description_short>
     <description_long max_chars="4000">
 Disclaimer: This app is not affiliated with WhatsApp Inc.
-Previous name: "Abrir no WhatsApp (conversa em um clique)", changed to comply with WhatsApp guidelines.
+Previous name: "Abrir no WhatsApp (conversa em um clique) [small, no ads]", changed to comply with WhatsApp and Google guidelines.
 ------------------------------------------------------------------------------------------
 
 Este aplicativo usa a 'Conversa em um clique' pública do WhatsApp (https://faq.whatsapp.com/en/android/26000030/), para abrir uma conversa com qualquer número inserido (a conversa entre você e esse número, não é possível espiar outras conversas).
@@ -53,7 +53,7 @@ Este é um aplicativo de ferramenta: simples e leve. Não há recursos extras, s
 
 
 Tradução:
-Agradeço a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan e Faisal Aloufi por fornecer-me a tradução.
+Agradeço a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi e RaviDhoriya por fornecer-me a tradução.
 
 Permissões usadas:
 - Nenhuma permissão. (Não são necessárias)

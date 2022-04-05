@@ -13,51 +13,40 @@ If you added/modified the following file add your name here to give credit:
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
-    <title max_chars="50">Click to chat [small, no ads]</title>
+    <title max_chars="30">Click to chat</title>
 
-    <description_short max_chars="80">Open a WhatsApp chat from any number (you and that number).</description_short>
+    <description_short max_chars="80">Small, no ads app to open a WhatsApp chat with any number (you and that number).</description_short>
 
     <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
     <description_long max_chars="4000">
 Disclaimer: This app is not affiliated with nor endorsed by WhatsApp Inc.
-Previous name: "Open in WhatsApp (click to chat)", changed to comply with WhatsApp guidelines.
+Previous name: "Open in WhatsApp (click to chat) [small, no ads]", changed to comply with WhatsApp and Google guidelines.
+
 ------------------
 
-'What is this app used for?' The answer is often misunderstood: you can open a chat on the official WhatsApp app (or Business) with another user if you know their number. This app replaces the method of saving the number into contacts. This will NOT allow you to 'spy other conversations', 'contact with numbers without WhatsApp', 'hide your number' or other crazy things. This is the same as clicking an unknown number on a group, creating manually the url link or saving the contact.
+I'm aware some users are using the app for business purposes. I'm glad my app is helping you being more productive, but please if you are using the app for commercial purposes consider supporting it. I want this little personal project to keep being a free without ads nor purchases app, and the progress and updates are based on the reception and support from you. There is a donation version that you can buy to help the development: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
 
-'Why should I use this instead of others?' You are free to choose of course! This app only has the 'open in WhatsApp' feature and improvements, but for this reason the app is extremely simple and so I made it without ads, as small a possible, and free; just to help others use this feature that WhatsApp have (note that I'm not affiliated with WhatsApp Inc). Since I published it the popularity increased as unexpected (thanks!) and other apps with the same functionality (some even blatant copies without my permission) have populated the store. You can use whichever you prefer, but this one is (last time I checked at least) the smallest of all, the only one add-free, and the only one without 'dangerous' permissions (not internet, not storage, nothing. Check it! ).
+[New: There is now a web version, compatible with WhatsApp Web: https://trianguloy.github.io/OpenInWhatsapp_Web/ ]
 
--------------------
+------------------
 
-This app uses WhatsApp 'click to chat' feature (https://faq.whatsapp.com/en/android/26000030/) to open a chat with any number (a chat between you and that number).
-No contact is created on the device, you don't need to save it on your contacts list. Just open the app, enter the number, click the button and the chat will open (if the number doesn't exists WhatsApp will notify it).
+Did you know you can open a chat in WhatsApp with any number without saving first into contacts by opening in your browser the link 'wa.me/123456789' (using the prefix+number desired)?
+Source: https://faq.whatsapp.com/en/android/26000030/
 
-Useful on situations like:
-- Someone called you and you want to contact it via WhatsApp?
-- You need to send a message to someone but you don't want to save it?
-- You want to start a chat with yourself?
+Originally that link was longer and more difficult to remember, so I made this tiny app to help in the process.
 
-Prefix:
-You need to specify the prefix of the number, even if from your own country (will be kept when reopening the app). You can enter it manually or tap the + button to choose from a list.
+Since then I have added multiple functionalities (enter message, share link, list of country codes, create shortcut, save recent and pinned, open recent calls via add-on, and a few more) but always with these three principles:
+1) Make the smaller app possible. This means no extra unrelated content, no extra libraries and no useless things. Currently its size is around 100KB=0.1MB. Less than a standard picture!
+2) Use as few permissions as possible. Only the create_shortcut permission is used, nothing else! (no calls, no storage, no internet).
+3) No ads. I hate ads. I will never add ads, adware, spyware, user tracking or other nasty stuff.
 
-Create links:
-You can create an url link that will open WhatsApp on the specified number. This is a WhatsApp feature, you don't need this app to open the link, only to create it.
-You can also add a message that will be autocompleted (will NOT, I repeat, will NOT be sent, the user must press the send button manually).
-If you specify a message but not a number WhatsApp will ask who to send it to (again, will NOT be sent, only autocompleted).
-You can save the link as a quick shortcut, share it so people can contact you (the number is visible on the link, be careful), set a predefined message on a site to 'share it on WhatsApp', etc. Remember, you don't need this app to open the link, it is handled by WhatsApp.
-Hidden shortcut: long tap the 'share' button to quickly copy the link to the clipboard.
 
-Recents list:
-When a number is opened it is saved on a recents list, in case you want to open a number again
-and you don't remember the number. You can also pin numbers and name them, or even create
-shortcuts.
+If you want a small tool to help you open numbers in WhatsApp, try it. If you prefer an app that sends your data to Google, there are clones out there.
 
 ---------------------------
 
-This is a tool app: simple and lightweight. No extra features, no extra size, no dangerous permissions, no ads...just the open-in-WhatsApp feature (with each update I add a little related feature, but I want to keep it as simple and lightweight as possible).
-
 Translation:
-Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan and Faisal Aloufi for the translations!
+Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi and RaviDhoriya for the translations!
 
 Permissions used:
 SHORTCUT: To create shortcuts in the launcher.

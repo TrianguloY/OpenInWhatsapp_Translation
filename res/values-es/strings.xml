@@ -7,15 +7,11 @@ Instructions for manual translation:
 -Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
 
-
-If you added/modified the following file add your name here to give credit:
-
  -->
 <resources>
-    <!--<string name="language">Español</string>-->
+    <string name="language">Español</string>
     <!--<string name="translators">TrianguloY</string>-->
     <!--<string name="donation_permission">yes</string>-->
-    <string name="translated">.</string>
 
     <string name="app_name">Click para chatear</string>
     <string name="txt_description">"Esta aplicación utiliza la api pública de WhatsApp para abrir un chat con cualquier número que introduzcas. Ningún contacto se crea en el teléfono.
@@ -122,4 +118,5 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="txt_telegram">Ten en cuenta que, para que un número pueda ser abierto en Telegram, su usuario debe marcarlo con "visibilidad pública" y permitir ser encontrado por él. Y prácticamente nadie lo hace.\nAsí que, a no ser que conozcas a la persona, te garantizo de que esta opción es inútil (Telegram ni siquiera avisa de que el número no puede ser abierto, se inicia como si nada sin errores).\nPuedes probarla si quieres, pero no digas que no te lo advertí.</string>
     <string name="chk_light">Usar tema claro (la aplicación se reiniciará)</string>
     <string name="toast_empty">No hay números en el portapapeles</string>
+    <string name="chk_signal">Soporte experimental para Signal</string>
 </resources>

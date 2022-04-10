@@ -1,6 +1,6 @@
 V 4.1
 - Tema claro
-- Suporte experimental ao Telegram e Signal, pode ativar em configurações
+- Suporte experimental ao Signal e Telegram, pode ativar em configurações
 - Melhorada a opção de atualização da extensão de ligações recentes
 - Botão do clipboard sempre ativo (desativada a verificação automática em segundo plano)
 - Pequena melhoria ao exibir erros

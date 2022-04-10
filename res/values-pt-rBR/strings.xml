@@ -65,8 +65,8 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
         <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, porque a validade de número não está sendo verificada</item>
     </string-array>
     <string name="txt_jidWarning">Este modo usa um protocolo não documentado do Whatsapp, ele pode parar ou não funcionar corretamente. A menos que isto já foi consertado, parece não verificar a validade de número e pode abrir uma conversa mesmo com um número inexistente. Uso deste modo não é recomendável por causa de resultados desconhecidos.\n\nVocê realmente quer continuar?</string>
-    <string name="chk_signal">Suporte experimental do Signal</string>
-    <string name="chk_telegram">Suporte experimental do Telegram</string>
+    <string name="chk_signal">Suporte experimental do [[sgn|Signal]]</string>
+    <string name="chk_telegram">Suporte experimental do [[tgm|Telegram]]</string>
     <string name="txt_telegram">Para que um número com o link t.me/+123 seja aberto, o usuário deve defini-lo como "publicamente visível" e permitir para que ele seja encontrado. No entanto quase ninguém faz isso.\nEntão, a menos que você conheça a pessoa, esta opção não serve para nada (o Telegram nem sequer avisa que o número não podia ser aberto, ele simplesmente abre a tela principal como sempre, sem erros).\nNo entanto você pode experimentar isto, mas foi avisado.</string>
     <string name="chk_light">Use tema claro (o app será reiniciado)</string>
     <string name="btn_addonLink">Extensão</string>

@@ -38,7 +38,7 @@
     <string name="hint_editPrefix">Код</string>
     <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
     <string name="hint_prefAndNumber">Код и номер телефона</string>
-    <string name="hint_itemName">имя</string>
+    <string name="hint_itemName">Имя</string>
 
     <string name="btn_openInWhatsapp">Открыть</string>
     <string name="btn_shareLink">Ссылка</string>
@@ -58,6 +58,7 @@
         <item>[ОСТОРОЖНО] JID: внутренняя схема WhatsApp [не рекомендуется, номер не проверяется]</item>
     </string-array>
     <string name="txt_jidWarning">Этот режим использует недокументированный вызов WhatsApp, он может перестать работать или отработать неправильно. Похоже, WhatsApp не проверяет корректность ввода и чат будет открыт, даже если номер не существует. Использование данного режима не рекомендуется из-за неизвестных последствий.\n\nПродолжить на свой страх и риск?</string>
+    <string name="chk_signal">Поддержка Signal (экспериментально)</string>
     <string name="chk_telegram">Поддержка Telegram (экспериментально)</string>
     <string name="txt_telegram">Обратите внимание, что для возможности открыть номер ссылкой t.me/+123, пользователь должен установить его видимым для всех и разрешить нахождение через поиск. И почти никто этого не делает.\nТак что, если вы не знаете человека, этот вариант бесполезен (Telegram даже не сообщит, что номер не удалось открыть, а просто откроет главный экран как обычно без ошибок).\nПопробовать можно, но вас предупредили.</string>
     <string name="chk_light">Светлая тема (приложение перезапустится)</string>
@@ -77,6 +78,7 @@
 
     <string name="toast_autoParser">Автоматическое распознавание.\nПроверьте код страны!</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>
+    <string name="toast_empty">В буфере обмена нет номера</string>
     <string name="toast_error_openLink">Невозможно открыть ссылку</string>
 
     <string name="title_sendTo">Открыть ссылку в:</string>

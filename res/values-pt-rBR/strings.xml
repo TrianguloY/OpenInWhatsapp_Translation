@@ -85,7 +85,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
 
     <string name="toast_autoParser">Processo automático.\nVerifica o prefixo!</string>
     <string name="toast_copied">Copiado ao clipboard</string>
-    <string name="toast_empty">O clipboard está sem números</string>
+    <string name="toast_empty">Nenhum número utilizável no clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
 
     <string name="title_sendTo">Enviar o link para:</string>

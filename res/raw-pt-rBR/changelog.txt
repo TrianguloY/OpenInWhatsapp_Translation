@@ -1,3 +1,6 @@
+V 4.1.1
+- Botão de ativação para Signal/Telegram está funcionando em todos os idiomas
+
 V 4.1
 - Tema claro
 - Suporte experimental ao Signal e Telegram, pode ativar em configurações

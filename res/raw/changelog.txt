@@ -1,3 +1,6 @@
+V 4.1.1
+- Fix Signal/Telegram toggles not working in some locales
+
 V 4.1
 - Light theme
 - Experimental Signal and Telegram support, enable it in settings

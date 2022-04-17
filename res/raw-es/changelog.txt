@@ -1,3 +1,6 @@
+V 4.1.1
+- Arreglados los botones de Signal/Telegram que no funcionaban en algunos idiomas
+
 V 4.1
 - Tema claro
 - Soporte experimental de Signal y Telegram, actívalo en ajustes

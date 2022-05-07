@@ -1,3 +1,6 @@
+V 4.1.2
+- Translation updates
+
 V 4.1.1
 - Fix Signal/Telegram toggles not working in some locales
 

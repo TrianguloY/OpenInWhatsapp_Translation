@@ -1,3 +1,6 @@
+V 4.1.2
+- Atualizações de tradução
+
 V 4.1.1
 - Botão de ativação para Signal/Telegram está funcionando em todos os idiomas
 

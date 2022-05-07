@@ -1,3 +1,6 @@
+V 4.1.2
+- Actualización de las traducciones
+
 V 4.1.1
 - Arreglados los botones de Signal/Telegram que no funcionaban en algunos idiomas
 

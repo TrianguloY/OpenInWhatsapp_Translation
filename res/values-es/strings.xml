@@ -30,7 +30,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="hint_message">Mensaje que será autocompletado, NO se enviará.</string>
     <string name="hint_prefAndNumber">Pref &amp; Número</string>
     <string name="txt_extra_description">Use esto para crear un enlace que abrirá WhatsApp al clickarlo. Puede indicar un número y/o añadir un mensaje que será incluido en el cuadro de texto (NO, repito, NO será enviado).</string>
-    <string name="title_chooseCountry">Prefijo por país:</string>
+    <string name="title_chooseCountry">Prefijo por territorio:</string>
     <string name="title_sendTo">Enviar enlace a:</string>
     <string name="toast_copied">Copiado al portapapeles</string>
     <string name="txt_about">Aplicación creada por [[tri|TrianguloY]]. Esta aplicación no está asociada con WhatsApp Inc.</string>
@@ -71,7 +71,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="btn_link_helptranslations">Traducir</string>
     <string name="btn_link_support">Apoyar</string>
     <string name="header_code">Prefijo %1$s</string>
-    <string name="header_country">País %1$s</string>
+    <string name="header_country">Territorio %1$s</string>
     <string name="btn_shortcut">Acceso directo</string>
     <string name="cntDesc_delete">Eliminar</string>
     <string name="cntDesc_filter">Filtrar</string>

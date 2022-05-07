@@ -78,7 +78,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="btn_link_playstore_share">Loja do Google Play (compartilhar)</string>
     <string name="btn_link_apppage">Site do app</string>
     <string name="btn_link_faq">Perguntas mais frequentes\n(FAQ) [Somente em inglês]</string>
-    <string name="btn_link_helptranslations">Traduzir</string>
+    <string name="btn_link_helptranslations">Ajude a traduzir</string>
 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
@@ -102,10 +102,10 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="header_country">País %1$s</string>
 
     <string name="cntDesc_appInfo">Detalhes do app</string>
-    <string name="cntDesc_prefixSelector">Seletor do prefixo</string>
-    <string name="cntDesc_clear">Remover conteúdo</string>
+    <string name="cntDesc_prefixSelector">Selecione o prefixo</string>
+    <string name="cntDesc_clear">Limpar o número digitado</string>
     <string name="cntDesc_pasteClipboard">Colar do clipboard</string>
-    <string name="cntDesc_agenda">Agenda</string>
+    <string name="cntDesc_agenda">Contatados</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
     <string name="cntDesc_calls">Ligações desconhecidas</string>
     <string name="cntDesc_toggleAdv">Abrir opções avançadas</string>
@@ -137,7 +137,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
         <item>Apenas notifique sobre novos recursos</item>
         <item>Sempre notifique</item>
     </string-array>
-    <string name="cl_title">Modificações:</string>
+    <string name="cl_title">Novidades:</string>
     <string name="cl_more">Ver mais</string>
     <string name="txt_newVersion">O app foi atualizado: [[chl|ver novidades]].\n\n[[hdc|Agora não]]</string>
 

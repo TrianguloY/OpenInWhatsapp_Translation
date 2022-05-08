@@ -27,7 +27,8 @@ Instructions for manual translation:
     <string name="txt_changelanguage">Você pode alterar o idioma do app clicando no botão abaixo (o app será reiniciado).</string>
     <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu aparelho]] estão instalados, a fim de reduzir o tamanho do app.</string>
 
-    <string name="txt_description">"Este app usa o API público do WhatsApp para abrir uma conversa com qualquer número que você digitar. Nenhum contato é criado no aparelho!
+    <string name="txt_description">"Este app usa o API público do WhatsApp para abrir uma conversa com qualquer número que você digitar.
+Nenhum contato é criado no aparelho!
 Mais detalhes [[wfq|aqui]].
 
 Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais detalhes [[hlp|aqui]]. Toque na palavra País para escolher prefixo da lista.

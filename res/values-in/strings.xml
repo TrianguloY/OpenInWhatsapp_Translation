@@ -37,7 +37,7 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
     <string name="txt_support">Menjadi aplikasi gratis tanpa iklan atau pembelian, kemajuan dan pembaruan didasarkan pada penerimaan dan dukungan dari Anda.</string>
     <string name="btn_link_support">Dukung</string>
     <string name="txt_business">Tampaknya Anda menggunakan aplikasi untuk keperluan bisnis. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
-    <string name="txt_longUser">Tampaknya Anda telah menggunakan aplikasi ini cukup lama. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Discard]]</string>
+    <string name="txt_longUser">Tampaknya Anda telah menggunakan aplikasi ini cukup lama. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
 
 
     <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah khawatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>

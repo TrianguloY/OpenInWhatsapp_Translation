@@ -1,0 +1,153 @@
+V 4.1.2
+- Terjemahan diperbarui
+
+V 4.1.1
+- Memperbaiki sakelar Signal/Telegram tidak berfungsi dalam beberapa bahasa
+
+V 4.1
+- Tema terang
+- Dukungan Signal dan Telegram eksperimental, hidupkan di pengaturan
+- Meningkatkan penyegaran addon panggilan terbaru
+- Tombol clipboard selalu dihidupkan (menghapus pemeriksaan latar belakang otomatis)
+- Sedikit optimalisasi saat menampilkan kesalahan
+
+V 4.0.1
+- Terjemahan bahasa India baru. Terima kasih banyak kepada RaviDhoriya!
+- Terjemahan bahasa Indonesia sekarang tersedia dalam aplikasi donasi juga. Terima kasih kepada artmann (Dwi Legowo) & Steven Felix atas izinnya
+- Memperbarui terjemahan lainnya
+- Memperbaiki pemberitahuan catatan perubahan setelah instalasi baru
+- Memperbaiki beberapa kerusakan langka
+
+V 4.0
+- Perubahan beberapa gaya
+- Tombol clear khusus baru (menekan tombol kembali masih didukung)
+- Pengaturan baru untuk mematikan penghapusan angka nol di depan 
+- Terjemahan bahasa Arab baru. Terima kasih banyak kepada Faisal Aloufi!
+- Pemberitahuan pembaruan baru ditampilkan sebagai pesan, daripada popup
+- Memperbaiki masalah dengan angka nol setelah kode negara 
+- Konversikan nomor telepon Arab
+- Menghapus dukungan untuk Android 4.0.4 atau yang lebih tua (sama seperti aplikasi WhatsApp)
+- Beberapa perbaikan dan pembersihan internal
+
+V 3.3
+- Terjemahan bahasa Melayu baru. Terima kasih banyak kepada Thenur Mahesh Kannan!
+- Berbagi tautan termasuk 'https://'
+- Hapus juga angka nol di depan dalam mode input gabungan
+
+V 3.2
+- Mode pembukaan baru: sudah ditentukan
+- Tampilkan pesan 'periksa awalan' sebagai inline
+- Terjemahan diperbarui
+
+V 3.1.2
+- Meningkatkan penempelan dengan input awalan dan nomor tergabung
+- Terjemahan diperbarui
+
+V 3.1.1
+- Memperbaiki kerusakan saat startup
+
+V 3.1
+- Memindahkan beberapa tombol ke bagian atas kotak teks input
+- Pemilih awalan sekarang menunjukkan negara yang cocok 
+- Terjemahan diperbarui
+
+V 3.0
+- Pemilih mode pembukaan baru: termasuk mode alternatif sebelumnya, mode JID experimental dan mode SMS
+- Daftar kode negara diperbarui
+- Penyesuaian dan perbaikan internal (termasuk kotak centang Buka Otomatis tidak ditampilkan dengan benar)
+
+V 2.13.1
+- Terjemahan bahasa Portugis Brazil diperbarui. Terima kasih banyak kepada mezysinc!
+- Menyesuaikan pendeteksian addon catatan panggilan
+
+V 2.13
+- Dialog catatan perubahan baru yang dapat dikonfigurasi
+- Tampilkan pesan saat berbagi nomor telepon
+
+V 2.12
+- Tautan donasi non-google dihapus untuk mematuhi pedoman baru, diganti dengan aplikasi donasi baru (bahasa Inggris saja)
+- Penyesuaian kecil dengan warna aplikasi
+
+V 2.11.1
+- Terjemahan bahasa Indonesia dan Rusia diperbarui
+- Memperbaiki kerusakan pada aplikasi instan
+
+V 2.11
+- Opsi baru: Pulihkan awalan saat menutup aplikasi
+- Opsi baru: Buka otomatis aplikasi WhatsApp saat nomor telepon dipilih
+- Memperbaiki nomor telepon yang terbuka kembali saat diluncurkan dari Terbaru
+- Menghidupkan animasi
+- Menambahkan awalan nomor Sudan Selatan yang hilang
+
+V 2.10.2
+- Deteksi nomor telepon dengan format 123(456)78.9
+- Menambahkan awalan nomor Mozambik yang hilang
+- Perbaiki bahasa Portugis yang tidak tampil dalam daftar dialog
+- Menambahkan lebih banyak tautan (dukungan, bantuan format nomor telepon, profil)
+
+V 2.10.1
+- Terjemahan bahasa Indonesia dan Rusia diperbarui
+- Memperbaiki kerusakan langka dengan tautan duplikat
+
+V 2.10
+- Meningkatkan input awalan dan nomor dengan keyboard 
+- Pengaturan untuk mode pembukaan secara alternatif (daripada mengklik lama)
+- Memperbaiki awalan saat membuka dari intent panggilan (aplikasi Telepon)
+- Perubahan terbaru tentang bahasa Indonesia
+
+V 2.9.1
+- Memperbaiki tombol papan klip di Android 10
+- Terjemahan bahasa Indonesia diperbarui
+- Perubahan internal terkait tautan
+
+V 2.9
+- Menghidupkan paket aplikasi terpisah berdasarkan bahasa. Sekarang hanya bahasa yang Anda pilih di pengaturan sistem yang akan terinstal. Ini mengurangi ukuran aplikasi sebesar 15-20%. PENTING! Jika Anda kehilangan bahasa, silakan hubungi saya.
+- Bahasa Indonesia diperbarui. Terima kasih kepada Steven Felix!
+
+V 2.8.6
+- Terjemahan bahasa Indonesia ditambahkan. Terima kasih kepada artmann (Dwi Legowo)!
+
+V 2.8.5
+- Terjemahan bahasa Tamil ditambahkan. Terima kasih kepada MageshBabu (mage1k99)!
+- Mengubah ukuran elemen dalam daftar agenda dan kode negara. Dan juga ukuran tombol.
+
+V 2.8.4
+- Memperbaiki kesalahan pembuatan tautan
+- Sekarang Anda dapat mencoba aplikasi langsung dari Play Store tanpa menginstal (walaupun karena ukurannya sangat kecil lebih baik menginstal aplikasi versi lengkap, karena yang instan tidak mendukung beberapa fitur, bagaimanapun juga)
+
+V 2.8.3
+- Opsi untuk membatasi daftar panggilan tidak dikenal. Membutuhkan Addon versi 1.2+
+- Memperbaiki daftar pesan terkini yang tidak tampil
+- Perubahan internal terkait publikasi
+
+V 2.8.2
+- Terjemahan bahasa Ibrani ditambahkan. Terima kasih banyak kepada Yoni Cohen jonbir3!
+
+V 2.8.1
+- Terjemahan bahasa Rusia diperbarui
+- Memperbaiki bug langka saat membuka agenda
+
+V 2.8
+- Daftar agenda baru. Kemampuan untuk menyematkan nomor telepon dengan nama.
+- Opsi untuk menambah pintasan.
+- Ikon adaptif untuk Android 8.0+
+
+V 2.7.1
+- Solusi sementara untuk bug WhatsApp beta (jika diminta, pilih aplikasi ini untuk membuka tautan di WhatsApp)
+
+V 2.7
+- Dialog pemilih awalan baru (dengan pemfilteran dan pengurutan!)
+- Terjemahan bahasa Rusia diperbarui
+- Menyesuaikan pendeteksian papan klip
+
+V 2.6.2
+- Memperbaiki kesalahan tema di Android 4.X
+
+V 2.6.1
+- Terjemahan bahasa Perancis dan Italia diperbarui
+
+V 2.6
+- Menambahkan opsi untuk menyembunyikan bantuan layar utama
+- Memisahkan dialog Tentang ke menu Pengaturan and Info Aplikasi
+- Menambahkan tautan ke halaman terjemahan
+- Menambahkan opsi untuk membagikan aplikasi ini

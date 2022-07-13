@@ -24,19 +24,19 @@ Nama sebelumnya: "Buka di WhatsApp (klik untuk chat) [kecil, tanpa iklan]", diub
 
 ------------------
 
-Saya sadar beberapa pengguna menggunakan aplikasi untuk tujuan bisnis. Saya senang aplikasi saya membantu Anda menjadi lebih produktif, tetapi tolong jika Anda menggunakan aplikasi untuk tujuan komersial pertimbangkan untuk mendukungnya. Saya ingin proyek pribadi kecil ini tetap menjadi aplikasi gratis tanpa iklan atau pembelian, dan kemajuan serta pembaruan didasarkan pada penerimaan dan dukungan dari Anda. Ada versi donasi yang bisa kamu beli untuk membantu pengembangan: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
+Saya sadar beberapa pengguna menggunakan aplikasi untuk tujuan bisnis. Saya senang aplikasi saya membantu Anda menjadi lebih produktif, tetapi tolong jika Anda menggunakan aplikasi untuk tujuan komersial pertimbangkan dukungannya. Saya ingin proyek pribadi kecil ini tetap menjadi aplikasi gratis tanpa iklan atau pembelian dalam aplikasi, dan kemajuan serta pembaruan didasarkan pada penerimaan dan dukungan dari Anda. Ada versi donasi yang bisa kamu beli untuk membantu pengembangan aplikasi ini: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
 
 [Baru: Sekarang ada versi web, kompatibel dengan WhatsApp Web: https://trianguloy.github.io/OpenInWhatsapp_Web/ ] 
 
 ------------------
 
-Tahukah Anda bahwa Anda dapat membuka obrolan di WhatsApp dengan nomor apa pun tanpa menyimpan terlebih dahulu ke dalam kontak dengan membuka di browser Anda tautan 'wa.me/628123456789' (menggunakan awalan+nomor yang diinginkan)?
+Tahukah Anda bahwa Anda dapat membuka chat di WhatsApp dengan nomor apa pun tanpa menyimpan terlebih dahulu ke dalam kontak dengan membuka tautan ini di browser Anda 'wa.me/628123456789' (menggunakan awalan+nomor yang diinginkan)?
 Sumber: https://faq.whatsapp.com/en/android/26000030/
 
 Awalnya tautan itu lebih panjang dan lebih sulit untuk diingat, jadi saya membuat aplikasi kecil ini untuk membantu prosesnya.
 
-Sejak itu saya telah menambahkan beberapa fungsi (masukkan pesan, bagikan tautan, daftar kode negara, buat pintasan, simpan terbaru dan yang disematkan, buka panggilan terbaru melalui add-on, dan beberapa lagi) tetapi selalu dengan tiga prinsip ini:
-1) Buat aplikasi yang lebih kecil menjadi mungkin. Ini berarti tidak ada konten tambahan yang tidak terkait, tidak ada perpustakaan tambahan, dan tidak ada hal yang tidak berguna. Saat ini ukurannya sekitar 100KB=0.1MB. Kurang dari gambar standar!
+Sejak itu saya telah menambahkan beberapa fungsi (memasukkan pesan, membagikan tautan, daftar kode negara, menambah pintasan, menyimpan yang terbaru dan disematkan, buka panggilan terkini melalui add-on, dan beberapa lainnya) tetapi selalu menerapkan tiga prinsip ini:
+1) Buat aplikasi yang sekecil mungkin. Ini berarti tidak ada konten tambahan yang tidak terkait, tidak ada perpustakaan tambahan, dan tidak ada hal yang tidak berguna. Saat ini ukurannya sekitar 100KB=0.1MB. Kurang dari gambar standar!
 2) Gunakan izin sesedikit mungkin. Hanya izin create_shortcut yang digunakan, tidak ada yang lain! (tidak ada panggilan, tidak ada penyimpanan, tidak ada internet).
 3) Tidak ada iklan. Aku benci iklan. Saya tidak akan pernah menambahkan iklan, adware, spyware, pelacakan pengguna atau hal-hal buruk lainnya.
 
@@ -57,5 +57,5 @@ Ukuran apk:
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->
-    <changelog_footer>Do you like the update? Suggestions? You can say so in the comments or in the blog! https://triangularapps.blogspot.com/</changelog_footer>
+    <changelog_footer>Apakah Anda menyukai pembaruan ini? Apakah Anda ingin memberikan saran? Anda dapat mengatakannya di ulasan atau di blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

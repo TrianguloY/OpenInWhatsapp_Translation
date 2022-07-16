@@ -33,10 +33,12 @@ Info lebih lanjut klik [[wfq|di sini]].
 Masukkan nomor dan [[prf|awalan]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik pada tombol negara untuk memilih dari daftar.
 Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
-    <string name="txt_extra_description">Pakai ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
+    <string name="txt_extra_description">Gunakan ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
     <string name="txt_support">Menjadi aplikasi gratis tanpa iklan atau pembelian, kemajuan dan pembaruan didasarkan pada penerimaan dan dukungan dari Anda.</string>
     <string name="btn_link_support">Dukung</string>
-    <string name="txt_business">Tampaknya Anda menggunakan aplikasi untuk keperluan bisnis, mohon pertimbangkan [[spt|dukungan]], terimakasih.\n\n[[hdb|Buang]]</string>
+    <string name="txt_business">Tampaknya Anda menggunakan aplikasi untuk keperluan bisnis. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
+    <string name="txt_longUser">Tampaknya Anda telah menggunakan aplikasi ini cukup lama. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
+
 
     <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah khawatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
 
@@ -50,21 +52,25 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
     <string name="btn_shareLink">Bagikan</string>
     <string name="btn_shortcut">Tambah Pintasan</string>
     <string name="chk_mergeInputs">Gabungkan input awalan dan nomor</string>
-    <string name="chk_stripZeros">Hapus angka nol di depan dari awalan dan angkar</string>
-    <string name="chk_enableRecents">Simpan nomor/pesan terkini (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
+    <string name="chk_stripZeros">Hapus angka nol di depan dari awalan dan nomor</string>
+    <string name="chk_enableRecents">Simpan nomor/pesan terkini ke agenda (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="chk_keepprefix">Pulihkan awalan [%1$s] ketika aplikasi ditutup</string>
     <string name="chk_autoopen">Buka aplikasi WhatsApp ketika nomor terisi otomatis (dari membagikan nomor, menekan tombol log panggilan, membuka agenda, atau menempel dari papan klip)</string>
     <string name="txt_mode">Mode Pembukaan:</string>
     <string-array name="chl_openable">
-        <item>Bawaan: Gunakan skema Whatsapp Android</item>
-        <item>Web: Menggunakan skema web, mungkin menampilkan peramban</item>
-        <item>SMS: Mengguunakan intent yang terkait sms, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
+        <item>Bawaan: Gunakan skema WhatsApp Android</item>
+        <item>Web: Gunakan skema web, mungkin menampilkan aplikasi peramban</item>
+        <item>SMS: Gunakan intent yang terkait SMS, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
         <item>Sudah ditentukan: Pastikan akan berfungsi untuk aplikasi WhatsApp dan WhatsApp Business resmi.</item>
-        <item>[BAHAYA] JID: Menggunakan skema WhatsApp internal. Menggunakan mode ini tidak disarankan karena nomor tampaknya tidak diperiksa keberadaannya</item>
+        <item>[BAHAYA] JID: Gunakan skema WhatsApp internal. Menggunakan mode ini tidak disarankan karena nomor tampaknya tidak diperiksa keberadaannya</item>
     </string-array>
     <string name="txt_jidWarning">Mode ini menggunakan intent WhatsApp yang tidak terdokumentasi dan mungkin berhenti bekerja atau tidak berjalan dengan benar. Kecuali sudah diperbaiki, sepertinya menghindari pengecekan nomor valid sehingga chat tetap terbuka walaupun nomor tidak ada. Pastikan bahwa penggunaan mode ini tidak disarankan karena konsekuensi yang tidak diketahui.\n\nLanjutkan dengan risiko Anda sendiri?</string>
-    <string name="btn_addonLink">Tambahan</string>
+    <string name="chk_signal">Dukungan eksperimental [[sgn|Signal]]</string>
+    <string name="chk_telegram">Dukungan eksperimental [[tgm|Telegram]]</string>
+    <string name="txt_telegram">Perhatikan bahwa agar nomor dapat dibuka dengan tautan t.me/+628, pengguna harus menyetelnya agar nomor telepon Anda dapat dilihat oleh "Semua orang" pada opsi Privasi dan Keamanan di aplikasi Telegram. Dan hampir tidak ada seorangpun yang mau melakukan itu.\nJadi, kecuali Anda mengenali orangnya, saya jamin opsi ini tidak berguna (Telegram bahkan tidak memberitahu bahwa nomornya tidak dapat ditemukan, itu hanya membuka aplikasi seperti biasa tanpa error).\nAnda masih dapat mencobanya, tetapi Anda telah diperingatkan.</string>
+    <string name="chk_light">Gunakan tema terang (aplikasi akan dimulai ulang)</string>
+    <string name="btn_addonLink">Addon</string>
 
     <string name="msg_warnShare">Tautan yang akan Anda bagikan berisi nomor telepon yang dimasukkan dalam teks biasa. Setiap orang yang memiliki akses ke tautan akan memiliki akses ke nomor tersebut. Jika itu adalah nomor pribadi, jangan bagikan tautan secara publik.</string>
     <string name="btn_noWarn">Jangan peringatkan lagi</string>
@@ -80,6 +86,7 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
 
     <string name="toast_autoParser">Parser otomatis.\nPeriksa lagi awalan-nya!</string>
     <string name="toast_copied">Disalin ke papan klip</string>
+    <string name="toast_empty">Angka tidak ditemukan di papan klip</string>
     <string name="toast_error_openLink">Tidak bisa membuka tautan</string>
 
     <string name="title_sendTo">Kirim tautan ke:</string>
@@ -115,8 +122,9 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
 
     <string name="addon_message_loadingCalls">Menampilkan daftar panggilan tidak dikenal…</string>
     <string name="addon_toast_noCalls">Tidak ada nomor panggilan tidak dikenal atau tidak bisa dibaca</string>
-    <string name="addon_txt_loading">Batasi panggilan tidak dikenal terkini untuk mengurangi waktu muat aplikasi (perlu addon V1.2+). Atur 0 untuk tampilkan semua:</string>
+    <string name="addon_txt_loading">Batasi panggilan tidak dikenal terkini untuk mengurangi waktu muat aplikasi (perlu addon V1.2+). Setel ke angka 0 untuk menampilkan semua:</string>
     <string name="addon_txt_warning">Addon terdeteksi, tetapi tanda tangannya tidak cocok dengan [Error %d]. Pastikan Anda telah menginstalnya dari halaman resmi (dan aplikasi ini dari Play Store)</string>
+    <string name="addon_reload">Muat ulang</string>
 
     <string name="lbl_shortcut">Buka chat dengan %s</string>
 
@@ -127,11 +135,11 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
     <string-array name="chl_notify">
         <item>Jangan pernah beritahu</item>
         <item>Beritahu fitur penting saja</item>
-        <item>Beritahu hanya fitur baru</item>
+        <item>Beritahu fitur baru saja</item>
         <item>Selalu beritahu</item>
     </string-array>
-    <string name="cl_title">Daftar perubahan:</string>
-    <string name="cl_more">tampilkan lebih banyak</string>
-    <string name="txt_newVersion">Aplikasi telah diperbarui: [[chl|lihat perubahan]].\n\n[[hdc|Singkirkan]]</string>
+    <string name="cl_title">Catatan perubahan:</string>
+    <string name="cl_more">Lihat selengkapnya</string>
+    <string name="txt_newVersion">Aplikasi telah diperbarui: [[chl|lihat perubahan]].\n\n[[hdc|Abaikan]]</string>
 
 </resources>

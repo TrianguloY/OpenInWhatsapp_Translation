@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit: Steven Felix
+
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Klik untuk Chat [donasi]</title>
+
+    <description_short max_chars="80">Versi donasi dari aplikasi Klik untuk Chat</description_short>
+
+    <description_long max_chars="4000">
+Ini adalah versi donasi dari aplikasi Klik untuk Chat:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Periksa aplikasi itu untuk deskripsi tentang apa yang diharapkan.
+
+Versi ini hampir mirip tanpa perbedaan mencolok, selengkapnya:
+
+• Apa yang TIDAK berubah:
+- Fungsionalitas dan pembaruan: kedua versi aplikasi akan selalu memiliki fungsi yang sama dan pembaruan yang sama pada waktu yang hampir bersamaan (kecuali untuk versi beta, dimana saya menguji hal-hal baru dengan sekelompok kecil pengguna terlebih dahulu).
+- Tidak ada iklan: tidak akan ada iklan di setiap versi aplikasi .
+- Ukuran kecil: ukuran aplikasi untuk kedua versi akan sekecil mungkin.
+
+• Apa yang berubah:
+- Lebih sedikit terjemahan: Versi aplikasi ini hanya berisi bahasa dimana penerjemah memberi saya izin untuk menggunakannya. Untuk mengetahui apakah bahasa tersedia, buka aplikasi versi normal, lalu pilih bahasa dari pengaturan, lalu tekan 'Dukung' di informasi: jika entri 'Klik untuk Chat' ditampilkan, itu tersedia. Semua terjemahan disediakan secara gratis oleh pengguna, jadi saya merasa tidak enak menggunakannya di aplikasi berbayar kecuali saya mendapat izin eksplisit dari mereka.
+- Ikon: Satu-satunya perubahan visual antar versi aplikasi: normal=hijau, donasi=kuning.
+
+
+Membayar untuk versi ini tidak akan menguntungkan Anda secara langsung, karena keduanya hampir mirip, namun jika Anda melakukannya, Anda akan membantu peningkatan aplikasi di masa depan. Anggap ini sebagai pembayaran kosmetik.
+Dan jika Anda ingin membantu tetapi tidak dapat membelinya, jangan khawatir, Anda dapat terus menggunakan aplikasi versi normal. Jika Anda suka dan membagikannya, Anda sudah membantu. (Komentar yang membangun juga membantu).
+
+Ada juga aplikasi donasi umum yang lebih murah jika Anda mau: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation
+
+Catatan: jika Anda telah mendukung saya di masa lalu, baik membeli aplikasi 'Beli saya kopi' atau cara lain (termasuk menyediakan atau memperbarui terjemahan dari salah satu aplikasi saya), cukup kirimkan saya email dan saya akan memberi Anda kode untuk ini.
+
+
+Catatan penting: jika Anda membayar untuk suatu aplikasi tetapi Anda mencopot pemasangannya dalam waktu kurang dari dua jam, Play Store akan secara otomatis mengembalikan dana Anda. Gunakan pengetahuan ini dengan hati-hati.
+    </description_long>
+</parameters>

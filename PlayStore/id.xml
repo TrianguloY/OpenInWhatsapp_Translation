@@ -15,7 +15,7 @@ If you added/modified the following file add your name here to give credit: Stev
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
     <title max_chars="30">Klik untuk Chat</title>
 
-    <description_short max_chars="80">Kecil, tidak ada iklan untuk membuka chat WhatsApp dengan nomor apa pun (Anda dan nomor dia).</description_short>
+    <description_short max_chars="80">Kecil, tanpa iklan untuk membuka chat WhatsApp dengan nomor telepon yang dituju</description_short>
 
     <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
     <description_long max_chars="4000">

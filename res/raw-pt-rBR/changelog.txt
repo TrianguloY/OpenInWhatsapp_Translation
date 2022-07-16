@@ -1,3 +1,7 @@
+V 4.1.3
+- Atualizações de tradução
+- Corrigidas algumas falhas muito raras
+
 V 4.1.2
 - Atualizações de tradução
 

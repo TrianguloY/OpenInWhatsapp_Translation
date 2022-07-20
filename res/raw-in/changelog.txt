@@ -6,7 +6,7 @@ V 4.1.2
 - Terjemahan diperbarui
 
 V 4.1.1
-- Memperbaiki sakelar Signal/Telegram tidak berfungsi dalam beberapa bahasa
+- Memperbaiki opsi sakelar Signal/Telegram tidak berfungsi dalam beberapa bahasa
 
 V 4.1
 - Tema terang
@@ -69,7 +69,7 @@ V 2.13
 - Tampilkan pesan saat berbagi nomor telepon
 
 V 2.12
-- Tautan donasi non-google dihapus untuk mematuhi pedoman baru, diganti dengan aplikasi donasi baru (bahasa Inggris saja)
+- Tautan donasi non-Google dihapus untuk mematuhi pedoman baru, diganti dengan aplikasi versi donasi (bahasa Inggris saja)
 - Penyesuaian kecil dengan warna aplikasi
 
 V 2.11.1
@@ -113,7 +113,7 @@ V 2.8.6
 
 V 2.8.5
 - Terjemahan bahasa Tamil ditambahkan. Terima kasih kepada MageshBabu (mage1k99)!
-- Mengubah ukuran elemen dalam daftar agenda dan kode negara. Dan juga ukuran tombol.
+- Mengubah ukuran elemen dalam daftar agenda dan kode negara dan juga ukuran tombol.
 
 V 2.8.4
 - Memperbaiki kesalahan pembuatan tautan
@@ -152,6 +152,6 @@ V 2.6.1
 
 V 2.6
 - Menambahkan opsi untuk menyembunyikan bantuan layar utama
-- Memisahkan dialog Tentang ke menu Pengaturan and Info Aplikasi
+- Memisahkan dialog Tentang ke menu Pengaturan dan Info Aplikasi
 - Menambahkan tautan ke halaman terjemahan
 - Menambahkan opsi untuk membagikan aplikasi ini

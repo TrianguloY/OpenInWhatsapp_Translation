@@ -11,7 +11,7 @@ If you added/modified the following file add your name here to give credit:
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
-    <title max_chars="30">Cliquer pour discuter [donateur]</title>
+    <title max_chars="30">Cliquer pour discuter [don]</title>
 
     <description_short max_chars="80">Version de l'application Cliquer pour discuter destinée aux donateurs</description_short>
 

@@ -13,7 +13,7 @@ If you added/modified the following file add your name here to give credit:
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
     <title max_chars="30">Cliquer pour Discuter</title>
 
-    <description_short max_chars="80">Petite application sans publicité pour ouvrir un discussion WhatsApp avec n'importe quel numéro (vous et ce numéro).</description_short>
+    <description_short max_chars="80">Application sans pub ouvrant une discussion WhatsApp avec n'importe quel numéro.</description_short>
 
     <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
     <description_long max_chars="4000">
@@ -54,6 +54,7 @@ Taille de l'apk:
 ~100 KB (0,1MB)
     </description_long>
 
-    <!-- Not needed if you don't translate the changelog -->
-    <changelog_footer>Do you like the update? Suggestions? You can say so in the comments or in the blog! https://triangularapps.blogspot.com/</changelog_footer>
+
+
+
 </parameters>

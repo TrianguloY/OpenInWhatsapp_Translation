@@ -1,20 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!--
+<?xml version="1.0" encoding="utf-8"?><!--
 strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
--Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
-
- -->
+-->
 <resources>
 
     <string name="language">Français</string>
 
-    <!--<string name="translators">Armand Secco</string>-->
-
-    <!--<string name="donation_permission">unknown</string>-->
+    <!--<string name="translators">Armand Secco & Nathanaël Gagnepain</string>-->
+	
+    <!-- Permission to use in the donation version-->
+     <!--<string name="donation_permission">yes</string>-->
+      <!-- Me, Nathanaël give my direct and complete agreement to the use of this file in the donation version, without any restriction-->
 
     <string name="app_name">Cliquer pour Discuter</string>
 
@@ -25,35 +27,62 @@ Instructions for manual translation:
     <string name="txt_about_helptranslations">Voulez-vous contribuer à la traduction? Vous trouverez davantage d\'informations ici:</string>
 
     <string name="txt_changelanguage">Vous pouvez modifier la langue en cliquant sur le bouton ci-dessous (l\'application va redémarrer).</string>
-
+    <string name="txt_availocales">Seuls les paramètres régionaux disponibles [[lcl|sur votre appareil]] sont installés, afin de réduire la taille de l\'application.</string>
+	
     <string name="txt_description">"Cette application utilise l\'api WhatsApp publique pour ouvrir un chat avec un quelconque numéro que vous entrerez. Aucun contact ne sera créé sur votre portable.
 Davantage d\'infos [[wfq|ici]].
 
 Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Davantage d\'infos [[hlp|ici]]. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
-Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
+Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="prefix_url">https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone</string>
     <string name="txt_extra_description">Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message).</string>
-    <string name="txt_support">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
-    <string name="btn_link_support">Don</string>
+   
 
-    <string name="txt_addonDescr">Avec cet addon, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>
+   <string name="txt_support">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
+    <string name="btn_link_support">Don</string>
+    <string name="txt_business">Il semble que vous utilisez l\'application à des fins professionnelles. Veuillez considérer [[spt|soutenir]], merci.\n\n[[hdb|Ignorer]]</string>
+    <string name="txt_longUser">Il semble que vous utilisiez l\'application depuis un certain temps. Veuillez considérer [[spt|soutenir]], merci.\n\n[[hdb|Ignorer]]</string>
+
+
+    <string name="txt_addonDescr">Avec ce module complémentaire, vous pouvez autoriser cette application à afficher une liste d\'appels récents inconnus pour ensuite les sélectionner. Ne vous inquiétez pas: c\'est gratuit, plus petit qu\'une image, et sans pub.</string>
 
     <string name="hint_editNumber">Numéro</string>
     <string name="hint_editPrefix">Préf</string>
     <string name="hint_message">Message qui sera complété automatiquement, mais PAS envoyé.</string>
     <string name="hint_prefAndNumber">Préfixe &amp; Numéro</string>
+	<string name="hint_itemName">nom</string>
 
     <string name="btn_openInWhatsapp">Ouvrir</string>
     <string name="btn_shareLink">Partager</string>
+	    <string name="btn_shortcut">Raccourci</string>
     <string name="chk_mergeInputs">Fusionner le préfixe et le numéro</string>
+	<string name="chk_stripZeros">Supprimer les zéros non significatifs du préfixe et du nombre</string>
     <string name="chk_enableRecents">Enregistrer les numéros/messages récents. (si désactivé, effacera tous les enregistrements)</string>
     <string name="chk_hideInfo">Masquer le descriptif d\'aide de l\'écran principal</string>
-    <string name="btn_addonLink">Addon</string>
+    <string name="chk_keepprefix">Restaurer le préfixe [%1$s] à la fermeture de l\'application.</string>
+    <string name="chk_autoopen">Ouvrir automatiquement lorsqu\'un numéro est renseigné automatiquement (partage, appel, récent ou presse-papiers).</string>
+    <string name="txt_mode">Mode d\'ouverture:</string>
+    <string-array name="chl_openable">
+        <item>Par défaut: utilise le modèle WhatsApp pour Android</item>
+        <item>Web: utilise le modèle Web, peut également afficher les navigateurs</item>
+        <item>SMS: utilise une intention liée aux SMS, peut également afficher d\'autres applications de messagerie [remarque: l\'envoi de SMS ne semble pas toujours être pris en charge]</item>
+        <item>Prédéfini: garantit le fonctionne pour les applications officielles WhatsApp et WhatsApp Business.</item>
+        <item>[DANGER] JID: utilise un schéma interne de WhatsApp. L\'utilisation de ce mode est déconseillée car l\'existence des nombres semble ne pas être vérifiée</item>
+    </string-array>
+    <string name="txt_jidWarning">Ce mode utilise une intention WhatsApp non documentée et peut cesser de fonctionner ou ne pas fonctionner correctement. À moins qu\'il ne soit déjà corrigé, il semble éviter de vérifier la validité des numéros, de sorte qu\'un chat s\'ouvrira même si le numéro n\'existe pas. Notez que l\'utilisation de ce mode est déconseillée en raison de conséquences inconnues.\n\nContinuer à vos risques et périls?</string>
+    <string name="chk_signal">Prise en charge expérimentale de [[sgn|Signal]]</string>
+    <string name="chk_telegram">Prise en charge expérimentale de [[tgm|Telegram]]</string>
+    <string name="txt_telegram">Notez que, pour qu\'un numéro soit ouvert avec le lien t.me/+123, l\'utilisateur doit le définir comme "publiquement visible" et permettre d\'être trouvé par celui-ci. Et presque personne ne le fait.\nDonc, à moins que vous ne connaissiez la personne, je vous assure que cette option est inutile (Telegram ne dit même pas que le numéro n\'a pas pu être ouvert, il ouvre simplement l\'écran principal normalement sans erreurs).\nVous pouvez toujours l\'essayer, mais vous avez été prévenu.</string>
+    <string name="chk_light">Utiliser le thème clair (l\'application va redémarrer)</string>
+    <string name="btn_addonLink">module complémentaire</string>
+
+    <string name="msg_warnShare">Le lien que vous allez partager contient le numéro de téléphone saisi en clair. Toute personne ayant accès au lien aura accès au numéro. S\'il s\'agit d\'un numéro personnel, ne partagez pas le lien publiquement.</string>
+    <string name="btn_noWarn">Ne plus m\'avertir</string>
 
     <string name="btn_link_playstore_open">Play Store (ouvrir)</string>
     <string name="btn_link_playstore_share">Play Store (partager)</string>
     <string name="btn_link_apppage">Site de l\'auteur</string>
-    <string name="btn_link_faq">Questions fréquentes\n(FAQ) [English only]</string>
+    <string name="btn_link_faq">Questions fréquentes\n(FAQ) [Anglais uniquement]</string>
     <string name="btn_link_helptranslations">Traduire</string>
 
     <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
@@ -61,12 +90,16 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
 
     <string name="toast_autoParser">Analyseur automatique.\nContrôlez le préfixe!</string>
     <string name="toast_copied">Copié dans le presse-papiers</string>
+    <string name="toast_empty">Le presse-papiers ne contient aucun numéro</string>
     <string name="toast_error_openLink">Impossible d\'ouvrir le lien</string>
 
     <string name="title_sendTo">Envoyer le lien à:</string>
     <string name="title_chooseCountry">Préfixes par pays:</string>
     <string name="title_chooseApp">Choisir l\'app:</string>
     <string name="title_clearRecents">Effacer les données récentes:</string>
+    <string name="title_pinned">Épinglé:</string>
+    <string name="title_recents">Récents:</string>
+    <string name="title_agenda">Agenda:</string>
 
     <string name="message_clearRecents">Voulez-vous effacer toutes les données récentes?</string>
 
@@ -75,6 +108,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
 
     <string name="cntDesc_appInfo">A propos</string>
     <string name="cntDesc_prefixSelector">Sélecteur de préfixe</string>
+    <string name="cntDesc_clear">Effacer les entrées</string>
     <string name="cntDesc_pasteClipboard">Coller le contenu du presse-papiers</string>
     <string name="cntDesc_agenda">Numéros récents</string>
     <string name="cntDesc_recentMessages">Messages récents</string>
@@ -83,9 +117,34 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Ouvrir la page Addon</string>
     <string name="cntDesc_settings">Paramètres</string>
+	<string name="cntDesc_delete">Effacer</string>
+    <string name="cntDesc_togglepin">Épingler/Désépingler</string>
+    <string name="cntDesc_filter">Filtre</string>
+		
+    <string name="util_close">Fermer</string>
+    <string name="util_none">Aucun</string>
 
     <string name="addon_message_loadingCalls">Liste des appels inconnus…</string>
     <string name="addon_toast_noCalls">Aucun numéro inconnu trouvé ou lisible</string>
 
+    <string name="addon_txt_loading">Limitez les appels inconnus récents pour réduire le temps de chargement (nécessite le module complémentaire V1.2+). Mettre à 0 pour tout afficher:</string>
+    <string name="addon_txt_warning">Le module complémentaire a été détecté, mais sa signature ne correspond pas [Erreur %d]. Assurez-vous de l\'avoir installé depuis la page officielle (et cette application depuis le Play Store)</string>
+    <string name="addon_reload">recharger</string>
+
+    <string name="lbl_shortcut">Ouvrir un chat avec %s</string>
+
+    <string name="error_instantApp">Les applications instantanées ne peuvent ouvrir que l\'application par défaut. Si vous disposez de plusieurs versions (comme WhatsApp et WhatsApp Business), essayez d\'installer [[oiw|l\'application complète]] (remarque: toutes les versions ne sont pas prises en charge).</string>
+    <string name="title_instantApp">Application instantanée</string>
+    <string name="message_instantApp">La fonctionnalité \'%s\' n\'est pas disponible dans une appli instantanée. Si vous souhaitez l\'utiliser, installez l\'application depuis le Play Store.</string>
+
+    <string-array name="chl_notify">
+        <item>Ne jamais notifier</item>
+        <item>Notifier les nouvelles fonctionnalités importantes uniquement</item>
+        <item>Notifier les nouvelles fonctionnalités uniquement</item>
+        <item>Toujours notifier</item>
+    </string-array>
+    <string name="cl_title">Journal des modifications:</string>
+    <string name="cl_more">afficher plus</string>
+    <string name="txt_newVersion">L\'application a été mise à jour: [[chl|afficher les modifications]].\n\n[[hdc|Ignorer]]</string>
 
 </resources>

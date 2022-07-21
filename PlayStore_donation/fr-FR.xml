@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+If you added/modified the following file add your name here to give credit:
+
+    <!--<string name="translators">Nathanaël Gagnepain</string>-->
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Cliquer pour discuter [don]</title>
+
+    <description_short max_chars="80">Version de l'application Cliquer pour discuter destinée aux donateurs</description_short>
+
+    <description_long max_chars="4000">
+Ceci est la version de soutien de l'application Cliquez pour discuter:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Consultez cette application pour obtenir une description de ce à quoi vous attendre.
+
+Cette version est pratiquement la même sans aucune différence notable, plus précisément:
+
+• Ce qui ne change PAS:
+- Fonctionnalités et mises à jour: les deux versions auront toujours les mêmes fonctionnalités et les mêmes mises à jour à peu près au même moment (sauf pour la version bêta, où je teste d'abord de nouvelles choses avec un petit groupe d'utilisateurs).
+- Pas de publicité: aucune des versions ne contiendra de publicité. Jamais.
+- Taille réduite: les deux versions sont aussi petites que possible.
+
+• Ce qui change:
+- Moins de traductions: cette version ne contient que les paramètres régionaux où les traducteurs m'ont donné la permission de l'utiliser. Pour savoir si un paramètre régional est disponible, ouvrez l'application normale, puis choisissez la langue dans les paramètres, puis appuyez sur "Support" dans les informations: si une entrée "Cliquez pour discuter" est affichée, elle est disponible. Toutes les traductions sont fournies gratuitement par des utilisateurs, et je me sens donc mal de les utiliser dans une application payante à moins d'avoir leur permission explicite.
+- Icône: Le seul changement visuel entre les versions: normal=vert, donateur=jaune.
+
+
+Payer pour cette version ne vous profitera pas directement, car les deux sont pratiquement identiques, mais si vous le faites, vous contribuerez à l'avenir et à l'amélioration de l'application. Considérez cela comme un achat cosmétique.
+Et si vous voulez aider mais que vous ne pouvez pas l'acheter, ne vous inquiétez pas, vous pouvez continuer à utiliser l'application normale. Si vous l'appréciez et la partagez, vous aidez déjà. (Un commentaire constructif aide aussi).
+
+Il existe également une application de soutien globale moins chère si vous préférez: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation
+
+Remarque: si vous m'avez soutenu par le passé, soit en achetant cette application "Buy me a coffee" ou par d'autres moyens (ceci incluant la fourniture ou la mise à jour d'une traduction de l'une de mes applications), envoyez-moi simplement un e-mail et je vous donnerai un code pour l'obtenir.
+
+
+Remarque importante: si vous payez pour une application mais que vous la désinstallez en moins de deux heures, le Play Store la remboursera automatiquement. Utilisez ceci avec précaution.
+    </description_long>
+</parameters>

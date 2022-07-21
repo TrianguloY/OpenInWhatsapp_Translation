@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+If you added/modified the following file add your name here to give credit:
+
+    <!--<string name="translators">Nathanaël Gagnepain (Ilithy)</string>-->
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Cliquer pour Discuter</title>
+
+    <description_short max_chars="80">Application sans pub ouvrant une discussion WhatsApp avec n'importe quel numéro.</description_short>
+
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+Avis de non-responsabilité: cette application n'est ni affiliée ni approuvée par WhatsApp Inc.
+Ancienne dénomination: "Ouvrir dans WhatsApp (cliquez pour discuter) [petit, sans pub]", modifié afin de se conformer aux directives de WhatsApp et de Google.
+
+------------------
+
+Je sais que certains utilisateurs utilisent l'application à des fins professionnelles. Je suis heureux que mon application vous aide à être plus productif, mais s'il vous plaît, si vous utilisez l'application à des fins commerciales ou professionnelles, envisagez de la soutenir. Je désire que ce petit projet personnel reste une application gratuite sans publicité ni achat, et que les progrès et les mises à jour soient basés sur l'accueil et le soutien de votre part. Il existe une version de don que vous pouvez acheter pour aider au développement : https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
+
+[Nouveauté: Il existe désormais une version web, compatible avec WhatsApp Web: https://trianguloy.github.io/OpenInWhatsapp_Web/]
+
+------------------
+
+Saviez-vous que vous pouvez ouvrir une conversation dans WhatsApp avec n'importe quel numéro sans avoir à préalablement l'enregistrer dans les contacts en ouvrant dans votre navigateur le lien 'wa.me/123456789' (en utilisant le préfixe + le numéro souhaité)?
+Source: https://faq.whatsapp.com/en/android/26000030/
+
+À l'origine, ce lien était plus long et plus difficile à retenir, j'ai donc créé cette petite application aider dans le processus.
+
+Depuis, j'ai ajouté de nombreuses fonctionnalités (saisir un message, partager un lien, liste des indicatifs de pays, création de raccourci, enregistrer les appels récents et les épinglés, ouvrir les appels récents via un module complémentaire, et plus encore) mais toujours avec ces trois principes:
+1) Rendre l'application la plus petite possible. Cela signifie pas de contenu supplémentaire sans rapport, pas de bibliothèques additionnelles et pas de choses inutiles. Actuellement, sa taille est d'environ 100 Ko = 0,1 Mo. Moins qu'une photo en qualité standard!
+2) Utilisez le moins d'autorisations d'accès que possible. Seule la permission "create_shortcut" est utilisée, rien d'autre! (pas d'autorisation d'accès aux appels, stockage, réseau).
+3) Aucune publicité. Je déteste les publicités. Je n'ajouterai jamais de publicités, de logiciels publicitaires, de logiciels espions, de suivi d'utilisateurs ou d'autres trucs désagréables.
+
+
+Si vous voulez un petit outil pour vous aider à ouvrir des numéros dans WhatsApp, essayez-le. Si vous préférez une application qui envoie vos données à Google, il existe des clones.
+
+---------------------------
+
+Traduction:
+Merci à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya and Nathanaël Gagnepain (Ilithy) pour les traductions!
+
+Permissions used:
+SHORTCUT: To create shortcuts in the launcher.
+-Nothing else- (they aren't necessary)
+
+Taille de l'apk:
+~100 KB (0,1MB)
+    </description_long>
+
+</parameters>

@@ -31,7 +31,7 @@ Instructions for manual translation:
 Info lebih lanjut klik [[wfq|di sini]].
 
 Masukkan nomor dan [[prf|awalan]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik pada tombol negara untuk memilih dari daftar.
-Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 628123456789"</string>
+Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
     <string name="txt_extra_description">Gunakan ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
     <string name="txt_support">Menjadi aplikasi gratis tanpa iklan atau pembelian, kemajuan dan pembaruan didasarkan pada penerimaan dan dukungan dari Anda.</string>

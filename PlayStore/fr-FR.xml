@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><!--
 text.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
+
 Instructions for manual translation:
 - Translate the properties making sure not to overpass the maximum character number.
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
-If you added/modified the following file add your name here to give credit:
 
-    <!--<string name="translators">Nathanaël Gagnepain (Ilithy)</string>-->
- -->
+If you added/modified the following file add your name here to give credit:
+Nathanaël Gagnepain (Ilithy)
+
+-->
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
@@ -44,7 +46,7 @@ Si vous voulez un petit outil pour vous aider à ouvrir des numéros dans WhatsA
 ---------------------------
 
 Traduction:
-Merci à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya and Nathanaël Gagnepain (Ilithy) pour les traductions!
+Merci à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain pour les traductions!
 
 Permissions used:
 SHORTCUT: To create shortcuts in the launcher.

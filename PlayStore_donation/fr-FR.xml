@@ -6,8 +6,8 @@ Instructions for manual translation:
 - Currently this file is copied manually, line breaks are kept and no need to escape special characters.
 If you added/modified the following file add your name here to give credit:
 
-    <!--<string name="translators">Nathanaël Gagnepain</string>-->
- -->
+    <string name="translators">Nathanaël Gagnepain</string>
+-->
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->

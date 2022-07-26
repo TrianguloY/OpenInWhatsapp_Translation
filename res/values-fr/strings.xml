@@ -13,10 +13,10 @@ Instructions for manual translation:
     <string name="language">Français</string>
 
     <!--<string name="translators">Armand Secco & Nathanaël Gagnepain</string>-->
-	
+
     <!-- Permission to use in the donation version-->
-     <!--<string name="donation_permission">yes</string>-->
-      <!-- Me, Nathanaël give my direct and complete agreement to the use of this file in the donation version, without any restriction-->
+    <!--<string name="donation_permission">yes</string>-->
+    <!-- Me, Nathanaël give my direct and complete agreement to the use of this file in the donation version, without any restriction-->
 
     <string name="app_name">Cliquer pour Discuter</string>
 
@@ -33,7 +33,7 @@ Instructions for manual translation:
 Davantage d\'infos [[wfq|ici]].
 
 Insérez le numéro et le [[prf|préfixe]] sans aucun caractère supplémentaire, uniquement des nombres 0–9. Davantage d\'infos [[hlp|ici]]. Vous pouvez cliquer sur \'+\' pour sélectionner un préfixe de la liste.
-Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
+Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="prefix_url">https://fr.wikipedia.org/wiki/Liste_des_indicatifs_t%C3%A9l%C3%A9phoniques_internationaux_par_indicatif#Tableaux_des_indicatifs_class%C3%A9s_par_zone</string>
     <string name="txt_extra_description">Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message).</string>
    

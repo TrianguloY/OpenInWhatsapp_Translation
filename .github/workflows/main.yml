@@ -1,0 +1,42 @@
+# Create a zip with the english texts
+name: Create Zip with English texts
+
+# When pushing to the master branch
+on:
+  push:
+    branches:
+    - master
+
+# Workflow in ubuntu
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out the repository
+      - uses: actions/checkout@v3
+
+      # Zip the relevant files
+      - name: Zip the relevant files
+        run: >
+          zip translation_files.zip
+          README.md
+          PlayStore/README.md
+          PlayStore/en-GB.xml
+          PlayStore_donation/README.md
+          PlayStore_donation/en-GB.xml
+          res/README.md
+          res/values/strings.xml
+          res/raw/countries_name.txt
+          res/raw/changelog.txt
+        
+      # update the latest tag
+      - name: Update latest tag
+        uses: EndBug/latest-tag@latest
+
+      # Upload zip as artifact
+      - name: Upload zip to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          file: translation_files.zip
+          overwrite: true
+          tag: latest

@@ -119,4 +119,8 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="chk_light">Usar tema claro (la aplicación se reiniciará)</string>
     <string name="toast_empty">No hay números en el portapapeles</string>
     <string name="chk_signal">Soporte experimental para [[sgn|Signal]]</string>
+    <string name="btn_sms">SMS</string>
+    <string name="btn_call">Llamar</string>
+    <string name="error_call">No se ha podido llamar al número</string>
+    <string name="error_sms">No se ha podido enviar un sms</string>
 </resources>

@@ -62,6 +62,9 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="btn_openInWhatsapp">Open</string>
     <string name="btn_shareLink">Share</string>
     <string name="btn_shortcut">Shortcut</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_sms">SMS</string>
+
     <string name="chk_mergeInputs">Merge prefix and number inputs</string>
     <string name="chk_stripZeros">Remove leading zeros from the prefix and number</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
@@ -94,6 +97,8 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
 
     <string name="error_badData">Error while opening. Incorrect data</string>
     <string name="error_nowhatsapp">Couldn\'t open WhatsApp. [[wps|Is it installed?]]</string>
+    <string name="error_call">Unable to call the number</string>
+    <string name="error_sms">Unable to send an sms</string>
 
     <string name="toast_autoParser">Automatic parser.\nCheck the prefix!</string>
     <string name="toast_copied">Copied to clipboard</string>

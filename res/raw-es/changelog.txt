@@ -1,3 +1,6 @@
+V 4.2
+- Nuevo botón para llamar y enviar sms
+
 V 4.1.3
 - Nueva traducción al francés. Muchas gracias a Nathanaël Gagnepain!
 - Actualización de las traducciones

@@ -3,48 +3,60 @@ strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
--Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
-
- -->
+-->
 <resources>
-
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
     <string name="language">Português do Brasil</string>
 
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
     <!--<string name="translators">Richard Anderson (Hirai RCD) & mezysinc</string>-->
 
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
     <!--<string name="donation_permission">yes</string>-->
 
+    <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Conversa em um Clique</string>
 
     <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse app não é afiliado ao WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Agradecimentos:</string>
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
     <string name="txt_translators">Obrigado %n por disponibilizar a tradução em %l!</string>
     <string name="txt_about_helptranslations">Quer ajudar com uma tradução? Você pode encontrar mais detalhes aqui:</string>
 
     <string name="txt_changelanguage">Você pode alterar o idioma do app clicando no botão abaixo (o app será reiniciado).</string>
-    <string name="txt_availocales">Somente locales disponíveis [[lcl|no seu aparelho]] estão instalados, a fim de reduzir o tamanho do app.</string>
+    <string name="txt_availocales">Somente idiomas disponíveis [[lcl|no seu aparelho]] estão instalados, a fim de reduzir o tamanho do app.</string>
 
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
     <string name="txt_description">"Este app usa o API público do WhatsApp para abrir uma conversa com qualquer número que você digitar.
 Nenhum contato é criado no aparelho!
 Mais detalhes [[wfq|aqui]].
 
 Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais detalhes [[hlp|aqui]]. Toque na palavra País para escolher prefixo da lista.
 p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
     <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas por definição NÃO! será enviada).</string>
 
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Sendo um app gratuito, sem anúncios, nem compras dentro do app, o desenvolvimento e atualizações dependem da aceitação e suporte das pessoas como você.</string>
-    <string name="btn_link_support">Suporte</string>
+    <string name="btn_link_support">Apoiar</string>
     <string name="txt_business">Parece que você está usando o app para fins comerciais. Por favor, considere [[spt|apoiar]] o app, obrigado.\n\n[[hdb|Agora não]]</string>
+    <string name="txt_longUser">Parece que você está usando o app por um bom tempo. Por favor, considere [[spt|apoiar]] projeto, obrigado.\n\n[[hdb|Agora não]]</string>
 
-    <string name="txt_addonDescr">Com esta extensão você consegue ver a lista de ligações recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto e sem anúncios.</string>
+
+    <string name="txt_addonDescr">Com esta extensão você consegue ver uma lista de ligações recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto e sem anúncios.</string>
 
     <string name="hint_editNumber">Número</string>
     <string name="hint_editPrefix">Prefixo</string>
     <string name="hint_message">Mensagem que será inserida mas NÃO enviada.</string>
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
     <string name="hint_prefAndNumber">Prefixo e Número</string>
     <string name="hint_itemName">Nome</string>
 
@@ -75,8 +87,8 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="msg_warnShare">O link que você vai compartilhar contém o número de telefone em texto puro. Pessoas com acesso ao link poderão ver o número. Se for um número pessoal, não compartilhe este link publicamente.</string>
     <string name="btn_noWarn">Não avisar novamente</string>
 
-    <string name="btn_link_playstore_open">Loja do Google Play (abrir)</string>
-    <string name="btn_link_playstore_share">Loja do Google Play (compartilhar)</string>
+    <string name="btn_link_playstore_open">Veja na loja do Google Play</string>
+    <string name="btn_link_playstore_share">Compartilhe o link do app</string>
     <string name="btn_link_apppage">Site do app</string>
     <string name="btn_link_faq">Perguntas mais frequentes\n(FAQ) [Somente em inglês]</string>
     <string name="btn_link_helptranslations">Ajude a traduzir</string>
@@ -84,7 +96,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
 
-    <string name="toast_autoParser">Processo automático.\nVerifica o prefixo!</string>
+    <string name="toast_autoParser">Processo automático.\nVerifique o prefixo!</string>
     <string name="toast_copied">Copiado ao clipboard</string>
     <string name="toast_empty">Nenhum número utilizável no clipboard</string>
     <string name="toast_error_openLink">Não foi possível abrir o link</string>
@@ -115,7 +127,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="cntDesc_settings">Configurações</string>
     <string name="cntDesc_delete">Excluir</string>
     <string name="cntDesc_togglepin">Fixar/Desafixar</string>
-    <string name="cntDesc_filter">Filtrar</string>
+    <string name="cntDesc_filter">Busque seu país aqui</string>
 
     <string name="util_close">Fechar</string>
     <string name="util_none">Nenhum</string>
@@ -123,14 +135,14 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="addon_message_loadingCalls">Carregando lista de ligações desconhecidas…</string>
     <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
     <string name="addon_txt_loading">Definir limite de ligações desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Digite 0 para mostrar todos:</string>
-    <string name="addon_txt_warning">A extensão foi detectada porém a sua assinatura não corresponde [Erro %d]. Certifique-se de que foi instalada da pagina oficial (e este app da loja do Google Play)</string>
+    <string name="addon_txt_warning">A extensão foi detectada porém a sua assinatura não corresponde [Erro %d]. Certifique-se de que foi instalada do site oficial (e este app da loja do Google Play)</string>
     <string name="addon_reload">recarregar</string>
 
     <string name="lbl_shortcut">Abrir uma conversa com %s</string>
 
     <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp padrão e Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
     <string name="title_instantApp">App instantâneo</string>
-    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível num app instantâneo. Se você quiser usá-la, instale o app da Loja do Google Play.</string>
+    <string name="message_instantApp">A funcionalidade \'%s\' não está disponível via app instantâneo. Se você quiser usá-la, instale o app da loja do Google Play.</string>
 
     <string-array name="chl_notify">
         <item>Nunca notifique</item>

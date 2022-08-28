@@ -51,6 +51,9 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="btn_openInWhatsapp">Buka</string>
     <string name="btn_shareLink">Bagikan</string>
     <string name="btn_shortcut">Tambah Pintasan</string>
+    <string name="btn_call">Panggilan</string>
+    <string name="btn_sms">SMS</string>
+
     <string name="chk_mergeInputs">Gabungkan input awalan dan nomor</string>
     <string name="chk_stripZeros">Hapus angka nol di depan dari awalan dan nomor</string>
     <string name="chk_enableRecents">Simpan nomor/pesan terkini ke agenda (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
@@ -83,6 +86,8 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
 
     <string name="error_badData">Gagal membuka. Data tidak benar</string>
     <string name="error_nowhatsapp">Tidak bisa membuka WhatsApp. [[wps|Apa sudah di instal?]]</string>
+    <string name="error_call">Tidak dapat memanggil nomor</string>
+    <string name="error_sms">Tidak dapat mengirim SMS</string>
 
     <string name="toast_autoParser">Parser otomatis.\nPeriksa lagi awalan-nya!</string>
     <string name="toast_copied">Disalin ke papan klip</string>

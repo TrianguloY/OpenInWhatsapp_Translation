@@ -34,12 +34,12 @@ Instructions for manual translation:
 
     <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
     <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
-    <string name="txt_description">"Este app usa o API público do WhatsApp para abrir uma conversa com qualquer número que você digitar.
+    <string name="txt_description">"Este app usa a API pública do WhatsApp para abrir uma conversa com qualquer número que você digitar.
 Nenhum contato é criado no aparelho!
 Mais detalhes [[wfq|aqui]].
 
 Digite o número e o [[prf|prefixo]] sem caracteres extras, apenas os números de 0 a 9. Mais detalhes [[hlp|aqui]]. Toque na palavra País para escolher prefixo da lista.
-p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: 55 75 912345678"</string>
+p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de telefone) 912345678; juntos: +55 75912345678"</string>
     <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
     <string name="prefix_url">https://pt.wikipedia.org/wiki/Lista_de_códigos_telefónicos</string>
     <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas por definição NÃO! será enviada).</string>
@@ -53,7 +53,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
 
     <string name="txt_addonDescr">Com esta extensão você consegue ver uma lista de ligações recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto e sem anúncios.</string>
 
-    <string name="hint_editNumber">Número</string>
+    <string name="hint_editNumber">DDD e número</string>
     <string name="hint_editPrefix">Prefixo</string>
     <string name="hint_message">Mensagem que será inserida mas NÃO enviada.</string>
     <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
@@ -63,6 +63,9 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="btn_openInWhatsapp">Abrir</string>
     <string name="btn_shareLink">Compartilhar</string>
     <string name="btn_shortcut">Atalho</string>
+    <string name="btn_call">Ligar</string>
+    <string name="btn_sms">SMS</string>
+
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
     <string name="chk_stripZeros">Excluir zeros na frente do prefixo e número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
@@ -95,6 +98,8 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
     <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
+    <string name="error_call">Não foi possível ligar o número</string>
+    <string name="error_sms">Não foi possível enviar um SMS</string>
 
     <string name="toast_autoParser">Processo automático.\nVerifique o prefixo!</string>
     <string name="toast_copied">Copiado ao clipboard</string>

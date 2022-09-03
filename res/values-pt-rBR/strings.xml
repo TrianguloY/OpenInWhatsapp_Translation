@@ -45,7 +45,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="txt_extra_description">Use isto para criar um link que abrirá o WhatsApp quando clicado. Você pode especificar um número e/ou uma mensagem que será INSERIDA no campo de texto (mas por definição NÃO! será enviada).</string>
 
     <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
-    <string name="txt_support">Sendo um app gratuito, sem anúncios, nem compras dentro do app, o desenvolvimento e atualizações dependem da aceitação e suporte das pessoas como você.</string>
+    <string name="txt_support">Sendo um app gratuito, sem anúncios, nem compras dentro do app, o desenvolvimento e atualizações dependem da aceitação e apoio das pessoas como você.</string>
     <string name="btn_link_support">Apoiar</string>
     <string name="txt_business">Parece que você está usando o app para fins comerciais. Por favor, considere [[spt|apoiar]] o app, obrigado.\n\n[[hdb|Agora não]]</string>
     <string name="txt_longUser">Parece que você está usando o app por um bom tempo. Por favor, considere [[spt|apoiar]] projeto, obrigado.\n\n[[hdb|Agora não]]</string>
@@ -60,8 +60,8 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="hint_prefAndNumber">Prefixo e Número</string>
     <string name="hint_itemName">Nome</string>
 
-    <string name="btn_openInWhatsapp">Abrir</string>
-    <string name="btn_shareLink">Compartilhar</string>
+    <string name="btn_openInWhatsapp">Vá ao whats</string>
+    <string name="btn_shareLink">Compartilhe</string>
     <string name="btn_shortcut">Atalho</string>
     <string name="btn_call">Ligar</string>
     <string name="btn_sms">SMS</string>

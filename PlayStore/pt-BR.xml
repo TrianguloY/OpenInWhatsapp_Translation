@@ -17,7 +17,7 @@ mezysinc
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
     <title max_chars="30">Conversa em um Clique</title>
 
-    <description_short max_chars="80">Pequeno sem anúncios, para abrir uma conversa no WhatsApp com qualquer número</description_short>
+    <description_short max_chars="80">Pequeno app, sem anúncios. Abra conversa no WhatsApp com qualquer número</description_short>
 
     <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
     <description_long max_chars="4000">

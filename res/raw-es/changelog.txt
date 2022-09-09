@@ -1,3 +1,6 @@
+V 4.2.1
+- Arreglada la ayuda al autocompletado
+
 V 4.2
 - Nuevo botón para llamar y enviar sms
 

@@ -1,3 +1,6 @@
+V 4.2.1
+- Fix autofill hints
+
 V 4.2
 - Novos botões de ligar e SMS
 

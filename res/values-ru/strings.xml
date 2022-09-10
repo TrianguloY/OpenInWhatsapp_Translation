@@ -43,6 +43,9 @@
     <string name="btn_openInWhatsapp">Открыть</string>
     <string name="btn_shareLink">Ссылка</string>
     <string name="btn_shortcut">Ярлык</string>
+    <string name="btn_call">Вызов</string>
+    <string name="btn_sms">SMS</string>
+
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_stripZeros">Удалять ведущие нули из кода и номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
@@ -75,6 +78,8 @@
 
     <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
     <string name="error_nowhatsapp">Невозможно открыть WhatsApp. [[wps|Он установлен?]]</string>
+    <string name="error_call">Невозможно совершить вызов</string>
+    <string name="error_sms">Невозможно отправить SMS</string>
 
     <string name="toast_autoParser">Автоматическое распознавание.\nПроверьте код страны!</string>
     <string name="toast_copied">Скопировано в буфер обмена</string>

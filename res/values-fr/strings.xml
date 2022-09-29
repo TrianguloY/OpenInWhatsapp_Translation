@@ -38,7 +38,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="txt_extra_description">Utilisez cette partie pour créer un lien qui exécutera WhatsApp en cliquant dessus. Vous pouvez préciser un nombre et/ou un message qui sera affiché dans la zone de saisie (PAS d\'envoi, je répète, PAS d\'envoi du message).</string>
    
 
-   <string name="txt_support">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
+    <string name="txt_support">Pour ceux qui le souhaitent: vous pouvez faire un petit don ici</string>
     <string name="btn_link_support">Don</string>
     <string name="txt_business">Il semble que vous utilisez l\'application à des fins professionnelles. Veuillez considérer [[spt|soutenir]], merci.\n\n[[hdb|Ignorer]]</string>
     <string name="txt_longUser">Il semble que vous utilisiez l\'application depuis un certain temps. Veuillez considérer [[spt|soutenir]], merci.\n\n[[hdb|Ignorer]]</string>
@@ -50,13 +50,16 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="hint_editPrefix">Préf</string>
     <string name="hint_message">Message qui sera complété automatiquement, mais PAS envoyé.</string>
     <string name="hint_prefAndNumber">Préfixe &amp; Numéro</string>
-	<string name="hint_itemName">nom</string>
+    <string name="hint_itemName">nom</string>
 
     <string name="btn_openInWhatsapp">Ouvrir</string>
     <string name="btn_shareLink">Partager</string>
-	    <string name="btn_shortcut">Raccourci</string>
+    <string name="btn_shortcut">Raccourci</string>
+    <string name="btn_call">Appel</string>
+    <string name="btn_sms">Message</string>
+
     <string name="chk_mergeInputs">Fusionner le préfixe et le numéro</string>
-	<string name="chk_stripZeros">Supprimer les zéros non significatifs du préfixe et du nombre</string>
+    <string name="chk_stripZeros">Supprimer les zéros non significatifs du préfixe et du nombre</string>
     <string name="chk_enableRecents">Enregistrer les numéros/messages récents. (si désactivé, effacera tous les enregistrements)</string>
     <string name="chk_hideInfo">Masquer le descriptif d\'aide de l\'écran principal</string>
     <string name="chk_keepprefix">Restaurer le préfixe [%1$s] à la fermeture de l\'application.</string>
@@ -87,6 +90,8 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
 
     <string name="error_badData">Erreur à l\'envoi. Donnée incorrecte</string>
     <string name="error_nowhatsapp">Impossible d\'exécuter WhatsApp. [[wps|Est-il installé?]]</string>
+    <string name="error_call">Impossible de contacter le numéro</string>
+    <string name="error_sms">Impossible d\'envoyer un sms</string>
 
     <string name="toast_autoParser">Analyseur automatique.\nContrôlez le préfixe!</string>
     <string name="toast_copied">Copié dans le presse-papiers</string>
@@ -117,7 +122,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Ouvrir la page Addon</string>
     <string name="cntDesc_settings">Paramètres</string>
-	<string name="cntDesc_delete">Effacer</string>
+    <string name="cntDesc_delete">Effacer</string>
     <string name="cntDesc_togglepin">Épingler/Désépingler</string>
     <string name="cntDesc_filter">Filtre</string>
 		

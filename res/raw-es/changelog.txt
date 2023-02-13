@@ -1,3 +1,8 @@
+V 4.2.2
+- Botones principales coloreados
+- Modificaciones para Android 13+
+- Actualizada a la última version Android
+
 V 4.2.1
 - Arreglada la ayuda al autocompletado
 

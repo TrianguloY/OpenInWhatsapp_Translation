@@ -1,3 +1,8 @@
+V 4.2.2
+- Colored main buttons
+- Tweaks for Android 13+
+- Upgraded to latest Android
+
 V 4.2.1
 - Fix autofill hints
 

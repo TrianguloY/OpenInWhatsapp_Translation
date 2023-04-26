@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr)
+
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Tıkla Sohbet Et [bağış]</title>
+
+    <description_short max_chars="80">Tıkla Sohbet Et uygulamasının bağış sürümü</description_short>
+
+    <description_long max_chars="4000">
+Tıkla Sohbet Et uygulamasının bağış sürümüdür:
+https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+Ne bekleyeceğiniz hakkında bir açıklama için bu uygulamayı kontrol edin.
+
+Bu sürüm, gözle görülür herhangi bir fark olmadan pratik olarak aynıdır, daha kesin olarak:
+
+• Neler DEĞİŞMEZ:
+- İşlevsellik ve güncellemeler: her iki sürüm de her zaman aynı işlevselliğe ve kabaca aynı zamanda aynı güncellemelere sahip olacaktır (önce küçük bir kullanıcı grubuyla yeni şeyler test ettiğim beta hariç).
+- Reklam yok: Sürümün hiçbirinde reklam olmayacak. Durmadan.
+- Küçük boyut: Her iki sürüm de mümkün olduğunca küçüktür.
+
+• Ne değişir:
+- Daha az çeviri: Bu sürüm yalnızca çevirmenlerin kullanmama izin verdiği yerel ayarları içerir. Bir yerel ayarın mevcut olup olmadığını öğrenmek için normal uygulamayı açın, ardından ayarlardan dili seçin, ardından bilgi bölümünde 'Destek'e basın: 'Tıkla Sohbet Et' girişi gösteriliyorsa, kullanılabilir. Tüm çeviriler kullanıcılar tarafından ücretsiz olarak sağlanıyor ve bu nedenle, onlardan açık bir şekilde izin almadığım sürece ücretli bir uygulamada kullanmaktan rahatsız oluyorum.
+- Simge: Sürümler arasındaki tek görsel değişiklik: normal=yeşil, bağış=sarı.
+
+
+Bu sürüm için ödeme yapmak size doğrudan bir fayda sağlamaz çünkü ikisi de pratik olarak aynıdır, ancak bunu yaparsanız gelecekte ve uygulamanın iyileştirilmesinde yardımcı olursunuz. Bunu kozmetik bir satın alma olarak düşünün.
+Yardım etmek istiyor ama satın alamıyorsanız endişelenmeyin, normal uygulamayı kullanmaya devam edebilirsiniz. Beğenip paylaşırsanız zaten yardımcı oluyorsunuz. (Yapıcı bir yorum da yardımcı olur).
+
+İsterseniz daha ucuz bir genel bağış uygulaması da var: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation
+
+Not: 'Bana bir kahve ısmarla (Buy me a coffee)' uygulamasını satın alarak veya başka yollarla (uygulamalarımdan birinin çevirisini sağlamak veya güncellemek dahil) daha önce beni desteklediyseniz ve bana bir e-posta gönderirseniz, size bu uygulama için bir kod vereceğim.
+
+Önemli not: Bir uygulama için ödeme yaparsanız ancak iki saatten daha kısa bir süre içinde kaldırırsanız, Play Store otomatik olarak geri ödeme yapar. Bu bilgiyi dikkatli kullanın.
+    </description_long>
+</parameters>

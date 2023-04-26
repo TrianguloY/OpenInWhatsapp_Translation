@@ -3,62 +3,159 @@ strings.xml file from Click to chat app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
--Translate only the text between <string name="..." > ... </string> and <item> ... </item>
--Line breaks are specified with '\n' or using " ", and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
 - "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
-
-
- -->
+-->
 <resources>
-
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
     <string name="language">Türkçe</string>
 
-    <!--<string name="translators">Yusuf Emen</string>-->
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
+    <!--<string name="translators">Hüseyin Filiz (HuseyinFiliz.com.tr)</string>-->
 
-    <!--<string name="donation_permission">unknown</string>-->
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
+    <!--<string name="donation_permission">yes</string>-->
 
+    <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bir bağlantısı yoktur.</string>
+    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından oluşturuldu. Bu uygulamanın WhatsApp Inc. ile bağlantısı yoktur.</string>
 
-    <string name="txt_acknowledgements">Teşekkür:</string>
-    <string name="txt_translators">Rusça çeviri için %n\'a %l!</string>
+    <string name="txt_acknowledgements">Teşekkürler:</string>
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
+    <string name="txt_translators">%l yerel çevirisini sağladığı için %n'e teşekkürler!</string>
+    <string name="txt_about_helptranslations">Çeviri konusunda yardım etmek ister misiniz? Daha fazla bilgiyi burada bulabilirsiniz:</string>
 
-    <string name="txt_changelanguage">Aşağıdaki butonlara tıklayarak uygulamanın dilini değiştirebilirsiniz. (Uygulama yeniden başlayacaktır.)</string>
+    <string name="txt_changelanguage">Aşağıdaki düğmeyi tıklayarak uygulama dilini değiştirebilirsiniz (uygulama yeniden başlatılacaktır).</string>
+    <string name="txt_availocales">Uygulama boyutunu azaltmak için yalnızca [[lcl|cihazınızda]] bulunan yerel diller yüklenir.</string>
 
-    <string name="txt_description">"Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp\'ın herkese açık API\'sini kullanır. Rehberde kişi oluşturulmaz.
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
+    <string name="txt_description">"Bu uygulama, girdiğiniz herhangi bir numarayla sohbet başlatmak için WhatsApp genel API'sini kullanır. Rehberde kişi oluşturulmaz.
 Daha fazla bilgi için [[wfq|tıklayınız]].
 
-Numarayı ve [[prf|ülke kodunu]] başka bir karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazınız. Daha fazla bilgi için [[hlp|tıklayınız]]. Ülke kodunu listeden seçmek için \'+\' butonuna tıklayabilirsiniz.
-Örnek: +90 (TR) 123 456 7890 için 90 1234567890 yazın."</string>
-    <string name="prefix_url">https://www.tanitma.gov.tr/TR,22861/ulke-telefon-kodlari.html</string>
-    <string name="txt_extra_description">Tıkladığınızda WhatsApp\'ı açacak bir bağlantı oluşturmak için burayı kullanın. Mesaj kutucuğunda yer alacak bir numara ve/veya bir mesaj belirleyebilirsiniz. (Yazdığınız metin, siz gönderme butonuna tıklamadan gönderilMEyecek, lütfen dikkat, gönderilMEyecektir.)</string>
+Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasındaki rakamları kullanarak yazın. Daha fazla bilgi için [[hlp|tıklayınız]]. Ülke kodunu listeden seçmek için için ülke ismine tıklayabilirsiniz.
+Örnek: (TR) +90 532 123 4567 için 90 5321234567 yazın"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
+    <string name="prefix_url">https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_telefon_kodlar%C4%B1_listesi</string>
+    <string name="txt_extra_description">Tıklandığında WhatsApp'ı açacak bir bağlantı oluşturmak için bunu kullanın. Mesaj kutusunda yer alacak bir mesaj belirleyebilirsiniz (mesaj siz gönderme butonuna tıklamadan GÖNDERİLMEYECEK! Otomatik GÖNDERİLMEYECEK).</string>
 
-    <string name="txt_support" />
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <string name="txt_support">Reklamsız ve ücretsiz bir uygulama olduğundan, uygulamanın gelişmesi sizden gelen bağış ve desteğe bağlıdır.</string>
+    <string name="btn_link_support">Destekle</string>
+    <string name="txt_business">Uygulamayı iş amacıyla kullandığınız anlaşılıyor. Lütfen [[spt|desteklemeyi]] düşünün, teşekkürler.\n\n[[hdb|Kapat]]</string>
+    <string name="txt_longUser">Uygulamayı uzun süredir kullanıyorsunuz. Lütfen [[spt|desteklemeyi]] düşünün, teşekkürler.\n\n[[hdb|Kapat]]</string>
+
+
+    <string name="txt_addonDescr">Bu eklentiyle, bu uygulamanın bilinmeyen son tıklama çağrılarının bir listesini göstermesine izin verebilirsiniz. Endişelenmeyin: Ücretsiz, bir resimden küçük ve reklamsız</string>
 
     <string name="hint_editNumber">Numara</string>
-    <string name="hint_editPrefix">Ülke kodu</string>
-    <string name="hint_message">Mesaj kutucuğunda yazacak ama gönderilMEyecek mesaj.</string>
-    <string name="hint_prefAndNumber">Ülke kodu &amp; Numara</string>
+    <string name="hint_editPrefix">Ülke</string>
+    <string name="hint_message">Mesaj kutusuna otomatik yazılacak ama GÖNDERİLMEYECEK mesaj.</string>
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
+    <string name="hint_prefAndNumber">Ülke Kodu &amp; Numara</string>
+    <string name="hint_itemName">isim</string>
 
     <string name="btn_openInWhatsapp">Aç</string>
     <string name="btn_shareLink">Paylaş</string>
+    <string name="btn_shortcut">Kısayol</string>
+    <string name="btn_call">Ara</string>
+    <string name="btn_sms">SMS</string>
+
+    <string name="chk_mergeInputs">Ülke kodu ve numarayı birleştir</string>
+    <string name="chk_stripZeros">Ülke kodu ve numaranın başındaki sıfırları kaldır</string>
+    <string name="chk_enableRecents">Son numaraları/mesajları kaydet (kapatırsanız kayıtlar silinir)</string>
+    <string name="chk_hideInfo">Bilgi metnini ana ekrandan gizle</string>
+    <string name="chk_keepprefix">Başlangıçta [%1$s] ülke kodu gelsin</string>
+    <string name="chk_autoopen">Numara seçildiğinde (paylaşma, arama geçmişi veya panodan) otomatik olarak aç</string>
+    <string name="txt_mode">Açılış modu:</string>
+    <string-array name="chl_openable">
+        <item>Varsayılan: Android WhatsApp şemasını kullanır</item>
+        <item>Web: Web şemasını kullanır, tarayıcıları da gösterebilir</item>
+        <item>SMS: SMS uygulamasına yönlendirir, diğer mesajlaşma uygulamaları da gözükebilir [not: otomatik mesaj doldurma her zaman çalışmayabilir]</item>
+        <item>Predefined: Resmi WhatsApp ve WhatsApp Business uygulamaları için çalışmasını sağlar</item>
+        <item>[DİKKAT] JID: Dahili bir WhatsApp şeması kullanır. Numaranın gerçek olup olmadığı kontrol edilmediği için bu modun kullanılması önerilmez</item>
+    </string-array>
+    <string name="txt_jidWarning">Bu mod, belgelenmemiş bir WhatsApp aracı kullanır ve çalışmayı durdurabilir veya hata yapabilir. Halihazırda düzeltilmedikçe, numaraların gerçek olup olmadığı kontrol edilmeyebilir. Bu nedenle numara mevcut olmasa bile bir sohbet açılacaktır. Bilinmeyen sonuçlar nedeniyle bu modu kullanmanın tavsiye edilmediğini unutmayın.\n\nDevam ederek sorumluluğu kabul ediyor musunuz?</string>
+    <string name="chk_signal">Deneysel [[sgn|Signal]] desteği</string>
+    <string name="chk_telegram">Deneysel [[tgm|Telegram]] desteği</string>
+    <string name="txt_telegram">Bir numaranın t.me/+123 bağlantısıyla açılabilmesi için kullanıcının onu "herkese görünür" olarak ayarlaması ve onun tarafından bulunmasına izin vermesi gerektiğini unutmayın. Neredeyse hiç kimse bunu yapmıyor.\nBu yüzden kişiyi tanımıyorsanız, sizi temin ederim ki bu seçenek işe yaramaz (Telegram numaranın açılamadığını bile söylemiyor, sadece ana ekranı normal şekilde açıyor).\nYine de deneyebilirsiniz, ancak uyarıldınız.</string>
+    <string name="chk_light">Açık temayı kullan (uygulama yeniden açılacak)</string>
+    <string name="btn_addonLink">Eklenti</string>
+
+    <string name="msg_warnShare">Paylaşacağınız bağlantı, girilen telefon numarasını düz metin olarak içerir. Bağlantıyı paylaştığınız herkes numaraya erişebilir. Kişisel bir numaraysa bağlantıyı herkese açık olarak paylaşmayın.</string>
+    <string name="btn_noWarn">Tekrar uyarma</string>
 
     <string name="btn_link_playstore_open">Play Store (aç)</string>
     <string name="btn_link_playstore_share">Play Store (paylaş)</string>
-    <string name="btn_link_apppage">Sayfa bilgisi</string>
+    <string name="btn_link_apppage">Uygulama sayfası</string>
+    <string name="btn_link_faq">Sıkça sorular sorular\n(SSS) [İngilizce]</string>
+    <string name="btn_link_helptranslations">Çevir</string>
 
-    <string name="error_badData">Açılırken bir hata meydana geldi. Geçersiz veri.</string>
-    <string name="error_nowhatsapp">WhatsApp açılamadı. [[wps|Uygulama kurulu mu?]]</string>
+    <string name="error_badData">Açılırken hata oluştu. Tanımlanamayan veri</string>
+    <string name="error_nowhatsapp">WhatsApp açılamadı. [[wps|Yüklendi mi?]]</string>
+    <string name="error_call">Numara aranamıyor</string>
+    <string name="error_sms">SMS gönderilemiyor</string>
 
-    <string name="toast_autoParser">Otomatik ayrıştırıcı.\nÜlke kodunu kontrol edin.</string>
-    <string name="toast_copied">Panoya kopyalandı.</string>
-    <string name="toast_error_openLink">Bağlantı yüklenemedi.</string>
+    <string name="toast_autoParser">Otomatik ayrıştırıldı.\nÜlke kodunu kontrol et!</string>
+    <string name="toast_copied">Panoya kopyalandı</string>
+    <string name="toast_empty">Panoda numara yok</string>
+    <string name="toast_error_openLink">Bağlantı açılamadı</string>
 
-    <string name="title_sendTo">Bağlantıyı şuraya gönderin:</string>
-    <string name="title_chooseCountry">Ülkeye göre ülke kodları:</string>
+    <string name="title_sendTo">Bağlantıyı şuraya gönder:</string>
+    <string name="title_chooseCountry">Ülke kodu:</string>
+    <string name="title_chooseApp">Uygulama seç:</string>
+    <string name="title_clearRecents">Son kullanılanları sil:</string>
+    <string name="title_pinned">Sabitlendi:</string>
+    <string name="title_recents">Son Kullanılanlar:</string>
+    <string name="title_agenda">Ajanda:</string>
 
-    <string name="header_country">Ülke %1$s</string>
-    <string name="header_code">Kodu %1$s</string>
+    <string name="message_clearRecents">Tüm son kullanılanları silmek istiyor musunuz?</string>
+
+    <string name="header_code">%1$s Ülke Kodu</string>
+    <string name="header_country">%1$s Bölgesi</string>
+
+    <string name="cntDesc_appInfo">Uygulama bilgisi</string>
+    <string name="cntDesc_prefixSelector">Ülke kodu seçici</string>
+    <string name="cntDesc_clear">Girdileri sil</string>
+    <string name="cntDesc_pasteClipboard">Panodan yapıştır</string>
+    <string name="cntDesc_agenda">Ajanda</string>
+    <string name="cntDesc_recentMessages">Son mesajlar</string>
+    <string name="cntDesc_calls">Bilinmeyen aramalar</string>
+    <string name="cntDesc_toggleAdv">Gelişmişe geç</string>
+    <string name="cntDesc_appLogo">Uygulama logosu</string>
+    <string name="cntDesc_addons">Eklenti sayfasını aç</string>
+    <string name="cntDesc_settings">Ayarlar</string>
+    <string name="cntDesc_delete">Sil</string>
+    <string name="cntDesc_togglepin">Sabitle/kaldır</string>
+    <string name="cntDesc_filter">Filtrele</string>
+
+    <string name="util_close">Kapat</string>
+    <string name="util_none">Yok</string>
+
+    <string name="addon_message_loadingCalls">Bilinmeyen aramalar yükleniyor…</string>
+    <string name="addon_toast_noCalls">Bilinmeyen numara bulunamadı veya okunamadı</string>
+    <string name="addon_txt_loading">Hızlı açılması için son çağrı sayısını sınırlayın (V1.2+ eklenti gerekli). Tümü için 0'ı seçin:</string>
+    <string name="addon_txt_warning">Eklenti algılandı, ancak imzası eşleşmiyor [Error %d]. Lütfen resmi siteden (ve Play Store'dan bu uygulamayı) yüklediğinizden emin olun</string>
+    <string name="addon_reload">Yenile</string>
+
+    <string name="lbl_shortcut">%s ile bir sohbet açın</string>
+
+    <string name="error_instantApp">Hazır uygulamalar yalnızca varsayılan uygulamayı açabilir. Birden çok sürümünüz varsa (WhatsApp ve WhatsApp Business gibi) [[oiw|tam sürümü]] yüklemeyi deneyin (not: tüm sürümler desteklenmez).</string>
+    <string name="title_instantApp">Hazır uygulama</string>
+    <string name="message_instantApp">\'%s\' özelliği hazır uygulamada mevcut değildir. Kullanmak istiyorsanız lütfen uygulamayı Play Store'dan yükleyin.</string>
+
+    <string-array name="chl_notify">
+        <item>Asla bildirme</item>
+        <item>Yalnızca yeni önemli özellikleri bildir</item>
+        <item>Yalnızca yeni özellikleri bildir</item>
+        <item>Tümünü bildir</item>
+    </string-array>
+    <string name="cl_title">Yenilikler:</string>
+    <string name="cl_more">devamını göster</string>
+    <string name="txt_newVersion">Uygulama güncellendi: [[chl|değişiklikleri görüntüle]].\n\n[[hdc|Kapat]]</string>
 
 </resources>

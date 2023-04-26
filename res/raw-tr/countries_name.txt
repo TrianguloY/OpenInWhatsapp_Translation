@@ -1,10 +1,10 @@
-Amerika Birleşik Devletleri;Kanada
+Kanada; Amerika Birleşik Devletleri
 Bahamalar
 Barbados
 Anguilla
-Antigua ve Barbuda;Barbuda
+Antigua ve Barbuda; Barbuda
 Britanya Virjin Adaları
-ABD Virjin Adaları
+Amerika Birleşik Devletleri Virgin Adaları
 Cayman Adaları
 Bermuda
 Grenada
@@ -14,14 +14,14 @@ Kuzey Mariana Adaları
 Guam
 Amerikan Samoası
 Sint Maarten (Hollanda)
-Saint Lucia
+Aziz Lucia
 Dominika
 Saint Vincent ve Grenadinler
 Porto Riko
-Midway Adası;Wake Adası
+Midway Adası, ABD; Wake Adası, ABD
 Dominik Cumhuriyeti
 Trinidad ve Tobago
-Nevis;Nevis
+Nevis; Saint Kitts ve Nevis
 Jamaika
 Mısır
 Güney Sudan
@@ -37,7 +37,7 @@ Gine
 Fildişi Sahili
 Burkina Faso
 Nijer
-Togo
+Gitmek
 Benin
 Mauritius
 Liberya
@@ -47,16 +47,16 @@ Nijerya
 Çad
 Orta Afrika Cumhuriyeti
 Kamerun
-Yeşil Burun Adaları
-São Tomé ve Príncipe
+Yeşil Burun
+São Tomé ve Principe
 Ekvator Ginesi
 Gabon
 Kongo
 Demokratik Kongo Cumhuriyeti (Zaire)
 Angola
 Gine-Bissau
-Britanya Hint Okyanusu Toprakları;Diego Garcia
-Ascension
+Britanya Hint Okyanusu Bölgesi; Diego Garcia
+Yükseliş
 Seyşeller
 Sudan
 Ruanda
@@ -65,7 +65,7 @@ Somali
 Cibuti
 Kenya
 Tanzanya
-Tanzanya
+Zanzibar
 Uganda
 Burundi
 Mozambik
@@ -75,13 +75,13 @@ Réunion
 Mayotte
 Zimbabve
 Namibya
-Malavi
-Lesotho
+Malawi
+Lesoto
 Botsvana
-Svaziland
+eSwatini (Svaziland)
 Komorlar
 Güney Afrika
-Saint Helena
+Aziz Helena
 Tristan da Cunha
 Eritre
 Aruba
@@ -91,15 +91,15 @@ Yunanistan
 Hollanda
 Belçika
 Fransa
-İspanya
-Gibraltar
+ispanya
+Cebelitarık
 Portekiz
 Lüksemburg
 İrlanda
 İzlanda
 Arnavutluk
 Malta
-Kıbrıs Cumhuriyeti
+Kıbrıs
 Finlandiya
 Aland adaları
 Bulgaristan
@@ -122,8 +122,8 @@ Karadağ
 Kosova
 Hırvatistan
 Slovenya
-Bosna-Hersek
-Makedonya
+Bosna Hersek
+Kuzey Makedonya
 İtalya
 Romanya
 İsviçre
@@ -132,18 +132,18 @@ Slovakya
 Lihtenştayn
 Avusturya
 Birleşik Krallık
-Guernsey
+guernsey
 Jersey
 Man Adası
 Kuzey Irlanda
 Danimarka
 İsveç
 Norveç
-Jan Mayen;Svalbard
+Jan Mayen; Svalbard
 Polonya
 Almanya
-Falkland Islands;Güney Georgia ve Güney Sandwich Adaları
-Belize
+Falkland Adaları; Güney Georgia ve Güney Sandviç Adaları
+belize
 Guatemala
 El Salvador
 Honduras
@@ -157,44 +157,44 @@ Meksika
 Küba
 Arjantin
 Brezilya
-Paskalya Adası;Şili
+Şili; Paskalya Adası
 Kolombiya
 Venezuela
-Guadeloupe;Saint Barthélemy;Saint Martin (Fransa)
+Guadeloupe; Saint Barthélemy; Saint Martin (Fransa)
 Bolivya
 Guyana
 Ekvador
-Fransız Guyaası
+Fransız Guyanası
 Paraguay
-Fransız Antilleri;Martinique
+Fransız Antilleri; Martinik
 Surinam
 Uruguay
-Sint Eustatius
+Aziz Eustatius
 Karayip Hollandası
 Saba
 Bonaire
-Curaçao
+Curacao
 Malezya
 Avustralya
-Cocos Adaları
-Christmas Adası
+Cocos (Keeling) Adaları
+Noel Adası
 Endonezya
 Filipinler
-Chatham Adası;Yeni Zelanda;Pitcairn Adaları
+Chatham Adası, Yeni Zelanda, Pitcairn Adaları
 Singapur
 Tayland
 Doğu Timor
-Avustralya Uzak Bölgeleri
-Avustralya Antarktika Bölgesi
+Avustralya Dış Bölgeleri
+Avustralya Antarktik Bölgesi
 Norfolk Adası
-Brunei
+Brunei Sultanlığı
 Nauru
 Papua Yeni Gine
 Tonga
 Solomon Adaları
 Vanuatu
 Fiji
-Palau
+palau
 Wallis ve Futuna
 Cook Adaları
 Niue
@@ -202,10 +202,10 @@ Samoa
 Kiribati
 Yeni Kaledonya
 Tuvalu
-Fransız Polinezyazı
+Fransız Polinezyası
 Tokelau
-Mikronezya Federal Devletleri
-Marshall Adaları
+Mikronezya Federe Devletleri
+Marşal Adaları
 Rusya
 Kazakistan
 Uluslararası Ücretsiz Telefon Hizmeti (UIFN)
@@ -223,12 +223,12 @@ Inmarsat SNAC
 Evrensel Kişisel Telekomünikasyon (UPT)
 Bangladeş
 Küresel Mobil Uydu Sistemi (GMSS)
-ICO Global (Mobil Uydu Servisi)
+ICO Global (Mobil Uydu Hizmeti)
 Ellipso (Mobil Uydu hizmeti)
-Iridium (Mobil Uydu servisi)
-Globalstar (Mobil Uydu Servisi)
+İridyum (Mobil Uydu hizmeti)
+Globalstar (Mobil Uydu Hizmeti)
 EMSAT (Mobil Uydu servisi)
-Thuraya (Mobil Uydu hizmeti)
+Thuraya (Mobil Uydu servisi)
 Uluslararası Ağlar
 Tayvan
 OCHA'dan Afet Yardımı için Telekomünikasyon
@@ -248,15 +248,15 @@ Kuveyt
 Suudi Arabistan
 Yemen
 Umman
-Filistin
+Filistin Devleti
 Birleşik Arap Emirlikleri
 İsrail
 Bahreyn
 Katar
-Bhutan
+Butan
 Moğolistan
 Nepal
-Uluslararası Premium Fiyat Hizmeti
+Uluslararası Premium Ücretli Hizmet
 İran
 Tacikistan
 Türkmenistan

@@ -91,7 +91,7 @@ Yunanistan
 Hollanda
 Belçika
 Fransa
-ispanya
+İspanya
 Cebelitarık
 Portekiz
 Lüksemburg
@@ -132,7 +132,7 @@ Slovakya
 Lihtenştayn
 Avusturya
 Birleşik Krallık
-guernsey
+Guernsey
 Jersey
 Man Adası
 Kuzey Irlanda
@@ -143,7 +143,7 @@ Jan Mayen; Svalbard
 Polonya
 Almanya
 Falkland Adaları; Güney Georgia ve Güney Sandviç Adaları
-belize
+Belize
 Guatemala
 El Salvador
 Honduras
@@ -194,7 +194,7 @@ Tonga
 Solomon Adaları
 Vanuatu
 Fiji
-palau
+Palau
 Wallis ve Futuna
 Cook Adaları
 Niue

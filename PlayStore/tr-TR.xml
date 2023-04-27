@@ -6,7 +6,7 @@ Instructions for manual translation:
 - Translate the properties making sure not to overpass the maximum character number.
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
 
-If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr)
+If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr) & Yusuf Emen
  
 
  -->
@@ -24,24 +24,24 @@ Sorumluluk reddi: Bu uygulama WhatsApp Inc.'e bağlı değildir veya WhatsApp In
 
 ------------------
 
-Bazı kullanıcıların uygulamayı iş amacıyla kullandıklarının farkındayım. Uygulamamın daha üretken olmanıza yardımcı olmasına sevindim, ancak lütfen uygulamayı ticari amaçlarla kullanıyorsanız desteklemeyi düşünün. Bu küçük kişisel projenin reklamsız ve satın almasız ücretsiz bir uygulama olarak kalmasını istiyorum ve ilerleme ve güncellemeler sizden gelen tepkilere ve desteğe bağlı. Geliştirmeye yardımcı olmak için satın alabileceğiniz bir bağış sürümü var: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
+Bazı kullanıcıların uygulamayı iş amacıyla kullandıklarının farkındayım. Uygulamamın daha üretken olmanıza yardımcı olmasına sevindim, ancak lütfen uygulamayı ticari amaçlarla kullanıyorsanız beni desteklemeyi düşünün. Bu küçük kişisel projenin reklamsız ve satın almasız ücretsiz bir uygulama olarak kalmasını istiyorum. İlerleme ve güncellemeler sizden gelen tepkilere ve desteğe bağlı. Geliştirmeye yardımcı olmak için satın alabileceğiniz bir bağış sürümü var: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
 
 [Yeni: Artık WhatsApp Web ile uyumlu bir web sürümü var: https://trianguloy.github.io/OpenInWhatsapp_Web/ ]
 
 ------------------
 
-Tarayıcınızda 'wa.me/123456789' bağlantısını açarak (istenen önek+numarayı kullanarak) önce kişilere kaydetmeden WhatsApp'ta herhangi bir numarayla sohbet açabileceğinizi biliyor muydunuz?
+Tarayıcınızda 'wa.me/123456789' bağlantısını açarak (istenen ülke kodu+numarayı kullanarak) önce kişilere kaydetmeden WhatsApp'ta herhangi bir numarayla sohbet açabileceğinizi biliyor muydunuz?
 Kaynak: https://faq.whatsapp.com/5913398998672934/
 
-Başlangıçta bu bağlantı daha uzundu ve hatırlaması daha zordu, bu yüzden süreçte yardımcı olması için bu küçük uygulamayı yaptım.
+Başlangıçta bu bağlantı daha uzundu ve hatırlaması daha zordu, bu yüzden yardımcı olması için bu küçük uygulamayı yaptım.
 
-O zamandan beri birden fazla işlevsellik ekledim (mesaj girme, bağlantı paylaşma, ülke kodları listesi, kısayol oluşturma, son ve sabitlenmiş kaydetme, eklenti yoluyla son aramaları açma ve birkaç tane daha), ancak her zaman şu üç ilkeyle:
-1) Daha küçük uygulamayı mümkün kılın. Bu, fazladan ilgisiz içerik, fazladan kitaplık ve işe yaramaz şeyler olmaması anlamına gelir. Şu anda boyutu 100KB=0.1MB civarındadır. Standart bir resimden daha az!
-2) Mümkün olduğunca az izin kullanın. Yalnızca create_shortcut izni kullanılır, başka bir şey kullanılmaz! (arama yok, depolama yok, internet yok).
+O zamandan beri birden fazla işlevsellik ekledim (mesaj ekleme, bağlantı paylaşma, ülke kodları listesi, kısayol oluşturma, son ve sabitlenmiş kaydetme, eklentiyle son aramaları açma ve birkaç tane daha), ancak her zaman şu üç ilkeyle:
+1) Uygulama boyutunu küçük tutuyorum. İlgisiz içerik, kitaplık ve işe yaramaz şeyler eklemiyorum. Şu anda boyutu 100KB=0.1MB civarındadır. Standart bir fotoğraftan daha az!
+2) Mümkün olduğunca az izin kullanıyorum. Yalnızca create_shortcut (kısayol oluşturma) izni kullanılır. Başka bir şey kullanılmaz! (arama yok, depolama yok, internet yok).
 3) Reklam yok. Reklamlardan nefret ederim. Asla reklam, reklam yazılımı, casus yazılım, kullanıcı izleme veya diğer kötü şeyler eklemeyeceğim.
 
 
-WhatsApp'ta numaraları açmanıza yardımcı olacak küçük bir araç istiyorsanız, deneyin. Verilerinizi Google'a gönderen bir uygulamayı tercih ederseniz, orada klonlar var.
+WhatsApp'ta numaraları rehbere kaydetmeden açmanıza yardımcı olacak küçük bir araç istiyorsanız, deneyin. Verilerinizi Google'a gönderen bir uygulamayı tercih ederseniz, orada klonlar var.
 
 ---------------------------
 
@@ -56,5 +56,5 @@ Uygulama boyutu:
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->
-    <changelog_footer>Güncellemeyi beğendiniz mi? Öneriler? Bunu yorumlarda veya blogda söyleyebilirsin!! https://triangularapps.blogspot.com/</changelog_footer>
+    <changelog_footer>Güncellemeyi beğendiniz mi? Önerileriniz varsa bunu yorumlarda veya blogda söyleyebilirsin!! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

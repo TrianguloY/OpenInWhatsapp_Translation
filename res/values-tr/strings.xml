@@ -13,7 +13,7 @@ Instructions for manual translation:
     <string name="language">Türkçe</string>
 
     <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
-    <!--<string name="translators">Hüseyin Filiz (HuseyinFiliz.com.tr)</string>-->
+    <!--<string name="translators">Hüseyin Filiz (HuseyinFiliz.com.tr) & Yusuf Emen</string>-->
 
     <!-- Permission to use in the donation version-->
     <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
@@ -22,11 +22,11 @@ Instructions for manual translation:
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından oluşturuldu. Bu uygulamanın WhatsApp Inc. ile bağlantısı yoktur.</string>
+    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bağlantısı yoktur.</string>
 
     <string name="txt_acknowledgements">Teşekkürler:</string>
     <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
-    <string name="txt_translators">%l yerel çevirisini sağladığı için %n'e teşekkürler!</string>
+    <string name="txt_translators">%l çeviri için %n'e teşekkürler!</string>
     <string name="txt_about_helptranslations">Çeviri konusunda yardım etmek ister misiniz? Daha fazla bilgiyi burada bulabilirsiniz:</string>
 
     <string name="txt_changelanguage">Aşağıdaki düğmeyi tıklayarak uygulama dilini değiştirebilirsiniz (uygulama yeniden başlatılacaktır).</string>

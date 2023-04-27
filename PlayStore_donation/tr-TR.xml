@@ -6,7 +6,7 @@ Instructions for manual translation:
 - Translate the properties making sure not to overpass the maximum character number.
 - Currently this file is copied manually, line breaks are kept and no need to escape special characters.
 
-If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr)
+If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr) & Yusuf Emen
 
 
  -->
@@ -22,15 +22,15 @@ Tıkla Sohbet Et uygulamasının bağış sürümüdür:
 https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
 Ne bekleyeceğiniz hakkında bir açıklama için bu uygulamayı kontrol edin.
 
-Bu sürüm, gözle görülür herhangi bir fark olmadan pratik olarak aynıdır, daha kesin olarak:
+Bu sürüm, gözle görülür herhangi bir fark olmadan pratik olarak aynıdır. Daha kesin olarak:
 
 • Neler DEĞİŞMEZ:
-- İşlevsellik ve güncellemeler: her iki sürüm de her zaman aynı işlevselliğe ve kabaca aynı zamanda aynı güncellemelere sahip olacaktır (önce küçük bir kullanıcı grubuyla yeni şeyler test ettiğim beta hariç).
-- Reklam yok: Sürümün hiçbirinde reklam olmayacak. Durmadan.
-- Küçük boyut: Her iki sürüm de mümkün olduğunca küçüktür.
+- İşlevsellik ve güncellemeler: Her iki sürümde her zaman aynı işlevselliğe ve neredeyse aynı zamanda aynı güncellemelere sahip olacaktır (önce küçük bir kullanıcı grubuyla yeni şeyler test ettiğim beta hariç).
+- Reklam yok: Hiçbir sürümde reklam olmayacak.
+- Küçük boyut: Her iki sürümde mümkün olduğunca küçüktür.
 
 • Ne değişir:
-- Daha az çeviri: Bu sürüm yalnızca çevirmenlerin kullanmama izin verdiği yerel ayarları içerir. Bir yerel ayarın mevcut olup olmadığını öğrenmek için normal uygulamayı açın, ardından ayarlardan dili seçin, ardından bilgi bölümünde 'Destek'e basın: 'Tıkla Sohbet Et' girişi gösteriliyorsa, kullanılabilir. Tüm çeviriler kullanıcılar tarafından ücretsiz olarak sağlanıyor ve bu nedenle, onlardan açık bir şekilde izin almadığım sürece ücretli bir uygulamada kullanmaktan rahatsız oluyorum.
+- Daha az çeviri: Bu sürüm yalnızca çevirmenlerin kullanmama izin verdiği çevirileri içerir. Bir yerel çevirinin mevcut olup olmadığını öğrenmek için normal uygulamayı açın, ardından ayarlardan dili seçin, ardından bilgi bölümünde 'Destek'e basın: 'Tıkla Sohbet Et' girişi gösteriliyorsa, kullanılabilir. Tüm çeviriler kullanıcılar tarafından ücretsiz olarak sağlanıyor ve bu nedenle, onlardan açık bir şekilde izin almadığım sürece ücretli bir uygulamada kullanmaktan rahatsız oluyorum.
 - Simge: Sürümler arasındaki tek görsel değişiklik: normal=yeşil, bağış=sarı.
 
 

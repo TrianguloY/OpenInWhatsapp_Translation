@@ -1,0 +1,169 @@
+V 4.2.2
+- Ana düğmeler renklendirildi
+- Android 13+ için ince ayarlar
+- En son Android'e yükseltildi
+
+V 4.2.1
+- Otomatik doldurma ipuçları düzeltildi
+
+V 4.2
+- Yeni Çağrı ve SMS düğmeleri
+
+V 4.1.3
+- Yeni Fransızca güncellemesi. Nathanaël Gagnepain'e çok teşekkürler!
+- Çeviri güncellemeleri
+- Bazı çok nadir çökmeler düzeltildi
+
+V 4.1.2
+- Çeviri güncellemeleri
+
+V 4.1.1
+- Bazı yerel ayarlarda çalışmayan Signal/Telegram geçişleri düzeltildi
+
+V 4.1
+- Açık tema
+- Deneysel Signal ve Telegram desteği, ayarlardan etkinleştirin
+- Geliştirilmiş son aramalar eklenti yenilemesi
+- Pano düğmesi her zaman etkin (otomatik arka plan kontrolü kaldırıldı)
+- Hataları görüntülerken hafif optimizasyon
+
+V 4.0.1
+- Yeni Hintçe çeviri. RaviDhoriya'ya çok teşekkürler!
+- Endonezyaca çeviri artık bağış sürümünde de mevcut. İzin için artmann (Dwi Legowo) ve Steven Felix'e teşekkürler
+- Diğer çeviriler güncellendi
+- Yeni yüklemeden sonra değişiklik günlüğü bildirimini düzeltin
+- Bazı çok nadir çökmeler düzeltildi
+
+V 4.0
+- Birkaç stil değişikliği
+- Yeni özel temizleme düğmesi (geri basmak hala desteklenmektedir)
+- Başta sıfırların kaldırılmasını devre dışı bırakmak için yeni ayar
+- Yeni Arapça çeviri. Faisal Aloufi'ye çok teşekkürler!
+- Yeni güncelleme bildirimi, açılır pencere yerine mesaj olarak gösterilir
+- Alan kodlarından sonra sıfırlarla ilgili sorun düzeltildi
+- Girilen Arapça sayıları dönüştürün
+- Android 4.0.4 veya daha eski sürümleri için destek kaldırıldı (WhatsApp ile aynı)
+- Çeşitli dahili düzeltmeler ve temizlemeler
+
+V 3.3
+- Yeni Malayalam çevirisi. Thenur Mahesh Kannan'a çok teşekkürler!
+- Paylaşım bağlantısı 'https://' içeriyor
+- Birleştirme modunda baştaki sıfırları da kaldırın
+
+V 3.2
+- Yeni açılabilir mod: önceden tanımlı
+- 'Öneki kontrol et' mesajını satır içi olarak göster
+- Çeviri güncellemeleri
+
+V 3.1.2
+- Birleştirme girişleriyle geliştirilmiş yapıştırma
+- Çeviri güncellemeleri
+
+V 3.1.1
+- Başlangıçtaki kilitlenme düzeltildi
+
+V 3.1
+- Düğmeler giriş metin kutularının üstüne taşındı
+- Önek seçici artık eşleşen ülkeyi gösteriyor
+- Çeviri güncellemeleri
+
+V 3.0
+- Yeni açılabilir mod seçici: önceki alternatif modu, deneysel jid modunu ve yeni bir sms modunu içerir
+- Ülke kodlarının güncellenmiş listesi
+- Dahili ince ayarlar ve düzeltmeler (otomatik açma onay kutusunun düzgün görüntülenmemesi dahil)
+
+V 2.13.1
+- Brezilya Portekizcesi yerel ayarına çeviri güncellendi. mezysinc'e çok teşekkürler!
+- İnce ayarlı arama eklentisi tespiti
+
+V 2.13
+- Yeni yapılandırılabilir değişiklik günlüğü iletişim kutusu
+- Numarayı paylaşırken mesajı göster
+
+V 2.12
+- Yeni yönergelere uymak için Google dışı bağış bağlantıları kaldırıldı, yeni bağış sürümüyle değiştirildi (yalnızca İngilizce)
+- Uygulama renkleri ile küçük ince ayarlar
+
+V 2.11.1
+- Endonezya ve Rusça çeviriler güncellendi
+- Anında uygulama sürümündeki kilitlenme düzeltildi
+
+V 2.11
+- Yeni seçenek: Kapanışta öneki geri yükle
+- Yeni seçenek: Bir sayı seçildiğinde otomatik aç
+- Son aramalardan başlatıldığında yeniden açılan numarayı düzeltin
+- Etkinleştirilmiş animasyonlar
+- Eksik Güney Sudan önek kodu
+
+V 2.10.2
+- 123(456)78.9 biçimindeki sayıları algıla
+- Eksik Mozambik ön eki
+- İletişim listesinde gösterilmeyen Portekizce'yi düzeltin
+- Daha fazla bağlantı eklendi (destek, telefon formatı yardımı, profil)
+
+V 2.10.1
+- Endonezya ve Rusça çeviriler güncellendi
+- Yinelenen tıklamalarla nadir görülen kilitlenme düzeltildi
+
+V 2.10
+- Klavye ile geliştirilmiş önek ve sayı girişi
+- Alternatif açma ayarı (uzun dokunma yerine)
+- Çağrı amacından açarken öneki düzeltin
+- En son Endonezya değişiklikleri
+
+V 2.9.1
+- Android 10'da pano düğmesini düzeltin
+- Endonezya çevirisi güncellendi
+- Bağlantılarla ilgili dahili değişiklikler
+
+V 2.9
+- Dile dayalı etkin bölünmüş paket. Artık yalnızca cihazınızda seçilen diller yüklenecektir. Bu, uygulama boyutunu %15-20 oranında azaltır. ÖNEMLİ! Eksik bir diliniz varsa lütfen benimle iletişime geçin.
+- Endonezce güncellendi. Steven Felix'e teşekkürler!
+
+V 2.8.6
+- Endonezyaca çeviri eklendi. artmann'a (Dwi Legowo) teşekkürler!
+
+V 2.8.5
+- Tamilce çeviri eklendi. MageshBabu'ya (mage1k99) teşekkür ederiz!
+- Ajanda ve ülke kodu listesindeki öğelerin boyutu ayarlandı. Ayrıca düğmelerin boyutu.
+
+V 2.8.4
+- Yanlış bağlantı oluşturma düzeltildi
+- Artık uygulamayı yüklemeden doğrudan Play Store'dan deneyebilirsiniz (son derece küçük olmasına rağmen, tam uygulamayı yüklemek daha iyidir, çünkü anında uygulama bazı özellikleri desteklemez, yine de)
+
+V 2.8.3
+- Bilinmeyen aramalar listesini sınırlama seçeneği. Eklenti sürümü 1.2+ gerektirir
+- Son mesaj listesinin gösterilmemesi düzeltildi
+- Yayınla ilgili dahili değişiklik
+
+V 2.8.2
+- İbranice çeviri eklendi. Yoni Cohen jonbir3'e çok teşekkürler!
+
+V 2.8.1
+- Rusça çeviri güncellendi
+- Gündemi açarken nadir görülen bir hata düzeltildi
+
+V 2.8
+- Yeni Gündem listesi. Öğeleri adla sabitleme yeteneği.
+- Kısayol oluşturma seçeneği.
+- Android 8.0+ için uyarlanabilir simge
+
+V 2.7.1
+- WhatsApp beta hatası için geçici çözüm (istenirse, bağlantıları WhatsApp'ta açmak için bu uygulamayı seçin)
+
+Sürüm 2.7
+- Yeni önek seçici iletişim kutusu (filtreleme ve sıralama ile!)
+- Rusça çeviri güncellendi
+- İnce ayarlı pano algılama
+
+V 2.6.2
+- Android 4.X'te yanlış tema düzeltildi
+
+V 2.6.1
+- Fransızca ve İtalyanca çeviriler güncellendi
+
+V 2.6
+- Ana ekran bilgilerini gizleme seçeneği eklendi
+- Hakkında iletişim kutusunu Ayarlar ve Bilgi olarak ayırdı
+- Çeviriler sayfasına bağlantı eklendi
+- Uygulamayı paylaşma seçeneği eklendi

@@ -37,23 +37,23 @@ Originally that link was longer and more difficult to remember, so I made this t
 
 Since then I have added multiple functionalities (enter message, share link, list of country codes, create shortcut, save recent and pinned, open recent calls via add-on, and a few more) but always with these three principles:
 1) Make the smaller app possible. This means no extra unrelated content, no extra libraries and no useless things. Currently its size is around 100KB=0.1MB. Less than a standard picture!
-2) Use as few permissions as possible. Only the create_shortcut permission is used, nothing else! (no calls, no storage, no internet).
-3) No ads. I hate ads. I will never add ads, adware, spyware, user tracking or other nasty stuff.
+        2) Use as few permissions as possible. Only the create_shortcut permission is used, nothing else! (no calls, no storage, no internet).
+        3) No ads. I hate ads. I will never add ads, adware, spyware, user tracking or other nasty stuff.
 
 
-If you want a small tool to help you open numbers in WhatsApp, try it. If you prefer an app that sends your data to Google, there are clones out there.
+        If you want a small tool to help you open numbers in WhatsApp, try it. If you prefer an app that sends your data to Google, there are clones out there.
 
----------------------------
+        ---------------------------
 
-Translation:
-Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain for the translations!
+        Translation:
+        Thanks to Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz for the translations!
 
-Permissions used:
-SHORTCUT: To create shortcuts in the launcher.
--Nothing else- (they aren't necessary)
+        Permissions used:
+        SHORTCUT: To create shortcuts in the launcher.
+        -Nothing else- (they aren't necessary)
 
-Apk size:
-~100 KB (0,1MB)
+        Apk size:
+        ~100 KB (0,1MB)
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->

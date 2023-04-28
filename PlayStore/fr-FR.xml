@@ -37,23 +37,23 @@ Source: https://faq.whatsapp.com/en/android/26000030/
 
 Depuis, j'ai ajouté de nombreuses fonctionnalités (saisir un message, partager un lien, liste des indicatifs de pays, création de raccourci, enregistrer les appels récents et les épinglés, ouvrir les appels récents via un module complémentaire, et plus encore) mais toujours avec ces trois principes:
 1) Rendre l'application la plus petite possible. Cela signifie pas de contenu supplémentaire sans rapport, pas de bibliothèques additionnelles et pas de choses inutiles. Actuellement, sa taille est d'environ 100 Ko = 0,1 Mo. Moins qu'une photo en qualité standard!
-2) Utilisez le moins d'autorisations d'accès que possible. Seule la permission "create_shortcut" est utilisée, rien d'autre! (pas d'autorisation d'accès aux appels, stockage, réseau).
-3) Aucune publicité. Je déteste les publicités. Je n'ajouterai jamais de publicités, de logiciels publicitaires, de logiciels espions, de suivi d'utilisateurs ou d'autres trucs désagréables.
+        2) Utilisez le moins d'autorisations d'accès que possible. Seule la permission "create_shortcut" est utilisée, rien d'autre! (pas d'autorisation d'accès aux appels, stockage, réseau).
+        3) Aucune publicité. Je déteste les publicités. Je n'ajouterai jamais de publicités, de logiciels publicitaires, de logiciels espions, de suivi d'utilisateurs ou d'autres trucs désagréables.
 
 
-Si vous voulez un petit outil pour vous aider à ouvrir des numéros dans WhatsApp, essayez-le. Si vous préférez une application qui envoie vos données à Google, il existe des clones.
+        Si vous voulez un petit outil pour vous aider à ouvrir des numéros dans WhatsApp, essayez-le. Si vous préférez une application qui envoie vos données à Google, il existe des clones.
 
----------------------------
+        ---------------------------
 
-Traduction:
-Merci à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain pour les traductions!
+        Traduction:
+        Merci à Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz pour les traductions!
 
-Permissions used:
-SHORTCUT: To create shortcuts in the launcher.
--Nothing else- (they aren't necessary)
+        Permissions used:
+        SHORTCUT: To create shortcuts in the launcher.
+        -Nothing else- (they aren't necessary)
 
-Taille de l'apk:
-~100 KB (0,1MB)
+        Taille de l'apk:
+        ~100 KB (0,1MB)
     </description_long>
 
 </parameters>

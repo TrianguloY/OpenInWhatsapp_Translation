@@ -39,23 +39,23 @@ Originalmente este link era mais longo e mais difícil de lembrar, por isso eu f
 
 Desde então, adicionei múltiplas funcionalidades (inserção de mensagem, compartilhamento de link, lista com códigos de países, criação de atalhos, opção de salvar recentes e fixar, abrir ligações recentes via extensão e outras), mas sempre com estes três princípios:
 1) Tornar este app o menor possível. Isto significa nenhum conteúdo extra não relacionado, nenhuma biblioteca extra e nenhuma coisa desnecessária. Atualmente, tamanho dele está em torno de 100KB=0.1MB. Menor que uma imagem padrão!
-2) Usar o menor número possível de permissões. Apenas a permissão de criar_atalho é usada, nada mais! (sem conexões, sem armazenamento, sem internet).
-3) Sem anúncios. Detesto anúncios. Nunca adicionarei propaganda, adware, spyware, rastreamento de usuários ou outras coisas desagradáveis.
+        2) Usar o menor número possível de permissões. Apenas a permissão de criar_atalho é usada, nada mais! (sem conexões, sem armazenamento, sem internet).
+        3) Sem anúncios. Detesto anúncios. Nunca adicionarei propaganda, adware, spyware, rastreamento de usuários ou outras coisas desagradáveis.
 
 
-Se você precisar uma pequena ferramenta para abrir os números no WhatsApp, aqui está a solução. Se você preferir um app que envie seus dados ao Google, existem clones parecidos por aí.
+        Se você precisar uma pequena ferramenta para abrir os números no WhatsApp, aqui está a solução. Se você preferir um app que envie seus dados ao Google, existem clones parecidos por aí.
 
----------------------------
+        ---------------------------
 
-Traduções:
-Obrigado Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain pelas traduções!
+        Traduções:
+        Obrigado Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz pelas traduções!
 
-Permissões usadas:
-ATALHO: Para criar atalhos no lançador.
--Nenhuma mais- (não são necessárias)
+        Permissões usadas:
+        ATALHO: Para criar atalhos no lançador.
+        -Nenhuma mais- (não são necessárias)
 
-Tamanho do app:
-~100 KB (0,1MB)
+        Tamanho do app:
+        ~100 KB (0,1MB)
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->

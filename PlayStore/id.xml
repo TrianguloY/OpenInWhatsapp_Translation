@@ -37,23 +37,23 @@ Awalnya tautan itu lebih panjang dan lebih sulit untuk diingat, jadi saya membua
 
 Sejak itu saya telah menambahkan beberapa fungsi (memasukkan pesan, membagikan tautan, daftar kode negara, menambah pintasan, menyimpan yang terbaru dan disematkan, buka panggilan terkini melalui add-on, dan beberapa lainnya) tetapi selalu menerapkan tiga prinsip ini:
 1) Buat aplikasi yang sekecil mungkin. Ini berarti tidak ada konten tambahan yang tidak terkait, tidak ada perpustakaan tambahan, dan tidak ada hal yang tidak berguna. Saat ini ukurannya sekitar 100KB=0.1MB. Kurang dari gambar standar!
-2) Gunakan izin sesedikit mungkin. Hanya izin create_shortcut yang digunakan, tidak ada yang lain! (tidak ada panggilan, tidak ada penyimpanan, tidak ada internet).
-3) Tidak ada iklan. Aku benci iklan. Saya tidak akan pernah menambahkan iklan, adware, spyware, pelacakan pengguna atau hal-hal buruk lainnya.
+        2) Gunakan izin sesedikit mungkin. Hanya izin create_shortcut yang digunakan, tidak ada yang lain! (tidak ada panggilan, tidak ada penyimpanan, tidak ada internet).
+        3) Tidak ada iklan. Aku benci iklan. Saya tidak akan pernah menambahkan iklan, adware, spyware, pelacakan pengguna atau hal-hal buruk lainnya.
 
 
-Jika Anda menginginkan alat kecil untuk membantu Anda membuka nomor di WhatsApp, cobalah. Jika Anda lebih suka aplikasi yang mengirimkan data Anda ke Google, ada klon di luar sana.
+        Jika Anda menginginkan alat kecil untuk membantu Anda membuka nomor di WhatsApp, cobalah. Jika Anda lebih suka aplikasi yang mengirimkan data Anda ke Google, ada klon di luar sana.
 
-----------------------------
+        ----------------------------
 
-Terjemahan:
-Terima kasih kepada Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz etiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain untuk terjemahannya!
+        Terjemahan:
+        Terima kasih kepada Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz etiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz untuk terjemahannya!
 
-Izin yang digunakan:
-SHORTCUT: Untuk membuat pintasan di peluncur.
--Tidak ada yang lain- (tidak perlu)
+        Izin yang digunakan:
+        SHORTCUT: Untuk membuat pintasan di peluncur.
+        -Tidak ada yang lain- (tidak perlu)
 
-Ukuran apk:
-~100KB (0,1MB)
+        Ukuran apk:
+        ~100KB (0,1MB)
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->

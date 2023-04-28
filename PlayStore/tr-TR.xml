@@ -6,8 +6,10 @@ Instructions for manual translation:
 - Translate the properties making sure not to overpass the maximum character number.
 - Currently this file is copied manually, line breaks are kept and no need to scape special characters.
 
-If you added/modified the following file add your name here to give credit: Hüseyin Filiz (HuseyinFiliz.com.tr) & Yusuf Emen
- 
+If you added/modified the following file add your name here to give credit:
+Yusuf Emen
+Hüseyin Filiz
+
 
  -->
 <parameters>
@@ -36,23 +38,23 @@ Kaynak: https://faq.whatsapp.com/5913398998672934/
 Başlangıçta bu bağlantı daha uzundu ve hatırlaması daha zordu, bu yüzden yardımcı olması için bu küçük uygulamayı yaptım.
 
 O zamandan beri birden fazla işlevsellik ekledim (mesaj ekleme, bağlantı paylaşma, ülke kodları listesi, kısayol oluşturma, son ve sabitlenmiş kaydetme, eklentiyle son aramaları açma ve birkaç tane daha), ancak her zaman şu üç ilkeyle:
-1) Uygulama boyutunu küçük tutuyorum. İlgisiz içerik, kitaplık ve işe yaramaz şeyler eklemiyorum. Şu anda boyutu 100KB=0.1MB civarındadır. Standart bir fotoğraftan daha az!
-2) Mümkün olduğunca az izin kullanıyorum. Yalnızca create_shortcut (kısayol oluşturma) izni kullanılır. Başka bir şey kullanılmaz! (arama yok, depolama yok, internet yok).
-3) Reklam yok. Reklamlardan nefret ederim. Asla reklam, reklam yazılımı, casus yazılım, kullanıcı izleme veya diğer kötü şeyler eklemeyeceğim.
+        1) Uygulama boyutunu küçük tutuyorum. İlgisiz içerik, kitaplık ve işe yaramaz şeyler eklemiyorum. Şu anda boyutu 100KB=0.1MB civarındadır. Standart bir fotoğraftan daha az!
+        2) Mümkün olduğunca az izin kullanıyorum. Yalnızca create_shortcut (kısayol oluşturma) izni kullanılır. Başka bir şey kullanılmaz! (arama yok, depolama yok, internet yok).
+        3) Reklam yok. Reklamlardan nefret ederim. Asla reklam, reklam yazılımı, casus yazılım, kullanıcı izleme veya diğer kötü şeyler eklemeyeceğim.
 
 
-WhatsApp'ta numaraları rehbere kaydetmeden açmanıza yardımcı olacak küçük bir araç istiyorsanız, deneyin. Verilerinizi Google'a gönderen bir uygulamayı tercih ederseniz, orada klonlar var.
+        WhatsApp'ta numaraları rehbere kaydetmeden açmanıza yardımcı olacak küçük bir araç istiyorsanız, deneyin. Verilerinizi Google'a gönderen bir uygulamayı tercih ederseniz, orada klonlar var.
 
----------------------------
+        ---------------------------
 
-Çeviri:
-Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain ve Hüseyin Filiz (HuseyinFiliz.com.tr)'e teşekkürler!
-Kullanılan İzinler:
-KISAYOL: Başlatıcıda kısayol oluşturmak için.
--Başka hiçbir şey- (gerekli değiller)
+        Çeviri:
+        Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz teşekkürler!
+        Kullanılan İzinler:
+        KISAYOL: Başlatıcıda kısayol oluşturmak için.
+        -Başka hiçbir şey- (gerekli değiller)
 
-Uygulama boyutu:
-~100 KB (0,1MB)
+        Uygulama boyutu:
+        ~100 KB (0,1MB)
     </description_long>
 
     <!-- Not needed if you don't translate the changelog -->

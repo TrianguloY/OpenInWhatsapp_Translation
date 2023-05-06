@@ -50,7 +50,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="txt_longUser">Uygulamayı uzun süredir kullanıyorsunuz. Lütfen [[spt|desteklemeyi]] düşünün, teşekkürler.\n\n[[hdb|Kapat]]</string>
 
 
-    <string name="txt_addonDescr">Bu eklentiyle, bu uygulamanın bilinmeyen son tıklama çağrılarının bir listesini göstermesine izin verebilirsiniz. Endişelenmeyin: Ücretsiz, bir resimden küçük ve reklamsız</string>
+    <string name="txt_addonDescr">Bu eklentiyle, bu uygulamanın bilinmeyen son cevapsız çağrıların bir listesini göstermesine izin verebilirsiniz. Endişelenmeyin: Ücretsiz, bir resimden küçük ve reklamsız</string>
 
     <string name="hint_editNumber">Numara</string>
     <string name="hint_editPrefix">Ülke</string>

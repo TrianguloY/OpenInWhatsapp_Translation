@@ -41,7 +41,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
 Örnek: (TR) +90 532 123 4567 için 90 5321234567 yazın"</string>
     <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
     <string name="prefix_url">https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_telefon_kodlar%C4%B1_listesi</string>
-    <string name="txt_extra_description">"Tıklandığında WhatsApp'ı açacak bir bağlantı oluşturmak için bunu kullanın. Mesaj kutusunda yer alacak bir mesaj belirleyebilirsiniz (mesaj siz gönderme butonuna tıklamadan GÖNDERİLMEYECEK! Otomatik GÖNDERİLMEYECEK)."</string>
+    <string name="txt_extra_description">"WhatsApp'ı açan bağlantı oluşturmak için bunu kullanın. Mesaj kutusunda yer alacak mesajı belirleyebilirsiniz (mesaj gönder butonuna tıklamadan otomatik GÖNDERİLMEYECEK)."</string>
 
     <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Reklamsız ve ücretsiz bir uygulama olduğundan, uygulamanın gelişmesi sizden gelen bağış ve desteğe bağlıdır.</string>

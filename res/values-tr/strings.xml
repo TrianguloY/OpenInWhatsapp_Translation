@@ -29,7 +29,7 @@ Instructions for manual translation:
     <string name="txt_translators">"%l çeviri için %n'e teşekkürler!"</string>
     <string name="txt_about_helptranslations">Çeviri konusunda yardım etmek ister misiniz? Daha fazla bilgiyi burada bulabilirsiniz:</string>
 
-    <string name="txt_changelanguage">Aşağıdaki düğmeyi tıklayarak uygulama dilini değiştirebilirsiniz (uygulama yeniden başlatılacaktır).</string>
+    <string name="txt_changelanguage">Aşağıdaki düğmeyi tıklayarak uygulama dilini değiştirebilirsiniz (yeniden başlar).</string>
     <string name="txt_availocales">Uygulama boyutunu azaltmak için yalnızca [[lcl|cihazınızda]] bulunan yerel diller yüklenir.</string>
 
     <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->

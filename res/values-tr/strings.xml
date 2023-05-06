@@ -83,7 +83,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="chk_signal">Deneysel [[sgn|Signal]] desteği</string>
     <string name="chk_telegram">Deneysel [[tgm|Telegram]] desteği</string>
     <string name="txt_telegram">Bir numaranın t.me/+123 bağlantısıyla açılabilmesi için kullanıcının onu "herkese görünür" olarak ayarlaması ve onun tarafından bulunmasına izin vermesi gerektiğini unutmayın. Neredeyse hiç kimse bunu yapmıyor.\nBu yüzden kişiyi tanımıyorsanız, sizi temin ederim ki bu seçenek işe yaramaz (Telegram numaranın açılamadığını bile söylemiyor, sadece ana ekranı normal şekilde açıyor).\nYine de deneyebilirsiniz, ancak uyarıldınız.</string>
-    <string name="chk_light">Açık temayı kullan (uygulama yeniden açılacak)</string>
+    <string name="chk_light">Açık temayı kullan (yeniden başlar)</string>
     <string name="btn_addonLink">Eklenti</string>
 
     <string name="msg_warnShare">Paylaşacağınız bağlantı, girilen telefon numarasını düz metin olarak içerir. Bağlantıyı paylaştığınız herkes numaraya erişebilir. Kişisel bir numaraysa bağlantıyı herkese açık olarak paylaşmayın.</string>

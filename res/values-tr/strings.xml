@@ -120,7 +120,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
 
     <string name="cntDesc_appInfo">Uygulama bilgisi</string>
     <string name="cntDesc_prefixSelector">Ülke kodu seç</string>
-    <string name="cntDesc_clear">Girdileri sil</string>
+    <string name="cntDesc_clear">Temizle</string>
     <string name="cntDesc_pasteClipboard">Panodan yapıştır</string>
     <string name="cntDesc_agenda">Ajanda</string>
     <string name="cntDesc_recentMessages">Son mesajlar</string>

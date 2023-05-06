@@ -66,7 +66,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="btn_sms">SMS</string>
 
     <string name="chk_mergeInputs">Ülke kodu ve numarayı birleştir</string>
-    <string name="chk_stripZeros">Ülke kodu ve numaranın başındaki sıfırları kaldır</string>
+    <string name="chk_stripZeros">Numaranın başındaki sıfırları kaldır</string>
     <string name="chk_enableRecents">Son numaraları/mesajları kaydet (kapatırsanız kayıtlar silinir)</string>
     <string name="chk_hideInfo">Bilgi metnini ana ekrandan gizle</string>
     <string name="chk_keepprefix">Başlangıçta [%1$s] ülke kodu gelsin</string>

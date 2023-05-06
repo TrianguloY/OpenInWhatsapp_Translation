@@ -102,7 +102,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
 
     <string name="toast_autoParser">Otomatik ayrıştırıldı.\nÜlke kodunu kontrol et!</string>
     <string name="toast_copied">Panoya kopyalandı</string>
-    <string name="toast_empty">Panoda numara yok</string>
+    <string name="toast_empty">Kopyalanmış numara yok</string>
     <string name="toast_error_openLink">Bağlantı açılamadı</string>
 
     <string name="title_sendTo">Bağlantıyı şuraya gönder:</string>

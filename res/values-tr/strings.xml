@@ -106,7 +106,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="toast_error_openLink">Bağlantı açılamadı</string>
 
     <string name="title_sendTo">Bağlantıyı şuraya gönder:</string>
-    <string name="title_chooseCountry">Ülke kodu:</string>
+    <string name="title_chooseCountry">Ülke Kodu:</string>
     <string name="title_chooseApp">Uygulama seç:</string>
     <string name="title_clearRecents">Son kullanılanları sil:</string>
     <string name="title_pinned">Sabitlendi:</string>
@@ -115,11 +115,11 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
 
     <string name="message_clearRecents">Tüm son kullanılanları silmek istiyor musunuz?</string>
 
-    <string name="header_code">%1$s Ülke Kodu</string>
-    <string name="header_country">%1$s Bölgesi</string>
+    <string name="header_code">%1$s Kod</string>
+    <string name="header_country">%1$s Ülke</string>
 
     <string name="cntDesc_appInfo">Uygulama bilgisi</string>
-    <string name="cntDesc_prefixSelector">Ülke kodu seçici</string>
+    <string name="cntDesc_prefixSelector">Ülke kodu seç</string>
     <string name="cntDesc_clear">Girdileri sil</string>
     <string name="cntDesc_pasteClipboard">Panodan yapıştır</string>
     <string name="cntDesc_agenda">Ajanda</string>

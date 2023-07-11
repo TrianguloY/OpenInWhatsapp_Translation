@@ -6,7 +6,7 @@
 
     <!--<string name="translators">Timofey Lisunov</string>-->
 
-    <!--<string name="donation_permission">unknown</string>-->
+    <!--<string name="donation_permission">yes</string>-->
 
     <string name="app_name">Прямая связь</string>
 
@@ -27,7 +27,7 @@
     <!--<string name="prefix_url">_default used_</string>-->
     <string name="txt_extra_description">Данный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено).</string>
     <string name="txt_support">Поскольку это бесплатное приложение без рекламы и внутренних покупок, развитие и обновления зависят от вашей поддержки.</string>
-    <string name="btn_link_support">Пожертвовать</string>
+    <string name="btn_link_support">Поддержка</string>
     <string name="txt_business">Похоже, вы используете приложение в коммерческих целях. Пожалуйста, рассмотрите возможность [[spt|поддержки]], спасибо.\n\n[[hdb|Отказ]]</string>
     <string name="txt_longUser">Похоже, вы используете приложение уже довольно долго. Пожалуйста, рассмотрите возможность [[spt|поддержки]], спасибо.\n\n[[hdb|Отказ]]</string>
 
@@ -45,6 +45,14 @@
     <string name="btn_shortcut">Ярлык</string>
     <string name="btn_call">Вызов</string>
     <string name="btn_sms">SMS</string>
+
+    <string name="btn_reset">Удалить данные приложения</string>
+    <string name="desc_reset">"С помощью этой функции можно удалить все данные приложения (настройки, recents и т.д.) и восстановить поведение по умолчанию. Полезно при тестах, если приложение перестало работать из-за неправильной настройки.
+Эквивалентно удалению и переустановке приложения.
+
+Вы хотите УДАЛИТЬ ВСЕ ДАННЫЕ приложения?
+
+Приложение будет закрыто. При следующем запуске оно будет вести себя как только установленное."</string>
 
     <string name="chk_mergeInputs">Единое поле ввода номера</string>
     <string name="chk_stripZeros">Удалять ведущие нули из кода и номера</string>

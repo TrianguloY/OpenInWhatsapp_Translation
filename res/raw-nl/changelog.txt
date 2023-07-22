@@ -1,5 +1,7 @@
-V ???
+V 4.3
 - Nieuwe Nederlandse vertaling. Met dank aan OnnoV!
+- New button to delete app data
+- Fix some phone links not opening on the app.
 
 V 4.2.3
 - Bijgewerkte Turkse vertaling. Met dank aan Hüseyin Filiz!

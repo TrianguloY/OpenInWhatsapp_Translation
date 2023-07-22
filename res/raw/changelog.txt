@@ -1,3 +1,8 @@
+V 4.3
+- New Dutch translation. Many thanks to OnnoV!
+- New button to delete app data
+- Fix some phone links not opening on the app
+
 V 4.2.3
 - Updated Turkish translation. Many thanks to Hüseyin Filiz!
 
@@ -13,7 +18,7 @@ V 4.2
 - New Call & SMS buttons
 
 V 4.1.3
-- New French update. Many thanks to Nathanaël Gagnepain!
+- New French translation. Many thanks to Nathanaël Gagnepain!
 - Translation updates
 - Fixed some very rare crashes
 

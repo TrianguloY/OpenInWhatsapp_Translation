@@ -1,0 +1,267 @@
+Canada;Verenigde Staten
+Bahama's
+Barbados
+Anguilla
+Antigua en Barbuda;Barbuda
+Britse Maagdeneilanden
+Amerikaanse Maagdeneilanden
+Kaaimaneilanden
+Bermuda
+Grenada
+Turks- en Caicoseilanden
+Montserrat
+Noordelijke Marianen
+Guam
+Amerikaans Samoa
+Sint Maarten (Nederland)
+Sint Lucia
+Dominica
+Saint Vincent en de Grenadines
+Puerto Rico
+Midway Island, VS;Wake Island, VS
+Dominicaanse Republiek
+Trinidad en Tobago
+Nevis; Saint Kitts en Nevis
+Jamaica
+Egypte
+Zuid-Soedan
+Marokko
+Algerije
+Tunesië
+Libië
+Gambia
+Senegal
+Mauritanië
+Mali
+Guinee
+Ivoorkust
+Burkina Faso
+Niger
+Togo
+Benin
+Mauritius
+Liberia
+Sierra Leone
+Ghana
+Nigeria
+Tsjaad
+Centraal-Afrikaanse Republiek
+Kameroen
+Kaapverdië
+São Tomé en Príncipe
+Equatoriaal-Guinea
+Gabon
+Congo
+Democratische Republiek Congo (Zaïre)
+Angola
+Guinee-Bissau 
+Brits Indisch Oceaanterritorium;Diego Garcia
+Ascension
+Seychellen
+Soedan
+Rwanda
+Ethiopië
+Somalië
+Djibouti
+Kenia
+Tanzania
+Zanzibar
+Oeganda
+Burundi
+Mozambique
+Zambia
+Madagaskar
+Réunion
+Mayotte
+Zimbabwe
+Namibië
+Malawi
+Lesotho
+Botswana
+Swaziland
+Comoren
+Zuid-Afrika
+Sint-Helena
+Tristan da Cunha
+Eritrea
+Aruba
+Faeröer Eilanden
+Groenland
+Griekenland
+Nederland
+België
+Frankrijk
+Spanje
+Gibraltar
+Portugal
+Luxemburg
+Ierland
+IJsland
+Albanië
+Malta
+Cyprus
+Finland
+Åland-eilanden
+Bulgarije
+Hongarije
+Litouwen
+Letland
+Estland
+Moldavië
+Transnistrië
+Armenië
+Nagorno-Karabach
+Wit-Rusland
+Andorra
+Monaco
+San Marino
+Vaticaanstad (Heilige Stoel)
+Oekraïne
+Servië
+Montenegro
+Kosovo
+Kroatië
+Slovenië
+Bosnië-Herzegovina
+Noord-Macedonië
+Italië
+Roemenië
+Zwitserland
+Tsjechische Republiek
+Slowakije
+Liechtenstein
+Oostenrijk
+Verenigd Koninkrijk
+Guernsey
+Jersey
+Eiland Man
+Noord-Ierland
+Denemarken
+Zweden
+Noorwegen
+Jan Mayen;Spitsbergen
+Polen
+Duitsland
+Falklandeilanden;Zuid-Georgia en de Zuidelijke Sandwicheilanden
+Belize
+Guatemala
+El Salvador
+Honduras
+Nicaragua
+Costa Rica
+Panama
+Saint-Pierre en Miquelon
+Haïti
+Peru
+Mexico
+Cuba
+Argentinië
+Brazilië
+Chili;Paaseiland
+Colombia
+Venezuela
+Guadeloupe;Sint-Bartholomeus;Sint-Maarten (Frankrijk)
+Bolivia
+Guyana
+Ecuador
+Frans Guyana
+Paraguay
+Franse Antillen;Martinique
+Suriname
+Uruguay
+Sint Eustatius
+Caribisch Nederland
+Saba
+Bonaire
+Curaçao
+Maleisië
+Australië
+Cocoseilanden
+Kersteiland
+Indonesië
+Filippijnen
+Chathameiland;Nieuw-Zeeland;Pitcairneilanden
+Singapore
+Thailand
+Oost-Timor
+Australische externe gebieden
+Australisch Antarctisch gebied
+Norfolkeiland
+Brunei Darussalam
+Nauru
+Papoea-Nieuw-Guinea
+Tonga
+Salomonseilanden
+Vanuatu
+Fiji
+Palau
+Wallis en Futuna
+Cookeilanden
+Niue
+Samoa
+Kiribati
+Nieuw-Caledonië
+Tuvalu
+Frans-Polynesië
+Tokelau
+Federale Staten van Micronesië
+Marshall-eilanden
+Rusland
+Kazachstan
+Internationale gratis telefoondienst (UIFN)
+Internationale dienst gedeelde belkosten (ISCS)
+Japan
+Zuid-Korea
+Viëtnam
+Noord Korea
+Hongkong
+Macao
+Cambodja
+Laos
+China
+Inmarsat SNAC
+Universele persoonlijke telecommunicatie (UPT)
+Bangladesh
+Wereldwijd mobiel satellietsysteem (GMSS)
+ICO Global (mobiele satellietservice)
+Ellipso (mobiele satellietservice)
+Iridium (mobiele satellietservice)
+Globalstar (mobiele satellietservice)
+EMSAT (mobiele satellietservice)
+Thuraya (mobiele satellietservice)
+Internationale netwerken
+Taiwan
+Telecommunicatie voor rampenbestrijding (OCHA)
+Turkije
+Noord-Cyprus
+India
+Pakistan
+Afghanistan
+Sri Lanka
+Myanmar
+Malediven
+Libanon
+Jordanië
+Syrië
+Irak
+Koeweit
+Saudi-Arabië
+Jemen
+Oman
+Staat Palestina
+Verenigde Arabische Emiraten
+Israël
+Bahrein
+Qatar
+Bhutan
+Mongolië
+Nepal
+Internationale premiumtariefservice
+Iran
+Tadzjikistan
+Turkmenistan
+Azerbeidzjan
+Georgië
+Zuid-Ossetië
+Kirgizië
+Oezbekistan

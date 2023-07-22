@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+
+If you added/modified the following file add your name here to give credit: OnnoV
+
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Klik & Chat</title>
+
+    <description_short max_chars="80">Advertentie-vrije app om een WhatsApp-chat te starten zonder contact toevoegen</description_short>
+
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+        Disclaimer: deze app is niet gelieerd aan of goedgekeurd door WhatsApp Inc.
+        Vorige naam "Open in WhatsApp (click to chat) [small, no ads]", gewijzigd om te voldoen aan de richtlijnen van WhatsApp en Google.
+
+        ------------------
+
+        Sommigen gebruiken de app voor zakelijke doeleinden. Ik ben blij dat mijn app je helpt productiever te zijn, maar als je de app voor commerciële doeleinden gebruikt, dan verzoek ik je om deze te ondersteunen. Ik wil dat dit kleine persoonlijke project een gratis app blijft zonder advertenties of (in-app)aankopen, en de ontwikkeling en updates zijn afhankelijk van jouw financiële bijdrage. Er is een donatieversie die je kunt kopen om de ontwikkeling te ondersteunebn: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
+
+        [Nieuw: er is nu een webversie, compatibel met WhatsApp Web: https://trianguloy.github.io/OpenInWhatsapp_Web/ ]
+
+        ------------------
+
+        Wist je dat je met elk nummer een chat in WhatsApp kunt openen zonder het eerst in jouw contactenlijst op te slaan? Open in je browser de link 'wa.me/123456789' (met het gewenste voorvoegsel + nummer).
+        Bron: https://faq.whatsapp.com/en/android/26000030/
+
+        Oorspronkelijk was die link langer en moeilijker te onthouden, dus heb ik deze kleine app gemaakt om te helpen bij het proces.
+
+        Sindsdien heb ik meerdere functionaliteiten toegevoegd (bericht invoeren, link delen, lijst met landnummers, snelkoppeling maken, recente en vastgezette nummers opslaan, recente oproepen openen via add-on en meer) maar altijd met deze drie principes:
+        1) Maak de kleinere app mogelijk. Dit betekent geen extra niet-gerelateerde inhoud, geen extra bibliotheken en geen nutteloze dingen. Momenteel is de grootte ongeveer 100 KB = 0,1 MB. Kleiner dan een standaardfoto!
+        2) Gebruik zo weinig mogelijk machtigingen. Alleen de machtiging create_shortcut wordt gebruikt, niets anders! (geen oproepen, geen opslag, geen internet).
+        3) Geen advertenties. Ik haat advertenties. Ik zal nooit advertenties, adware, spyware, het volgen van gebruikers of andere storende dingen toevoegen.
+
+
+        Als je een kleine tool wilt om je te helpen bij het openen van nummers in WhatsApp, probeer het dan eens. Als je de voorkeur geeft aan een app die jouw gegevens naar Google verzendt, dan zijn er genoeg alternatieven in omloop ;-).
+
+        ---------------------------
+
+        Vertaling:
+        Dank aan Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz, OnnoV voor de vertalingen!
+
+        Gebruikte machtigingen:
+        SNELKOPPELING: om snelkoppelingen in op het startscherm te maken.
+        -Geen- (andere machtigingen zijn niet nodig :-))
+
+        Grootte Apk:
+        ~100 KB (0,1MB)
+    </description_long>
+
+    <!-- Not needed if you don't translate the changelog -->
+    <changelog_footer>Bevalt de update? Suggesties? Laat het me weten in de reacties hieronder of in de blog! https://triangularapps.blogspot.com/</changelog_footer>
+</parameters>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app (donation version) by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to escape special characters.
+
+If you added/modified the following file add your name here to give credit: OnnoV
+
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">Klik & Chat [donatie]</title>
+
+    <description_short max_chars="80">Donatieversie van de app Klik & Chat</description_short>
+
+    <description_long max_chars="4000">
+        Dit is de donatieversie van de app Klik & Chat:
+        https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp
+        Ik nodig je uit om de beschrijving van de standaard app te raadplegen om te weten wat je kunt verwachten.
+
+        Deze versie is praktisch hetzelfde zonder merkbare verschillen, behalve sommige details:
+
+        • Wat zijn de overeenkomsten:
+        - Functionaliteit en updates: beide versies hebben altijd dezelfde functionaliteit en dezelfde updates op ongeveer hetzelfde moment (behalve de bètaversies, waar ik nieuwe dingen eerst test met een kleine groep gebruikers).
+        - Geen advertenties: geen enkele versie zal ooit advertenties bevatten.
+        - Klein formaat: beide versies zijn zo compact mogelijk.
+
+        • Wat is anders:
+        - Minder vertalingen: deze versie bevat alleen vertalingen waar de vertalers me toestemming hebben gegeven om het te gebruiken. Om te weten of een specifieke taal beschikbaar is, open je de standaard app, kies je de gewenste taal in de instellingen en tik vervolgens op 'Ondersteuning' in App-informatie: als de vermelding 'Klik & chat' wordt weergegeven, is deze beschikbaar. Alle vertalingen worden gratis door gebruikers geleverd, en daarom voel ik me slecht als ik ze in een betaalde app gebruik, tenzij ik expliciete toestemming van hen krijg.
+        - Icoon: de enige visuele verandering tussen versies: standaard=groen, donatie=geel.
+
+
+        Als je voor deze versie betaalt, profiteer je niet direct, het als een symbolische aankoop.
+        En als je wilt helpen maar het niet kunt kopen, maak je geen zorgen, je kunt de standaard app blijven gebruiken. Als deze je bevalt en deelt, help je al. (Een constructieve opmerking helpt ook).
+
+        Als je liever een algemene donatie doet, kun je deze alternatieve "koffie-app" kopen: https://play.google.com/store/apps/details?id=com.trianguloy.coffeeDonation
+
+        Als je me in het verleden hebt gesteund door die 'Koop een koffie voor TrianguloY'-app te kopen of op een andere manier (inclusief het leveren of bijwerken van een vertaling van een van mijn apps), stuur me dan een e-mail en ik geef je hiervoor een code.
+
+        Belangrijke: als je betaalt voor een app maar deze binnen twee uur verwijdert, betaalt de Play Store deze automatisch terug (niet in alle gevallen). Doe met respect voor ontwikkelaars: gebruik deze kennis met zorg.
+    </description_long>
+</parameters>

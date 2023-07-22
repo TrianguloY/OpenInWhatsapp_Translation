@@ -65,7 +65,7 @@ Voorbeeld: voor +31 (NL) 123 456 7890 type 31 1234567890"</string>
     <string name="btn_call">Bel</string>
     <string name="btn_sms">SMS</string>
 
-    <string name="btn_reset">Verwijden app-data</string>
+    <string name="btn_reset">Verwijden app-data…</string>
     <string name="desc_reset">"Met deze optie kun je de app-instellingen, recente nummers, enz. verwijderen en de standaardinstellingen herstellen. Dit kan helpen wanneer de app niet meer werkt vanwege een verkeerde configuratie.
 Dit komt overeen met het verwijderen + opnieuw installeren van de app.
 
@@ -119,7 +119,7 @@ De app wordt nu gesloten en bij heropenen zich gedragen als bij een nieuwe insta
     <string name="title_clearRecents">Recente nummers/berichten wissen:</string>
     <string name="title_pinned">Vastgezet:</string>
     <string name="title_recents">Recent:</string>
-    <string name="title_Lijst">Lijst:</string>
+    <string name="title_agenda">Lijst:</string>
 
     <string name="message_clearRecents">Wil je alle recente nummers/berichten wissen?</string>
 
@@ -130,7 +130,7 @@ De app wordt nu gesloten en bij heropenen zich gedragen als bij een nieuwe insta
     <string name="cntDesc_prefixSelector">Landnummerkiezer</string>
     <string name="cntDesc_clear">Invoer wissen</string>
     <string name="cntDesc_pasteClipboard">Plakken vanaf het klembord</string>
-    <string name="cntDesc_Lijst">Lijst</string>
+    <string name="cntDesc_agenda">Lijst</string>
     <string name="cntDesc_recentMessages">Recente berichten</string>
     <string name="cntDesc_calls">Onbekende oproepen</string>
     <string name="cntDesc_toggleAdv">Uitgebreide interface</string>

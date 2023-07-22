@@ -65,7 +65,7 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="btn_call">Call</string>
     <string name="btn_sms">SMS</string>
 
-    <string name="btn_reset">Delete app data</string>
+    <string name="btn_reset">Delete app data…</string>
     <string name="desc_reset">"With this option you can delete all the app data (settings, recents, etc) and restore the default behaviour. Useful to test if the app stopped working due to wrong configuration.
 This is equivalent to uninstalling+reinstalling the app.
 

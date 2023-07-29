@@ -52,6 +52,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="cntDesc_toggleAdv">Activar/desactivar opciones avanzadas</string>
     <string name="txt_support">Al ser una aplicación gratuita sin compras, el progreso y actualizaciones dependen del apoyo que reciba.</string>
     <string name="cntDesc_appLogo">Logo de la aplicación</string>
+    <string name="txt_longUser">Parece que has estado usando la aplicación durante bastante tiempo. Considera [[spt|apoyarla]], gracias.\n\n[[hdb|Descartar]]</string>
     <string name="txt_addonDescr">Con este complemento le puedes dar acceso a la aplicación para mostrar la lista de llamadas recientes desconocidas para seleccionar. No te preocupes: es gratuito, más pequeño que una foto, y sin anuncios.</string>
     <string name="btn_addonLink">Complemento</string>
     <string name="cntDesc_calls">Llamadas desconocidas</string>
@@ -79,6 +80,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="hint_itemName">nombre</string>
     <string name="title_pinned">Fijos:</string>
     <string name="title_recents">Recientes:</string>
+    <string name="addon_reload">recargar</string>
     <string name="lbl_shortcut">Abre un chat con %s</string>
     <string name="title_agenda">Agenda:</string>
     <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere complemento V1.2+). Poner a 0 para mostrar todos:</string>

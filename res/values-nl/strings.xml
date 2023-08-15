@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+-->
+<resources>
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
+    <string name="language">Nederlands</string>
+
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
+    <!--<string name="translators">OnnoV</string>-->
+
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
+    <!--<string name="donation_permission">yes</string>-->
+
+    <!-- This is the app name, but you need to translate it too -->
+    <string name="app_name">Klik &amp; Chat</string>
+
+    <string name="txt_about">App geprogrammeerd door [[tri|TrianguloY]]. Deze app is niet gelieerd aan WhatsApp Inc.</string>
+
+    <string name="txt_acknowledgements">Met dank aan:</string>
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
+    <string name="txt_translators">Dank %n, voor het vertalen van de app naar het %l!</string>
+    <string name="txt_about_helptranslations">Wil je helpen met (het verbeteren van) de vertaling? Meer informatie vind je hier:</string>
+
+    <string name="txt_changelanguage">Je kunt de taal van de app wijzigen door op onderstaande knop te klikken (de app wordt opnieuw opgestart).</string>
+    <string name="txt_availocales">Alleen talen die [[lcl|op jouw apparaat]] beschikbaar zijn, worden geïnstalleerd om de app-grootte te beperken.</string>
+
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
+    <string name="txt_description">"Deze app gebruikt de openbare API van WhatsApp om een chat te openen met elk nummer dat je invoert. Er wordt geen contact opgeslagen op jouw apparaat.
+Meer info [[wfq|hier]].
+
+Voer het nummer en het [[prf|landnummer]] in zonder extra tekens. Gebruik alleen cijfers 0–9. Meer info [[hlp|hier]]. Je kunt op de landenknop klikken om uit een lijst te kiezen.
+Voorbeeld: voor +31 (NL) 123 456 7890 type 31 1234567890"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
+    <string name="prefix_url">https://nl.wikipedia.org/wiki/Lijst_van_landnummers_in_de_telefonie</string>
+    <string name="txt_extra_description">Gebruik deze knop om een link te maken die WhatsApp opent wanneer erop wordt geklikt. Je kunt een nummer en/of een bericht invoeren dat in het invoervak verschijnt (het bericht wordt NIET automatisch verzonden).</string>
+
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <string name="txt_support">Ik bied deze app, zonder advertenties of in-appaankopen, belangeloos aan. Om de ontwikkeling en updates mogelijk te maken is jouw ondersteuning belangrijk.</string>
+    <string name="btn_link_support">Ondersteuning</string>
+    <string name="txt_business">Gebruik je de app voor zakelijke doeleinden? Overweeg dan mij te [[spt|ondersteunen]], met een donatie. Bedankt!\n\n[[hdb|Afwijzen]]</string>
+    <string name="txt_longUser">Het lijkt erop dat je de app al geruime tijd gebruikt. Overweeg mij te [[spt|ondersteunen]], met een donatie. Bedankt!\n\n[[hdb|Afwijzen]]</string>
+
+
+    <string name="txt_addonDescr">Met deze add-on geef je een lijst met onbekende recente oproepen weer waaruit je kunt kiezen. De add-on is gratis, respecteert jouw privacy en bevat geen advertenties.</string>
+
+    <string name="hint_editNumber">Nummer</string>
+    <string name="hint_editPrefix">Landnummer</string>
+    <string name="hint_message">Bericht (overgenomen in WhatsApp, NIET automatisch verzonden)</string>
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
+    <string name="hint_prefAndNumber">Land- &amp; (voorkeuze)nummer</string>
+    <string name="hint_itemName">Naam</string>
+
+    <string name="btn_openInWhatsapp">Open WhatsApp</string>
+    <string name="btn_shareLink">Deel</string>
+    <string name="btn_shortcut">Koppeling</string>
+    <string name="btn_call">Bel</string>
+    <string name="btn_sms">SMS</string>
+
+    <string name="btn_reset">Verwijden app-data…</string>
+    <string name="desc_reset">"Met deze optie kun je de app-instellingen, recente nummers, enz. verwijderen en de standaardinstellingen herstellen. Dit kan helpen wanneer de app niet meer werkt vanwege een verkeerde configuratie.
+Dit komt overeen met het verwijderen + opnieuw installeren van de app.
+
+Weet je zeker dat je ALLE GEGEVENS wilt VERWIJDEREN?
+
+De app wordt nu gesloten en bij heropenen zich gedragen als bij een nieuwe installatie."</string>
+
+    <string name="chk_mergeInputs">Combineer landnummer en (voorkeuze)nummer</string>
+    <string name="chk_stripZeros">Verwijder voorloopnullen uit landnummer en (voorkeuze)nummer</string>
+    <string name="chk_enableRecents">Bewaar recente nummers/berichten (bij uitschakelen worden deze verwijderd!)</string>
+    <string name="chk_hideInfo">Verberg de helptekst op het hoofdscherm</string>
+    <string name="chk_keepprefix">Herstel landnummer [%1$s] bij heropenen</string>
+    <string name="chk_autoopen">WhatsApp automatisch openen als een nummer wordt ingevuld (via delen, bellen, recent of klembord)</string>
+    <string name="txt_mode">Gedrag bij openen:</string>
+    <string-array name="chl_openable">
+        <item>Standaard: Android-modus, opent geïnstalleerde WhatsApp-versie(s)</item>
+        <item>Web: browserlink-modus, toont ook browsers</item>
+        <item>SMS: modus toont andere berichten-apps en mogelijk niet-compatibele apps (tekst-overname wordt niet altijd ondersteund)</item>
+        <item>Vooraf gedefinieerd: modus werkt voor alle WhatsApp-versies (ook WhatsApp Business)</item>
+        <item>JID: modus gebruikt een intern WhatsApp-schema, [NB!] afgeraden, omdat nummers niet op bestaan worden gecontroleerd</item>
+    </string-array>
+    <string name="txt_jidWarning">Deze modus gebruikt een niet-gedocumenteerde WhatsApp-routine en werkt mogelijk niet correct. Het kan zijn dat er niet wordt gecontroleerd op geldige nummers, zodat er een chat wordt geopend, zelfs als het nummer niet bestaat. Houd er rekening mee dat het gebruik van deze modus wordt afgeraden vanwege onbekende gevolgen.\n\nDoorgaan op eigen risico?</string>
+    <string name="chk_signal">Experimenteel [[sgn|Signal]]-ondersteuning</string>
+    <string name="chk_telegram">Experimenteel [[tgm|Telegram]]-ondersteuning</string>
+    <string name="txt_telegram">[NB!] Om een nummer te openen met de t.me/+123-link, moet het door de betreffende Telegram-gebruiker als "openbaar zichtbaar" en "vindbaar" ingesteld zijn.\nDeze optie is alleen zinvol als je de persoon kent en deze zijn/haar nummer als zodanig heeft ingesteld. (Telegram controleert dit niet en opent slechts het hoofdscherm wanneer het nummer niet gevonden wordt).\nVoel je vrij om deze experimentele functie uit te proberen.</string>
+    <string name="chk_light">Gebruik een licht thema (de app wordt opnieuw opgestart)</string>
+    <string name="btn_addonLink">Add-on</string>
+
+    <string name="msg_warnShare">De gedeelde link bevat het ingevoerde telefoonnummer en is voor iedereen zichtbaar. Als het een persoonlijk nummer betreft, deel de link dan niet openbaar!</string>
+    <string name="btn_noWarn">Niet meer waarschuwen</string>
+
+    <string name="btn_link_playstore_open">Play Store (openen)</string>
+    <string name="btn_link_playstore_share">Play Store (delen)</string>
+    <string name="btn_link_apppage">App-pagina</string>
+    <string name="btn_link_faq">Veelgestelde vragen\n(FAQ) [Engels]</string>
+    <string name="btn_link_helptranslations">Vertalen</string>
+
+    <string name="error_badData">Fout bij het openen: incorrecte data</string>
+    <string name="error_nowhatsapp">Kan WhatsApp niet openen, [[wps|is de app geïnstalleerd?]]</string>
+    <string name="error_call">Kan het nummer niet bellen</string>
+    <string name="error_sms">Kan geen sms sturen</string>
+
+    <string name="toast_autoParser">Automatische nummercontrole\nControleer het nummer!</string>
+    <string name="toast_copied">Gekopieerd naar het klembord</string>
+    <string name="toast_empty">Klembord bevat geen nummers</string>
+    <string name="toast_error_openLink">Kan link niet openen</string>
+
+    <string name="title_sendTo">Link verzenden naar:</string>
+    <string name="title_chooseCountry">Nummer per land:</string>
+    <string name="title_chooseApp">Kies app:</string>
+    <string name="title_clearRecents">Recente nummers/berichten wissen:</string>
+    <string name="title_pinned">Vastgezet:</string>
+    <string name="title_recents">Recent:</string>
+    <string name="title_agenda">Lijst:</string>
+
+    <string name="message_clearRecents">Wil je alle recente nummers/berichten wissen?</string>
+
+    <string name="header_code">Landnummer %1$s</string>
+    <string name="header_country">Land %1$s</string>
+
+    <string name="cntDesc_appInfo">App-informatie</string>
+    <string name="cntDesc_prefixSelector">Landnummerkiezer</string>
+    <string name="cntDesc_clear">Invoer wissen</string>
+    <string name="cntDesc_pasteClipboard">Plakken vanaf het klembord</string>
+    <string name="cntDesc_agenda">Lijst</string>
+    <string name="cntDesc_recentMessages">Recente berichten</string>
+    <string name="cntDesc_calls">Onbekende oproepen</string>
+    <string name="cntDesc_toggleAdv">Uitgebreide interface</string>
+    <string name="cntDesc_appLogo">Applicatie-logo</string>
+    <string name="cntDesc_addons">Open Add-on-downloadpagina</string>
+    <string name="cntDesc_settings">Instellingen</string>
+    <string name="cntDesc_delete">Wissen</string>
+    <string name="cntDesc_togglepin">Vastzetten/losmaken</string>
+    <string name="cntDesc_filter">Filter</string>
+
+    <string name="util_close">Sluiten</string>
+    <string name="util_none">Geen</string>
+
+    <string name="addon_message_loadingCalls">Lijst met onbekende oproepen laden...</string>
+    <string name="addon_toast_noCalls">Geen onbekende nummers gevonden of fout bij het lezen</string>
+    <string name="addon_txt_loading">Beperk het aantal recente onbekende oproepen om de laadtijd te verkorten (vereist add-on V1.2+). Stel in op 0 om alles weer te geven:</string>
+    <string name="addon_txt_warning">De add-on is gedetecteerd, maar de veiligheidshandtekening komt niet overeen. [Fout %d]. Zorg ervoor dat je deze hebt geïnstalleerd vanaf de officiële pagina, via de link in de app (en deze app uit de Play Store).</string>
+    <string name="addon_reload">Herladen</string>
+
+    <string name="lbl_shortcut">Start een chat met %s</string>
+
+    <string name="error_instantApp">Instant-apps kunnen alleen de standaardapp openen. Als je meerdere versies hebt (zoals WhatsApp en WhatsApp Business), probeer dan de [[oiw|officiële versie]] te installeren (niet alle versies worden ondersteund).</string>
+    <string name="title_instantApp">Instant-app</string>
+    <string name="message_instantApp">De functie \'%s\' is niet beschikbaar in een instant-app. Als je deze wilt gebruiken, installeer dan de app vanuit de Play Store.</string>
+
+    <string-array name="chl_notify">
+        <item>Nooit melden</item>
+        <item>Meld alleen nieuwe belangrijke functies</item>
+        <item>Meld alleen nieuwe functies</item>
+        <item>Altijd melden</item>
+    </string-array>
+    <string name="cl_title">Wijzigingslog:</string>
+    <string name="cl_more">Toon meer</string>
+    <string name="txt_newVersion">De app is bijgewerkt: [[chl|Bekijk wijzigingen]]\n\n[[hdc|Sluiten]]</string>
+
+</resources>

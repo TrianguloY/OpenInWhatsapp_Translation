@@ -123,4 +123,11 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="btn_call">Llamar</string>
     <string name="error_call">No se ha podido llamar al número</string>
     <string name="error_sms">No se ha podido enviar un sms</string>
+    <string name="btn_reset">Borrar los datos de la aplicación…</string>
+    <string name="desc_reset">"Con esta opción puedes borrar todos los datos de la aplicación (ajustes, recientes, etc) y restaurar el comportamiento por defecto. Útil si la aplicación ha dejado de funcionar debido a una mala configuración.
+Esta opción equivale a desinstalar+instalar la app.
+
+¿Estás seguro de que quieres BORRAR TODOS LOS DATOS de la aplicación?
+
+La aplicación se cerrará. La próxima vez que la abras estará como recién instalada."</string>
 </resources>

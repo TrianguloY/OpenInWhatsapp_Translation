@@ -1,0 +1,177 @@
+V 4.3
+- Nieuwe Nederlandse vertaling. Met dank aan OnnoV!
+- New button to delete app data
+- Fix some phone links not opening on the app.
+
+V 4.2.3
+- Bijgewerkte Turkse vertaling. Met dank aan Hüseyin Filiz!
+
+V 4.2.2
+- Gekleurde hoofdknoppen
+- Tweaks voor Android 13+
+- Geüpdatet naar de nieuwste versie van Android
+
+V 4.2.1
+- Herstel hints voor automatisch aanvullen
+
+V 4.2
+- Nieuwe bel- en sms-knoppen
+
+V 4.1.3
+- Nieuwe Franse update. Met dank aan Nathanaël Gagnepain!
+- Vertaalupdates
+- Enkele zeer zeldzame crashes opgelost
+
+V 4.1.2
+- Vertaalupdates
+
+V 4.1.1
+- Oplossing voor nietwerkende Signal-/Telegram-schakelaars die niet werken bij sommige talen
+
+V 4.1
+- Licht thema
+- Ondersteuning voor experimentele Signal-/Telegram-ondersteuning, schakel dit in de instellingen in of uit
+- Verbeterde add-on voor vernieuwen van de lijst met recente oproepen
+- Klembordknop altijd ingeschakeld (automatische achtergrondcontrole verwijderd)
+- Verbeterde weergvave van fouten
+
+V 4.0.1
+- Nieuwe Hindi-vertaling. Met dank aan RaviDhoriya!
+- Indonesische vertaling is nu ook beschikbaar voor de donatieversie. Met dank aan artmann (Dwi Legowo) & Steven Felix voor de toestemming
+- Andere vertalingen bijgewerkt
+- Oplossing voor log-melding na nieuwe installatie
+- Enkele zeer zeldzame crashes opgelost
+
+4.0
+- Verschillende stijlveranderingen
+- Nieuwe speciale wisknop (de terug-knop wordt nog steeds ondersteund)
+- Nieuwe instelling om het verwijderen van voorloopnullen uit te schakelen
+- Nieuwe Arabische vertaling. Met dank aan Faisal Aloufi!
+- Nieuwe updatemelding wordt weergegeven als bericht in plaats van als pop-up
+- Probleem opgelost met nullen na land- en voorkeuzenummers
+- Converteer ingevoerde Arabische cijfers
+- Ondersteuning verwijderd voor Android 4.0.4 of ouder (zoals bij WhatsApp)
+- Verschillende interne oplossingen voor bugs en code-efficiëntie
+
+3.3
+- Nieuwe Malayalam-vertaling. Dank aan Thenu Mahesh Kannan!
+- Link delen integreert 'https://'
+- Verwijder ook voorloopnullen in de samenvoegmodus
+
+3.2
+- Nieuwe modus: voorgedefinieerd bij open app
+- Toon bericht 'controleer land- en voorkeuzenummer' in de regel
+- Vertaalupdates
+
+V 3.1.2
+- Verbeterd plakken bij invoer samenvoegen
+- Vertaalupdates
+
+V 3.1.1
+- Opgeloste crash bij opstarten
+
+3.1
+- Knoppen verplaatst naar de bovenkant van de invoertekstvakken
+- De landnummerkiezer toont nu het overeenkomende land
+- Vertaalupdates
+
+3.0
+- Nieuwe moduskiezer: bevat de vorige gekozen modus, de experimentele jid-modus en een nieuwe sms-modus
+- Bijgewerkte lijst met landnummers
+- Interne tweaks en foutoplossingen (waaronder de niet correct weergegeven checkbox voor automatisch openenen)
+
+V 2.13.1
+- Bijgewerkte vertaling naar Braziliaans Portugees. Dank aan mezysinc!
+- Aangepaste detectie oproepmodule
+
+2.13
+- Nieuw configureerbaar dialoogvenster voor weergave app-wijzigingen
+- Toon bericht bij het delen van nummer
+
+2.12
+- Niet-google-donatielinks verwijderd om te voldoen aan nieuwe richtlijnen, vervangen door nieuwe donatieversie (alleen in het Engels)
+- Kleine aanpassingen in de app-kleuren
+
+V 2.11.1
+- Bijgewerkte Indonesische en Russische vertalingen
+- Oplgeloste crash bij de Instant app-versie
+
+2.11
+- Nieuwe optie: landnummer herstellen bij sluiten
+- Nieuwe optie: automatisch openen wanneer een nummer is geselecteerd
+- Crash verholpen: heropend nummer vanuit recente nummers
+- Animaties
+- Ontbrekend landnummer voor Zuid-Soedan
+
+V 2.10.2
+- Detecteer nummers in formaat 123(456)78.9
+- Ontbrekend landnummer Mozambique
+- Hersteld: Portugees niet weergegeven in dialooglijst
+- Meer links toegevoegd (ondersteuning, hulp bij nummerformaat, profiel)
+
+V 2.10.1
+- Bijgewerkte Indonesische en Russische vertalingen
+- Zeldzame crash met gedupliceerde klikken verholpen
+
+2.10
+- Verbeterde invoer van (land- en voorkeuze)nummers met toetsenbord
+- Instelling voor alternatief openen (in plaats van lang tikken)
+- Correctie: land- en voorkeuzenummers bij openen vanuit oproepintentie
+- Laatste wijzigingen Indonesisch
+
+V 2.9.1
+- Verholpen: Klembordknop bij Android 10
+- Bijgewerkte Indonesische vertaling
+- Interne wijzigingen met betrekking tot snelkoppelingen
+
+2.9
+- Gesplitst pakket ingeschakeld op basis van taal. Nu worden alleen talen geïnstalleerd die op uw apparaat zijn geselecteerd. Dit verkleint de app-grootte met 15-20%. BELANGRIJK! Als u een taal mist, neem dan contact met mij op.
+- Bijgewerkt Indonesisch. Dank aan Steven Felix!
+
+V 2.8.6
+- Indonesische vertaling toegevoegd. Dank aan artmann (Dwi Legowo)!
+
+V 2.8.5
+- Tamil-vertaling toegevoegd. Dank aan MageshBabu (mage1k99)!
+- Aangepaste grootte van elementen in agenda en landcodelijst. Ook de grootte van de knoppen.
+
+V 2.8.4
+- Gecorrigeerd: onjuiste link generatie
+- Nu kun je de app rechtstreeks vanuit de Play Store uitproberen zonder te installeren (beter is om de volledige app te installeren, omdat de instant-app sommige functies niet ondersteunt)
+
+V 2.8.3
+- Optie om de lijst met onbekende oproepen te beperken. Vereist Add-on versie 1.2+
+- Verholpen: lijst met recente berichten niet weergegeven
+- Interne wijziging met betrekking tot publicatie
+
+V 2.8.2
+- Hebreeuwse vertaling toegevoegd. Dank aan Yoni Cohen jonbir3!
+
+V 2.8.1
+- Bijgewerkte Russische vertaling
+- Zeldzame bug bij het openen van de agenda verholpen
+
+2.8
+- Nieuwe agendalijst. Mogelijkheid om items met naam vast te pinnen.
+- Optie om snelkoppelingen te maken.
+- Adaptief pictogram voor Android 8.0+
+
+V 2.7.1
+- Tijdelijke oplossing voor WhatsApp-bètabug (kies deze app om de links in WhatsApp te openen als daarom wordt gevraagd)
+
+2.7
+- Nieuw dialoogvenster voor het selecteren van landnummers (bij filteren en sorteren!)
+- Bijgewerkte Russische vertaling
+- Klemborddetectie aangepast
+
+V 2.6.2
+- Foutief thema opgelost op Android 4.X
+
+V 2.6.1
+- Bijgewerkte Franse en Italiaanse vertalingen
+
+2.6
+- Optie toegevoegd om de informatie op het hoofdscherm te verbergen
+- Dialoogvenster Over gescheiden in Instellingen en Info
+- Link naar vertaalpagina toegevoegd
+- Optie toegevoegd om de app te delen

@@ -1,10 +1,10 @@
 V 4.3
-- New Dutch translation. Many thanks to OnnoV!
-- New button to delete app data
-- Fix some phone links not opening on the app.
+- Yeni Hollandaca çeviri için OnnoV'a çok teşekkürler!
+- Uygulama verilerini silmek için yeni düğme eklendi
+- Uygulamada açılmayan bazı telefon bağlantıları düzeltildi
 
 V 4.2.3
-- Updated Turkish translation. Many thanks to Hüseyin Filiz!
+- Türkçe çeviri güncellendi. Hüseyin Filiz'e çok teşekkürler!
 
 V 4.2.2
 - Ana düğmeler renklendirildi

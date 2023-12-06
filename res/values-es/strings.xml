@@ -81,6 +81,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="title_pinned">Fijos:</string>
     <string name="title_recents">Recientes:</string>
     <string name="addon_reload">recargar</string>
+    <string name="addon_uninstall">Desinstalar complemento</string>
     <string name="lbl_shortcut">Abre un chat con %s</string>
     <string name="title_agenda">Agenda:</string>
     <string name="addon_txt_loading">Limita la lista de números deconocidos para reducir tiempo de carga (requiere complemento V1.2+). Poner a 0 para mostrar todos:</string>

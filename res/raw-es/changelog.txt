@@ -1,3 +1,7 @@
+V 4.4
+- Nuevo atajo para desinstalar el complemento
+- Quitado soporte para Android 4.4 y anteriores
+
 V 4.3
 - Nueva traducción al Holandés. Muchas gracias a OnnoV!
 - Nuevo botón para borrar todos los datos de la app

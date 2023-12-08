@@ -65,6 +65,14 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="btn_call">Ara</string>
     <string name="btn_sms">SMS</string>
 
+    <string name="btn_reset">Uygulama verilerini sil..</string>
+    <string name="desc_reset">"Bu işlem ile tüm uygulama verilerini (ayarlar, son kullanılanlar vb.) silebilir ve varsayılan ayarlara geri dönebilirsiniz. Uygulamanın yanlış yapılandırma nedeniyle çalışmayı durdurup durdurmadığını test etmek için kullanışlıdır.
+ Bu işlem, uygulamayı kaldırıp yeniden yüklemeyle aynı şeydir.
+
+ Uygulamanın TÜM VERİLERİNİ SİLMEK istiyor musunuz?
+
+ Uygulama kapanacak.  Bir sonraki açışınızda, yeni kurulmuş bir uygulama gibi davranacak."</string>
+    
     <string name="chk_mergeInputs">Ülke kodu ve numarayı birleştir</string>
     <string name="chk_stripZeros">Numaranın başındaki sıfırları kaldır</string>
     <string name="chk_enableRecents">Son numaraları/mesajları kaydet (kapatırsanız kayıtlar silinir)</string>

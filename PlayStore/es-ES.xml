@@ -25,32 +25,32 @@ Soy consciente de que algunos usuarios están usando la aplicación en empresas.
 
 ------------------
 
-Sabías que puedes abrir un chat en WhatsApp con cualquier número, sin tener que guardarlo en contactos, abriendo en tu navegador el enlace 'wa.me/123456789' (usando el prefijo+número deseado)?
-Fuente: https://faq.whatsapp.com/en/android/26000030/
+Sabías que puedes abrir un chat en WhatsApp con cualquier número, sin tener que guardarlo en contactos, introduciéndolo en el cuadro de búsqueda dentro de WhatsApp?
+Fuente: https://faq.whatsapp.com/1183494482518500
 
-Originalmente ese enlace era más largo y más difícil de recordar, así que creé esta minúscula aplicación para ayudar en el proceso.
+Originalmente había que usar un enlace largo y difícil de recordar, así que creé esta minúscula aplicación para ayudar en el proceso.
 
 Desde entonces he ido añadiendo múltiples funcionalidades (introducir mensaje, compartir enlace, lista de prefijos, crear atajo, guardar y fijar recientes, abrir llamadas recientes mediante complemento y algunas más) pero siempre con estos tres principios:
 1) Hacer la aplicación más pequeña posible. Esto significa no incluir contenido no relacionado, sin librerías adicionales y nada que sea inútil. Actualmente su tamaño es de aproximadamente 100KB=0.1MB. ¡Menos que una fotografía estándar!
-        2) Usar el mínimo número de permisos. Solo se usa el de crear_atajos, ¡nada más! (no llamadas, no almacenamiento, no internet).
-        3) Sin anuncios. Odio los anuncios. Nunca añadiré anuncios, adware, spyware, seguimiento de usuarios u otras cosas desagradables.
+2) Usar el mínimo número de permisos. Solo se usa el de crear_atajos, ¡nada más! (no llamadas, no almacenamiento, no internet).
+3) Sin anuncios. Odio los anuncios. Nunca añadiré anuncios, adware, spyware, seguimiento de usuarios u otras cosas desagradables.
 
 
-        Si quieres una pequeña herramienta para ayudarte a abrir números en WhatsApp, pruébala. Si prefieres una aplicación que envía tus datos a Google, hay clones por ahí.
+Si quieres una pequeña herramienta para ayudarte a abrir números en WhatsApp, pruébala. Si prefieres una aplicación que envía tus datos a Google, hay clones por ahí.
 
-        ---------------------------
+---------------------------
 
-        Traducción:
-        ¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, Hüseyin Filiz por las traduciones!
-
-
-        Permisos usados:
-        SHORTCUTS: permite crear atajos en el escritorio.
-        -Ninguno más- (no eran necesarios)
+Traducción:
+¡Gracias a Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, OnnoV, Hüseyin Filiz por las traduciones!
 
 
-        Tamaño del apk:
-        ~100 KB (0,1MB)
+Permisos usados:
+SHORTCUTS: permite crear atajos en el escritorio.
+-Ninguno más- (no eran necesarios)
+
+
+Tamaño del apk:
+~100 KB (0,1MB)
     </description_long>
     <changelog_footer>¿Te gusta la actualización? ¿Sugerencias? ¡Dilo en los comentarios o en el blog! https://triangularapps.blogspot.com/</changelog_footer>
 </parameters>

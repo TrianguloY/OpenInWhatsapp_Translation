@@ -1,3 +1,6 @@
+V 5.0
+- Migrado el código interno a Kotlin
+
 V 4.4
 - Nuevo atajo para desinstalar el complemento
 - Quitado soporte para Android 4.4 y anteriores

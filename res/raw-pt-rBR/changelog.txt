@@ -1,3 +1,10 @@
+V 5.0
+- Internal code migrated to Kotlin
+
+V 4.4
+- New shortcut for uninstalling the addon
+- Remove support for Android 4.4 or less
+
 V 4.3
 - New Dutch translation. Many thanks to OnnoV!
 - New button to delete app data

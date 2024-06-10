@@ -1,25 +1,25 @@
 V 5.0
-- Internal code migrated to Kotlin
+- Kode internal dimigrasikan ke Kotlin
 
 V 4.4
-- New shortcut for uninstalling the addon
-- Remove support for Android 4.4 or less
+- Pintasan baru untuk mencopot pemasangan addon
+- Menghapus dukungan untuk Android 4.4 atau lebih rendah
 
 V 4.3
-- New Dutch translation. Many thanks to OnnoV!
-- New button to delete app data
-- Fix some phone links not opening on the app
+- Terjemahan bahasa Belanda baru. Terima kasih banyak kepada OnnoV!
+- Tombol baru untuk menghapus data aplikasi
+- Memperbaiki beberapa tautan nomor telepon yang tidak terbuka di aplikasi
 
 V 4.2.3
-- Updated Turkish translation. Many thanks to Hüseyin Filiz!
+- Terjemahan bahasa Turki diperbarui. Terima kasih banyak kepada Hüseyin Filiz!
 
 V 4.2.2
-- Colored main buttons
-- Tweaks for Android 13+
-- Upgraded to latest Android
+- Tombol utama berwarna
+- Penyesuaian untuk Android 13+
+- Ditingkatkan untuk Android terbaru
 
 V 4.2.1
-- Fix autofill hints
+- Memperbaiki petunjuk isi otomatis
 
 V 4.2
 - Tombol panggilan & SMS baru

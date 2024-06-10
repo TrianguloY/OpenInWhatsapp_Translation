@@ -30,7 +30,7 @@ Instructions for manual translation:
     <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya di sini:</string>
 
     <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol di bawah (aplikasi akan dimuat ulang).</string>
-    <string name="txt_availocales">Hanya bahasa yang Anda pilih/terapkan di [[lcl|pengaturan sistem]] yang akan terinstal untuk mengecilkan ukuran aplikasi.</string>
+    <string name="txt_availocales">Hanya bahasa yang Anda pilih/terapkan di [[lcl|pengaturan sistem]] yang akan terpasang untuk mengecilkan ukuran aplikasi.</string>
 
     <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
     <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
@@ -79,11 +79,11 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
     <string name="chk_keepprefix">Pulihkan awalan [%1$s] ketika aplikasi ditutup</string>
     <string name="chk_autoopen">Buka aplikasi WhatsApp ketika nomor terisi otomatis (dari membagikan nomor, menekan tombol log panggilan, membuka agenda, atau menempel dari papan klip)</string>
-    <string name="txt_mode">Mode Pembukaan:</string>
+    <string name="txt_mode">Mode membuka:</string>
     <string-array name="chl_openable">
         <item>Bawaan: Gunakan skema WhatsApp Android</item>
         <item>Web: Gunakan skema web, mungkin menampilkan aplikasi peramban</item>
-        <item>SMS: Gunakan intent yang terkait dengan SMS, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
+        <item>SMS: Gunakan kode intent yang terkait dengan SMS, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
         <item>Sudah ditentukan: Pastikan akan berfungsi untuk aplikasi WhatsApp dan WhatsApp Business resmi.</item>
         <item>[BAHAYA] JID: Gunakan skema WhatsApp internal. Menggunakan mode ini tidak disarankan karena nomor tampaknya tidak diperiksa keberadaannya</item>
     </string-array>
@@ -108,7 +108,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
     <string name="error_call">Tidak dapat memanggil nomor</string>
     <string name="error_sms">Tidak dapat mengirim SMS</string>
 
-    <string name="toast_autoParser">Parser otomatis.\nPeriksa lagi awalan-nya!</string>
+    <string name="toast_autoParser">Parser otomatis.\nPeriksa lagi awalannya!</string>
     <string name="toast_copied">Disalin ke papan klip</string>
     <string name="toast_empty">Nomor tidak ditemukan di papan klip</string>
     <string name="toast_error_openLink">Tidak bisa membuka tautan</string>
@@ -128,7 +128,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
 
     <string name="cntDesc_appInfo">Info Aplikasi</string>
     <string name="cntDesc_prefixSelector">Pemilih Awalan</string>
-    <string name="cntDesc_clear">Bersihkan masukan</string>
+    <string name="cntDesc_clear">Bersihkan input</string>
     <string name="cntDesc_pasteClipboard">Tempel dari papan klip</string>
     <string name="cntDesc_agenda">Agenda</string>
     <string name="cntDesc_recentMessages">Pesan terkini</string>
@@ -147,7 +147,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
     <string name="addon_message_loadingCalls">Menampilkan daftar panggilan tidak dikenal…</string>
     <string name="addon_toast_noCalls">Tidak ada nomor panggilan tidak dikenal atau tidak bisa dibaca</string>
     <string name="addon_txt_loading">Batasi panggilan tidak dikenal terkini untuk mengurangi waktu muat aplikasi (perlu addon V1.2+). Setel ke angka 0 untuk menampilkan semua:</string>
-    <string name="addon_txt_warning">Addon terdeteksi, tetapi tanda tangannya tidak cocok dengan [Error %d]. Pastikan Anda telah menginstalnya dari halaman resmi (dan aplikasi ini dari Play Store)</string>
+    <string name="addon_txt_warning">Addon terdeteksi, tetapi tanda tangannya tidak cocok dengan [Error %d]. Pastikan Anda telah memasangnya dari halaman resmi (dan aplikasi ini dari Play Store)</string>
     <string name="addon_reload">Muat ulang</string>
     <string name="addon_uninstall">Copot pemasangan addon</string>
  
@@ -155,7 +155,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
 
     <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi bawaan. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba pasang [[oiw|aplikasi penuh]] (catatan: tidak semua versi didukung.).</string>
     <string name="title_instantApp">Aplikasi instan</string>
-    <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. Jika kamu ingin menggunakannya, silahkan instal aplikasinya dari Play Store.</string>
+    <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. Jika kamu ingin menggunakannya, silahkan pasang aplikasinya dari Play Store.</string>
 
     <string-array name="chl_notify">
         <item>Jangan pernah beritahu</item>

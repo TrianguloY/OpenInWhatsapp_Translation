@@ -9,42 +9,53 @@ Instructions for manual translation:
 
  -->
 <resources>
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
+    <string name="language">Indonesia</string>
 
-    <string name="language">Bahasa Indonesia</string>
-
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
     <!--<string name="translators">artmann (Dwi Legowo) & Steven Felix</string>-->
 
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
     <!--<string name="donation_permission">yes</string>-->
 
+    <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Klik untuk Chat</string>
 
     <string name="txt_about">Aplikasi ini dibuat oleh [[tri|TrianguloY]]. Aplikasi ini tidak terafiliasi dengan WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Penghargaan:</string>
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
     <string name="txt_translators">Terima kasih kepada %n yang telah menyediakan terjemahan bahasa %l!</string>
     <string name="txt_about_helptranslations">Ingin bantu dengan terjemahan? Dapatkan informasinya di sini:</string>
 
     <string name="txt_changelanguage">Kamu bisa ganti bahasa aplikasi dengan klik tombol di bawah (aplikasi akan dimuat ulang).</string>
     <string name="txt_availocales">Hanya bahasa yang Anda pilih/terapkan di [[lcl|pengaturan sistem]] yang akan terinstal untuk mengecilkan ukuran aplikasi.</string>
 
-    <string name="txt_description">"Aplikasi ini menggunakan public API WhatsApp untuk memulai percakapan dengan nomor yang kamu masukkan. Tidak ada kontak yang akan tersimpan.
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
+    <string name="txt_description">"Aplikasi ini menggunakan kode API publik WhatsApp untuk memulai percakapan dengan nomor yang kamu masukkan. Tidak ada kontak yang akan tersimpan.
 Info lebih lanjut klik [[wfq|di sini]].
 
 Masukkan nomor dan [[prf|awalan]] tanpa tambahan karakter, hanya angka 0–9. Info lebih lanjut klik [[hlp|di sini]]. Kamu bisa klik pada tombol negara untuk memilih dari daftar.
 Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
     <string name="prefix_url">https://id.wikipedia.org/wiki/Daftar_kode_telepon_negara_di_dunia</string>
-    <string name="txt_extra_description">Gunakan ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi angka dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
+    <string name="txt_extra_description">Gunakan ini untuk membuat tautan yang akan membuka WhatsApp ketika diklik. Kamu bisa isi nomor dan/atau pesan yang akan ditempatkan pada kotak input (pesan TIDAK AKAN dikirim otomatis).</string>
+
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Menjadi aplikasi gratis tanpa iklan atau pembelian, kemajuan dan pembaruan didasarkan pada penerimaan dan dukungan dari Anda.</string>
     <string name="btn_link_support">Dukung</string>
     <string name="txt_business">Tampaknya Anda menggunakan aplikasi untuk keperluan bisnis. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
     <string name="txt_longUser">Tampaknya Anda telah menggunakan aplikasi ini cukup lama. Mohon pertimbangkan [[spt|dukungannya]], terima kasih.\n\n[[hdb|Buang]]</string>
 
 
-    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon masuk yang tidak dikenal untuk bisa diklik. Gratis gak usah khawatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
+    <string name="txt_addonDescr">Dengan addon ini kamu dapat mengizinkan aplikasi untuk memunculkan daftar nomor telepon yang tidak dikenal untuk bisa diklik. Gratis, tidak usah khawatir, lebih kecil dari gambar, dan TANPA IKLAN.</string>
 
     <string name="hint_editNumber">Nomor</string>
     <string name="hint_editPrefix">Awalan</string>
     <string name="hint_message">Pesan yang terisi otomatis, TIDAK dikirim.</string>
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
     <string name="hint_prefAndNumber">Awalan &amp; Nomor</string>
     <string name="hint_itemName">Nama</string>
 
@@ -53,6 +64,14 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="btn_shortcut">Tambah Pintasan</string>
     <string name="btn_call">Panggilan</string>
     <string name="btn_sms">SMS</string>
+
+    <string name="btn_reset">Hapus data aplikasi…</string>
+    <string name="desc_reset">"Dengan opsi ini Anda dapat menghapus semua data aplikasi (pengaturan, terkini, dll) dan mengembalikan perilaku bawaan. Berguna untuk menguji apakah aplikasi berhenti bekerja karena kesalahan konfigurasi.
+Ini sama dengan mencopot pemasangan+memasang ulang aplikasi.
+
+Apakah Anda ingin MENGHAPUS SEMUA DATA aplikasi?
+
+Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperilaku seperti pemasangan aplikasi baru."</string>
 
     <string name="chk_mergeInputs">Gabungkan input awalan dan nomor</string>
     <string name="chk_stripZeros">Hapus angka nol di depan dari awalan dan nomor</string>
@@ -64,11 +83,11 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string-array name="chl_openable">
         <item>Bawaan: Gunakan skema WhatsApp Android</item>
         <item>Web: Gunakan skema web, mungkin menampilkan aplikasi peramban</item>
-        <item>SMS: Gunakan intent yang terkait SMS, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
+        <item>SMS: Gunakan intent yang terkait dengan SMS, mungkin akan menampilkan aplikasi perpesanan lain [catatan: terkadang tidak selalu mendukung pengiriman teks]</item>
         <item>Sudah ditentukan: Pastikan akan berfungsi untuk aplikasi WhatsApp dan WhatsApp Business resmi.</item>
         <item>[BAHAYA] JID: Gunakan skema WhatsApp internal. Menggunakan mode ini tidak disarankan karena nomor tampaknya tidak diperiksa keberadaannya</item>
     </string-array>
-    <string name="txt_jidWarning">Mode ini menggunakan intent WhatsApp yang tidak terdokumentasi dan mungkin berhenti bekerja atau tidak berjalan dengan benar. Kecuali sudah diperbaiki, sepertinya menghindari pengecekan nomor valid sehingga chat tetap terbuka walaupun nomor tidak ada. Pastikan bahwa penggunaan mode ini tidak disarankan karena konsekuensi yang tidak diketahui.\n\nLanjutkan dengan risiko Anda sendiri?</string>
+    <string name="txt_jidWarning">Mode ini menggunakan kode intent WhatsApp yang tidak terdokumentasi dan mungkin berhenti bekerja atau tidak berjalan dengan benar. Kecuali sudah diperbaiki, sepertinya menghindari pengecekan nomor valid sehingga chat tetap terbuka walaupun nomor tidak ada. Pastikan bahwa penggunaan mode ini tidak disarankan karena konsekuensi yang tidak diketahui.\n\nLanjutkan dengan risiko Anda sendiri?</string>
     <string name="chk_signal">Dukungan eksperimental [[sgn|Signal]]</string>
     <string name="chk_telegram">Dukungan eksperimental [[tgm|Telegram]]</string>
     <string name="txt_telegram">Perhatikan bahwa agar nomor dapat dibuka dengan tautan t.me/+628, pengguna harus menyetelnya agar nomor telepon Anda dapat dilihat oleh "Semua orang" pada opsi Privasi dan Keamanan di aplikasi Telegram. Dan hampir tidak ada seorangpun yang mau melakukan itu.\nJadi, kecuali Anda mengenali orangnya, saya jamin opsi ini tidak berguna (Telegram bahkan tidak memberitahu bahwa nomornya tidak dapat ditemukan, itu hanya membuka aplikasi seperti biasa tanpa error).\nAnda masih dapat mencobanya, tetapi Anda telah diperingatkan.</string>
@@ -84,21 +103,21 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="btn_link_faq">Pertanyaan yang sering diajukan\n(FAQ) [dalam bahasa Inggris]</string>
     <string name="btn_link_helptranslations">Terjemahkan</string>
 
-    <string name="error_badData">Gagal membuka. Data tidak benar</string>
-    <string name="error_nowhatsapp">Tidak bisa membuka WhatsApp. [[wps|Apa sudah di instal?]]</string>
+    <string name="error_badData">Gagal saat membuka. Data tidak benar</string>
+    <string name="error_nowhatsapp">Tidak bisa membuka WhatsApp. [[wps|Apakah sudah dipasang?]]</string>
     <string name="error_call">Tidak dapat memanggil nomor</string>
     <string name="error_sms">Tidak dapat mengirim SMS</string>
 
     <string name="toast_autoParser">Parser otomatis.\nPeriksa lagi awalan-nya!</string>
     <string name="toast_copied">Disalin ke papan klip</string>
-    <string name="toast_empty">Angka tidak ditemukan di papan klip</string>
+    <string name="toast_empty">Nomor tidak ditemukan di papan klip</string>
     <string name="toast_error_openLink">Tidak bisa membuka tautan</string>
 
     <string name="title_sendTo">Kirim tautan ke:</string>
     <string name="title_chooseCountry">Awalan berdasarkan negara:</string>
     <string name="title_chooseApp">Pilih aplikasi:</string>
     <string name="title_clearRecents">Hapus terkini:</string>
-    <string name="title_pinned">Diberi PIN:</string>
+    <string name="title_pinned">Disematkan:</string>
     <string name="title_recents">Terkini:</string>
     <string name="title_agenda">Agenda:</string>
 
@@ -119,7 +138,7 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="cntDesc_addons">Buka halaman addon</string>
     <string name="cntDesc_settings">Pengaturan</string>
     <string name="cntDesc_delete">Hapus</string>
-    <string name="cntDesc_togglepin">Pin/Lepas pin</string>
+    <string name="cntDesc_togglepin">Sematkan/Lepas sematan</string>
     <string name="cntDesc_filter">Saring</string>
 
     <string name="util_close">Tutup</string>
@@ -130,10 +149,11 @@ Contoh: untuk +62 (INA) 8123456789 (Indonesia) tulis 62 8123456789"</string>
     <string name="addon_txt_loading">Batasi panggilan tidak dikenal terkini untuk mengurangi waktu muat aplikasi (perlu addon V1.2+). Setel ke angka 0 untuk menampilkan semua:</string>
     <string name="addon_txt_warning">Addon terdeteksi, tetapi tanda tangannya tidak cocok dengan [Error %d]. Pastikan Anda telah menginstalnya dari halaman resmi (dan aplikasi ini dari Play Store)</string>
     <string name="addon_reload">Muat ulang</string>
-
+    <string name="addon_uninstall">Copot pemasangan addon</string>
+ 
     <string name="lbl_shortcut">Buka chat dengan %s</string>
 
-    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi default. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba instal [[oiw|aplikasi penuh]] (catatan: tidak semua versi di dukung.).</string>
+    <string name="error_instantApp">Aplikasi instan hanya bisa dibuka oleh aplikasi bawaan. Jika kamu punya banyak versi (seperti WhatsApp dan WhatsApp Business) coba pasang [[oiw|aplikasi penuh]] (catatan: tidak semua versi didukung.).</string>
     <string name="title_instantApp">Aplikasi instan</string>
     <string name="message_instantApp">Fitur \'%s\' tidak tersedia di aplikasi instan. Jika kamu ingin menggunakannya, silahkan instal aplikasinya dari Play Store.</string>
 

@@ -180,7 +180,7 @@ Kepulauan Cocos (Keeling)
 Pulau Natal
 Indonesia
 Filipina
-Pulau Chatham; Selandia Baru;Kepulauan Pitcairn
+Pulau Chatham;Selandia Baru;Kepulauan Pitcairn
 Singapura
 Thailand
 Timor Leste

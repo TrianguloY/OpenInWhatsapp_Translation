@@ -1,0 +1,267 @@
+Kanada;Amerika Serikat
+Bahama
+Barbados
+Anguilla
+Antigua dan Barbuda;Barbuda
+Kepulauan Virgin Britania Raya
+Kepulauan Virgin Amerika Serikat
+Kepulauan Cayman
+Bermuda
+Grenada
+Kepulauan Turks dan Caico
+Montserrat
+Kepulauan Mariana Utara
+Guam
+Samoa Amerika
+Sint Maarten (Belanda)
+Saint Lucia
+Dominika
+Saint Vincent dan Grenadin
+Puerto Riko
+Pulau Midway, AS;Pulau Wake, AS
+Republik Dominika
+Trinidad dan Tobago
+Nevis;Saint Kitts dan Nevis
+Jamaika
+Mesir
+Sudan Selatan
+Maroko
+Aljazair
+Tunisia
+Libia
+Gambia
+Senegal
+Mauritania
+Mali
+Guinea
+Ivory Coast
+Burkina Faso
+Niger
+Togo
+Benin
+Mauritius
+Liberia
+Sierra Leone
+Ghana
+Nigeria
+Chad
+Republik Afrika Tengah
+Kamerun
+Cape Verde
+São Tomé dan Príncipe
+Guinea Ekuatorial
+Gabon
+Kongo - Brazzaville
+Kongo - Kinshasa
+Angola
+Guinea-Bissau
+Wilayah Inggris di Samudra Hindia;Diego Garcia
+Ascension
+Seychelles
+Sudan
+Rwanda
+Etiopia
+Somalia
+Jibuti
+Kenya
+Tanzania
+Zanzibar
+Uganda
+Burundi
+Mozambik
+Zambia
+Madagaskar
+Réunion
+Mayotte
+Zimbabwe
+Namibia
+Malawi
+Lesotho
+Botswana
+eSwatini (Swaziland)
+Komoro
+Afrika Selatan
+Saint Helena
+Tristan da Cunha
+Eritrea
+Aruba
+Kepulauan Faroe
+Grinlandia
+Yunani
+Belanda
+Belgia
+Prancis
+Spanyol
+Gibraltar
+Portugal
+Luksemburg
+Irlandia
+Islandia
+Albania
+Malta
+Siprus
+Finlandia
+Kepulauan Åland
+Bulgaria
+Hungaria
+Lituania
+Latvia
+Estonia
+Moldova
+Transnistria
+Armenia
+Nagorno-Karabakh
+Belarus
+Andorra
+Monako
+San Marino
+Vatikan
+Ukraina
+Serbia
+Montenegro
+Kosovo
+Kroasia
+Slovenia
+Bosnia dan Herzegovina
+Makedonia Utara
+Italia
+Romania
+Swiss
+Republik Ceko
+Slovakia
+Liechtenstein
+Austria
+Inggris Raya
+Guernsey
+Jersey
+Pulau Man
+Irlandia Utara
+Denmark
+Swedia
+Norwegia
+Jan Mayen;Svalbard
+Polandia
+Jerman
+Kepulauan Falkland;Georgia Selatan dan Kepulauan Sandwich Selatan
+Belize
+Guatemala
+El Salvador
+Honduras
+Nikaragua
+Kosta Rika
+Panama
+Saint Pierre dan Miquelon
+Haiti
+Peru
+Meksiko
+Kuba
+Argentina
+Brazil
+Cile;Pulau Paskah
+Kolombia
+Venezuela
+Guadeloupe;Saint Barthélemy;Saint Martin (Prancis)
+Bolivia
+Guyana
+Ekuador
+Guyana Prancis
+Paraguay
+Hindia Barat Prancis;Martinik
+Suriname
+Uruguay
+Sint Eustatius
+Belanda Karibia
+Saba
+Bonaire
+Curaçao
+Malaysia
+Australia
+Kepulauan Cocos (Keeling)
+Pulau Natal
+Indonesia
+Filipina
+Pulau Chatham; Selandia Baru;Kepulauan Pitcairn
+Singapura
+Thailand
+Timor Leste
+Wilayah Eksternal Australia
+Wilayah Antartika Australia
+Kepulauan Norfolk
+Brunei Darussalam
+Nauru
+Papua Nugini
+Tonga
+Kepulauan Solomon
+Vanuatu
+Fiji
+Palau
+Wallis dan Futuna
+Kepulauan Cook
+Niue
+Samoa
+Kiribati
+Kaledonia Baru
+Tuvalu
+Polinesia Prancis
+Tokelau
+Mikronesia
+Kepulauan Marshall
+Rusia
+Kazakhstan
+Layanan Telepon Gratis Internasional (UIFN)
+Layanan Biaya Bersama Internasional (ISCS)
+Jepang
+Korea Selatan
+Vietnam
+Korea Utara
+Hong Kong
+Makau DAK Tiongkok
+Kamboja
+Laos
+Tiongkok
+Inmarsat SNAC
+Telekomunikasi Pribadi Universal (UPT)
+Bangladesh
+Sistem Satelit Seluler Global (GMSS)
+ICO Global (Layanan Satelit Seluler)
+Ellipso (Layanan Satelit Seluler)
+Iridium (Layanan Satelit Seluler)
+Globalstar (Layanan Satelit Seluler)
+EMSAT (Layanan Satelit Seluler)
+Thuraya (Layanan Satelit Seluler)
+Jaringan Internasional
+Taiwan
+Telekomunikasi untuk Bantuan Bencana oleh OCHA
+Turki
+Siprus Utara
+India
+Pakistan
+Afghanistan
+Sri Lanka
+Myanmar
+Maldives
+Lebanon
+Jordan
+Syria
+Irak
+Kuwait
+Arab Saudi
+Yaman
+Oman
+Wilayah Palestina
+Uni Emirat Arab
+Israel
+Bahrain
+Qatar
+Bhutan
+Mongolia
+Nepal
+Layanan Tarif Premi Internasional
+Iran
+Tajikistan
+Turkmenistan
+Azerbaijan
+Georgia
+Ossetia Selatan
+Kirgistan
+Uzbekistan

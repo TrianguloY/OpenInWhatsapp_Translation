@@ -119,6 +119,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="chk_stripZeros">Quitar ceros a la izquierda del prefijo y número</string>
     <string name="chk_telegram">Soporte experimental para [[tgm|Telegram]]</string>
     <string name="txt_telegram">Ten en cuenta que, para que un número pueda ser abierto en Telegram, su usuario debe marcarlo con "visibilidad pública" y permitir ser encontrado por él. Y prácticamente nadie lo hace.\nAsí que, a no ser que conozcas a la persona, te garantizo de que esta opción es inútil (Telegram ni siquiera avisa de que el número no puede ser abierto, se inicia como si nada sin errores).\nPuedes probarla si quieres, pero no digas que no te lo advertí.</string>
+    <string name="chk_viber">Soporte experimental para [[vbr|Viber]]</string>
     <string name="chk_light">Usar tema claro (la aplicación se reiniciará)</string>
     <string name="toast_empty">No hay números en el portapapeles</string>
     <string name="chk_signal">Soporte experimental para [[sgn|Signal]]</string>

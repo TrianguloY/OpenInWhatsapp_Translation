@@ -58,7 +58,7 @@
     <string name="chk_stripZeros">Удалять ведущие нули из кода и номера</string>
     <string name="chk_enableRecents">Сохранять последние номера и сообщения (отключение очистит сохранённые)</string>
     <string name="chk_hideInfo">Скрывать текст подсказок на главном экране</string>
-    <string name="chk_keepprefix">Восстанавливать код страны [%1$s] при выходе из приложения</string>
+    <string name="chk_keepprefix">Восстанавливать код страны при выходе из приложения:</string>
     <string name="chk_autoopen">Открывать автоматически при автозаполнении номера (через функцию \"поделиться\", вызов, из недавних или буфера обмена)</string>
     <string name="txt_mode">Режим открытия:</string>
     <string-array name="chl_openable">

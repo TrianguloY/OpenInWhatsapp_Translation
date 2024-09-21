@@ -54,7 +54,7 @@ Instructions for manual translation:
     <string name="chk_stripZeros">उपसर्ग और मोबाइल नंबर से अग्रणी शून्य हटा दें</string>
     <string name="chk_enableRecents">हाल के नंबरों/संदेशों को सेव करें। (इसे अक्षम करने से सेव किये गए रिकॉर्ड्स साफ़ हो जाएंगे)</string>
     <string name="chk_hideInfo">मुख्य स्क्रीन से सहायता पाठ छुपाएं</string>
-    <string name="chk_keepprefix">ऐप बंद होने पर प्रीफ़िक्स [%1$s] पुनर्स्थापित करें।</string>
+    <string name="chk_keepprefix">ऐप बंद होने पर प्रीफ़िक्स पुनर्स्थापित करें।:</string>
     <string name="chk_autoopen">जब कोई नंबर स्वतः भर जाता है तो स्वचालित रूप से खोलें (साझा करें, कॉल करें, हाल ही में या क्लिपबोर्ड।</string>
     <string name="txt_mode">खोलने का तरीका:</string>
     <string-array name="chl_openable">

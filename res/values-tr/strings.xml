@@ -77,7 +77,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="chk_stripZeros">Numaranın başındaki sıfırları kaldır</string>
     <string name="chk_enableRecents">Son numaraları/mesajları kaydet (kapatırsanız kayıtlar silinir)</string>
     <string name="chk_hideInfo">Bilgi metnini ana ekrandan gizle</string>
-    <string name="chk_keepprefix">Başlangıçta [%1$s] ülke kodu gelsin</string>
+    <string name="chk_keepprefix">Başlangıçta ülke kodu gelsin:</string>
     <string name="chk_autoopen">Numara seçildiğinde (paylaşma, arama geçmişi veya panodan) otomatik olarak aç</string>
     <string name="txt_mode">Açılış modu:</string>
     <string-array name="chl_openable">

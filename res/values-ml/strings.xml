@@ -52,7 +52,7 @@ Instructions for manual translation:
     <string name="chk_mergeInputs">പ്രിഫിക്സും നമ്പർ ഇൻപുട്ടുകളും ലയിപ്പിക്കുക</string>
     <string name="chk_enableRecents">സമീപകാല നമ്പറുകൾ/സന്ദേശങ്ങൾ സംരക്ഷിക്കുക.  (ഇത് പ്രവർത്തനരഹിതമാക്കുന്നത് സംരക്ഷിച്ചവയെ മായ്‌ക്കും)</string>
     <string name="chk_hideInfo">പ്രധാന സ്ക്രീനിൽ നിന്ന് സഹായ വാചകം മറയ്ക്കുക</string>
-    <string name="chk_keepprefix">ആപ്പ് ക്ലോസ് ചെയ്യുമ്പോൾ പ്രിഫിക്സ് [%1$s] പുനസ്ഥാപിക്കുക.</string>
+    <string name="chk_keepprefix">ആപ്പ് ക്ലോസ് ചെയ്യുമ്പോൾ പ്രിഫിക്സ് പുനസ്ഥാപിക്കുക:</string>
     <string name="chk_autoopen">ഒരു നമ്പർ സ്വയം പൂരിപ്പിക്കുമ്പോൾ യാന്ത്രികമായി തുറക്കുക (പങ്കിടുക, വിളിക്കുക, സമീപകാലത്ത് അല്ലെങ്കിൽ ക്ലിപ്പ്ബോർഡ്).</string>
     <string name="txt_mode">തുറക്കൽ മോഡ്:</string>
     <string-array name="chl_openable">

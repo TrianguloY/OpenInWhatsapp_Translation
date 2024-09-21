@@ -77,7 +77,7 @@ The app will close. Next time you open it'll behave as a fresh install."</string
     <string name="chk_stripZeros">Remove leading zeros from the prefix and number</string>
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
-    <string name="chk_keepprefix">Restore prefix [%1$s] when the app closes.</string>
+    <string name="chk_keepprefix">Restore prefix when the app closes:</string>
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
     <string name="txt_mode">Opening mode:</string>
     <string-array name="chl_openable">

@@ -77,7 +77,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
     <string name="chk_stripZeros">Hapus angka nol di depan dari awalan dan nomor</string>
     <string name="chk_enableRecents">Simpan nomor/pesan terkini ke agenda (mematikan opsi ini akan menghapus yang sudah tersimpan)</string>
     <string name="chk_hideInfo">Sembunyikan teks bantuan dari layar utama</string>
-    <string name="chk_keepprefix">Pulihkan awalan [%1$s] ketika aplikasi ditutup</string>
+    <string name="chk_keepprefix">Pulihkan awalan ketika aplikasi ditutup:</string>
     <string name="chk_autoopen">Buka aplikasi WhatsApp ketika nomor terisi otomatis (dari membagikan nomor, menekan tombol log panggilan, membuka agenda, atau menempel dari papan klip)</string>
     <string name="txt_mode">Mode membuka:</string>
     <string-array name="chl_openable">

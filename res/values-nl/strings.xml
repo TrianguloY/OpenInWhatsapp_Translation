@@ -77,7 +77,7 @@ De app wordt nu gesloten en bij heropenen zich gedragen als bij een nieuwe insta
     <string name="chk_stripZeros">Verwijder voorloopnullen uit landnummer en (voorkeuze)nummer</string>
     <string name="chk_enableRecents">Bewaar recente nummers/berichten (bij uitschakelen worden deze verwijderd!)</string>
     <string name="chk_hideInfo">Verberg de helptekst op het hoofdscherm</string>
-    <string name="chk_keepprefix">Herstel landnummer [%1$s] bij heropenen</string>
+    <string name="chk_keepprefix">Herstel landnummer bij heropenen:</string>
     <string name="chk_autoopen">WhatsApp automatisch openen als een nummer wordt ingevuld (via delen, bellen, recent of klembord)</string>
     <string name="txt_mode">Gedrag bij openen:</string>
     <string-array name="chl_openable">

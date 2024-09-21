@@ -43,7 +43,7 @@ Instructions for manual translation:
     <string name="chk_stripZeros">امسح الأصفار من البداية ومن الأرقام</string>
     <string name="chk_enableRecents">حفظ الأرقام / الرسائل الأخيرة.(سيؤدي تعطيله إلى مسح العناصر المحفوظة)</string>
     <string name="chk_hideInfo">إخفاء نص المساعدة من الشاشة الرئيسية</string>
-    <string name="chk_keepprefix">استعادة البداية [%1$s] عند إغلاق التطبيق.</string>
+    <string name="chk_keepprefix">استعادة البداية عند إغلاق التطبيق:</string>
     <string name="chk_autoopen">الفتح بشكل تلقائي عندما يتم ملىء الرقم بشكل تلقائي</string>
     <string name="txt_mode">وضع الإفتتاح:</string>
     <string-array name="chl_openable">

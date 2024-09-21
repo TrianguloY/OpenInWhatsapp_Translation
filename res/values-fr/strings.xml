@@ -62,7 +62,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="chk_stripZeros">Supprimer les zéros non significatifs du préfixe et du nombre</string>
     <string name="chk_enableRecents">Enregistrer les numéros/messages récents. (si désactivé, effacera tous les enregistrements)</string>
     <string name="chk_hideInfo">Masquer le descriptif d\'aide de l\'écran principal</string>
-    <string name="chk_keepprefix">Restaurer le préfixe [%1$s] à la fermeture de l\'application.</string>
+    <string name="chk_keepprefix">Restaurer le préfixe à la fermeture de l\'application:</string>
     <string name="chk_autoopen">Ouvrir automatiquement lorsqu\'un numéro est renseigné automatiquement (partage, appel, récent ou presse-papiers).</string>
     <string name="txt_mode">Mode d\'ouverture:</string>
     <string-array name="chl_openable">

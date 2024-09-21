@@ -70,7 +70,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="chk_stripZeros">Excluir zeros na frente do prefixo e número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
     <string name="chk_hideInfo">Esconder o texto de ajuda da tela principal</string>
-    <string name="chk_keepprefix">Recupere o prefixo [%1$s] ao sair do app.</string>
+    <string name="chk_keepprefix">Recupere o prefixo ao sair do app:</string>
     <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recentes ou clipboard).</string>
     <string name="txt_mode">Modo de abrir:</string>
     <string-array name="chl_openable">

@@ -129,7 +129,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="cntDesc_toggleAdv">Abrir opções avançadas</string>
     <string name="cntDesc_appLogo">Logo do app</string>
     <string name="cntDesc_addons">Abrir site da Extensão</string>
-    <string name="cntDesc_settings">Configurações</string>
+    <string name="title_settings">Configurações</string>
     <string name="cntDesc_delete">Excluir</string>
     <string name="cntDesc_togglepin">Fixar/Desafixar</string>
     <string name="cntDesc_filter">Busque seu país aqui</string>

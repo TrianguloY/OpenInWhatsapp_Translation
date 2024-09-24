@@ -89,7 +89,7 @@ Instructions for manual translation:
     <string name="cntDesc_toggleAdv">மேம்பட்டது</string>
     <string name="cntDesc_appLogo">பயன்பாட்டு லோகோ</string>
     <string name="cntDesc_addons">Addon பக்கத்தைத் திறக்கவும்</string>
-    <string name="cntDesc_settings">அமைப்புகள்</string>
+   <string name="title_settings">அமைப்புகள்</string>
     <string name="cntDesc_delete">அழி</string>
     <string name="cntDesc_togglepin">முள் / பின் நீக்குவது</string>
     <string name="cntDesc_filter">வடிகட்டி</string>

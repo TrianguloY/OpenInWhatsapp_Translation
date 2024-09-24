@@ -103,7 +103,7 @@ Instructions for manual translation:
     <string name="cntDesc_toggleAdv">വിപുലമായത് ടോഗിൾ ചെയ്യുക</string>
     <string name="cntDesc_appLogo">അപ്ലിക്കേഷൻ ലോഗോ</string>
     <string name="cntDesc_addons">ആഡ് ഓൺ പേജ് തുറക്കുക</string>
-    <string name="cntDesc_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="title_settings">ക്രമീകരണങ്ങൾ</string>
     <string name="cntDesc_delete">ഇല്ലാതാക്കുക</string>
     <string name="cntDesc_togglepin">പിൻ ചെയ്യുക/അൺപിൻ ചെയ്യുക</string>
     <string name="cntDesc_filter">ഫിൽട്ടർ ചെയ്യുക</string>

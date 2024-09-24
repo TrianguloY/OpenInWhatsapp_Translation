@@ -60,7 +60,10 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="addon_message_loadingCalls">Cargando lista de llamadas desconocidas…</string>
     <string name="addon_toast_noCalls">No hay números desconocidos o no han podido ser leidos</string>
     <string name="chk_enableRecents">Guardar números/mensajes recientes. (deshabilitarlo eliminará los guardados)</string>
-    <string name="cntDesc_settings">Ajustes</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="grp_interface">Interfaz</string>
+    <string name="grp_behaviour">Comportamiento</string>
+    <string name="grp_addon">Complemento</string>
     <string name="chk_hideInfo">Oculta el texto de ayuda de la pantalla principal</string>
 
     <string name="txt_about_helptranslations">Quieres ayudar con las traducciones? Puedes encontrar más información aquí:</string>

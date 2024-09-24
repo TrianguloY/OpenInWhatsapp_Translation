@@ -121,7 +121,7 @@ Exemple: pour +33 (F) 123 456 7890 insérez 33 1234567890"</string>
     <string name="cntDesc_toggleAdv">Basculer vers les options avancées</string>
     <string name="cntDesc_appLogo">Logo</string>
     <string name="cntDesc_addons">Ouvrir la page Addon</string>
-    <string name="cntDesc_settings">Paramètres</string>
+    <string name="title_settings">Paramètres</string>
     <string name="cntDesc_delete">Effacer</string>
     <string name="cntDesc_togglepin">Épingler/Désépingler</string>
     <string name="cntDesc_filter">Filtre</string>

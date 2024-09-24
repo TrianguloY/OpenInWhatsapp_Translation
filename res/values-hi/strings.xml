@@ -106,7 +106,7 @@ Instructions for manual translation:
     <string name="cntDesc_toggleAdv">उन्नत टॉगल करें</string>
     <string name="cntDesc_appLogo">ऐप लोगो</string>
     <string name="cntDesc_addons">एडऑन पेज खोलें</string>
-    <string name="cntDesc_settings">सेटिंग्स</string>
+    <string name="title_settings">सेटिंग्स</string>
     <string name="cntDesc_delete">हटाएं</string>
     <string name="cntDesc_togglepin">पिन/अनपिन</string>
     <string name="cntDesc_filter">फिल्टर</string>

@@ -96,6 +96,8 @@ The app will close. Next time you open it'll behave as a fresh install."</string
     <string name="chk_telegram">Experimental [[tgm|Telegram]] support</string>
     <string name="txt_telegram">Note that, in order for a number to be opened with the t.me/+123 link, the user must set it as "publicly visible" and allow being found by it. And almost no one does that.\nSo, unless you know the person, I assure you this option is useless (Telegram doesn\'t even say that the number couldn\'t be opened, it simply opens the main screen as normal without errors).\nYou can still try it, but you\'ve been warned.</string>
     <string name="chk_viber">Experimental [[vbr|Viber]] support</string>
+    <string name="txt_generic">Experimental generic intent support:\nEach valid line will be parsed as an intent to open. Use \'%number%\' as a placeholder for the input number, and \'%message%\' for the input message.</string>
+    <string name="hint_generic">Intents for Uri.parse</string>
     <string name="chk_light">Use light theme (the app will restart)</string>
     <string name="btn_addonLink">Addon</string>
 

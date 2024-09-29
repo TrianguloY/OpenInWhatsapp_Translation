@@ -1,3 +1,8 @@
+V 5.1
+- Experimental Viber support
+- Experimental Generic Intent support
+- Grouped settings
+
 V 5.0
 - Internal code migrated to Kotlin
 

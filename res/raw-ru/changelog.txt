@@ -1,0 +1,189 @@
+V 5.1
+- Experimental Viber support
+- Experimental Generic Intent support
+- Grouped settings
+
+V 5.0
+- Internal code migrated to Kotlin
+
+V 4.4
+- New shortcut for uninstalling the addon
+- Remove support for Android 4.4 or less
+
+V 4.3
+- New Dutch translation. Many thanks to OnnoV!
+- New button to delete app data
+- Fix some phone links not opening on the app
+
+V 4.2.3
+- Updated Turkish translation. Many thanks to Hüseyin Filiz!
+
+V 4.2.2
+- Colored main buttons
+- Tweaks for Android 13+
+- Upgraded to latest Android
+
+V 4.2.1
+- Fix autofill hints
+
+V 4.2
+- New Call & SMS buttons
+
+V 4.1.3
+- New French translation. Many thanks to Nathanaël Gagnepain!
+- Translation updates
+- Fixed some very rare crashes
+
+V 4.1.2
+- Translation updates
+
+V 4.1.1
+- Fix Signal/Telegram toggles not working in some locales
+
+V 4.1
+- Light theme
+- Experimental Signal and Telegram support, enable it in settings
+- Improved recent calls addon refresh
+- Clipboard button always enabled (removed automatic background check)
+- Slight optimization when displaying errors
+
+V 4.0.1
+- New Hindi translation. Many thanks to RaviDhoriya!
+- Indonesian translation is now available on the donation version too. Thanks to artmann (Dwi Legowo) & Steven Felix for the permission
+- Updated other translations
+- Fix changelog notification after fresh install
+- Fixed some very rare crashes
+
+V 4.0
+- Several style changes
+- New dedicated clear button (pressing back is still supported)
+- New setting to disable leading zeros removal
+- New Arabic translation. Many thanks to Faisal Aloufi!
+- New update notice is shown as message instead of popup
+- Fixed issue with zeros after area codes
+- Convert entered Arabic numbers
+- Removed support to Android 4.0.4 or older (same as WhatsApp)
+- Several internal fixes and cleanups
+
+V 3.3
+- New Malayalam translation. Many thanks to Thenur Mahesh Kannan!
+- Share link includes 'https://'
+- Remove leading zeros in merge mode too
+
+V 3.2
+- New openable mode: predefined
+- Show 'check prefix' message as inline
+- Translation updates
+
+V 3.1.2
+- Improved paste with merge inputs
+- Translation updates
+
+V 3.1.1
+- Fixed crash on startup
+
+V 3.1
+- Moved buttons to the top of the input textboxes
+- The prefix selector now shows the matching country
+- Translation updates
+
+V 3.0
+- New openable mode selector: includes the previous alternate mode, the experimental jid mode and a new sms mode
+- Updated list of country codes
+- Internal tweaks and fixes (including auto-open checkbox not displaying correctly)
+
+V 2.13.1
+- Updated translation to Brazilian Portuguese locale. Many thanks to mezysinc!
+- Tweaked calls addon detection
+
+V 2.13
+- New configurable changelog dialog
+- Show message when sharing number
+
+V 2.12
+- Removed non-google donation links to comply with new guidelines, replaced with new donation version (english only)
+- Minor tweaks with app colors
+
+V 2.11.1
+- Updated Indonesia and Russian translations
+- Fixed crash on Instant app version
+
+V 2.11
+- New option: Restore prefix on close
+- New option: Auto-open when a number is selected
+- Fix reopened number when launched from recents
+- Enabled animations
+- Missing South Sudan prefix code
+
+V 2.10.2
+- Detect numbers in format 123(456)78.9
+- Missing Mozambique prefix
+- Fix Portuguese not shown in dialog list
+- Added more links (support, phone format help, profile)
+
+V 2.10.1
+- Updated Indonesia and Russian translations
+- Fixed rare crash with duplicated clicks
+
+V 2.10
+- Improved prefix and number input with keyboard
+- Setting for alternate opening (instead of long tapping)
+- Fix prefix when opening from call intent
+- Latest Indonesia changes
+
+V 2.9.1
+- Fix clipboard button in Android 10
+- Updated Indonesia translation
+- Internal changes related to links
+
+V 2.9
+- Enabled split package based on language. Now only languages selected in your device will be installed. This reduces the app size by a 15-20%. IMPORTANT! If you are missing a language please contact me.
+- Updated Indonesian. Thank you to Steven Felix!
+
+V 2.8.6
+- Added Indonesian translation. Thank you to artmann (Dwi Legowo)!
+
+V 2.8.5
+- Added Tamil translation. Thank you to MageshBabu (mage1k99)!
+- Tweaked size of elements in agenda and country code list. Also size of buttons.
+
+V 2.8.4
+- Fixed incorrect link generation
+- Now you can try the app directly from the Play Store without installing (although due to being extremely small it is better to install the full app, because the instant one doesn't support some features, but anyway)
+
+V 2.8.3
+- Option to limit unknown calls list. Requires Addon version 1.2+
+- Fixed recent messages list not shown
+- Internal change related to publication
+
+V 2.8.2
+- Added Hebrew translation. Many thanks to Yoni Cohen jonbir3!
+
+V 2.8.1
+- Updated Russian translation
+- Fixed rare bug when opening the agenda
+
+V 2.8
+- New Agenda list. Ability to pin items with name.
+- Option to create shortcuts.
+- Adaptive icon for Android 8.0+
+
+V 2.7.1
+- Temporal workaround for WhatsApp beta bug (if asked, choose this app to open the links in WhatsApp)
+
+V 2.7
+- New prefix selector dialog (with filtering and sorting!)
+- Updated Russian translation
+- Tweaked clipboard detection
+
+V 2.6.2
+- Fixed incorrect theme on android 4.X
+
+V 2.6.1
+- Updated French and Italian translations
+
+V 2.6
+- Added option to hide the main screen info
+- Separated About dialog into Settings and Info
+- Added link to translations page
+- Added option to share the app

@@ -13,7 +13,7 @@
     <string name="txt_about">Приложение создано [[tri|TrianguloY]]. Оно не аффилировано с WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Выражается благодарность:</string>
-    <string name="txt_translators">%n за перевод на %l язык!</string>
+    <string name="txt_translators">%n за перевод на %l!</string>
     <string name="txt_about_helptranslations">Хотите помочь с переводом? Вы можете найти более подробную информацию здесь:</string>
 
     <string name="txt_changelanguage">Вы можете изменить язык приложения нажатием кнопки ниже (приложение будет перезапущено).</string>
@@ -46,8 +46,12 @@
     <string name="btn_call">Вызов</string>
     <string name="btn_sms">SMS</string>
 
+    <string name="title_settings">Настройки</string>
+    <string name="grp_interface">Интерфейс</string>
+    <string name="grp_behaviour">Поведение</string>
+    <string name="grp_addon">Модуль</string>
     <string name="btn_reset">Удалить данные приложения…</string>
-    <string name="desc_reset">"С помощью этой функции можно удалить все данные приложения (настройки, recents и т.д.) и восстановить поведение по умолчанию. Полезно при тестах, если приложение перестало работать из-за неправильной настройки.
+    <string name="desc_reset">"С помощью этой функции можно удалить все данные приложения (настройки, историю и т.д.) и восстановить поведение по умолчанию. Полезно при тестах, если приложение перестало работать из-за неправильной настройки.
 Эквивалентно удалению и переустановке приложения.
 
 Вы хотите УДАЛИТЬ ВСЕ ДАННЫЕ приложения?
@@ -72,6 +76,9 @@
     <string name="chk_signal">Поддержка [[sgn|Signal]] (экспериментально)</string>
     <string name="chk_telegram">Поддержка [[tgm|Telegram]] (экспериментально)</string>
     <string name="txt_telegram">Обратите внимание, что для возможности открыть номер ссылкой t.me/+123, пользователь должен установить его видимым для всех и разрешить нахождение через поиск. И почти никто этого не делает.\nТак что, если вы не знаете человека, этот вариант бесполезен (Telegram даже не сообщит, что номер не удалось открыть, а просто откроет главный экран как обычно без ошибок).\nПопробовать можно, но вас предупредили.</string>
+    <string name="chk_viber">Поддержка [[vbr|Viber]] (экспериментально)</string>
+    <string name="txt_generic">Экспериментальная поддержка общих intent-ов:\nКаждая корректная строка будет рассматриваться как открываемый intent. Используйте \"%number%\" как переменную номера адресата и \"%message%\" как переменную текста сообщения.</string>
+    <string name="hint_generic">Intent для Uri.parse</string>
     <string name="chk_light">Светлая тема (приложение перезапустится)</string>
     <string name="btn_addonLink">Модуль</string>
 
@@ -117,7 +124,6 @@
     <string name="cntDesc_toggleAdv">Дополнительно</string>
     <string name="cntDesc_appLogo">Логотип приложения</string>
     <string name="cntDesc_addons">Страница модуля</string>
-    <string name="title_settings">Настройки</string>
     <string name="cntDesc_delete">Удалить</string>
     <string name="cntDesc_togglepin">Закрепить/открепить</string>
     <string name="cntDesc_filter">Фильтр</string>

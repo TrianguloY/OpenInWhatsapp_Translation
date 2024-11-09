@@ -66,6 +66,17 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="btn_call">Ligar</string>
     <string name="btn_sms">SMS</string>
 
+    <string name="grp_interface">A interface</string>
+    <string name="grp_behaviour">Ajustes</string>
+    <string name="grp_addon">Extensão</string>
+    <string name="btn_reset">Excluir dados do app…</string>
+    <string name="desc_reset">"Através desta opção, você pode excluir todos os dados do app (configurações, recentes, etc.) e restaurar aos valores iniciais. Útil para descobrir se o app parou de funcionar devido a uma configuração incorreta.
+Isso é equivalente a uma desinstalação e reinstalação do app.
+
+Deseja EXCLUIR TODOS OS DADOS do app?
+
+O app será fechado. Quando você abrir de novo, ele se comportará como uma nova instalação."</string>
+
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
     <string name="chk_stripZeros">Excluir zeros na frente do prefixo e número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
@@ -84,6 +95,9 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="chk_signal">Suporte experimental do [[sgn|Signal]]</string>
     <string name="chk_telegram">Suporte experimental do [[tgm|Telegram]]</string>
     <string name="txt_telegram">Para que um número com o link t.me/+123 seja aberto, o usuário deve defini-lo como "publicamente visível" e permitir para que ele seja encontrado. No entanto quase ninguém faz isso.\nEntão, a menos que você conheça a pessoa, esta opção não serve para nada (o Telegram nem sequer avisa que o número não podia ser aberto, ele simplesmente abre a tela principal como sempre, sem erros).\nNo entanto você pode experimentar isto, mas foi avisado.</string>
+    <string name="chk_viber">Suporte experimental do [[vbr|Viber]]</string>
+    <string name="txt_generic">Suporte experimental de intenção abstrata:\nCada linha válida será interpretada como uma intenção de abertura. Use \'%number%\' como um substituto para um número de entrada, e \'%message%\' para uma mensagem de entrada.</string>
+    <string name="hint_generic">Intenção para Uri.parse</string>
     <string name="chk_light">Use tema claro (o app será reiniciado)</string>
     <string name="btn_addonLink">Extensão</string>
 
@@ -142,6 +156,7 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="addon_txt_loading">Definir limite de ligações desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Digite 0 para mostrar todos:</string>
     <string name="addon_txt_warning">A extensão foi detectada porém a sua assinatura não corresponde [Erro %d]. Certifique-se de que foi instalada do site oficial (e este app da loja do Google Play)</string>
     <string name="addon_reload">recarregar</string>
+    <string name="addon_uninstall">Desinstalar a extensão</string>
 
     <string name="lbl_shortcut">Abrir uma conversa com %s</string>
 
@@ -160,3 +175,4 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <string name="txt_newVersion">O app foi atualizado: [[chl|ver novidades]].\n\n[[hdc|Agora não]]</string>
 
 </resources>
+

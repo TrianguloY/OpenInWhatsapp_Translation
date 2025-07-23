@@ -93,7 +93,7 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="title_instantApp">Aplicación instantánea</string>
     <string name="txt_availocales">Solo los idiomas disponibles [[lcl|en tu dispositivo]] están instalados, para reducir el tamaño de la aplicación.</string>
     <string name="util_none">Nada</string>
-    <string name="chk_keepprefix">Restaurar prefijo cuando la aplicación se cierra:</string>
+    <string name="chk_keepprefix">Mantener prefijo por defecto:</string>
     <string name="chk_autoopen">Abrir automáticamente cuando un número es autorellenado (compartir, marcar, recientes o portapapeles).</string>
     <string-array name="chl_notify">
         <item>No notificar nunca</item>

@@ -82,6 +82,7 @@ The app will close. Next time you open it'll behave as a fresh install."</string
     <string name="chk_enableRecents">Save recent numbers/messages. (disabling it will clear saved ones)</string>
     <string name="chk_hideInfo">Hide the help text from the main screen</string>
     <string name="chk_keepprefix">Keep a default prefix:</string>
+    <string name="chk_keepmessage">Keep a default message (also enables advanced mode by default):</string>
     <string name="chk_autoopen">Open automatically when a number is autofilled (share, call, recent or clipboard).</string>
     <string name="txt_mode">Opening mode:</string>
     <string-array name="chl_openable">

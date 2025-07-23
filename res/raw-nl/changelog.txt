@@ -1,3 +1,9 @@
+V 5.2
+- Allow to keep default message (similar to default prefix)
+- Donation version now uses the device color (standard version still uses the original green)
+- Consistent icons
+- Save/restore prefix on merged mode
+
 V 5.1
 - Experimental Viber support
 - Experimental Generic Intent support

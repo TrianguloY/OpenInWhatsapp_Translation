@@ -1,3 +1,9 @@
+V 5.2
+- Permitir mantener mensaje por defecto (similar a mantener prefijo por defecto)
+- Versión de donación utiliza los colores del dispositivo (version normal sigue usando el verde original)
+- Iconos consistentes
+- Guardar/Restaurar prefijo en modo combinado
+
 V 5.1
 - Soporte experimental para Viber
 - Soporte experimental para Intent genérico

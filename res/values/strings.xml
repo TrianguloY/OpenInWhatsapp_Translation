@@ -174,4 +174,5 @@ The app will close. Next time you open it'll behave as a fresh install."</string
     <string name="cl_more">show more</string>
     <string name="txt_newVersion">The app was updated: [[chl|view changes]].\n\n[[hdc|Dismiss]]</string>
 
+    <string name="sct_checkClipboard">Open from clipboard</string>
 </resources>

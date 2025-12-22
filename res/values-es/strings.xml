@@ -140,4 +140,5 @@ Esta opción equivale a desinstalar+instalar la app.
 ¿Estás seguro de que quieres BORRAR TODOS LOS DATOS de la aplicación?
 
 La aplicación se cerrará. La próxima vez que la abras estará como recién instalada."</string>
+    <string name="sct_checkClipboard">Abrir desde el portapapeles</string>
 </resources>

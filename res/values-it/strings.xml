@@ -15,7 +15,7 @@ Instructions for manual translation:
 
     <!--<string name="translators">Armand Secco</string>-->
 
-    <!--<string name="donation_permission">unknown</string>-->
+    <!--<string name="donation_permission">yes</string>-->
 
     <string name="app_name">Clicca per chattare</string>
 

@@ -86,7 +86,7 @@ Instructions for manual translation:
     <string name="cntDesc_calls">المكالمات المجهولة</string>
     <string name="cntDesc_toggleAdv">تبديل متقدم</string>
     <string name="cntDesc_appLogo">شعار التطبيق</string>
-    <string name="cntDesc_addons">فتح الصفحة الملحقة</string>
+    <string name="addon_install">فتح الصفحة الملحقة</string>
     <string name="title_settings">الإعدادات</string>
     <string name="cntDesc_delete">مسح</string>
     <string name="cntDesc_togglepin">تثبيت/عدم تثبيت</string>

@@ -135,7 +135,7 @@ Numarayı ve [[prf|ülke kodunu]] fazladan karakter kullanmadan, 0–9 arasında
     <string name="cntDesc_calls">Bilinmeyen aramalar</string>
     <string name="cntDesc_toggleAdv">Gelişmişe geç</string>
     <string name="cntDesc_appLogo">Uygulama logosu</string>
-    <string name="cntDesc_addons">Eklenti sayfasını aç</string>
+    <string name="addon_install">Eklenti sayfasını aç</string>
     <string name="title_settings">Ayarlar</string>
     <string name="cntDesc_delete">Sil</string>
     <string name="cntDesc_togglepin">Sabitle/kaldır</string>

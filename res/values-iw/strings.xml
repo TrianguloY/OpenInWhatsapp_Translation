@@ -88,7 +88,7 @@ Instructions for manual translation:
     <string name="cntDesc_calls">שיחות לא מזוהות</string>
     <string name="cntDesc_toggleAdv">מתקדם</string>
     <string name="cntDesc_appLogo">לוגו האפליקצייה</string>
-    <string name="cntDesc_addons">פתח את דף התוסף</string>
+    <string name="addon_install">פתח את דף התוסף</string>
     <string name="title_settings">הגדרות</string>
     <string name="cntDesc_delete">מחק</string>
     <string name="cntDesc_togglepin">נעץ/בטל נעיצה</string>

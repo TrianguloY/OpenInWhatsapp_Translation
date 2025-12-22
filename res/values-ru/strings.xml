@@ -124,7 +124,7 @@
     <string name="cntDesc_calls">Неизвестные вызовы</string>
     <string name="cntDesc_toggleAdv">Дополнительно</string>
     <string name="cntDesc_appLogo">Логотип приложения</string>
-    <string name="cntDesc_addons">Страница модуля</string>
+    <string name="addon_install">Страница модуля</string>
     <string name="cntDesc_delete">Удалить</string>
     <string name="cntDesc_togglepin">Закрепить/открепить</string>
     <string name="cntDesc_filter">Фильтр</string>

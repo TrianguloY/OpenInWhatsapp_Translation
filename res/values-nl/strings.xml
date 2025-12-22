@@ -135,7 +135,7 @@ De app wordt nu gesloten en bij heropenen zich gedragen als bij een nieuwe insta
     <string name="cntDesc_calls">Onbekende oproepen</string>
     <string name="cntDesc_toggleAdv">Uitgebreide interface</string>
     <string name="cntDesc_appLogo">Applicatie-logo</string>
-    <string name="cntDesc_addons">Open Add-on-downloadpagina</string>
+    <string name="addon_install">Open Add-on-downloadpagina</string>
     <string name="title_settings">Instellingen</string>
     <string name="cntDesc_delete">Wissen</string>
     <string name="cntDesc_togglepin">Vastzetten/losmaken</string>

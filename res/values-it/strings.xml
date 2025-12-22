@@ -82,7 +82,7 @@ Esempio: per +39 (I) 123 456 7890 inserite 39 1234567890"</string>
     <string name="cntDesc_calls">Chiamate sconosciute</string>
     <string name="cntDesc_toggleAdv">Passare alle opzioni avanzate</string>
     <string name="cntDesc_appLogo">Logo</string>
-    <string name="cntDesc_addons">Aprire la pagina Addon</string>
+    <string name="addon_install">Aprire la pagina Addon</string>
     <string name="title_settings">Impostazioni</string>
 
     <string name="addon_message_loadingCalls">Elenco delle chiamate sconosciute…</string>

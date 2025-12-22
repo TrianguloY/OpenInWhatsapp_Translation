@@ -142,7 +142,7 @@ O app será fechado. Quando você abrir de novo, ele se comportará como uma nov
     <string name="cntDesc_calls">Ligações desconhecidas</string>
     <string name="cntDesc_toggleAdv">Abrir opções avançadas</string>
     <string name="cntDesc_appLogo">Logo do app</string>
-    <string name="cntDesc_addons">Abrir site da Extensão</string>
+    <string name="addon_install">Abrir site da Extensão</string>
     <string name="title_settings">Configurações</string>
     <string name="cntDesc_delete">Excluir</string>
     <string name="cntDesc_togglepin">Fixar/Desafixar</string>

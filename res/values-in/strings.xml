@@ -135,7 +135,7 @@ Aplikasi akan ditutup. Kali berikutnya Anda membuka aplikasi, itu akan berperila
     <string name="cntDesc_calls">Panggilan tidak dikenal</string>
     <string name="cntDesc_toggleAdv">Lihat Lebih Banyak/Lebih Sedikit</string>
     <string name="cntDesc_appLogo">Logo Aplikasi</string>
-    <string name="cntDesc_addons">Buka halaman addon</string>
+    <string name="addon_install">Buka halaman addon</string>
     <string name="title_settings">Pengaturan</string>
     <string name="cntDesc_delete">Hapus</string>
     <string name="cntDesc_togglepin">Sematkan/Lepas sematan</string>

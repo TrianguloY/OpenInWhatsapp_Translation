@@ -1,3 +1,7 @@
+V 5.3
+- Atajos para abrir directamente del portapapeles
+- Añadida traducción al italiano en la versión donación
+
 V 5.2
 - Permitir mantener mensaje por defecto (similar a mantener prefijo por defecto)
 - Versión de donación utiliza los colores del dispositivo (version normal sigue usando el verde original)

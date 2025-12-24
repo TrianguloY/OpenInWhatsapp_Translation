@@ -154,5 +154,5 @@
     <string name="cl_title">История изменений:</string>
     <string name="cl_more">показать ещё</string>
     <string name="txt_newVersion">Приложение обновлено: [[chl|просмотр изменений]].\n\n[[hdc|Пропустить]]</string>
-
+    <string name="sct_checkClipboard">Открыть из буфера обмена</string>
 </resources>

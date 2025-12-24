@@ -19,7 +19,7 @@ Instructions for manual translation:
 
    <string name="app_name">"அரட்டை தொடக்க கிளிக் செய்க"</string>
 
-   <string name="txt_about">"[[tri|TrianguloY]] உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
+    <string name="txt_about">"[[tri|%s]] உருவாக்கப்பட்ட பயன்பாடு.  இந்த பயன்பாடு வாட்ஸ்அப் இன்க் உடன் இணைக்கப்படவில்லை."</string>
 
    <string name="txt_acknowledgements">ஒப்புகைகள்:</string>
    <string name="txt_translators">நன்றி %n வழங்குவதற்காக %l மொழி பேர்யுபு</string>

@@ -22,7 +22,7 @@ Instructions for manual translation:
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Klik &amp; Chat</string>
 
-    <string name="txt_about">App geprogrammeerd door [[tri|TrianguloY]]. Deze app is niet gelieerd aan WhatsApp Inc.</string>
+    <string name="txt_about">App geprogrammeerd door [[tri|%s]]. Deze app is niet gelieerd aan WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Met dank aan:</string>
     <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->

@@ -22,7 +22,7 @@ Instructions for manual translation:
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Tıkla Sohbet Et</string>
 
-    <string name="txt_about">Uygulama [[tri|TrianguloY]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bağlantısı yoktur.</string>
+    <string name="txt_about">Uygulama [[tri|%s]] tarafından geliştirilmiştir. Sorumluluk reddi: Bu uygulamanın WhatsApp Inc. ile bağlantısı yoktur.</string>
 
     <string name="txt_acknowledgements">Teşekkürler:</string>
     <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->

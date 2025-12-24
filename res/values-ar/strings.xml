@@ -13,7 +13,7 @@ Instructions for manual translation:
     <!--<string name="translators">Faisal Aloufi</string>-->
     <!--<string name="donation_permission">unknown</string>-->
     <string name="app_name">اضغط وتحدث</string>
-    <string name="txt_about">صنع بواسطة [[tri|TrianguloY]]. لا يتبع هذا البرنامج برنامج الواتس اب.</string>
+    <string name="txt_about">صنع بواسطة [[tri|%s]]. لا يتبع هذا البرنامج برنامج الواتس اب.</string>
     <string name="txt_acknowledgements">شكر خاص:</string>
     <string name="txt_translators">شكر خاص %n لتوفيره الترجمة %l</string>
     <string name="txt_about_helptranslations">هل تريد مساعدتنا على توفير الترجمة ؟ للمزيد من المعلومات هنا :</string>

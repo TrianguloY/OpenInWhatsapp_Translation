@@ -19,7 +19,7 @@ Instructions for manual translation:
 
     <string name="app_name">Clicca per chattare</string>
 
-    <string name="txt_about">App creata da [[tri|TrianguloY]]. Quest\'App non è legata a WhatsApp Inc.</string>
+    <string name="txt_about">App creata da [[tri|%s]]. Quest\'App non è legata a WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Grazie:</string>
     <string name="txt_translators">Grazie a %n per la traduzione in %l!</string>

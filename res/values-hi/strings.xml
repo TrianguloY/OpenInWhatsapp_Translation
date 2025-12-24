@@ -18,7 +18,7 @@ Instructions for manual translation:
 
     <string name="app_name">बातचीत के लिए क्लिक करें</string>
 
-    <string name="txt_about">[[tri|TrianguloY]] द्वारा बनाया गया ऐप। यह ऐप WhatsApp Inc से संबद्ध नहीं है।</string>
+    <string name="txt_about">[[tri|%s]] द्वारा बनाया गया ऐप। यह ऐप WhatsApp Inc से संबद्ध नहीं है।</string>
 
     <string name="txt_acknowledgements">स्वीकृतियाँ:</string>
     <string name="txt_translators">%l अनुवाद उपलब्ध कराने के लिए %n को धन्यवाद!</string>

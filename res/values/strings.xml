@@ -22,7 +22,7 @@ Instructions for manual translation:
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Click to chat</string>
 
-    <string name="txt_about">App created by [[tri|TrianguloY]]. This app is not affiliated with WhatsApp Inc.</string>
+    <string name="txt_about">App created by [[tri|%s]]. This app is not affiliated with WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Acknowledgements:</string>
     <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
@@ -46,6 +46,9 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Being a free without ads nor purchases app, the progress and updates are based on the reception and support from you.</string>
     <string name="btn_link_support">Support</string>
+    <string name="txt_donation_version">Donation version</string>
+    <string name="txt_coffee_version">Buy %s A Coffee app</string>
+    <string name="txt_blog">%s blog</string>
     <string name="txt_business">It appears you are using the app for business purposes. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
     <string name="txt_longUser">It appears you have been using the app for quite some time. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
 

@@ -22,7 +22,7 @@ Instructions for manual translation:
     <!-- This is the app name, but you need to translate it too -->
     <string name="app_name">Conversa em um Clique</string>
 
-    <string name="txt_about">App criado por [[tri|TrianguloY]]. Esse app não é afiliado ao WhatsApp Inc.</string>
+    <string name="txt_about">App criado por [[tri|%s]]. Esse app não é afiliado ao WhatsApp Inc.</string>
 
     <string name="txt_acknowledgements">Agradecimentos:</string>
     <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->

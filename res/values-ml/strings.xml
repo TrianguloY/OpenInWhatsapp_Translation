@@ -19,7 +19,7 @@ Instructions for manual translation:
 
     <string name="app_name">ചാറ്റുചെയ്യാൻ ക്ലിക്കുചെയ്യുക</string>
 
-    <string name="txt_about">[[Tri|TrianguloY]] സൃഷ്ടിച്ച അപ്ലിക്കേഷൻ.  ഈ അപ്ലിക്കേഷൻ വാട്ട്‌സ്ആപ്പ് ഇങ്കുമായി അഫിലിയേറ്റ് ചെയ്തിട്ടില്ല.</string>
+    <string name="txt_about">[[Tri|%s]] സൃഷ്ടിച്ച അപ്ലിക്കേഷൻ.  ഈ അപ്ലിക്കേഷൻ വാട്ട്‌സ്ആപ്പ് ഇങ്കുമായി അഫിലിയേറ്റ് ചെയ്തിട്ടില്ല.</string>
 
     <string name="txt_acknowledgements">അംഗീകാരങ്ങൾ:</string>
     <string name="txt_translators">%l ലോക്കൽ പരിഭാഷ നൽകിയതിന് %n ന് നന്ദി!</string>

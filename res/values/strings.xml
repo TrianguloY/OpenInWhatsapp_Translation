@@ -52,6 +52,9 @@ Example: for +44 (UK) 123 456 7890 write 44 1234567890"</string>
     <string name="txt_business">It appears you are using the app for business purposes. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
     <string name="txt_longUser">It appears you have been using the app for quite some time. Please consider [[spt|supporting]], thanks.\n\n[[hdb|Discard]]</string>
 
+    <!-- This entry is special, and will be shown for locales available on the ads version (with a link to it) similar to how the donation works. I won't ask for your permission to use your translation on the ads version however, so you don't need to translate it. But if for some reason you do want to show it...just indicate it with a comment. -->
+    <string name="txt_ads_version">Ads version</string>
+
 
     <string name="txt_addonDescr">With this addon you can allow this app to show a list of unknown recent calls to click. Don\'t worry: it\'s free, smaller than a picture, and no ads.</string>
 

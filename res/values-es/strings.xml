@@ -144,4 +144,5 @@ La aplicación se cerrará. La próxima vez que la abras estará como recién in
     <string name="txt_donation_version">Versión de donación</string>
     <string name="txt_coffee_version">Aplicación Compra un café a %s</string>
     <string name="txt_blog">Blog de %s</string>
+    <string name="txt_ads_version">Version con anuncios</string>
 </resources>

@@ -1,6 +1,7 @@
 V 5.3
 - Atajos para abrir directamente del portapapeles
 - Añadida traducción al italiano en la versión donación
+- Enlaces a la nueva (y opcional) variante con anuncios
 
 V 5.2
 - Permitir mantener mensaje por defecto (similar a mantener prefijo por defecto)

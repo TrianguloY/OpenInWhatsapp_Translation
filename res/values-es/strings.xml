@@ -122,7 +122,8 @@ Ejemplo: para +34 (España) 123 456 789 escribe 34 123456789"</string>
     <string name="txt_newVersion">La aplicación ha sido actualizada: [[chl|ver cambios]].\n\n[[hdc|Ignorar]]</string>
     <string name="chk_stripZeros">Quitar ceros a la izquierda del prefijo y número</string>
     <string name="chk_telegram">Soporte experimental para [[tgm|Telegram]]</string>
-    <string name="txt_telegram">Ten en cuenta que, para que un número pueda ser abierto en Telegram, su usuario debe marcarlo con "visibilidad pública" y permitir ser encontrado por él. Y prácticamente nadie lo hace.\nAsí que, a no ser que conozcas a la persona, te garantizo de que esta opción es inútil (Telegram ni siquiera avisa de que el número no puede ser abierto, se inicia como si nada sin errores).\nPuedes probarla si quieres, pero no digas que no te lo advertí.</string>
+    <string name="txt_telegram">"Ten en cuenta que en Telegram el número de teéfono se puede ocultar (y en la mayoría de casos lo está por defecto), y antiguas cuentas puede que ni tengan uno registrado. Esto significa que, incluso si sabes que el número es correcto, hay una alta probabilidad de que no se encuentre. En algunas versions de Telegram la aplicación ni siquiera da un error, se abre como si nada.
+Has sido advertido."</string>
     <string name="chk_viber">Soporte experimental para [[vbr|Viber]]</string>
     <string name="txt_generic">Soporte experimental \'intent\' generico:\nCada línea se parseará como un \'intent\' para ser abierta. Usa \'%number%\' como plantilla para el número, y \'%message%\' para el mensaje.</string>
     <string name="hint_generic">Intents para Uri.parse</string>

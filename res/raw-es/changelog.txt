@@ -1,3 +1,7 @@
+V 5.3.1
+- Arreglado atajo estático en versiones donación y anuncios
+- Actualizaciones del código interno
+
 V 5.3
 - Atajos para abrir directamente del portapapeles
 - Añadida traducción al italiano en la versión donación

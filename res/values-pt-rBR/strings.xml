@@ -47,8 +47,14 @@ p.ex.: (Brasil) +55 (com DDD obrigatório!, aqui ex. da Bahia) 75 (e número de 
     <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
     <string name="txt_support">Sendo um app gratuito, sem anúncios, nem compras dentro do app, o desenvolvimento e atualizações dependem da aceitação e apoio das pessoas como você.</string>
     <string name="btn_link_support">Apoiar</string>
-    <string name="txt_business">Parece que você está usando o app para fins comerciais. Por favor, considere [[spt|apoiar]] o app, obrigado.\n\n[[hdb|Agora não]]</string>
-    <string name="txt_longUser">Parece que você está usando o app por um bom tempo. Por favor, considere [[spt|apoiar]] projeto, obrigado.\n\n[[hdb|Agora não]]</string>
+    <string name="txt_donation_version">Versão doação</string>
+    <string name="txt_coffee_version">Comprar %s um café app</string>
+    <string name="txt_blog">%s blog</string>
+    <string name="txt_business">Parece que você está usando este app para os fins comerciais. Por favor, considere [[spt|apoiar]] o app, obrigado.\n\n[[hdb|Agora não]]</string>
+    <string name="txt_longUser">Parece que você está usando este app por um bom tempo. Por favor, considere [[spt|apoiar]] projeto, obrigado.\n\n[[hdb|Agora não]]</string>    <!-- This entry is special, and will be shown for locales available on the ads version (with a link to it) similar to how the donation works. I won't ask for your permission to use your translation on the ads version however, so you don't need to translate it. But if for some reason you do want to show it...just indicate it with a comment. -->
+
+    <!-- This entry is special, and will be shown for locales available on the ads version (with a link to it) similar to how the donation works. I won't ask for your permission to use your translation on the ads version however, so you don't need to translate it. But if for some reason you do want to show it...just indicate it with a comment. -->
+    <string name="txt_ads_version">Versão com anúncios</string>
 
 
     <string name="txt_addonDescr">Com esta extensão você consegue ver uma lista de ligações recentes desconhecidas para clicar. Não se preocupe: é gratuito, de tamanho menor que uma foto e sem anúncios.</string>
@@ -80,15 +86,16 @@ O app será fechado. Quando você abrir de novo, ele se comportará como uma nov
     <string name="chk_mergeInputs">Unir o prefixo e o número</string>
     <string name="chk_stripZeros">Excluir zeros na frente do prefixo e número</string>
     <string name="chk_enableRecents">Salvar os números/mensagens recentes (ao desativar isto, os salvos serão excluídos)</string>
-    <string name="chk_hideInfo">Esconder o texto de ajuda da tela principal</string>
+    <string name="chk_hideInfo">Esconder texto de ajuda da tela principal</string>
     <string name="chk_keepprefix">Recupere o prefixo ao sair do app:</string>
-    <string name="chk_autoopen">Abrir automaticamente quando um número é auto-preenchido (compartilhar, ligar, recentes ou clipboard).</string>
+    <string name="chk_keepmessage">Usar uma mensagem padrão (isto ativa o modo avançado por padrão):</string>
+    <string name="chk_autoopen">Abrir diretamente quando um número for preenchido automaticamente (compartilhar, ligar, recentes ou clipboard).</string>
     <string name="txt_mode">Modo de abrir:</string>
     <string-array name="chl_openable">
         <item>Padrão: Usa recurso padrão do WhatsApp</item>
         <item>Web: Usa recurso web, pode exibir navegadores</item>
         <item>SMS: Usa recurso do SMS, pode exibir outros apps de mensagens [aviso: o envio de texto nem sempre suportado]</item>
-        <item>Predefinido: Garante funcionamento com o WhatsApp padrão e Business.</item>
+        <item>Predefinido: Garante funcionamento com o WhatsApp e versão Business.</item>
         <item>[ATENÇÃO] JID: Uso deste recurso não é recomendável, porque a validade de número não está sendo verificada</item>
     </string-array>
     <string name="txt_jidWarning">Este modo usa um protocolo não documentado do Whatsapp, ele pode parar ou não funcionar corretamente. A menos que isto já foi consertado, parece não verificar a validade de número e pode abrir uma conversa mesmo com um número inexistente. Uso deste modo não é recomendável por causa de resultados desconhecidos.\n\nVocê realmente quer continuar?</string>
@@ -105,24 +112,24 @@ O app será fechado. Quando você abrir de novo, ele se comportará como uma nov
     <string name="btn_noWarn">Não avisar novamente</string>
 
     <string name="btn_link_playstore_open">Veja na loja do Google Play</string>
-    <string name="btn_link_playstore_share">Compartilhe o link do app</string>
+    <string name="btn_link_playstore_share">Compartilhe link do app</string>
     <string name="btn_link_apppage">Site do app</string>
     <string name="btn_link_faq">Perguntas mais frequentes\n(FAQ) [Somente em inglês]</string>
     <string name="btn_link_helptranslations">Ajude a traduzir</string>
 
     <string name="error_badData">Falha ao abrir. Dados incorretos</string>
-    <string name="error_nowhatsapp">Não foi possível abrir o WhatsApp. [[wps|Está instalado?]]</string>
+    <string name="error_nowhatsapp">Não foi possível abrir WhatsApp. [[wps|Está instalado?]]</string>
     <string name="error_call">Não foi possível ligar o número</string>
     <string name="error_sms">Não foi possível enviar um SMS</string>
 
     <string name="toast_autoParser">Processo automático.\nVerifique o prefixo!</string>
     <string name="toast_copied">Copiado ao clipboard</string>
     <string name="toast_empty">Nenhum número utilizável no clipboard</string>
-    <string name="toast_error_openLink">Não foi possível abrir o link</string>
+    <string name="toast_error_openLink">Não foi possível abrir link</string>
 
-    <string name="title_sendTo">Enviar o link para:</string>
+    <string name="title_sendTo">Enviar link para:</string>
     <string name="title_chooseCountry">Prefixos por país:</string>
-    <string name="title_chooseApp">Escolher o app:</string>
+    <string name="title_chooseApp">Escolher um app:</string>
     <string name="title_clearRecents">Excluir os recentes:</string>
     <string name="title_pinned">Fixado:</string>
     <string name="title_recents">Recentes:</string>
@@ -134,33 +141,33 @@ O app será fechado. Quando você abrir de novo, ele se comportará como uma nov
     <string name="header_country">País %1$s</string>
 
     <string name="cntDesc_appInfo">Detalhes do app</string>
-    <string name="cntDesc_prefixSelector">Selecione o prefixo</string>
-    <string name="cntDesc_clear">Limpar o número digitado</string>
+    <string name="cntDesc_prefixSelector">Selecione um prefixo</string>
+    <string name="cntDesc_clear">Limpar número digitado</string>
     <string name="cntDesc_pasteClipboard">Colar do clipboard</string>
     <string name="cntDesc_agenda">Contatados</string>
     <string name="cntDesc_recentMessages">Mensagens recentes</string>
     <string name="cntDesc_calls">Ligações desconhecidas</string>
     <string name="cntDesc_toggleAdv">Abrir opções avançadas</string>
     <string name="cntDesc_appLogo">Logo do app</string>
-    <string name="addon_install">Abrir site da Extensão</string>
     <string name="title_settings">Configurações</string>
     <string name="cntDesc_delete">Excluir</string>
     <string name="cntDesc_togglepin">Fixar/Desafixar</string>
     <string name="cntDesc_filter">Busque seu país aqui</string>
 
     <string name="util_close">Fechar</string>
-    <string name="util_none">Nenhum</string>
+    <string name="util_none">Nenhum(a)</string>
 
     <string name="addon_message_loadingCalls">Carregando lista de ligações desconhecidas…</string>
     <string name="addon_toast_noCalls">Nenhum número desconhecido encontrado ou não podia ser lido</string>
     <string name="addon_txt_loading">Definir limite de ligações desconhecidas recentes para reduzir o tempo de carregamento (requer a extensão v1.2+). Digite 0 para mostrar todos:</string>
     <string name="addon_txt_warning">A extensão foi detectada porém a sua assinatura não corresponde [Erro %d]. Certifique-se de que foi instalada do site oficial (e este app da loja do Google Play)</string>
     <string name="addon_reload">recarregar</string>
+    <string name="addon_install">Abrir site da Extensão</string>
     <string name="addon_uninstall">Desinstalar a extensão</string>
 
     <string name="lbl_shortcut">Abrir uma conversa com %s</string>
 
-    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp padrão e Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
+    <string name="error_instantApp">Os apps instantâneos só podem abrir o aplicativo padrão. Se você tiver várias versões (p.ex. WhatsApp e versão Business) tente instalar o [[oiw|app completo]] (aviso: nem todas as versões estão suportadas).</string>
     <string name="title_instantApp">App instantâneo</string>
     <string name="message_instantApp">A funcionalidade \'%s\' não está disponível via app instantâneo. Se você quiser usá-la, instale o app da loja do Google Play.</string>
 
@@ -174,5 +181,6 @@ O app será fechado. Quando você abrir de novo, ele se comportará como uma nov
     <string name="cl_more">Ver mais</string>
     <string name="txt_newVersion">O app foi atualizado: [[chl|ver novidades]].\n\n[[hdc|Agora não]]</string>
 
+    <string name="sct_checkClipboard">Abrir do clipboard</string>
 </resources>
 

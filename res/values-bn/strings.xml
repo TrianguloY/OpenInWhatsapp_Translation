@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+strings.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+-Translate only the text between <string name="something"> TRANSLATE </string> and <item> TRANSLATE </item>
+-Line breaks are specified with '\n' or using " " in the whole string, and special characters as quotes need to be preceded by backslash "\'" or using a special syntax like "&" -> "&amp;" (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html). If you have troubles with this just write things directly (like a txt) and I'll try to fix the syntax.
+- Any '%1$s' or similar is a placeholder that will be replaced with another string. Keep it in their position.
+- "[[tag|name]]" will be shown as a clickable link. Translate only the name, keep the tag unmodified.
+-->
+<resources>
+    <!-- Language, written in the language itself. Write it so that someone who speaks that language and not english can understand it -->
+    <string name="language">বাংলা</string>
+
+    <!-- Translators. If new translation: replace my name with yours. If update: add your name to the existing ones with '&' or similar. Use the name you want to be credited as. -->
+    <!--<string name="translators">Antigravity</string>-->
+
+    <!-- Permission to use in the donation version-->
+    <!-- I don't feel right using someone else translation on a paid app, but if you don't mind you can give me permission to do so. I can also give you a code to download it for free, just ask! -->
+    <!--<string name="donation_permission">yes</string>-->
+
+    <!-- This is the app name, but you need to translate it too -->
+    <string name="app_name">চ্যাট করতে ক্লিক করুন</string>
+
+    <string name="txt_about">[[tri|%s]] দ্বারা তৈরি অ্যাপ। এই অ্যাপটি WhatsApp Inc-এর সাথে অনুমোদিত বা সম্পর্কযুক্ত নয়।</string>
+
+    <string name="txt_acknowledgements">স্বীকৃতিসমূহ:</string>
+    <!-- '%n' will be replaced by the translator name, and '%l' with the language. Keep both in the appropriate location -->
+    <string name="txt_translators">%l অনুবাদ প্রদানের জন্য %n-কে ধন্যবাদ!</string>
+    <string name="txt_about_helptranslations">আপনি কি অনুবাদ করতে সাহায্য করতে চান? আপনি এখানে আরও তথ্য পেতে পারেন:</string>
+
+    <string name="txt_changelanguage">আপনি নীচের বোতামে ক্লিক করে অ্যাপের ভাষা পরিবর্তন করতে পারেন (অ্যাপটি পুনরায় চালু করা হবে)।</string>
+    <string name="txt_availocales">অ্যাপের আকার কমাতে কেবল [[lcl|আপনার ডিভাইসে]] উপলব্ধ ভাষাগুলি ইনস্টল করা হয়েছে।</string>
+
+    <!-- this next text includes several line breaks. To avoid using '\n' and avoid also Android linebreak removal, a single '"' is added as the first and last character: <string ...>"your_translation_here"</string> -->
+    <!-- Change the phone example for one of your language. The best format is "+PREFIX (TERRITORY) NUMBER, PREFIXNUMBER", but feel free to format the number as required -->
+    <string name="txt_description">"এই অ্যাপটি আপনার প্রবেশ করানো যেকোনো নম্বরের সাথে চ্যাট খুলতে WhatsApp-এর পাবলিক এপিআই (API) ব্যবহার করে। ডিভাইসে কোনো পরিচিতি (contact) তৈরি করা হয় না।
+আরও তথ্য [[wfq|এখানে]]।
+
+কোনো অতিরিক্ত অক্ষর ছাড়া নম্বর এবং [[prf|উপসর্গ (prefix)]] লিখুন, শুধুমাত্র ০–৯ নম্বর। আরও তথ্য [[hlp|এখানে]]। তালিকা থেকে বেছে নিতে আপনি দেশের নাম বোতামে ক্লিক করতে পারেন।
+উদাহরণ: +৮৮০ (Bangladesh) 123 456 7890-এর জন্য লিখুন 8801234567890"</string>
+    <!-- In the text below change the wikipedia link to your locale (go to wikipedia, change the locale and copy/paste the link). If there is a public and better place than wikipedia for the territory code list in your language, use that one instead. If you want to use the default english version, comment it instead -->
+    <string name="prefix_url">https://bn.wikipedia.org/wiki/আন্তর্জাতিক_দূরালাপনি_সংযোগ_নম্বর</string>
+    <string name="txt_extra_description">একটি লিঙ্ক তৈরি করতে এটি ব্যবহার করুন যা ক্লিক করলে WhatsApp খুলবে। আপনি একটি নম্বর এবং/অথবা একটি বার্তা নির্দিষ্ট করতে পারেন যা ইনপুট বক্সে রাখা হবে (আমি আবার বলছি, বার্তাটি পাঠানো হবে না)।</string>
+
+    <!-- These strings will only be visible if translated, because I don't feel right asking for support with a translation I didn't make. You don't need to translate them if you don't want to, in that case comment them (the options will be hidden), but if you still want it to be visible on your translated language, translate them (if you also have a support page/link I'm fine showing it here too) -->
+    <string name="txt_support">বিজ্ঞাপন বা অ্যাপের মধ্যে কেনাকাটা ছাড়া একটি সম্পূর্ণ বিনামূল্যের অ্যাপ হওয়ার কারণে, এর অগ্রগতি এবং আপডেটগুলি আপনার সমর্থন এবং ভালোবাসার উপর নির্ভরশীল।</string>
+    <string name="btn_link_support">সমর্থন করুন</string>
+    <string name="txt_donation_version">ডোনেশন সংস্করণ</string>
+    <string name="txt_coffee_version">%s-কে এক কাপ কফি খাওয়ান</string>
+    <string name="txt_blog">%s ব্লগ</string>
+    <string name="txt_business">মনে হচ্ছে আপনি বাণিজ্যিক উদ্দেশ্যে অ্যাপটি ব্যবহার করছেন। অনুগ্রহ করে [[spt|সমর্থন]] করার কথা বিবেচনা করুন, ধন্যবাদ।\n\n[[hdb|খারিজ করুন]]</string>
+    <string name="txt_longUser">মনে হচ্ছে আপনি বেশ কিছুদিন ধরে অ্যাপটি ব্যবহার করছেন। অনুগ্রহ করে [[spt|সমর্থন]] করার কথা বিবেচনা করুন, ধন্যবাদ।\n\n[[hdb|খারিজ করুন]]</string>
+
+    <!-- This entry is special, and will be shown for locales available on the ads version (with a link to it) similar to how the donation works. I won't ask for your permission to use your translation on the ads version however, so you don't need to translate it. But if for some reason you do want to show it...just indicate it with a comment. -->
+    <string name="txt_ads_version">বিজ্ঞাপন সংস্করণ</string>
+
+
+    <string name="txt_addonDescr">এই অ্যাডঅনটির মাধ্যমে আপনি এই অ্যাপটিকে সাম্প্রতিক অপরিচিত কলগুলির একটি তালিকা দেখানোর অনুমতি দিতে পারেন। চিন্তা করবেন না: এটি বিনামূল্যে, একটি ছবির চেয়েও ছোট এবং এতে কোনো বিজ্ঞাপন নেই।</string>
+
+    <string name="hint_editNumber">নম্বর</string>
+    <string name="hint_editPrefix">কোড</string>
+    <string name="hint_message">যে বার্তাটি স্বয়ংক্রিয়ভাবে পূরণ হবে, পাঠানো হবে না।</string>
+    <!-- the '&amp;' is just the escaped '&' symbol, feel free to change it if required -->
+    <string name="hint_prefAndNumber">কোড &amp; নম্বর</string>
+    <string name="hint_itemName">নাম</string>
+
+    <string name="btn_openInWhatsapp">খুলুন</string>
+    <string name="btn_shareLink">শেয়ার করুন</string>
+    <string name="btn_shortcut">শর্টকাট</string>
+    <string name="btn_call">কল করুন</string>
+    <string name="btn_sms">এসএমএস</string>
+
+    <string name="title_settings">সেটিংস</string>
+    <string name="grp_interface">ইন্টারফেস</string>
+    <string name="grp_behaviour">আচরণ</string>
+    <string name="grp_addon">অ্যাডঅন</string>
+    <string name="btn_reset">অ্যাপের ডেটা মুছুন…</string>
+    <string name="desc_reset">"এই বিকল্পটির সাহায্যে আপনি অ্যাপের সমস্ত ডেটা (সেটিংস, সাম্প্রতিক নম্বর ইত্যাদি) মুছে ফেলতে পারেন এবং ডিফল্ট সেটিংস পুনরুদ্ধার করতে পারেন। ভুল কনফিগারেশনের কারণে অ্যাপটি কাজ করা বন্ধ করে দিলে তা পরীক্ষা করার জন্য এটি দরকারী।
+এটি অ্যাপটি আনইনস্টল করে পুনরায় ইনস্টল করার সমতুল্য।
+
+আপনি কি অ্যাপের সমস্ত ডেটা মুছে ফেলতে চান?
+
+অ্যাপটি বন্ধ হয়ে যাবে। পরের বার যখন আপনি এটি খুলবেন, এটি একটি নতুন ইনস্টলেশনের মতো আচরণ করবে।"</string>
+
+    <string name="chk_mergeInputs">কান্ট্রি কোড এবং নম্বর ইনপুট একত্রিত করুন</string>
+    <string name="chk_stripZeros">কোড এবং নম্বর থেকে শুরুর শূন্য (0) সরিয়ে ফেলুন</string>
+    <string name="chk_enableRecents">সাম্প্রতিক নম্বর/বার্তা সংরক্ষণ করুন। (এটি নিষ্ক্রিয় করলে সংরক্ষিত ডেটা মুছে যাবে)</string>
+    <string name="chk_hideInfo">মূল স্ক্রীন থেকে সাহায্য পাঠ্য লুকিয়ে রাখুন</string>
+    <string name="chk_keepprefix">একটি ডিফল্ট কোড রাখুন:</string>
+    <string name="chk_keepmessage">একটি ডিফল্ট বার্তা রাখুন (ডিফল্টরূপে উন্নত মোডও সক্রিয় করে):</string>
+    <string name="chk_autoopen">একটি নম্বর স্বয়ংক্রিয়ভাবে পূরণ হলে সেটি নিজে থেকেই খুলুন (শেয়ার, কল, সাম্প্রতিক বা ক্লিপবোর্ড)।</string>
+    <string name="txt_mode">খোলার মোড:</string>
+    <string-array name="chl_openable">
+        <item>ডিফল্ট: অ্যান্ড্রয়েড হোয়াটসঅ্যাপ স্কিম ব্যবহার করে</item>
+        <item>ওয়েব: ওয়েব স্কিম ব্যবহার করে, ব্রাউজারও দেখাতে পারে</item>
+        <item>এসএমএস: এসএমএস সম্পর্কিত ইন্টেন্ট ব্যবহার করে, অন্যান্য মেসেজিং অ্যাপও দেখাতে পারে [দ্রষ্টব্য: টেক্সট পাঠানো সবসময় সমর্থিত বলে মনে হয় না]</item>
+        <item>পূর্বনির্ধারিত: এটি অফিসিয়াল হোয়াটসঅ্যাপ এবং হোয়াটসঅ্যাপ বিজনেস অ্যাপের জন্য কাজ করছে কিনা তা নিশ্চিত করে।</item>
+        <item>[ঝুঁকিপূর্ণ] JID: হোয়াটসঅ্যাপের একটি অভ্যন্তরীণ স্কিম ব্যবহার করে। এই মোডটি ব্যবহার না করার পরামর্শ দেওয়া হচ্ছে কারণ নম্বরটি আদৌ বিদ্যমান কিনা তা যাচাই করা হয় না</item>
+    </string-array>
+    <string name="txt_jidWarning">এই মোডটি হোয়াটসঅ্যাপের একটি অনথিভুক্ত ইন্টেন্ট ব্যবহার করে এবং এটি কাজ করা বন্ধ করতে পারে বা ভুলভাবে কাজ করতে পারে। যদি ইতিমধ্যে সংশোধন করা না হয়ে থাকে, তবে এটি বৈধ নম্বর পরীক্ষা করা এড়িয়ে যায় বলে মনে হয়, তাই নম্বরটি বিদ্যমান না থাকলেও একটি চ্যাট খুলে যাবে। অনুগ্রহ করে মনে রাখবেন যে অজানা ফলাফলের কারণে এই মোডটি ব্যবহার না করার পরামর্শ দেওয়া হচ্ছে।\n\nনিজের ঝুঁকিতে চালিয়ে যেতে চান?</string>
+    <string name="chk_signal">পরীক্ষামূলক [[sgn|Signal]] সমর্থন</string>
+    <string name="chk_telegram">পরীক্ষামূলক [[tgm|Telegram]] সমর্থন</string>
+    <string name="txt_telegram">"দ্রষ্টব্য: টেলিগ্রামে ফোন নম্বরটি লুকিয়ে রাখা সম্ভব (এবং বেশিরভাগ ক্ষেত্রে এটি ডিফল্টরূপে লুকানো থাকে) এবং পুরানো অ্যাকাউন্টগুলির ক্ষেত্রে এটি নিবন্ধিতও নাও থাকতে পারে। এর অর্থ এই যে, আপনি নম্বরটি বিদ্যমান আছে তা নিশ্চিতভাবে জানলেও, অ্যাকাউন্টটি খুঁজে না পাওয়ার একটি বড় সম্ভাবনা রয়েছে। কিছু টেলিগ্রাম সংস্করণে অ্যাপটি কোনো ত্রুটিও দেখায় না, এটি কেবল স্বাভাবিকভাবে খুলে যায়।
+আপনাকে সতর্ক করা হয়েছে।"</string>
+    <string name="chk_viber">পরীক্ষামূলক [[vbr|Viber]] সমর্থন</string>
+    <string name="txt_generic">পরীক্ষামূলক জেনেরিক ইন্টেন্ট সমর্থন:\nপ্রতিটি বৈধ লাইন খোলার জন্য একটি ইন্টেন্ট হিসেবে পার্স করা হবে। ইনপুট নম্বরের স্থানধারক হিসেবে \'%number%\' এবং বার্তার জন্য \'%message%\' ব্যবহার করুন।</string>
+    <string name="hint_generic">Uri.parse এর জন্য ইন্টেন্টসমূহ</string>
+    <string name="chk_light">লাইট থিম ব্যবহার করুন (অ্যাপটি পুনরায় চালু হবে)</string>
+    <string name="btn_addonLink">অ্যাডঅন</string>
+
+    <string name="msg_warnShare">আপনি যে লিঙ্কটি শেয়ার করতে যাচ্ছেন তাতে প্রবেশ করানো ফোন নম্বরটি প্লেইন টেক্সট হিসেবে রয়েছে। লিঙ্কে প্রবেশাধিকার থাকা যে কেউ নম্বরটি দেখতে পাবেন। যদি এটি কোনো ব্যক্তিগত নম্বর হয় তবে লিঙ্কটি সর্বজনীনভাবে শেয়ার করবেন না।</string>
+    <string name="btn_noWarn">আর সতর্ক করবেন না</string>
+
+    <string name="btn_link_playstore_open">প্লে স্টোর (খুলুন)</string>
+    <string name="btn_link_playstore_share">প্লে স্টোর (শেয়ার)</string>
+    <string name="btn_link_apppage">অ্যাপের পৃষ্ঠা</string>
+    <string name="btn_link_faq">প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী\n(FAQ) [কেবল ইংরেজিতে]</string>
+    <string name="btn_link_helptranslations">অনুবাদ করুন</string>
+
+    <string name="error_badData">খোলার সময় ত্রুটি। ভুল তথ্য</string>
+    <string name="error_nowhatsapp">হোয়াটসঅ্যাপ খোলা যায়নি। [[wps|এটি কি ইনস্টল করা আছে?]]</string>
+    <string name="error_call">নম্বরে কল করা যাচ্ছে না</string>
+    <string name="error_sms">এসএমএস পাঠানো যাচ্ছে না</string>
+
+    <string name="toast_autoParser">স্বয়ংক্রিয় পার্সার।\nকোডটি পরীক্ষা করুন!</string>
+    <string name="toast_copied">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="toast_empty">ক্লিপবোর্ডে কোনো নম্বর নেই</string>
+    <string name="toast_error_openLink">লিঙ্কটি খোলা যায়নি</string>
+
+    <string name="title_sendTo">এখানে লিঙ্ক পাঠান:</string>
+    <string name="title_chooseCountry">দেশ অনুযায়ী কান্ট্রি কোড:</string>
+    <string name="title_chooseApp">অ্যাপ বেছে নিন:</string>
+    <string name="title_clearRecents">সাম্প্রতিক তালিকা মুছুন:</string>
+    <string name="title_pinned">পিন করা:</string>
+    <string name="title_recents">সাম্প্রতিক:</string>
+    <string name="title_agenda">এজেন্ডা:</string>
+
+    <string name="message_clearRecents">আপনি কি সাম্প্রতিক সমস্ত নম্বর মুছে ফেলতে চান?</string>
+
+    <string name="header_code">কোড %1$s</string>
+    <string name="header_country">দেশ %1$s</string>
+
+    <string name="cntDesc_appInfo">অ্যাপের তথ্য</string>
+    <string name="cntDesc_prefixSelector">কোড নির্বাচক</string>
+    <string name="cntDesc_clear">ইনপুট মুছুন</string>
+    <string name="cntDesc_pasteClipboard">ক্লিপবোর্ড থেকে পেস্ট করুন</string>
+    <string name="cntDesc_agenda">এজেন্ডা</string>
+    <string name="cntDesc_recentMessages">সাম্প্রতিক বার্তা</string>
+    <string name="cntDesc_calls">অপরিচিত কল</string>
+    <string name="cntDesc_toggleAdv">উন্নত সেটিংস টগল করুন</string>
+    <string name="cntDesc_appLogo">অ্যাপ্লিকেশন লোগো</string>
+    <string name="cntDesc_delete">মুছুন</string>
+    <string name="cntDesc_togglepin">পিন/আনপিন</string>
+    <string name="cntDesc_filter">ফिल्টার</string>
+
+    <string name="util_close">বন্ধ করুন</string>
+    <string name="util_none">কিছুই না</string>
+
+    <string name="addon_message_loadingCalls">অপরিচিত কলের তালিকা লোড হচ্ছে…</string>
+    <string name="addon_toast_noCalls">কোনো অপরিচিত নম্বর পাওয়া যায়নি বা পড়া যায়নি</string>
+    <string name="addon_txt_loading">লোড করার সময় কমাতে সাম্প্রতিক অপরিচিত কল সীমিত করুন (অ্যাডঅন V1.2+ প্রয়োজন)। সমস্ত দেখাতে 0 তে সেট করুন:</string>
+    <string name="addon_txt_warning">অ্যাডঅন সনাক্ত করা হয়েছে, কিন্তু এর সিগনেচার মিলছে না [ত্রুটি %d]। অনুগ্রহ করে নিশ্চিত করুন যে আপনি এটি অফিসিয়াল পৃষ্ঠা থেকে ইনস্টল করেছেন (এবং এই অ্যাপটি প্লে স্টোর থেকে)</string>
+    <string name="addon_reload">পুনরায় লোড করুন</string>
+    <string name="addon_install">অ্যাডঅন পৃষ্ঠা খুলুন</string>
+    <string name="addon_uninstall">অ্যাডঅন আনইনস্টল করুন</string>
+
+    <string name="lbl_shortcut">%s এর সাথে একটি চ্যাট খুলুন</string>
+
+    <string name="error_instantApp">ইনস্ট্যান্ট অ্যাপস কেবল ডিফল্ট অ্যাপ খুলতে পারে। আপনার যদি একাধিক সংস্করণ থাকে (যেমন হোয়াটসঅ্যাপ এবং হোয়াটসঅ্যাপ বিজনেস) তবে [[oiw|সম্পূর্ণ অ্যাপটি]] ইনস্টল করার চেষ্টা করুন (দ্রষ্টব্য: সমস্ত সংস্করণ সমর্থিত নয়)।</string>
+    <string name="title_instantApp">ইনস্ট্যান্ট অ্যাপ</string>
+    <string name="message_instantApp">ইনস্ট্যান্ট অ্যাপে \'%s\' বৈশিষ্ট্যটি উপলব্ধ নেই। আপনি যদি এটি ব্যবহার করতে চান তবে অনুগ্রহ করে প্লে স্টোর থেকে অ্যাপটি ইনস্টল করুন।</string>
+
+    <string-array name="chl_notify">
+        <item>কখনো বিজ্ঞপ্তি দেবেন না</item>
+        <item>শুধুমাত্র নতুন গুরুত্বপূর্ণ বৈশিষ্ট্যের জন্য বিজ্ঞপ্তি দিন</item>
+        <item>শুধুমাত্র নতুন বৈশিষ্ট্যের জন্য বিজ্ঞপ্তি দিন</item>
+        <item>সবসময় বিজ্ঞপ্তি দিন</item>
+    </string-array>
+    <string name="cl_title">চেঞ্জলগ:</string>
+    <string name="cl_more">আরও দেখান</string>
+    <string name="txt_newVersion">অ্যাপটি আপডেট করা হয়েছে: [[chl|পরিবর্তন দেখুন]]।\n\n[[hdc|খারিজ করুন]]</string>
+
+    <string name="sct_checkClipboard">ক্লিপবোর্ড থেকে খুলুন</string>
+</resources>

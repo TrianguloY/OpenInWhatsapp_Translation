@@ -13,7 +13,7 @@ If you added/modified the following file add your name here to give credit: Onno
 <parameters>
 
     <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
-    <title max_chars="30">Klik & Chat</title>
+    <title max_chars="30">Klik &amp; Chat</title>
 
     <description_short max_chars="80">Advertentie-vrije app om een WhatsApp-chat te starten zonder contact toevoegen</description_short>
 

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+text.xml file from Click to chat app by TrianguloY.
+Permission given to translate only.
+
+Instructions for manual translation:
+- Translate the properties making sure not to overpass the maximum character number.
+- Currently this file is copied manually, line breaks are kept and no need to scape special characters.
+
+If you added/modified the following file add your name here to give credit:
+Antigravity
+
+ -->
+<parameters>
+
+    <!-- Preferably use the name from https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/ in your language -->
+    <title max_chars="30">চ্যাট করতে ক্লিক করুন</title>
+
+    <description_short max_chars="80">বিজ্ঞাপনবিহীন ছোট অ্যাপ, যেকোনো নম্বরে হোয়াটসঅ্যাপ চ্যাট খুলুন।</description_short>
+
+    <!-- Don't forget to add your name in the list at the bottom (please keep the names as they are).-->
+    <description_long max_chars="4000">
+দাবিত্যাগ (Disclaimer): এই অ্যাপটি WhatsApp Inc-এর সাথে অনুমোদিত বা সমর্থিত নয়।
+পূর্ববর্তী নাম: "Open in WhatsApp (click to chat) [small, no ads]", যা WhatsApp এবং Google-এর নীতি মেনে চলার জন্য পরিবর্তন করা হয়েছে।
+
+------------------
+
+আমি জানি কিছু ব্যবহারকারী ব্যবসায়িক উদ্দেশ্যে অ্যাপটি ব্যবহার করছেন। আমার অ্যাপটি আপনাকে আরও উৎপাদনশীল হতে সাহায্য করছে দেখে আমি আনন্দিত, তবে আপনি যদি বাণিজ্যিক উদ্দেশ্যে অ্যাপটি ব্যবহার করেন তবে অনুগ্রহ করে এটিকে সমর্থন করার কথা বিবেচনা করুন। আমি চাই এই ছোট ব্যক্তিগত প্রকল্পটি বিজ্ঞাপন বা কোনো কেনাকাটা ছাড়াই সম্পূর্ণ বিনামূল্যে থাকুক এবং এর অগ্রগতি ও আপডেটগুলি সম্পূর্ণভাবে আপনাদের সমর্থন ও ভালোবাসার ওপর নির্ভরশীল। অ্যাপটির উন্নয়নে সাহায্য করার জন্য একটি ডোনেশন সংস্করণ রয়েছে যা আপনি কিনতে পারেন: https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp.donation
+
+[নতুন: এখন একটি ওয়েব সংস্করণ রয়েছে, যা WhatsApp Web-এর সাথে সামঞ্জস্যপূর্ণ: https://trianguloy.github.io/OpenInWhatsapp_Web/ ]
+
+------------------
+
+আপনি কি জানেন যে আপনি হোয়াটসঅ্যাপের ভেতরে সার্চ বক্সে নম্বরটি লিখে কন্টাক্টে সেভ না করেই হোয়াটসঅ্যাপে যেকোনো নম্বরের সাথে চ্যাট খুলতে পারেন?
+উৎস: https://faq.whatsapp.com/1183494482518500
+
+মূলত এর জন্য একটি দীর্ঘ এবং মনে রাখা কঠিন লিঙ্ক ব্যবহার করতে হতো, তাই আমি এই প্রক্রিয়াটিতে সাহায্য করার জন্য এই ছোট্ট অ্যাপটি তৈরি করেছি।
+
+তারপর থেকে আমি একাধিক কার্যকারিতা যুক্ত করেছি (বার্তা প্রবেশ করানো, লিঙ্ক শেয়ার করা, দেশের কোডের তালিকা, শর্টকাট তৈরি করা, সাম্প্রতিক ও পিন করা নম্বর সংরক্ষণ করা, অ্যাড-অনের মাধ্যমে অজানা সাম্প্রতিক কলগুলি খোলা এবং আরও কিছু) তবে সর্বদা এই তিনটি নীতি বজায় রেখেছি:
+১) অ্যাপটিকে যতটা সম্ভব ছোট রাখা। এর অর্থ হলো কোনো অতিরিক্ত অপ্রাসঙ্গিক কন্টেন্ট, কোনো বাড়তি লাইব্রেরি এবং কোনো অপ্রয়োজনীয় জিনিস না রাখা। বর্তমানে এর সাইজ প্রায় 100KB = 0.1MB। একটি সাধারণ ছবির চেয়েও কম!
+২) যত কম সম্ভব অনুমতি (permissions) ব্যবহার করা। শুধুমাত্র create_shortcut অনুমতিটি ব্যবহার করা হয়, অন্য কিছু নয়! (কোনো কল, স্টোরেজ বা ইন্টারনেট ব্যবহারের অনুমতি লাগে না)।
+৩) কোনো বিজ্ঞাপন থাকবে না। আমি বিজ্ঞাপন ঘৃণা করি। আমি কখনই বিজ্ঞাপন, অ্যাডওয়্যার, স্পাইওয়্যার, ইউজার ট্র্যাকিং বা অন্যান্য ক্ষতিকারক জিনিস যুক্ত করব না।
+
+
+আপনি যদি হোয়াটসঅ্যাপে নম্বর খোলার জন্য একটি ছোট টুল চান, তবে এটি ব্যবহার করে দেখতে পারেন। আপনি যদি এমন অ্যাপ পছন্দ করেন যা আপনার ডেটা গুগলে পাঠায়, তবে প্লে স্টোরে এমন অনেক ক্লোন অ্যাপ রয়েছে।
+
+---------------------------
+
+অনুবাদ:
+অনুবাদ করার জন্য Timofey Lisunov, Matheus Damacs, Yusuf Emen, Benjamin Yılmaz Çetiner, Richard Anderson (Hirai RCD), Aditya, Armand Secco, Yoni Cohen jonbir3, MageshBabu K (mage1k99), artmann (Dwi Legowo), Steven Felix, mezysinc, Thenur Mahesh Kannan, Faisal Aloufi, RaviDhoriya, Nathanaël Gagnepain, OnnoV, Hüseyin Filiz এবং Antigravity-কে ধন্যবাদ!
+
+ব্যবহৃত অনুমতিসমূহ:
+SHORTCUT: লঞ্চারে শর্টকাট তৈরি করতে।
+-অন্য কিছু নয়- (সেগুলোর প্রয়োজন নেই)
+
+Apk সাইজ:
+~100 KB (0.1MB)
+    </description_long>
+
+    <!-- Not needed if you don't translate the changelog -->
+    <changelog_footer>আপডেটটি কেমন লেগেছে? কোনো পরামর্শ? আপনি কমেন্টে বা ব্লগে বলতে পারেন! https://triangularapps.blogspot.com/</changelog_footer>
+</parameters>

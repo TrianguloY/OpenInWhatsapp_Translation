@@ -1,3 +1,8 @@
+V 5.4
+- Allow to export agenda as text
+- New Bengali translation. Thanks to Antigravity!
+- Fix some inconsistent behaviour with prefix
+
 V 5.3.1
 - Fix static shortcut on donation and ads version
 - Internal code updates

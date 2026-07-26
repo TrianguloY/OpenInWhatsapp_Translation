@@ -1,3 +1,8 @@
+V 5.4
+- Permitir exportar agenda como texto
+- Nueva traducción al Bengali. Gracias a Antigravity!
+- Arregladas algunas inconsistencias con el prefijo
+
 V 5.3.1
 - Arreglado atajo estático en versiones donación y anuncios
 - Actualizaciones del código interno

@@ -1,7 +1,10 @@
+V 5.4.1
+- Fix prefix not remembered when 'Keep prefix' is off
+
 V 5.4
 - Allow to export agenda as text
 - New Bengali translation. Thanks to Antigravity!
-- Fix some inconsistent behaviour with prefix
+- Fix some inconsistent behavior with prefix
 
 V 5.3.1
 - Fix static shortcut on donation and ads version
